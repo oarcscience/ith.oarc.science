@@ -1,0 +1,136 @@
+
+.3rdLevelAllCap12Bld27	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.3rdLevelAllCap12Bld37	{ text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN02	{ text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN23	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref28	{ font-size:160%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref34	{ text-transform:uppercase }
+.HDG-C-Gr-16-Pref38	{ text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref40	{ font-size:160%; text-align:center; text-transform:uppercase; vertical-align:super }
+.Normal16	{ font-size:280%; font-weight:bold; text-align:center }
+.Normal17	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal18	{ font-weight:bold; text-align:center }
+.Normal19	{ font-size:200%; font-weight:bold; text-align:center }
+.Normal20	{ font-weight:bold; text-align:center }
+.Normal21	{ font-size:240%; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent03	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent08	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent09	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent10	{ font-style:italic; font-weight:bold; text-align:center }
+.QUOTE26	{ font-style:italic; font-weight:bold }
+.TableCaption30	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.s17	{ font-style:italic; font-weight:bold }
+.s29	{ font-size:140% }
+.s30	{ font-size:160% }
+.s31	{ font-style:italic; font-weight:bold }
+.s37	{ font-style:italic; font-weight:bold }
+
+<selector class="3rdLevelAllCap12Bld27">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="3rdLevelAllCap12Bld37">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN02">
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN23">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref28">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref34">
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref38">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref40">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+  <property name="vertical-align" value="super"/>
+</selector>
+<selector class="Normal16">
+  <property name="font-size" value="280%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal17">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal18">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal19">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal20">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal21">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent03">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent08">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent09">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent10">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE26">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="TableCaption30">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="s17">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s29">
+  <property name="font-size" value="140%"/>
+</selector>
+<selector class="s30">
+  <property name="font-size" value="160%"/>
+</selector>
+<selector class="s31">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s37">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>

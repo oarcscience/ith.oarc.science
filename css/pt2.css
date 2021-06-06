@@ -1,0 +1,6 @@
+td.trad {background: green; vertical-align: top; width: 11.7%; colspan: 2;}
+td.wr {background: red; vertical-align: top;  width: 11.7%; colspan: 2;}
+td.eso {background: yellow; vertical-align: top;  width: 11.7%; colspan: 2;}
+td.etc {background: white; vertical-align: top;  width: 11.7%; colspan: 2;}
+td.empty {background-color: inherit; vertical-align: top;  width: 11.7%; colspan: 2;}
+td.pad {background-color: inherit; vertical-align: top;  width: 6.25%; colspan: 1;}

@@ -1,0 +1,82 @@
+
+.3rdLevelAllCap12Bld15	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.3rdLevelSmallCap12Bld12	{ font-variant:small-caps; font-weight:bold; text-align:center }
+.3rdLevelSmallCap12Bld35	{ font-variant:small-caps; text-align:center }
+.BOOK-CHAP-BLU-24-CEN07	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref13	{ font-size:160%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref34	{ text-align:center; text-transform:uppercase }
+.HDGCGrn2023	{ font-size:200%; text-align:center }
+.Normal03	{ font-size:280%; font-weight:bold; text-align:center }
+.Normal04	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal05	{ font-size:200%; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent01	{ font-style:italic; font-weight:bold; text-align:center }
+.QUOTE11	{ font-style:italic; font-weight:bold }
+.QUOTE14	{ font-style:italic; text-align:center }
+.TableCaption16	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+
+<selector class="3rdLevelAllCap12Bld15">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="3rdLevelSmallCap12Bld12">
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="3rdLevelSmallCap12Bld35">
+  <property name="font-variant" value="small-caps"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN07">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref13">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref34">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDGCGrn2023">
+  <property name="font-size" value="200%"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-size" value="280%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal04">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal05">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent01">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE11">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="QUOTE14">
+  <property name="font-style" value="italic"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableCaption16">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>

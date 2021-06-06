@@ -1,0 +1,28 @@
+
+<HTML>
+<HEAD>
+<TITLE>Tarot Reading</TITLE>
+</HEAD>
+<script language="JavaScript">;
+
+// NOTE: THIS WORKS FOR NETSCAPE BUT NOT IE
+// crack=document.URL.split("?");
+// this correctly obtains the search portion of the URL
+crack=window.location.search.split("?");
+cascade="@@@";
+if (crack.length==2) {
+	cascade="?"+crack[1];
+}
+
+document.write("<frameset cols=\"60%,40%\">");
+if (cascade=="@@@")
+	document.write("<frame src=\"tarotf1.htm\" name=\"cards\">");
+else document.write("<frame src=\"tarotf1.htm"+cascade+"\" name=\"cards\">");
+document.write("<frame src=\"tarotf2.htm\" name=\"info\">");
+document.write("</frameset>");
+</script>
+<BODY>
+</BODY>
+
+</HTML>
+

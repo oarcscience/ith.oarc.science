@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<script src="datatitl.js" language="JavaScript" type="text/javascript">;
+</script>
+<script src="datapath.js" language="JavaScript" type="text/javascript">;
+</script>
+<script language="JavaScript" type="text/javascript">;
+nfiles=path_arr.length;
+
+ifile=Math.floor((Math.random()*nfiles));
+path=path_arr[ifile][0];
+title=path_arr[ifile][1];
+document.write(
+	"<META HTTP-EQUIV=\"Refresh\" CONTENT=\"1;URL=../" + path + "\">\n");
+document.write("</HEAD>\n");
+document.write("<BODY>\n");
+document.write("<P>Here is a random etext: your browser will redirect you there shortly, or you can click on the link below:</P>");
+document.write("<A HREF=\"../" + path + "\">" + title + "</A><BR>");
+	
+</script>
+</BODY>
+</HTML>

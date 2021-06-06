@@ -1,0 +1,10 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; color: white;  background-color: #404040}
+.p-small {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: white; background-color: #404040}
+.p-small-gray {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #666666; background-color: #404040}
+.p-small2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: white; background-color: #404040}
+.p-small2-gray {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #404040; background-color: #404040}
+.hdr1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt; color: white; background-color: #404040}
+a:hover {  color: white; background-color: gray}
+a:active {  color: white}
+a:link {  color: white}
+a:visited {  color: white}

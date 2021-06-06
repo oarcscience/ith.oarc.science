@@ -1,0 +1,65 @@
+<style type="text/css">
+<!--
+	body {margin-left: 20%; margin-right: 20%;}
+	span.margnote {position: absolute; left: 1%; right: 81%;}
+	span.rmargnote {position: absolute; left: 81%; right: 100%;}
+	span.contnote {position: absolute; left: 81%; right: 100%;}
+DIV.poem {
+	MARGIN-LEFT: 5%; WIDTH: 90%; POSITION: relative; TEXT-ALIGN: left
+}
+.stanza {
+	MARGIN-TOP: 1em
+}
+.stanza SPAN {
+	MARGIN-LEFT: 2em; TEXT-INDENT: -2em; LINE-HEIGHT: 1.2em
+}
+.stanza BR {
+	DISPLAY: none
+}
+.poem .i0 {
+	DISPLAY: block; MARGIN-LEFT: 2em
+}
+.poem .i15 {
+	DISPLAY: block; MARGIN-LEFT: 3.5em
+}
+.poem .i2 {
+	DISPLAY: block; MARGIN-LEFT: 4em
+}
+.poem .i3 {
+	DISPLAY: block; MARGIN-LEFT: 5em
+}
+.poem .i4 {
+	DISPLAY: block; MARGIN-LEFT: 6em
+}
+.poem .i5 {
+	DISPLAY: block; MARGIN-LEFT: 7em
+}
+.poem .i6 {
+	DISPLAY: block; MARGIN-LEFT: 8em
+}
+.poem .i7 {
+	DISPLAY: block; MARGIN-LEFT: 9em
+}
+.poem .i8 {
+	DISPLAY: block; MARGIN-LEFT: 10em
+}
+.poem .i9 {
+	DISPLAY: block; MARGIN-LEFT: 11em
+}
+.poem .i13 {
+	DISPLAY: block; MARGIN-LEFT: 12em
+}
+DIV.index {
+	FONT-SIZE: 90%
+}
+DIV.illustration {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: 2em; TEXT-ALIGN: center
+}
+DIV.illustration P {
+	MARGIN-TOP: 0px; FONT-SIZE: 80%; TEXT-ALIGN: center
+}
+DIV.music {
+	TEXT-ALIGN: center
+}
+// -->
+</style>

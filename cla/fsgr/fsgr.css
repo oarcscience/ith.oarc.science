@@ -1,0 +1,72 @@
+
+    body { margin-left: 10%;
+           margin-right: 10%;
+         }
+
+    p {  margin-top: .75em;
+         text-align: justify;
+         margin-bottom: .75em;
+      }
+
+    h1,h2,h3,h4,h5,h6 {
+         text-align: center; /* all headings centered */
+         clear: both;
+         }
+
+    hr { width: 33%; margin-top: 2em; margin-bottom: 2em; margin-left: auto;
+         margin-right: auto; clear: both;
+       }
+
+    table  { margin-left: auto;
+             margin-right: auto;
+             margin-top: 1em;
+             margin-bottom: 1em;
+           }
+
+    p.gap      { margin-top: 4em; } /* adds white space on title page */
+    p.biggap   { margin-top: 6em; } /* adds white space on title page */
+    p.p3 {text-align: center; font-weight: bold; font-size: 100%;}  /* instead of header tags, bold and big for title pages */
+
+    div.centered {text-align: center;} /* work around for IE centering with CSS problem part 1 */
+    div.centered table {margin-left: auto; margin-right: auto; text-align: left;} /* work around for IE centering with CSS problem part 2 */
+
+    ins.explain  {text-decoration: none; border-bottom: thin dashed }
+    ins.greek    {text-decoration: none; border-bottom: thin dotted }
+
+    ul.list   { list-style-type: none;
+                font-size: inherit;
+                line-height: 1.7em;     /*controls spacing between list items*/
+              }
+
+    .tdright   {text-align:right}   /* table data right-aligned */
+    .tdlefth   {text-align: left; padding-left: 1.5em; text-indent: -1.5em;} /* table data left-aligned with hanging indent */
+    .tdlsc     {text-align: left; font-variant: small-caps;}
+    .pgtdr     {text-align: right; vertical-align: bottom;}
+
+    .pagenum  { /* uncomment the next line for invisible page numbers */
+            /*  visibility: hidden;  */
+                position: absolute;
+                right: 3%;
+                font-size: smaller;
+                text-align: right;
+              } /* page numbers */
+
+    .blockquot{margin-left: 5%; margin-right: 10%;}
+
+    .poem             {margin-left:10%; margin-right:10%; text-align: left;}
+    .poem br          {display: none;}
+    .poem .stanza     {margin: 1em 0em 1em 0em;}
+    .poem span.i0     {display: block; margin-left: 0em; padding-left: 3em; text-indent: -3em;}
+
+    .smcap    {font-variant: small-caps;}
+
+    .author       {text-align: right; margin-right: 5%;} /* right align and move signature of letter in a bit */
+
+    .footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
+    .footnote .label  {position: absolute; right: 84%; text-align: right; }
+    .fnanchor         {vertical-align: super; font-size: .8em; }
+
+    .listsubitem {padding-left: 1.5em;}
+
+    .notebox       {margin-left: 10%; margin-right: 10%; margin-top: 5%; /* makes box around Transcriber's Notes */
+                    margin-bottom: 5%; padding: 1em; border: solid black 1px;}

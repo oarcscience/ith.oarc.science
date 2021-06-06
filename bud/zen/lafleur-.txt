@@ -1,0 +1,32 @@
+[This document can be acquired from a sub-directory coombspapers via anonymous
+ FTP and/or COOMBSQUEST gopher on the node COOMBS.ANU.EDU.AU]
+
+The document's ftp filename and the full directory path are given in the
+coombspapers top level INDEX file]
+
+[This version: 28 July 1993]
+-----------------------------------------------------------------------------
+TITLE: Wedding Party
+AUTHOR: Bill La FLEUR 
+SOURCE: The Ten Directions, Vol 1, No 2, May 1980. pp. 15
+NOTES: A Feb 1980 poem by Bill La FLEUR,of the Zen Center of Los Angeles
+
+a flow of chamagne
+and of monks moving through
+the crowd with bowls
+and silverware: a pile
+of shoes at the treshold
+as the people inside get
+more dense, more linquid,
+more ready to dance;
+the tall bride's family members
+wera flowers and shoes
+and happily 
+stand out even here where
+in all ten directions there
+is nothing
+but crowd
+-----------------------------------------------------------------------------
+end of file
+
+

@@ -1,0 +1,13 @@
+
+.introHead	{ margin-top:6.0pt; margin-bottom:6.0pt; text-align:center; font-size:x-small }
+.intro	{ font-size:x-small }
+
+<selector class="introHead">
+  <property name="margin-top" value="6.0pt"/>
+  <property name="margin-bottom" value="6.0pt"/>
+  <property name="text-align" value="center"/>
+  <property name="font-size" value="x-small"/>
+</selector>
+<selector class="intro">
+  <property name="font-size" value="x-small"/>
+</selector>

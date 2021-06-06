@@ -1,0 +1,20 @@
+<style type="text/css">
+Center	{ text-align:center }
+endnote	{ font-size:85% }
+.upper	{ font-variant:small-caps }
+.HR30	{ text-align:center; width:30% }
+</style><style type="text/xcss">
+<selector element="Center">
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="endnote">
+  <property name="font-size" value="85%"/>
+</selector>
+<selector class="upper">
+  <property name="font-variant" value="small-caps"/>
+</selector>
+<selector class="HR30">
+  <property name="text-align" value="center"/>
+  <property name="width" value="30%"/>
+</selector>
+</style>

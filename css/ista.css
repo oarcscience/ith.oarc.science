@@ -1,0 +1,13 @@
+body, td, th {  font-family: 'Times New Roman', Times, serif; color: #000;  }
+a:hover {  color: black; background-color: #CCCCCC; }
+a:active {  color: black; }
+a:link {  color: black; }
+a:visited {  color: black; }
+.c_e {  font-family: 'Times New Roman', Times, serif; color: gray;  }
+.c_t {  font-family: 'Times New Roman', Times, serif; color: black;  font-weight: bolder; font-variant: small-caps; }
+.c_a, .c_da {  font-family: 'Times New Roman', Times, serif; color: black;  font-style: italic; }
+.c_d, .c_dd {  font-family: 'Times New Roman', Times, serif; color: black;  font-weight: bolder; }
+.catxref {  font-family: 'Times New Roman', Times, serif; color: gray;  }
+.c_b {  font-family: 'Times New Roman', Times, serif; color: black;  font-variant: small-caps; }
+.splashtitle {  font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #0f0f0f;  font-variant: small-caps; font-weight: bold;}
+.splashimgcaption {  font-family: 'Times New Roman', Times, serif; color: gray;  }

@@ -1,0 +1,32 @@
+
+.BOOK-CHAP-BLU-24-CEN05	{ font-size:240%; text-align:center; text-transform:uppercase }
+.Normal01	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal02	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal03	{ font-weight:bold; text-align:center }
+.TableCaption06	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+
+<selector class="BOOK-CHAP-BLU-24-CEN05">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal01">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal02">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableCaption06">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>

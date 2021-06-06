@@ -1,0 +1,102 @@
+
+.3rdLevelAllCap12Bld30	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN09	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref19	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Normal20	{ font-size:280%; font-weight:bold; text-align:center }
+.Normal21	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal23	{ font-size:200%; font-weight:bold; text-align:center }
+.Normal24	{ font-size:140%; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent01	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent04	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent05	{ text-align:right }
+.PoetryLast-DkBlu-11-Cent27	{ font-style:italic; font-weight:bold; text-align:center }
+.QUOTE29	{ font-style:italic; font-weight:bold }
+.SCRIPTURE44	{ text-align:center; vertical-align:super }
+.TableCaption10	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.TableText32	{ font-size:160%; text-align:center }
+.s19	{ font-style:italic; vertical-align:sub }
+.s47	{ font-style:italic; font-weight:bold }
+.s56	{ font-style:italic; font-weight:bold }
+
+<selector class="3rdLevelAllCap12Bld30">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN09">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref19">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal20">
+  <property name="font-size" value="280%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal21">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal23">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal24">
+  <property name="font-size" value="140%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent01">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent04">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent05">
+  <property name="text-align" value="right"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent27">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE29">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="SCRIPTURE44">
+  <property name="text-align" value="center"/>
+  <property name="vertical-align" value="super"/>
+</selector>
+<selector class="TableCaption10">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText32">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="s19">
+  <property name="font-style" value="italic"/>
+  <property name="vertical-align" value="sub"/>
+</selector>
+<selector class="s47">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s56">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>

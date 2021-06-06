@@ -1,0 +1,75 @@
+
+.3rdLevelAllCap12Bld08	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN07	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref09	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Nmbrd-2501	{ text-align:right }
+.Normal02	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal03	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal04	{ font-size:200%; font-weight:bold; text-align:center }
+.Normal05	{ font-weight:bold; text-align:center }
+.TableCaption10	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.TableCaption20	{ font-variant:small-caps; text-align:center }
+.TableText21	{ font-size:140%; font-weight:bold; text-align:center }
+.s14	{ font-style:italic; font-weight:bold }
+.s18	{ font-style:italic; font-weight:bold }
+
+<selector class="3rdLevelAllCap12Bld08">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN07">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref09">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Nmbrd-2501">
+  <property name="text-align" value="right"/>
+</selector>
+<selector class="Normal02">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal04">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal05">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableCaption10">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableCaption20">
+  <property name="font-variant" value="small-caps"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText21">
+  <property name="font-size" value="140%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="s14">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s18">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>

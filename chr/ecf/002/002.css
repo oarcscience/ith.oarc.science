@@ -1,0 +1,70 @@
+<style type="text/css">
+h1	{ text-align:center; text-transform:uppercase }
+h2	{ text-align:center; text-transform:uppercase }
+h3	{ text-align:center; font-variant:small-caps }
+h4	{ text-align:center; text-transform:uppercase; margin-top:12pt }
+h5	{ text-align:center; text-transform:uppercase; margin-bottom:6pt }
+h6	{ font-style:italic; text-align:center; margin-bottom:6pt }
+.sub1	{ text-transform:uppercase; font-size:x-small; text-indent:0in; text-align:center; margin-top:9pt; margin-bottom:9pt }
+.headcap	{ text-transform:uppercase; font-size:medium; letter-spacing:1pt; margin-bottom:6pt; margin-top:6pt }
+.sc	{ font-variant:small-caps }
+.continue	{ text-indent:0in; margin-top:6pt }
+.skip	{ margin-top:6pt }
+.note	{ text-indent:0in }
+</style><style type="text/xcss">
+<selector element="h1">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="h2">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="h3">
+  <property name="text-align" value="center"/>
+  <property name="font-variant" value="small-caps"/>
+</selector>
+<selector element="h4">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+  <property name="margin-top" value="12pt"/>
+</selector>
+<selector element="h5">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+  <property name="margin-bottom" value="6pt"/>
+</selector>
+<selector element="h6">
+  <property name="font-style" value="italic"/>
+  <property name="text-align" value="center"/>
+  <property name="margin-bottom" value="6pt"/>
+</selector>
+<selector class="sub1">
+  <property name="text-transform" value="uppercase"/>
+  <property name="font-size" value="x-small"/>
+  <property name="text-indent" value="0in"/>
+  <property name="text-align" value="center"/>
+  <property name="margin-top" value="9pt"/>
+  <property name="margin-bottom" value="9pt"/>
+</selector>
+<selector class="headcap">
+  <property name="text-transform" value="uppercase"/>
+  <property name="font-size" value="medium"/>
+  <property name="letter-spacing" value="1pt"/>
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-top" value="6pt"/>
+</selector>
+<selector class="sc">
+  <property name="font-variant" value="small-caps"/>
+</selector>
+<selector class="continue">
+  <property name="text-indent" value="0in"/>
+  <property name="margin-top" value="6pt"/>
+</selector>
+<selector class="skip">
+  <property name="margin-top" value="6pt"/>
+</selector>
+<selector class="note">
+  <property name="text-indent" value="0in"/>
+</selector>
+</style>

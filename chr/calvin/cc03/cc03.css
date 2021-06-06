@@ -1,0 +1,123 @@
+
+.3rdLevelAllCap12Bld12	{ font-size:120%; font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN15	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref08	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Nmbrd-2501	{ :: }
+.Normal03	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal04	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal05	{ font-size:120%; font-weight:bold; text-align:center }
+.Normal06	{ font-size:80%; font-weight:bold; text-align:center }
+.PAR-L-Main-Text09	{ :: }
+.PAR-L-Main-Text10	{ :: }
+.PAR-L-Main-Text19	{ :: }
+.PoetryLast-DkBlu-11-Cent21	{ font-size:110%; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent22	{ font-size:110%; font-style:italic; font-weight:bold; text-align:center }
+.QUOTE11	{ font-size:120%; font-style:italic; font-weight:bold }
+.QUOTE13	{ font-size:120%; font-style:italic; text-align:center }
+.SCRIPTURE18	{ font-size:120% }
+.TableCaption16	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.TableText17	{ font-size:110% }
+.TableText20	{ font-size:110% }
+.TableText23	{ font-size:160%; font-weight:bold; text-align:center }
+.s01	{ :: }
+.s05	{ :: }
+.s13	{ :: }
+
+<selector class="3rdLevelAllCap12Bld12">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN15">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref08">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Nmbrd-2501">
+  <property name="" value=":"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal04">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal05">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal06">
+  <property name="font-size" value="80%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PAR-L-Main-Text09">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text10">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text19">
+  <property name="" value=":"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent21">
+  <property name="font-size" value="110%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent22">
+  <property name="font-size" value="110%"/>
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE11">
+  <property name="font-size" value="120%"/>
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="QUOTE13">
+  <property name="font-size" value="120%"/>
+  <property name="font-style" value="italic"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="SCRIPTURE18">
+  <property name="font-size" value="120%"/>
+</selector>
+<selector class="TableCaption16">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText17">
+  <property name="font-size" value="110%"/>
+</selector>
+<selector class="TableText20">
+  <property name="font-size" value="110%"/>
+</selector>
+<selector class="TableText23">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="s01">
+  <property name="" value=":"/>
+</selector>
+<selector class="s05">
+  <property name="" value=":"/>
+</selector>
+<selector class="s13">
+  <property name="" value=":"/>
+</selector>

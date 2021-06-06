@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="/css/ista.css">
+  {% if page.margcss=="margcss" %}<link rel="stylesheet" href="/css/marg.css">{% endif %}
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://ith.oarc.science/rss/new.xml">
+  <meta name="description" content={{ page.description }}>
+  <meta name="keywords" content={{ page.keywords }}>
+  <title>{{ page.title }}</title>
+ </head>
+ <body>
+{% include header.html %}
+<div style="background-color:lightsalmon;">{{ page.categories }}</div>
+<div style="background-color:lightgreen;"><h1>{{ page.titleh1 }}</h1><img src="{{ page.pathh1 }}" align="right" vspace="7" hspace="7" alt="{{ page.alttext1 }}" height="256"></div>
+
+{{ content }}
+{% include footer.html %}
+ </body>
+</html>

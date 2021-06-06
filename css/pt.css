@@ -1,0 +1,21 @@
+body {
+	margin-left: 5%; margin-right: 5%;
+	background-color: #808080;
+	//background-image: url(mirror.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: repeat;
+}
+
+span.abbr {font-size: 24px; font-family: "Arial"; font-style: bold; font-variant: small-caps}
+ 
+span.bodytext {font-size: 12px; font-family: "Arial"; font-variant: small-caps}
+span.textbox {height: 100%; width: 100%;}
+
+tr {height: 80px;}
+h1 { font-variant: small-caps}
+
+a:hover {  color: #000000; background-color: #CCCCCC}
+a:active {  color: #0000ff}
+a:link {  color: #0000ff}
+a:visited {  color: #444444}

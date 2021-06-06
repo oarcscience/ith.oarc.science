@@ -1,0 +1,7 @@
+
+.noindent	{ text-indent:0in; margin-bottom:6pt }
+
+<selector class="noindent">
+  <property name="text-indent" value="0in"/>
+  <property name="margin-bottom" value="6pt"/>
+</selector>

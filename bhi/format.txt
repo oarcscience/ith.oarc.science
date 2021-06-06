@@ -1,0 +1,143 @@
+ 
+                 ENGLISH SACRED WRITINGS PROOFREADING PROJECT
+ 
+                 (30 September 1999: REVIEWED - no changes)
+ 
+ 
+       Standard Format of the Electronic Copies of the Baha'i Writings
+ 
+ 1.  Each line of the electronic text exactly matches the published text:
+     both texts (a) contain the same number of words per line;
+     (b) begin and end with the same identical words; (c) agree in
+     spelling, including capitalization; and, (d) have the same
+     punctuation marks.
+ 
+     The only exceptions to this are:
+ 
+     a.  Each page begins with a +P symbol followed by the page number.
+ 
+     b.  When the published text exceeds 80 characters on a line, the
+         word (or words) which are located beyond this limit appear on
+         the next line of the electronic text, immediately to the left
+         of any text on that line.
+ 
+     c.  When a word in the published text is hyphenated at the end of a
+         line, the electronic text shows the entire word on the line
+         where the word begins.  If the word is ordinarily hyphenated,
+         it retains its hyphen.  If the placement of the entire word on
+         the line caused that line to contain more than 80 characters,
+         the word (or words) which are located beyond this limit appear
+         on the next line of the text, immediately to the left of any
+         text on that line.
+ 
+     d.  Footnotes will always be numbered in the electronic text, even
+         when the book represents the footnote with a symbol such as * or +.
+ 
+         Each footnote number in the electronic text is preceded by
+         the symbol +F.
+ 
+         Each line of each footnote is printed with the footnote number
+         preceding the text of the footnote.  For instance, if the fourth
+         footnote has three lines of text, each of its three lines will be
+         preceded by +F4.
+ 
+         Unlike the book, a footnote will always be completed on the page
+         on which it starts.
+ 
+     e.  When a word in the book contains a symbol which is not a letter
+         (A-Z), an apostrophe, or a hyphen, it is preceded by an
+         ampersand (&) in the electronic text.  Also, each of these
+         non-English symbols is removed in the electronic text.  This
+         includes the underlining of pairs of letters, the placing of
+         dots underneath letters, any type of accent on a vowel, and any
+         occurrence of the `ayn character (see below).
+ 
+         In an attempt to preserve the legibility of words which contain
+         the `ayn (`) character, an apostrophe replaces each `ayn when it
+         occurs in the middle of a word.  However, when a word begins with
+         an `ayn, the `ayn is removed and no apostrophe replaces it.
+ {~
+         The following examples, which all require use of the ampersand (&),
+         summarize the correct handling of non-English symbols:
+ 
+         &Baha'i         (the accents have been removed)
+         &Badasht        (the line under the "sh" has been removed)
+         &Muhammad       (the dot under the "h" has been removed)
+         &Abdu'l-Baha    (the beginning `ayn and the accent have been removed)
+         &Mazra'ih       (the `ayn before the letter "i" has been replaced
+                          with an apostrophe)
+         &fellow-Baha'i  (the ampersand precedes the beginning of the word)
+ 
+ 2.  One space separates words in a sentence.
+ 
+ 3.  One space follows each comma and semicolon.
+ 
+ 4.  When a period, exclamation point, or question mark is followed
+     by a word which is capitalized, two spaces separate the punctuation
+     mark from the word.  When the word following the punctuation mark
+     is not capitalized, one space separates the punctuation mark from
+     the word.  Abbreviations are followed by one space (for example,
+     Dr. and Mrs. Getsinger).
+ 
+ 5.  Two spaces follow each colon (:).  However, when a colon is used to
+     indicate a reference such as Gen. 17:18, no space follows it.
+ 
+ 6.  Each dash is represented as two hyphens--with no space surrounding
+     them.
+ 
+ 7.  Quotations in American publications both begin and end with the
+     standard double quotation marks (").  A quote within a quote begins
+     with the single quotation mark (`) and ends with the single quotation
+     mark (').  The reverse is usually true in British publications:
+     quotations utilize single quotation marks, and each quote within a
+     quote uses double quotation marks.
+ 
+ 8.  The beginning of each paragraph is indented five spaces
+     from the left margin.  When the text is indented a second
+     time, the entire paragraph is offset by five spaces:  the
+     beginning is indented ten spaces and the body is indented
+     five spaces.  For an example, see "Selections from the
+     Writings of `Abdu'l-Baha", page 22.
+ 
+ 9.  Ellipses are always a series of either three or four periods
+     with no space between them.  The number of periods is determined
+     by referring to the published text.  The number of spaces before
+     and after the ellipsis is determined by the following rules:
+ 
+     When the word following the ellipsis is capitalized and it
+     clearly begins a new sentence, no space precedes the ellipsis
+     and two spaces follow the ellipsis.
+ 
+          Example:  Sel. Wr. Bab 27:15        will perish...  This is
+          Example:  Gleanings 216:14          upon men....  Please God,
+ 
+     When the word following the ellipsis is not capitalized, or if it
+     is capitalized but does not definitely begin a new sentence,
+     one space precedes the ellipsis and one space follows the ellipsis.
+ {~
+          Example:  Some Answered Questions 42:4   me ... at the time
+          Example:  Sel. Wr. Bab 12:2              of God ... I would
+ 
+     However, no space surrounds an ellipsis when it:
+          (1) begins a new paragraph, or
+          (2) is located at the left hand margin of the page, or
+          (3) immediately follows a quotation mark.
+ 
+        Example (1):  Gleanings 178:14               ...From that
+        Example (2):  Gleanings  40: 4               ...The dust
+        Example (3):  Some Answered Questions 239:1  "...whoso is
+ 
+     (When an ellipsis begins a new paragraph, the normal 5-space
+     indentation applies.)
+ 
+10.  Italics, boldface, and underlining are not represented in the
+     electronic text.
+ 
+11.  Typesetting decisions are not represented in the electronic text.
+     Examples of this are:  the gothic type capitalization of the first
+     letter of a chapter, words which contain both upper-case and
+     lower-case caps, and the amount of blank vertical space (white
+     space) between passages.
+ 
+     --------------------------------END----------------------------------
+ 

@@ -1,0 +1,306 @@
+<style type="text/css">
+span.MsoEndnoteReference	{ vertical-align:super }
+span.c7	{ font-size:medium; text-transform:uppercase }
+p.c63	{ font-style:italic; margin-left:.5in; text-indent:-.25in }
+p.c62	{ margin-left:135pt }
+p.c60	{ font-style:italic; margin-left:.25in; margin-top:9pt; text-indent:-.25in }
+p.c59	{ margin-left:.25in; text-indent:-.25in }
+p.c58	{ margin-top:.25in; margin-bottom:9pt; text-align:center }
+p.c57	{ margin-top:9pt; margin-bottom:9pt; text-align:center }
+p.c56	{ margin-left:31.7pt; text-indent:-.25in }
+p.c55	{ margin-bottom:6pt; margin-left:.75in; text-indent:-.25in }
+p.c54	{ margin-left:.5in; text-indent:-22.5pt }
+p.c53	{ margin-bottom:6pt; margin-left:.5in; text-indent:-.25in }
+p.c51	{ margin-left:.5in; text-indent:-.25in }
+p.c50	{ margin-bottom:6pt; margin-left:.25in }
+p.c49	{ margin-left:13.5pt }
+p.c48	{ text-indent:13.5pt }
+p.c47	{ margin-top:6pt; margin-bottom:6pt; margin-left:31.5pt; text-indent:-.25in }
+p.c46	{ margin-bottom:6pt; text-indent:-.25in }
+span.c45	{ font-size:medium; display:none }
+p.c44	{ margin-top:6pt; margin-left:.25in; text-indent:-4.5pt }
+p.c43	{ margin-bottom:6pt; margin-left:67.5pt; text-indent:-.25in }
+p.c42	{ margin-left:67.5pt; text-indent:-.25in }
+p.c40	{ margin-bottom:6pt; margin-left:45pt; text-indent:-.25in }
+p.c39	{ margin-left:45pt; text-indent:-.25in }
+p.c38	{ text-indent:-.25in }
+p.c37	{ margin-bottom:6pt; margin-left:31.5pt; text-indent:-.25in }
+p.c36	{ margin-bottom:6pt }
+p.c35	{ margin-left:76.5pt; text-indent:-.25in }
+p.c34	{ margin-top:.25in; margin-bottom:9pt; margin-left:.25in; text-indent:-.25in }
+p.c33	{ margin-bottom:6pt; margin-left:.5in; text-indent:-.25in }
+p.c32	{ margin-top:.25in; margin-bottom:9pt; margin-left:.25in; text-align:center; text-indent:-.25in }
+p.c31	{ font-style:italic }
+span.c30	{ font-size:x-large; text-transform:uppercase }
+p.c29	{ margin-top:.5in; text-align:center }
+p.c28	{ margin-left:.5in; text-indent:-.25in }
+p.c27	{ margin-left:31.5pt; text-indent:-.25in }
+p.c26	{ margin-bottom:6pt; text-indent:.25in }
+span.c25	{ font-size:large; text-transform:uppercase }
+span.c24	{ font-size:xx-large; text-transform:uppercase }
+p.c23	{ margin-left:.25in }
+p.c22	{ text-align:right; text-indent:.25in }
+p.c21	{ text-indent:.25in }
+span.c20	{ font-variant:small-caps }
+p.c19	{ margin-top:9pt; text-align:center }
+span.c18	{ font-size:x-large }
+p.c17	{ margin-top:.5in; margin-bottom:9pt; text-align:center }
+p.c16	{ margin-left:.75in; text-indent:-.25in }
+p.c15	{ margin-top:6pt; text-indent:-.25in }
+p.c14	{ margin-top:6pt; margin-left:.75in; text-indent:-.25in }
+p.c13	{ margin-top:3pt; text-indent:.75in }
+p.c12	{ margin-top:12pt }
+span.c11	{ font-variant:small-caps }
+p.c10	{ margin-bottom:6pt; text-align:center }
+span.c9	{ text-transform:uppercase }
+p.c8	{ margin-top:6pt; text-align:center }
+p.c6	{ margin-bottom:12pt; text-align:center }
+span.c4	{ font-size:large }
+span.c3	{ font-size:xx-large }
+span.c2	{ font-size:medium }
+p.c1	{ text-align:center }
+</style><style type="text/xcss">
+<selector element="span" class="MsoEndnoteReference">
+  <property name="vertical-align" value="super"/>
+</selector>
+<selector element="span" class="c7">
+  <property name="font-size" value="medium"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c63">
+  <property name="font-style" value="italic"/>
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c62">
+  <property name="margin-left" value="135pt"/>
+</selector>
+<selector element="p" class="c60">
+  <property name="font-style" value="italic"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="margin-top" value="9pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c59">
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c58">
+  <property name="margin-top" value=".25in"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="p" class="c57">
+  <property name="margin-top" value="9pt"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="p" class="c56">
+  <property name="margin-left" value="31.7pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c55">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value=".75in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c54">
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-22.5pt"/>
+</selector>
+<selector element="p" class="c53">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c51">
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c50">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value=".25in"/>
+</selector>
+<selector element="p" class="c49">
+  <property name="margin-left" value="13.5pt"/>
+</selector>
+<selector element="p" class="c48">
+  <property name="text-indent" value="13.5pt"/>
+</selector>
+<selector element="p" class="c47">
+  <property name="margin-top" value="6pt"/>
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value="31.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c46">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="span" class="c45">
+  <property name="font-size" value="medium"/>
+  <property name="display" value="none"/>
+</selector>
+<selector element="p" class="c44">
+  <property name="margin-top" value="6pt"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-4.5pt"/>
+</selector>
+<selector element="p" class="c43">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value="67.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c42">
+  <property name="margin-left" value="67.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c40">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value="45pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c39">
+  <property name="margin-left" value="45pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c38">
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c37">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value="31.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c36">
+  <property name="margin-bottom" value="6pt"/>
+</selector>
+<selector element="p" class="c35">
+  <property name="margin-left" value="76.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c34">
+  <property name="margin-top" value=".25in"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c33">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c32">
+  <property name="margin-top" value=".25in"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c31">
+  <property name="font-style" value="italic"/>
+</selector>
+<selector element="span" class="c30">
+  <property name="font-size" value="x-large"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c29">
+  <property name="margin-top" value=".5in"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="p" class="c28">
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c27">
+  <property name="margin-left" value="31.5pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c26">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="span" class="c25">
+  <property name="font-size" value="large"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="span" class="c24">
+  <property name="font-size" value="xx-large"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c23">
+  <property name="margin-left" value=".25in"/>
+</selector>
+<selector element="p" class="c22">
+  <property name="text-align" value="right"/>
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="p" class="c21">
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="span" class="c20">
+  <property name="font-variant" value="small-caps"/>
+</selector>
+<selector element="p" class="c19">
+  <property name="margin-top" value="9pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="span" class="c18">
+  <property name="font-size" value="x-large"/>
+</selector>
+<selector element="p" class="c17">
+  <property name="margin-top" value=".5in"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="p" class="c16">
+  <property name="margin-left" value=".75in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c15">
+  <property name="margin-top" value="6pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c14">
+  <property name="margin-top" value="6pt"/>
+  <property name="margin-left" value=".75in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c13">
+  <property name="margin-top" value="3pt"/>
+  <property name="text-indent" value=".75in"/>
+</selector>
+<selector element="p" class="c12">
+  <property name="margin-top" value="12pt"/>
+</selector>
+<selector element="span" class="c11">
+  <property name="font-variant" value="small-caps"/>
+</selector>
+<selector element="p" class="c10">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="span" class="c9">
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c8">
+  <property name="margin-top" value="6pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="p" class="c6">
+  <property name="margin-bottom" value="12pt"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector element="span" class="c4">
+  <property name="font-size" value="large"/>
+</selector>
+<selector element="span" class="c3">
+  <property name="font-size" value="xx-large"/>
+</selector>
+<selector element="span" class="c2">
+  <property name="font-size" value="medium"/>
+</selector>
+<selector element="p" class="c1">
+  <property name="text-align" value="center"/>
+</selector>
+</style>

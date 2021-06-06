@@ -1,0 +1,94 @@
+
+.3rdLevelAllCap12Bld25	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.3rdLevelSmallCap12Bld34	{ font-variant:small-caps; font-weight:bold; text-align:center }
+.BOOK-CHAP-BLU-24-CEN18	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref27	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Normal12	{ font-size:280%; font-weight:bold; text-align:center }
+.Normal13	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal15	{ font-size:200%; font-weight:bold; text-align:center }
+.Normal16	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent08	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent11	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent37	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent39	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent45	{ font-style:italic; font-weight:bold; text-align:center }
+.QUOTE44	{ text-align:justify }
+.TableCaption19	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.heading814	{ font-size:160%; font-weight:bold; text-align:center }
+
+<selector class="3rdLevelAllCap12Bld25">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="3rdLevelSmallCap12Bld34">
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN18">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref27">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal12">
+  <property name="font-size" value="280%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal13">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal15">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal16">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent08">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent11">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent37">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent39">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent45">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE44">
+  <property name="text-align" value="justify"/>
+</selector>
+<selector class="TableCaption19">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="heading814">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>

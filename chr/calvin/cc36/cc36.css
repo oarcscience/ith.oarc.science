@@ -1,0 +1,59 @@
+
+.3rdLevelAllCap12Bld09	{ font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN07	{ text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN08	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref05	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Normal01	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal02	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal03	{ font-weight:bold; text-align:center }
+.QUOTE10	{ font-style:italic; text-align:center }
+.QUOTE11	{ font-style:italic; font-weight:bold }
+.TableCaption13	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+
+<selector class="3rdLevelAllCap12Bld09">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN07">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN08">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref05">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal01">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal02">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE10">
+  <property name="font-style" value="italic"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="QUOTE11">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="TableCaption13">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>

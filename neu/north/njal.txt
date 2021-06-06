@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE>File Moved (Burnt Njal)</TITLE>
+<META HTTP-EQUIV="Refresh" CONTENT="2;URL=../ice/njal/index.htm">
+</HEAD>
+<BODY>
+<P>
+This file has been moved. You can wait for your browser to load the new
+file automatically, or if it does not, click on the link below:</P>
+
+
+<P ALIGN="CENTER">
+<A HREF="https://ith.oarc.science/neu/ice/njal/index.htm">https://ith.oarc.science/neu/ice/njal/index.htm</A>
+</P>
+</BODY>
+</HTML>
+

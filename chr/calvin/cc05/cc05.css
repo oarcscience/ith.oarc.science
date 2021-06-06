@@ -1,0 +1,125 @@
+
+.3rdLevelAllCap12Bld11	{ font-size:120%; font-weight:bold; text-align:center; text-transform:uppercase }
+.3rdLevelAllCap12Bld16	{ text-align:center; text-transform:uppercase }
+.3rdLevelAllCap12Bld26	{ font-size:120%; font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN13	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref12	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Nmbrd-2501	{ :: }
+.Nmbrd-2505	{ :: }
+.Normal06	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal07	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal08	{ font-size:120%; font-weight:bold; text-align:center }
+.Normal09	{ font-size:80%; font-weight:bold; text-align:center }
+.PAR-L-Main-Text19	{ :: }
+.PAR-L-Main-Text20	{ :: }
+.PAR-L-Main-Text21	{ :: }
+.PoetryLast-DkBlu-11-Cent04	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent27	{ font-size:110%; font-weight:bold; text-align:center }
+.SCRIPTURE25	{ font-size:120% }
+.SCRIPTURE28	{ font-size:120% }
+.TableCaption14	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.TableText15	{ font-size:110% }
+.s01	{ :: }
+.s03	{ :: }
+.s07	{ :: }
+.s33	{ font-style:italic; font-weight:bold }
+
+<selector class="3rdLevelAllCap12Bld11">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="3rdLevelAllCap12Bld16">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="3rdLevelAllCap12Bld26">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN13">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref12">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Nmbrd-2501">
+  <property name="" value=":"/>
+</selector>
+<selector class="Nmbrd-2505">
+  <property name="" value=":"/>
+</selector>
+<selector class="Normal06">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal07">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal08">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal09">
+  <property name="font-size" value="80%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PAR-L-Main-Text19">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text20">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text21">
+  <property name="" value=":"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent04">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent27">
+  <property name="font-size" value="110%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="SCRIPTURE25">
+  <property name="font-size" value="120%"/>
+</selector>
+<selector class="SCRIPTURE28">
+  <property name="font-size" value="120%"/>
+</selector>
+<selector class="TableCaption14">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText15">
+  <property name="font-size" value="110%"/>
+</selector>
+<selector class="s01">
+  <property name="" value=":"/>
+</selector>
+<selector class="s03">
+  <property name="" value=":"/>
+</selector>
+<selector class="s07">
+  <property name="" value=":"/>
+</selector>
+<selector class="s33">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>

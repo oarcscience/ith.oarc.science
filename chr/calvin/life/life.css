@@ -1,0 +1,17 @@
+
+p.normal	{ text-indent:0in; margin-bottom:9pt; text-align:justify }
+p.SectionInfo1	{ margin-left:.25in; margin-top:9pt; margin-bottom:9pt; text-indent:0in; text-align:justify; font-style:italic }
+
+<selector element="p" class="normal">
+  <property name="text-indent" value="0in"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="text-align" value="justify"/>
+</selector>
+<selector element="p" class="SectionInfo1">
+  <property name="margin-left" value=".25in"/>
+  <property name="margin-top" value="9pt"/>
+  <property name="margin-bottom" value="9pt"/>
+  <property name="text-indent" value="0in"/>
+  <property name="text-align" value="justify"/>
+  <property name="font-style" value="italic"/>
+</selector>

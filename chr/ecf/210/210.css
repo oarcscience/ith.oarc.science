@@ -1,0 +1,160 @@
+<style type="text/css">
+h1	{ text-align:center; text-transform:uppercase }
+h2	{ text-align:center; text-transform:uppercase }
+h3	{ text-align:center; text-transform:uppercase }
+h4	{ text-align:center; text-transform:uppercase }
+p.c42	{ margin-top:9pt }
+p.c41	{ margin-left:.25in; text-indent:-.25in }
+p.c40	{ margin-bottom:6pt }
+p.c39	{ margin-bottom:6pt; margin-left:.25in; text-indent:-.25in }
+p.c38	{ margin-left:.5in; text-indent:-.25in }
+p.c37	{ margin-left:.5in; text-align:center; text-indent:-.25in }
+p.c36	{ margin-left:.25in; text-align:center; text-indent:-.25in }
+p.c32	{ font-style:italic; margin-left:.25in; margin-top:9pt; text-indent:-.25in }
+p.c31	{ margin-top:9pt; margin-left:.25in; text-indent:-.25in }
+p.c28	{ margin-left:.45in }
+p.c27	{ margin-left:.45in; text-indent:-.2in }
+p.c26	{ margin-bottom:6pt; text-indent:.25in }
+p.c25	{ margin-top:12pt; margin-bottom:6pt; text-align:center; text-indent:0in }
+p.c23	{ text-indent:.25in }
+p.c22	{ margin-top:9pt; text-indent:.25in }
+p.c14	{ margin-top:6pt; text-align:center; text-indent:0in }
+span.c13	{ font-size:x-small; text-transform:uppercase }
+p.c11	{ margin-top:.25in; text-align:center; text-indent:0in }
+p.c10	{ margin-top:42pt; text-align:center; text-indent:0in }
+span.c9	{ font-size:large; text-transform:uppercase }
+p.c8	{ margin-bottom:6pt; text-align:center; text-indent:0in }
+p.c7	{ margin-bottom:12pt; text-align:center; text-indent:0in }
+p.c6	{ font-style:italic; text-align:center; text-indent:0in }
+span.c4	{ font-size:large }
+span.c3	{ font-size:xx-large }
+span.c1	{ font-size:medium }
+</style><style type="text/xcss">
+<selector element="h1">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="h2">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="h3">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="h4">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c42">
+  <property name="margin-top" value="9pt"/>
+</selector>
+<selector element="p" class="c41">
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c40">
+  <property name="margin-bottom" value="6pt"/>
+</selector>
+<selector element="p" class="c39">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c38">
+  <property name="margin-left" value=".5in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c37">
+  <property name="margin-left" value=".5in"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c36">
+  <property name="margin-left" value=".25in"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c32">
+  <property name="font-style" value="italic"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="margin-top" value="9pt"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c31">
+  <property name="margin-top" value="9pt"/>
+  <property name="margin-left" value=".25in"/>
+  <property name="text-indent" value="-.25in"/>
+</selector>
+<selector element="p" class="c28">
+  <property name="margin-left" value=".45in"/>
+</selector>
+<selector element="p" class="c27">
+  <property name="margin-left" value=".45in"/>
+  <property name="text-indent" value="-.2in"/>
+</selector>
+<selector element="p" class="c26">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="p" class="c25">
+  <property name="margin-top" value="12pt"/>
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="p" class="c23">
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="p" class="c22">
+  <property name="margin-top" value="9pt"/>
+  <property name="text-indent" value=".25in"/>
+</selector>
+<selector element="p" class="c14">
+  <property name="margin-top" value="6pt"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="span" class="c13">
+  <property name="font-size" value="x-small"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c11">
+  <property name="margin-top" value=".25in"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="p" class="c10">
+  <property name="margin-top" value="42pt"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="span" class="c9">
+  <property name="font-size" value="large"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector element="p" class="c8">
+  <property name="margin-bottom" value="6pt"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="p" class="c7">
+  <property name="margin-bottom" value="12pt"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="p" class="c6">
+  <property name="font-style" value="italic"/>
+  <property name="text-align" value="center"/>
+  <property name="text-indent" value="0in"/>
+</selector>
+<selector element="span" class="c4">
+  <property name="font-size" value="large"/>
+</selector>
+<selector element="span" class="c3">
+  <property name="font-size" value="xx-large"/>
+</selector>
+<selector element="span" class="c1">
+  <property name="font-size" value="medium"/>
+</selector>
+</style>

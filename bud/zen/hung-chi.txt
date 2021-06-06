@@ -1,0 +1,39 @@
+[This document can be acquired from a sub-directory coombspapers via anonymous
+ FTP and/or COOMBSQUEST gopher on the node COOMBS.ANU.EDU.AU]
+
+The document's ftp filename and the full directory path are given in the
+coombspapers top level INDEX file]
+
+[This version: 28 July 1993]
+-----------------------------------------------------------------------------
+TITLE:The Buddhas' essential functioning 
+AUTHOR: Hung-chih Cheng-chueh [T'ien-t'ung Hung-chih ] (J.Tendo Wanshi)
+SOURCE:  The Ten Directions, Vol 2, No 2, June 1981. pp. 20
+NOTES: A poem by Tendo Wanshi Zenji, written approx. 1140, translated 
+by Taizan MAEZUMI, Roshi and Neal DONNER. One hundred years later it was
+followed by a smilarly structured and worded poem by Eihei Dogen.
+
+The Buddhas' essential functioning,
+the patriarch's functioning essence,
+Knows without relating to things
+and illuminates without reflecting upon objects.
+Knowing without relating to things,
+its knowing is subtle of itself.
+Illuminating without reflecting upon objects,
+its illumination is mysterious of itself.
+Its knowing, subtle of itself,
+is the thought with no discrimination.
+Its illumination, mysterious of itself,
+is the sign without the slightest mark.
+The thought with no discrimination,
+its knowing is completed without other.
+The sign without the slightest mark,
+its illumination is revealed without choice.
+The water is pure and clear to the bottom;
+a fish swims slowly.
+The sky is vast and finds no boundary;
+a bird flies far away.
+-----------------------------------------------------------------------------
+end of file
+
+

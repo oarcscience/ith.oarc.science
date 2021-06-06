@@ -1,0 +1,113 @@
+
+.3rdLevelAllCap12Bld08	{ font-size:120%; font-weight:bold; text-align:center; text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN06	{ text-transform:uppercase }
+.BOOK-CHAP-BLU-24-CEN07	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref09	{ font-size:160%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref21	{ text-align:center; text-transform:uppercase }
+.Normal01	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal02	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal03	{ font-size:200%; font-weight:bold; text-align:center }
+.Normal04	{ font-size:120%; font-weight:bold; text-align:center }
+.PAR-L-Main-Text14	{ :: }
+.PAR-L-Main-Text20	{ :: }
+.PAR-L-Main-Text22	{ :: }
+.TableCaption10	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+.TableText11	{ :: }
+.TableText18	{ font-size:110%; font-weight:bold; text-align:center }
+.TableText19	{ :: }
+.TableText23	{ font-size:110%; font-weight:bold }
+.s04	{ :: }
+.s08	{ font-style:italic; font-weight:bold }
+.s18	{ font-size:160% }
+.s19	{ font-size:140% }
+.s21	{ :: }
+
+<selector class="3rdLevelAllCap12Bld08">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN06">
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="BOOK-CHAP-BLU-24-CEN07">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref09">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref21">
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal01">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal02">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal03">
+  <property name="font-size" value="200%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal04">
+  <property name="font-size" value="120%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PAR-L-Main-Text14">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text20">
+  <property name="" value=":"/>
+</selector>
+<selector class="PAR-L-Main-Text22">
+  <property name="" value=":"/>
+</selector>
+<selector class="TableCaption10">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText11">
+  <property name="" value=":"/>
+</selector>
+<selector class="TableText18">
+  <property name="font-size" value="110%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableText19">
+  <property name="" value=":"/>
+</selector>
+<selector class="TableText23">
+  <property name="font-size" value="110%"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s04">
+  <property name="" value=":"/>
+</selector>
+<selector class="s08">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+</selector>
+<selector class="s18">
+  <property name="font-size" value="160%"/>
+</selector>
+<selector class="s19">
+  <property name="font-size" value="140%"/>
+</selector>
+<selector class="s21">
+  <property name="" value=":"/>
+</selector>

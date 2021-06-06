@@ -1,0 +1,77 @@
+---
+layout: seclanding
+title: "Search Intangible Textual Heritage"
+---
+
+<!-- google_ad_section_start -->
+<P>&nbsp;</P>
+<H3>Search Intangible Textual Heritage</H3>
+<hr>
+<span class="p-small-gray">
+<P>This box below allows you to search the full text of this site using Google:</P>
+<CENTER>
+<!-- SiteSearch Google -->
+<FORM method=GET action='https://www.google.com/custom'>
+Search powered by
+<IMG SRC='https://www.google.com/logos/Logo_25wht.gif' border='0' ALT='Google'>
+<input type=hidden name=domains value='ith.oarc.science'><INPUT TYPE=text name=q size=32 maxlength=255 value=''><BR>
+<p>
+<INPUT type=submit name=sa VALUE='Search'>
+</P>
+search:
+<input type=radio name=sitesearch value='ith.oarc.science' checked>ith.oarc.science &nbsp;|&nbsp;
+<input type=radio name=sitesearch value=''> Web
+<br>
+<input type=hidden name=client value='pub-8617793260330971'>
+<input type=hidden name=forid value='1'>
+<input type=hidden name=ie value='ISO-8859-1'>
+<input type=hidden name=oe value='ISO-8859-1'>
+<input type=hidden name=cof value='GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:000000;T:0000FF;GFNT:0000FF;GIMP:0000FF;FORID:1;'>
+<input type=hidden name=hl value='en'>
+
+</FORM>
+<!-- SiteSearch Google -->
+<HR>
+<P>You can also search the <A HREF="cat/index.htm">Catalog</A>:</P>
+
+<script language="JavaScript" type="text/javascript">;
+function validateForm(theForm) {
+	if (theForm.search_str.value=="") {
+		alert("Please enter some text in the search box");
+		return false;
+	}
+	return true;
+}
+</script>
+
+<FORM ACTION="cat/srchtitl.htm" METHOD="GET" onSubmit="return validateForm(this)">
+<INPUT TYPE="SUBMIT" value="Search Titles">
+<INPUT TYPE="TEXT" width=400 NAME="search_str">
+</FORM>
+
+<FORM ACTION="cat/srchauth.htm" METHOD="GET" onSubmit="return validateForm(this)">
+<INPUT TYPE="SUBMIT" value="Search Authors">
+<INPUT TYPE="TEXT" width=400 NAME="search_str">
+</FORM>
+
+<FORM ACTION="cat/srchsubj.htm" METHOD="GET" onSubmit="return validateForm(this)">
+<INPUT TYPE="SUBMIT" value="Search Subjects">
+<INPUT TYPE="TEXT" width=400 NAME="search_str">
+</FORM>
+
+<FORM ACTION="cat/random.htm" METHOD="GET">
+<INPUT TYPE="SUBMIT" value="Random File">
+</FORM>
+<HR>
+
+<A HREF="cat/tkwidx.htm">Titles by Keyword</A><BR>
+
+<A HREF="cat/akwidx.htm">Authors by Keyword</A><BR>
+
+<A HREF="cat/skwidx.htm">Subjects by Keyword</A><BR>
+
+<A HREF="cat/tlsidx.htm">Title List</A><BR>
+
+<A HREF="cat/alsidx.htm">Author List</A><BR>
+</CENTER>
+<!-- ista-content -->

@@ -1,0 +1,26 @@
+[This document can be acquired from a sub-directory coombspapers via anonymous
+ FTP and/or COOMBSQUEST gopher on the node COOMBS.ANU.EDU.AU]
+
+The document's ftp filename and the full directory path are given in the
+coombspapers top level INDEX file]
+
+[This version: 28 July 1993]
+-----------------------------------------------------------------------------
+TITLE: Boddhi originally has no tree
+AUTHOR: Hui-neng (J.Eno)
+SOURCE:  The Ten Directions, Vol 2, No 3, October 1981. pp. 7
+NOTES: A poem by the Six Zen Patriarch, Hui-neng, in response to a couplet by
+his senior Shen-hsiu (J. Shinshu, Jinshu). The Chinese text was translated
+by Philip Yampolski.
+
+Boddhi originally has no tree,
+The mirror also has no stand.
+Buddha-nature is always clean and
+pure
+(or, "from the first, there is not 
+a single thing"
+Where is there room for dust?
+-----------------------------------------------------------------------------
+end of file
+
+

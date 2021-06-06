@@ -1,0 +1,60 @@
+
+.BOOK-CHAP-BLU-24-CEN11	{ font-size:240%; text-align:center; text-transform:uppercase }
+.HDG-C-Gr-16-Pref22	{ font-size:160%; text-align:center; text-transform:uppercase }
+.Normal06	{ font-size:240%; font-weight:bold; text-align:center }
+.Normal07	{ font-size:160%; font-weight:bold; text-align:center }
+.Normal08	{ font-weight:bold; text-align:center }
+.Normal09	{ font-size:90%; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent03	{ font-style:italic; font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent05	{ font-weight:bold; text-align:center }
+.PoetryLast-DkBlu-11-Cent20	{ font-weight:bold; text-align:center }
+.TableCaption12	{ font-size:140%; font-variant:small-caps; font-weight:bold; text-align:center }
+
+<selector class="BOOK-CHAP-BLU-24-CEN11">
+  <property name="font-size" value="240%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="HDG-C-Gr-16-Pref22">
+  <property name="font-size" value="160%"/>
+  <property name="text-align" value="center"/>
+  <property name="text-transform" value="uppercase"/>
+</selector>
+<selector class="Normal06">
+  <property name="font-size" value="240%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal07">
+  <property name="font-size" value="160%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal08">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="Normal09">
+  <property name="font-size" value="90%"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent03">
+  <property name="font-style" value="italic"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent05">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="PoetryLast-DkBlu-11-Cent20">
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
+<selector class="TableCaption12">
+  <property name="font-size" value="140%"/>
+  <property name="font-variant" value="small-caps"/>
+  <property name="font-weight" value="bold"/>
+  <property name="text-align" value="center"/>
+</selector>
