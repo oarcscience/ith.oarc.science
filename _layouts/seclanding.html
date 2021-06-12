@@ -1,20 +1,38 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" href="/css/ista.css">
-  {% if page.margcss=="margcss" %}<link rel="stylesheet" href="/css/marg.css">{% endif %}
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://ith.oarc.science/rss/new.xml">
-  <meta name="description" content={{ page.description }}>
-  <meta name="keywords" content={{ page.keywords }}>
-  <title>{{ page.title }}</title>
- </head>
- <body>
+{% include head.html %}
+
+<body>
+<div id="container" class="help page help-home background">
 {% include header.html %}
-<div style="background-color:lightsalmon;">{{ page.categories }}</div>
-<div style="background-color:lightgreen;"><h1>{{ page.titleh1 }}</h1><img src="{{ page.pathh1 }}" align="right" vspace="7" hspace="7" alt="{{ page.alttext1 }}" height="256"></div>
+{% include secondheader.html %}
+
+<div class="panel main">
+{% include leftpanel.html %}
+<div class="panel middle">
+<div class="grid grid-responsive-12">
+
+<div class="row" id="introduction">
+<div class="col12">
+<div class="breadcrumbs">
+<ul>{% assign categories=page.categories | replace: "<BR>", "" | split: "&nbsp; " %}{% for category in categories %}<li><div class="main-cell">{{category}}</div></li>{% endfor %}</ul>
+</div>
+</div>
+</div>
+
+<div class="row"><div class="col12"><h1>{{ page.titleh1 }}</h1></div></div>
+<img src="{{ page.pathh1 }}" align="right" vspace="7" hspace="7" alt="{{ page.alttext1 }}" height="256">
+
 
 {{ content }}
-{% include footer.html %}
+
+</div>
+</div>
+</div>
+
+
+{% include footer.html%}
+</div>
+
  </body>
 </html>

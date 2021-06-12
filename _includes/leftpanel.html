@@ -1,0 +1,7 @@
+<div class="panel left">
+<div class="navigation-help" role="navigation">
+<ul>
+<li><h2><a href="/" alt="{{site.name}} Homepage" title="{{site.name}} Homepage">{{site.name}}</a></h2></li>
+{% for elem in site.data.nav %}<li {% assign pageurlhtm=elem.link | append: ".htm" %}{% if page.url==elem.link or page.url==pageurlhtm %}class="selected"{% endif %}><strong><a href="{{elem.link}}">{{elem.name}} </a></strong><ul style="font-size:87%;">{% for sub in elem.subs %}<li {% assign pageurlhtm=sub.link | append: ".htm" %}{% if page.url==sub.link or page.url==pageurlhtm %}class="selected"{% endif %}><a href="{{sub.link}}">{{sub.name}}</a></li>{% endfor %}</ul></li>{% endfor %}</ul>
+</div>
+</div>

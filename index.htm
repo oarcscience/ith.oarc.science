@@ -3,75 +3,58 @@ layout: seclanding
 title: "Intangible Textual Heritage Archive"
 ---
 
-<!-- google_ad_section_start -->
-						<div style="margin-left: 10%; margin-right: 10%;">
-						<hr />
-						<p></p>
 
-						<div style="margin-left: 20%; margin-right: 20%;"></div>
+<p>W</span><strong>elcome to the largest freely available archive</strong> of online books about religion, mythology, folklore and the esoteric on the Internet. The site is dedicated to religious tolerance and scholarship, and has the largest readership of any similar site on the web.</p>
 
-						<hr />
-						<table>
-							<tbody>
-								<tr>
-									<td align="LEFT" valign="TOP">
-									<hr />
-									<p><br />
-									<span class="ista-content"><span class="style1">W</span><strong>elcome to the largest freely available archive</strong> of online books about religion, mythology, folklore and the esoteric on the Internet. The site is dedicated to religious tolerance and scholarship, and has the largest readership of any similar site on the web.</span></p>
+<div class="row">
+{% for elem in site.data.toplevellinks %}
+{% assign dataline = site.data.nav | where: "name", elem.name | first %}
+<div class="col2 {% assign residue = forloop.index | modulo:6 %}{% if residue==0%}last{% endif%}">
+<a class="tile" href="{{dataline.link}}">
+<span class="tile-teaser"><i class="fa fa-compass fa-fw"></i></span>
+<span class="tile-title">{{dataline.name}}</span>
+<!---<span class="tile-description">Frequently asked questions during first time use.</span>--->
+</a>
+</div>
+{% endfor %}
+</div>
 
-									<p></p>
-									</td>
-								</tr>
-							</tbody>
-						</table>
 
-						<hr />
-						<p><span class="ista-content"><b>SEARCH</b> </span></p>
+<div class="row">
+<div class="col4 ">
+<a class="tile" href="https://help.passbolt.com/faq/discover">
+<span class="tile-teaser"><i class="fa fa-compass fa-fw"></i></span>
+<span class="tile-title">Get started using passbolt</span>
+<span class="tile-description">Frequently asked questions during first time use.</span>
+</a>
+</div>
+<div class="col4 ">
+<a class="tile" href="https://help.passbolt.com/faq/start/browser-extensions">
+<span class="tile-teaser"><i class="fa fa-firefox fa-fw"></i></span>
+<span class="tile-title">Browser extension</span>
+<span class="tile-description">How to install and remove the browser extensions.</span>
+</a>
+</div>
+<div class="col4 last">
+<a class="tile" href="https://help.passbolt.com/faq/start/create-edit-delete-password">
+<span class="tile-teaser"><i class="fa fa-lock fa-fw"></i></span>
+<span class="tile-title">Password basics</span>
+<span class="tile-description">Creating, editing, sharing and deleting passwords</span>
+</a>
+</div>
+<div class="col4 ">
+<a class="tile" href="https://help.passbolt.com/faq/start/share-password">
+ <span class="tile-teaser"><i class="fa fa-paper-plane fa-fw"></i></span>
+<span class="tile-title">Sharing passwords</span>
+<span class="tile-description">Sharing is caring (but only if you really have to).</span>
+</a>
+</div>
+<div class="col4 ">
+<a class="tile" href="https://community.passbolt.com">
+<span class="tile-teaser"><i class="fa fa-comments fa-fw"></i></span>
+<span class="tile-title">Forum</span>
+<span class="tile-description">When in doubt, you can also ask the community!</span>
+</a>
+</div>
+</div>
 
-						<table>
-							<tbody>
-								<tr>
-									<td><span class="ista-content"><a href="search.htm"><img align="left" src="img/faq.jpg" /><br />
-									Search Intangible Textual Heritage</a> </span></td>
-								</tr>
-							</tbody>
-						</table>
-
-						<hr />
-						<p><span class="ista-content"><b>TOP SEARCHES</b> </span></p>
-
-						<table>
-							<tbody>
-								<tr>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="nos/index.htm"><img align="left" src="img/tn_nos.jpg" /><br />
-									Nostradamus</a> </span></td>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="./ich/index.htm"><img align="left" src="img/tn_yy.jpg" /><br />
-									I Ching</a> </span></td>
-								</tr>
-								<tr>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="time/timeline.htm"><img align="left" src="img/tn_time.jpg" /><br />
-									Timeline</a> </span></td>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="chr/apo/index.htm"><img align="left" src="img/tn_apo.jpg" /><br />
-									Apocrypha</a> </span></td>
-								</tr>
-								<tr>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="hin/index.htm#vedas"><img align="left" src="img/tn_hin.jpg" /><br />
-									Vedas</a></span></td>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="bib/index.htm"><img align="left" src="img/tn_bib.jpg" /><br />
-									The Bible</a> </span></td>
-								</tr>
-								<tr>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="bos/index.htm"><img align="left" src="img/tn_bos.jpg" /><br />
-									The Book of Shadows</a> </span></td>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="jud/index.htm#talmud"><img align="left" src="img/tn_books.jpg" /><br />
-									Talmud</a> </span></td>
-								</tr>
-								<tr>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="nam/index.htm"><img align="left" src="img/tn_nam.jpg" /><br />
-									Native American</a> </span></td>
-									<td align="LEFT" valign="TOP"><span class="ista-content"><a href="download.htm"><img align="left" src="img/tn_libr.jpg" /><br />
-									Downloads</a> </span></td>
-								</tr>
-							</tbody>
-						</table>
-						<span class="ista-content"><!-- ista-content -->
