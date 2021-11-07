@@ -1,0 +1,31 @@
+---
+layout: seclanding
+description: "The Barddas of Iolo Morganwg at Intangible Textual Heritage"
+keywords: "Druid Religion Ceremony Ritual Knowledge Celt Celtic Druidic Druids"
+title: "The Barddas of Iolo Morganwg"
+categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="index">Celtic Folklore</A><BR>'
+pathh1: "bim1/img/iolo.jpg"
+alttext1: "Iolo Morganwg"
+titleh1: "The Barddas of Iolo Morganwg"
+---
+# The Barddas of Iolo Morganwg
+
+### edited by J. Williams Ab Ithel
+
+#### \[1862-74\]
+
+------------------------------------------------------------------------
+
+This is the master page for the two volumes of the Barddas of Iolo
+Morganwg located at this site.
+
+<span class="c_e"> <span class="c_t">[The Barddas, Vol.
+I](bim1/index)</span>   by <span class="c_a">Iolo Morganwg</span>,
+edited by <span class="c_a">J. Williams Ab Ithel</span> \[<span
+class="c_d">1862</span>\] </span>
+
+<span class="c_e"> <span class="c_t">[The Barddas, Vol.
+II](bim2/index)</span>   by <span class="c_a">Iolo Morganwg</span>,
+edited by <span class="c_a">J. Williams Ab Ithel</span> \[<span
+class="c_d">1874</span>\]  
+</span>

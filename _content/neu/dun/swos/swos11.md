@@ -1,0 +1,252 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index) 
+[Previous](swos10)  [Next](swos12) 
+
+</div>
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Sword of Welleran and Other Stories*, by Lord Dunsany, \[1908\], at
+Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="an_f10"></span>
+
+The Lord of Cities
+
+I came one day upon a road that wandered so aimlessly that it was suited
+to my mood, so I followed it, and it led me presently among deep woods.
+Somewhere in the midst of them Autumn held his court, sitting wreathed
+with gorgeous garlands; and it was the day before his annual festival of
+the Dance of Leaves, the courtly festival upon which hungry Winter
+rushes mob-like, and there arise the furious cries of the North Wind
+triumphing, and all the splendour and grace of the woods is gone, and
+Autumn flees away, discrowned and forgotten, and never again returns.
+Other Autumns arise, other Autumns, and fall before other Winters. A
+road led away to the left, but my road went straight on. The road to the
+left had a trodden appearance; there were wheel tracks on it, and it
+seemed the correct way to take. It looked as if no one could have any
+business with the road that led straight on and up the hill. Therefore I
+went straight on and up the hill; and here and there on the road grew
+blades of grass undisturbed in the repose and hush that the road had
+earned from going up and down the world; for you can go by this road, as
+you can go by all roads, to London, to Lincoln, to the North of
+Scotland, to the West of Wales, and to Wrellisford where roads end.
+Presently the woods ended, and I came to the open fields and at the same
+moment to the top of the hill, and saw the high places of Somerset and
+the downs of Wilts spread out along the horizon. Suddenly I saw
+underneath me the village of Wrellisford, with no sound in its street
+but the voice of the Wrellis roaring as he tumbled over a weir above the
+village. So I followed my road down over the crest of the hill, and the
+road became more languid as I descended, and less and less concerned
+with the cares of a highway. Here a spring broke out in the middle of
+it, and here another. The road never heeded. A stream ran right across
+it, still it straggled on. Suddenly it gave up the minimum property that
+a road should possess, and, renouncing its connection with High Streets,
+its lineage of Piccadilly, shrank to one side and became an
+unpretentious footpath. Then it led me to the old bridge over the
+stream, and thus I came to Wrellisford, and found after travelling in
+many lands a village with no wheel tracks in its street. On the other
+side of the bridge, my friend the road struggled a few yards up a grassy
+slope, and there ceased. Over all the village hung a great stillness,
+with the roar of the Wrellis cutting right across it, and there came
+occasionally the bark of a dog that kept watch over the broken stillness
+and over the sanctity of that untravelled road. That terrible and
+wasting fever that, unlike so many plagues, comes not from the East but
+from the West, the fever of hurry, had not come here—only the Wrellis
+hurried on his eternal quest, but it was a calm and placid hurry that
+gave one time for song. It was in the early afternoon, and nobody was
+about. Either they worked beyond the mysterious valley that nursed
+Wrellisford and hid it from the world, or else they secluded themselves
+within their old-time houses that were roofed with tiles of stone. I sat
+down upon the old stone bridge and watched the Wrellis, who seemed to me
+to be the only traveller that came from far away into this village where
+roads end, and passed on beyond it. And yet the Wrellis comes singing
+out of eternity, and tarries for a very little while in the village
+where roads end, and passes on into eternity again; and so surely do all
+that dwell in Wrellisford. I wondered as I leaned upon the bridge in
+what place the Wrellis would first find the sea, whether as he wound
+idly through meadows on his long quest he would suddenly behold him,
+and, leaping down over some rocky cliff, take to him at once the message
+of the hills. Or whether, widening slowly into some grand and tidal
+estuary, he would take his waste of waters to the sea and the might of
+the river should meet with the might of the waves, like to two Emperors
+clad in gleaming mail meeting midway between two hosts of war; and the
+little Wrellis would become a haven for returning ships and a
+setting-out place for adventurous men.
+
+A little beyond the bridge there stood an old mill with a ruined roof,
+and a small branch of the Wrellis rushed through its emptiness shouting,
+like a boy playing alone in a corridor of some desolate house. The
+mill-wheel was gone, but there lay there still great bars and wheels and
+cogs, the bones of some dead industry. I know not what industry was once
+lord in that house, I know not what retinue of workers mourns him now; I
+only know who is lord there today in all those empty chambers. For as
+soon as I entered, I saw a whole wall draped with his marvellous black
+tapestry, without price because inimitable and too delicate to pass from
+hand to hand among merchants. I looked at the wonderful complexity of
+its infinite threads, my finger sank into it for more than an inch
+without feeling the touch; so black it was and so carefully wrought,
+sombrely covering the whole of the wall, that it might have been worked
+to commemorate the deaths of all that ever lived there, as indeed it
+was. I looked through a hole in the wall into an inner chamber where a
+worn-out driving band went among many wheels, and there this priceless
+inimitable stuff not merely clothed the walls but hung from bars and
+ceiling in beautiful draperies, in marvellous festoons. Nothing was ugly
+in this desolate house, for the busy artist's soul of its present lord
+had beautified everything in its desolation. It was the unmistakable
+work of the spider, in whose house I was, and the house was utterly
+desolate but for him, and silent but for the roar of the Wrellis and the
+shout of the little stream. Then I turned homewards; and as I went up
+and over the hill and lost the sight of the village, I saw the road
+whiten and harden and gradually broaden out till the tracks of wheels
+appeared; and it went afar to take the young men of Wrellisford into the
+wide ways of the earth—to the new West and the mysterious East, and into
+the troubled South.
+
+And that night, when the house was still and sleep was far off, hushing
+hamlets and giving ease to cities, my fancy wandered up that aimless
+road and came suddenly to Wrellisford. And it seemed to me that the
+travelling of so many people for so many years between Wrellisford and
+John o' Groat's, talking to one another as they went or muttering alone,
+had given the road a voice. And it seemed to me that night that the road
+spoke to the river by Wrellisford bridge, speaking with the voice of
+many pilgrims. And the road said to the river: 'I rest here. How is it
+with you?'
+
+And the river, who is always speaking, said: 'I rest nowhere from doing
+the Work of the World. I carry the murmur of inner lands to the sea, and
+to the abysses voices of the hills.'
+
+'It is I,' said the road, 'that do the Work of the World, and take from
+city to city the rumour of each. There is nothing higher than Man and
+the making of cities. What do you do for Man?'
+
+And the river said: 'Beauty and song are higher than Man. I carry the
+news seaward of the first song of the thrush after the furious retreat
+of winter northward, and the first timid anemone learns from me that she
+is safe and that spring has truly come. Oh but the song of all the birds
+in spring is more beautiful than Man, and the first coming of the
+hyacinth more delectable than his face! When spring is fallen upon the
+days of summer, I carry away with mournful joy at night petal by petal
+the rhododendron's bloom. No lit procession of purple kings is nigh so
+fair as that. No beautiful death of well-beloved men hath such a glory
+of forlornness. And I bear far away the pink and white petals of the
+apple-blossom's youth when the laborious time comes for his work in the
+world and for the bearing of apples. And I am robed each day and every
+night anew with the beauty of heaven, and I make lovely visions of the
+trees. But Man! What is Man? In the ancient parliament of the elder
+hills, when the grey ones speak together, they say nought of Man, but
+concern themselves only with their brethren the stars. Or when they wrap
+themselves in purple cloaks at evening, they lament some old irreparable
+wrong, or, uttering some mountain hymn, all mourn the set of sun.'
+
+'Your beauty,' said the road, 'and the beauty of the sky, and of the
+rhododendron blossom and of spring, live only in the mind of Man, and
+except in the mind of Man the mountains have no voices. Nothing is
+beautiful that has not been seen by Man's eye. Or if your rhododendron
+blossom was beautiful for a moment, it soon withered and was drowned,
+and spring soon passes away; beauty can only live on in the mind of Man.
+I bring thought into the mind of Man swiftly from distant places every
+day. I know the Telegraph—I know him well; he and I have walked for
+hundreds of miles together. There is no work in the world except for Man
+and the making of his cities. I take wares to and fro from city to
+city.'
+
+'My little stream in the field there,' said the river, 'used to make
+wares in that house for awhile once.'
+
+'Ah,' said the road, 'I remember, but I brought cheaper ones from
+distant cities. Nothing is of any importance but making cities for Man.'
+
+'I know so little about him,' said the river, 'but I have a great deal
+of work to do—I have all this water to send down to the sea; and then
+tomorrow or next day all the leaves of Autumn will be coming this way.
+It will be very beautiful. The sea is a very, very wonderful place. I
+know all about it; I have heard shepherd boys singing of it, and
+sometimes before a storm the gulls come up. It is a place all blue and
+shining and full of pearls, and has in it coral islands and isles of
+spice, and storms and galleons and the bones of Drake. The sea is much
+greater than Man. When I come to the sea, he will know that I have
+worked well for him. But I must hurry, for I have much to do. This
+bridge delays me a little; some day I will carry it away.'
+
+'Oh, you must not do that,' said the road.
+
+'Oh, not for a long time,' said the river. 'Some centuries perhaps—and I
+have much to do besides. There is my song to sing, for instance, and
+that alone is more beautiful than any noise that Man makes.'
+
+'All work is for Man,' said the road, 'and for the building of cities.
+There is no beauty or romance or mystery in the sea except for the men
+that sail abroad upon it, and for those that stay at home and dream of
+them. As for your song, it rings night and morning, year in, year out,
+in the ears of men that are born in Wrellisford; at night it is part of
+their dreams, at morning it is the voice of day, and so it becomes part
+of their souls. But the song is not beautiful in itself. I take these
+men with your song in their souls up over the edge of the valley and a
+long way off beyond, and I am a strong and dusty road up there, and they
+go with your song in their souls and turn it into music and gladden
+cities. But nothing is the Work of the World except work for Man.'
+
+'I wish I was quite sure about the Work of the World,' said the stream;
+'I wish I knew for certain for whom we work. I feel almost sure that it
+is for the sea. He is very great and beautiful. I think that there can
+be no greater master than the sea. I think that some day he may be so
+full of romance and mystery and sound of sheep bells and murmur of
+mist-hidden hills, which we streams shall have brought him, that there
+will be no more music or beauty left in the world, and all the world
+will end; and perhaps the streams shall gather at the last, we all
+together, to the sea. Or perhaps the sea will give us at the last unto
+each one his own again, giving back all that he has garnered in the
+years—the little petals of the apple-blossom and the mourned ones of the
+rhododendron, and our old visions of the trees and sky; so many memories
+have left the hills. But who may say? For who knows the tides of the
+sea?'
+
+'Be sure that it is all for Man,' said the road. 'For Man and the making
+of cities.'
+
+Something had come near on utterly silent feet.
+
+'Peace, peace!' it said. 'You disturb the queenly night, who, having
+come into this valley, is a guest in my dark halls. Let us have an end
+to this discussion.'
+
+It was the spider who spoke.
+
+'The Work of the World is the making of cities and palaces. But it is
+not for Man. What is Man? He only prepares my cities for me, and mellows
+them. All his works are ugly, his richest tapestries are coarse and
+clumsy. He is a noisy idler. He only protects me from mine enemy the
+wind; and the beautiful work in my cities, the curving outlines and the
+delicate weavings, is all mine. Ten years to a hundred it takes to build
+a city, for five or six hundred more it mellows, and is prepared for me;
+then I inhabit it, and hide away all that is ugly, and draw beautiful
+lines about it to and fro. There is nothing so beautiful as cities and
+palaces; they are the loveliest places in the world, because they are
+the stillest, and so most like the stars. They are noisy at first, for a
+little, before I come to them; they have ugly corners not yet rounded
+off, and coarse tapestries, and then they become ready for me and my
+exquisite work, and are quite silent and beautiful. And there I
+entertain the regal nights when they come there jewelled with stars, and
+all their train of silence, and regale them with costly dust. Already
+nods, in a city that I wot of, a lonely sentinel whose lords are dead,
+who grows too old and sleepy to drive away the gathering silence that
+infests the streets; tomorrow I go to see if he be still at his post.
+For me Babylon was built, and rocky Tyre; and still men build my cities!
+All the Work of the World is the making of cities, and all of them I
+inherit.'
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: The Doom of La Traviata](swos12)
+
+</div>

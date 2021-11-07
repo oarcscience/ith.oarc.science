@@ -1,0 +1,1227 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs12)  [Next](abs14) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+
+------------------------------------------------------------------------
+
+[Buy this Book on
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_182">p. 182</span>
+
+**9. Africa—the "Darkest"**
+
+<div style="margin-left: 32px">
+
+Africa was crossed for the first time just a century ago. Today, it
+virtually controls the UN, but great hunks of it have still not been
+mapped.
+
+</div>
+
+In some respects the continent of Africa has much the same structure as
+that of South America, but in reverse, or rather, mirrored, the Congo
+Basin being equivalent to the Amazon Basin; the great upland chain of
+its east side being comparable to the Great Andean chain on South
+America's west side; and there being a number of isolated mountain
+blocks dotted about the rest of it. However, if the sea flooded in to
+the 200-meter contour, Africa though looking a bit smaller would retain
+its present shape. Much more of it is composed of uplands above the
+500-meter contour; and upon these are raised many mighty mountain
+ranges. Yet, the Congo is like the Amazon in one essential respect. It
+also was once, and until fairly recently, flooded, but it appears to
+have formed either an enormous lake or a completely landlocked sea.
+Finally, it broke out to the Atlantic by cutting a deep and narrow gorge
+through the Crystal Mountains that join the lower Gabun with the Angolan
+uplands.
+
+The Congo Basin today is the home of several very unique and ancient
+forms of animals—a strange Water-Civet (*Osbornictis*) found only once,
+in 1916, which seems since then to have vanished; the forest giraffe or
+Okapi (*Okapia*); and the famous Congo Peacock (*Afropavo*) —but, like
+the Amazon, it seems nevertheless to have been repopulated comparatively
+recently from the slopes of the surrounding mountain blocks, and all the
+funniest plants and animals in it tend still to be found around its
+edges rather than in its middle.
+
+<span id="page_183">p. 183</span>
+
+Then, there is another very important thing about Africa. This fact is
+that, actually, very little of i is forested, and especially by true
+lowland Equatorial Rain Forest (or T-E-F; see Chapter 18) . Apart from
+the Congo, there are really only two such areas; the west Guinea coast,
+and the Nigeria-Camerun-Gabun coasts. That over on the east coast is not
+typical T-E-F, and a lot of it is not even closed-canopy forest.
+Moreover, even on the west coast there are open areas within the main
+lowland forest blocks, while the center of Nigeria has now been almost
+entirely cleared, and there are large orchard-bush and savannah areas
+even in the Congo itself. Nevertheless, there is a great deal of montane
+forest in Africa. This clothes the slopes of the mountains to
+comparatively great heights up the sides of all those blocks in the
+equatorial belt, which face those lowlands clothed in rain-forest. This
+is so of the south face of the Guinea block; both sides of the
+Gabun-Camerun block; the south face of the Ubangi-Shari; and a swath
+running south from the Bar-el-Ghazal to Kasai. It is in these forests
+that the more ancient and retiring creatures make their abode. They,
+also, are the least known parts of the continent. (See [Map
+VII.](#img_map07))
+
+ABSMs have been reported from three areas in Africa—the southern face of
+the Guinea Massif; the east side of the Congo Basin; and the eastern
+escarpment of Tanganyika. This makes very clear sense both from a
+geographical and zoological point of view because each has an adjacent
+mountainous area as a retreat in case of general land subsidence or of
+flooding by the general sea level rising. The Gabun-Camerun west face
+might be expected to be included in ABSM distribution but it is not, so
+far as I know. Before coming to the details of ABSMery hereabouts, I
+must point out a new factor in our story that now appears for the first
+time and which will be with us through the Orient, and until we go to
+Eurasia.
+
+It is that we now have interjected into the scheme of things the *Apes*.
+There is a point here that puzzles everybody and which must be cleared
+up if possible. This is a hang-over from the initial pronouncement of
+Darwin's theory of our origin
+
+<span id="page_184">p. 184</span>
+
+<span id="img_map07"></span> <span align="CENTER"> [![MAP VII.
+AFRICA](tn/map07.jpg)  
+Click to enlarge](img/map07.jpg)  
+MAP VII. AFRICA  
+</span>
+
+**MAP VII. AFRICA**
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Africa is the second largest and most compact of the continents. Apart
+from Madagascar, which is hardly a part of it, and Fernando Po in the
+west, it also is singularly lacking in peripheral islands. Its northern
+rim is really a part of the continent of Eurasia and, lying as it does
+today north of the great Sahara Desert, has not only a different climate
+but, to a large extent, flora and fauna differing from that of the rest
+of the continent. Africa is divided into three parts—a northern desert
+belt; a central forested belt; and a southern desert belt. However,
+further confusion is produced by there being extensive and almost
+over-all highlands all the way down the eastern half of the continent
+and other extensive upland blocks in the northern deserts and in the
+western half of the forested equatorial belt. Africa also has three
+large basins, but all are inland and without any real outlets. Two—El
+Juf and the Bodele—now lie in the deserts. The third is that of the
+Congo, the second biggest riverine system in the world. The tall,
+closed-canopy, equatorial forests are actually rather limited in extent,
+and are clearly divided into four parts, in the west and center. The
+lowland coastal forests of the east are not T-E-F and are more arid.
+ABSMs are reported from three forest areas, with a rumor from the far
+southwest.
+
+</div>
+
+<span id="page_185">p. 185</span>
+
+and that of Men generally. While it is pretty universally recognized
+that Darwin never did say that we were *descended* from apes, but that
+both we and the apes had a common ancestor, there is still an almost
+universally held belief that, nonetheless, "monkeys" came first, then
+"apes," and finally "men." This is partially correct in that the monkeys
+do seem to be of "older" stock and they are certainly more primitive or
+lower down the scale; but when it comes to apes and men, ever more
+evidence is piling up to indicate that we both started off at the same
+time; but out of step. Following this line of reasoning, the two lots of
+us were at one time very alike but, as time went on, and both our
+branches proliferated into various kinds, we drifted ever farther apart.
+Just because some "men" (or, better, Hominids) retained a hairy coat and
+small brains, does not actually mean that they remained apelike.
+Conversely, just because the living apes still have a complete furry
+coat and small brains does not mean that they have *evolved* any less
+far from their origins than we have. They just have changed in other
+directions. And,
+
+<span id="page_186">p. 186</span>
+
+along our lines, there were just such (probably) hairy chaps with very
+small brains—*vide: Zinjanthropus* from East Africa, and the other
+Australopithecines from South Africa.
+
+Nonetheless, as of now—and if we preclude the possibility of ABSMs—the
+Hominids have changed a great deal, but lost all but one of their
+branches; while the apes have sort of got stuck, but still exist in
+about twenty distinct forms. <span id="fr_22"></span>[\*](#fn_22) There
+is no reason, however, why there should not still be other kinds of
+*apes* still living today that we have not yet found. The Pigmy Chimp
+(*Pan paniscus*) was a long time being accepted; there is supposed to be
+a pigmy species of Gorilla of which we think we have skins and skulls,
+but which has never been seen by scientific collectors in the wild; and
+there is the extremely odd Lesser Siamang of South Pagi Island, of the
+Mentawi Group, off the west coast of Sumatra (*Symphalangus klossi*),
+that was not recognized till 1903. Then, in 1955, a professional
+American animal-collector brought back parts of a preserved specimen of
+a small kind of ape from the Gabun that is now lodged in the museum in
+Zurich, Switzerland. He also had photographs of the animal when alive,
+and it was certainly the oddest-looking creature; like a tiny
+orang-utan, with a high-domed forehead and quite unchimplike face,
+clothed in black hair, but having *no thumbs*! The collector insisted
+that the local natives know these animals well; that they are not
+chimps; and unlike chimps, they are completely arboreal, travel in
+parties of about 40, and never come to the ground. This specimen has
+been tentatively put down as an extremely abnormal baby chimp but it has
+a complete set of adult teeth!
+
+There may indeed still be not one but several Apes (i.e. Pongids) to be
+discovered, and more than one in Africa. This tends to muddle the issue
+and more especially because many Africans regard the gorillas—though
+never the chimp, it seems —as a form of degenerate race of *men*. Thus,
+when they speak of any equivalent of an ABSM, they often do not make any
+
+<span id="page_187">p. 187</span>
+
+distinction between men and apes in describing it. This, however, is
+particularly the case only with man-sized or larger alleged creatures.
+One and all are insistent that the pigmy types are little men, *not*
+animals. Therefore, we must be on guard from now on against interpreting
+all reports as those of potential ABSMs, and we must bear in mind that
+other apes—perhaps even bipedal, terrestrial forms—could exist on this
+continent and, though not so likely, in the Orient as well. Some
+certainly seem to exist in Africa.
+
+Reports of what appear to be pigmy types of ABSMs turn up on the west
+and east sides of the continent—that is on the southern edge of the
+Guinea Massif and on the eastern side of the main upland area about
+Tanganyika and Mozambique. Those from the former consist of a single
+series of statements made to Bernard Heuvelmans by a scientific
+correspondent who investigated some reports in what used to be the Ivory
+Coast. As these are original and unique, I have sought permission to
+reproduce them here in their entirety. Apart from them, I have only
+vague folk tales from the Nigeria area of the former existence of
+pigmies in that country.
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+In the Ivory Coast, almost at the opposite end of Africa, there is a
+legend of reddish hairy dwarfs identical in every respect with that in
+Tanganyika, as I learn from private information kindly supplied by
+Professor A. Ledoux of the Faculty of Science of Toulouse University. In
+1947 he was the head of the Zoological Department of the Institute of
+Education and Research at Adiopodoumé, which was then being formed 12
+miles from Abidjan.
+
+One evening a young African who worked in his laboratory came and saw
+him after dinner and went rather furtively about asking him the simple
+question whether there were pygmies in Africa. The professor told him
+that they were found in Central and Equatorial Africa and lent him a
+book on the subject. All the same he was puzzled at this conspiratorial
+manner and asked him why he wanted to know. Because, the African
+replied, one of his colleagues in another scientific department of the
+Institute had seen one not far away on the previous day.
+
+The professor raised his eyebrows.
+
+"A pygmy, here?" "Yes, about 500 yards from here."
+
+The professor nearly fell out of his chair in surprise. The Institute
+was
+
+</div>
+
+<span id="page_188">p. 188</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+surrounded by forest, but though it was thick in places it was very well
+known and natives were constantly passing through it. The story seemed
+most suspect.
+
+"Why didn't your friend come and tell me at once?" he asked
+suspiciously.
+
+The young man explained that since the whites disbelieved the rumours
+about pygmies in the neighbourhood his friend had been loath to be
+laughed at or thought to be mad. But he knew the man well enough to know
+that he had not made it up, so he decided to make inquiries for him
+himself.
+
+Professor Ledoux was more and more intrigued and insisted that the
+eyewitness should come and see him. He promised that he would not make
+fun of him and would not tell anyone his story.
+
+The next day \[the Professor tells me\] I had a visit from the boy
+responsible for the observation. He was well-educated and had a
+certificate for primary studies. I asked him about the circumstances in
+which he saw the "pygmy."
+
+It happened near the Meteorological set when they were taking their
+daily readings at 8 o'clock in the morning. Among the roots of a
+silk-cotton tree (*Bombax*) there suddenly appeared a little man with
+long reddish fur and long hair on his head—"same like white man"—but
+also reddish. \[The long hair on the head, like a European's, was
+reported by all the Africans Professor Ledoux questioned. This feature
+could obviously not apply to true pygmies.\]
+
+At once the little red man and the large black one took to their heels
+in opposite directions. For, according to the legends, the little
+forestmen brought bad luck. You only saw them once in a lifetime and you
+had to be alone.
+
+I went to the place with my two informants. It lay in the shadow of
+thick forest, but was not too overgrown since the silk-cotton tree grew
+near a path. It was very likely that if there had been anything there it
+would have been easy to see.
+
+I asked to be informed at once if a similar meeting occurred again, but
+this never happened.
+
+Professor Ledoux admits that he was then very incredulous. It seemed
+unthinkable that within 12 miles of a big town like Abidjan, and 500
+yards from huts inhabited by 6 Europeans and some 300 Africans, there
+could be unknown creatures in forest which though thick was far from
+virgin. Moreover the African who claimed to have seen the mysterious
+pygmy did not come from the Lower Ivory Coast but from the Middle Coast,
+which is wooded savannah country. Perhaps the great forest, which
+
+</div>
+
+<span id="page_189">p. 189</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+is most impressive, had over-excited his imagination. And in his
+solitary walks in the forest the professor had often put up bushbuck. If
+the African had seen the russet back of one of these antelopes among the
+bushes it was not impossible that his imagination should have led him to
+think that it was one of the "little hairy men" of the legends. At all
+events when the professor showed him a book containing pictures of
+Central African pygmies he insisted that his creature was not like them.
+
+Despite his scepticism Professor Ledoux decided to make discreet
+inquiries about the native legends and what they were based on. He
+questioned several Africans who trusted him, and he pretended that he
+fully believed their stories, thus putting them at their ease and
+getting much more detailed information. In this way he came to visit
+most of the neighbouring villages.
+
+As a matter of fact I did not obtain any important information, for
+while there were plenty of men who "had seen" (?) them, they were
+reticent on the subject, always concluding that they were probably
+mistaken for all the encounters had taken place at nightfall. This is
+likely enough.
+
+There was one relatively exact fact. In March 1946 a team of workmen
+under one Djaco—who later became my lab-boy and my informant and who
+died of poisoning in 1949—together with a European of whom I can find no
+trace, were supposed to have seen one of these little red men, at about
+8 in the morning, in a tall tree in a very wooded little valley about
+half a mile from the future site of the station. The European asked what
+it was and the Negroes explained what a rare thing it was to see such a
+creature and the evil effects of doing so.
+
+I was at once deluged with stories of dwarfs with their feet back to
+front, people who lived half in the lagoon and half on land (I think
+that manatees must be responsible for this legend). These tales were of
+no interest to me, but I mention them so that the record should be
+complete.
+
+He then questioned the Europeans who had travelled in the Ivory Coast:
+
+One of them told me the following:
+
+During one of his expeditions in the course of 1947 the great
+elephant-hunter Dunckel killed a peculiar primate unknown to him; it was
+small with reddish-brown hair and was shot in the great forest between
+Guiglo and Toulépeu, that is, between the Sassandra and Cavally rivers.
+Its remains disappeared while it was being carried home, no doubt having
+been disposed of by superstitious porters. Dunckel even offered to take
+my informant to the place and he in turn invited me to go with them.
+
+In 1951 the professor's new boy, in reply to his usual barrage of
+questions, told him that when he was young, probably around 1941, he had
+himself seen a hunter at Seguéla bring back a little man with red hair
+in
+
+</div>
+
+<span id="page_190">p. 190</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+a cage. The local official had put clothes on it for decency's sake and
+sent it to Abidjan by way of Bouaké. The boy did not know what happened
+to the little prisoner afterwards.
+
+This tale seems to me to have been embroidered somewhat. If the creature
+was really human it would not have been put in a cage, and if it was an
+ape the official would not have worried whether it was decently dressed.
+Either it was a creature half way between man and an ape, or more
+likely, it was an unknown primate which had been dressed up as a joke,
+as tame monkeys so often are.
+
+Professor Ledoux remarks that these tales of an unknown reddish-brown
+primate in the Ivory Coast are overlaid with the very firmly held belief
+that there are pygmies in the forest between the Sassandra and Cavally
+rivers.
+
+According to an African technician of mine from Toulépleu called Méhaud
+Taou, an intelligent boy keenly interested in these questions, there was
+recently a system of barter between the negroes and these forest
+creatures; various manufactured goods were left in the forest in
+exchange for various fruits. This was supposed to have gone on until
+1935. The little men who practised this barter were hardly known even to
+the negroes themselves. The Guérés called them *Séhité*.
+
+It is possible that these *Séhités* may be true pygmies like those in
+Central Africa.
+
+The professor's inquiries among the Europeans brought out a significant
+fact. Those who had never spent any length of time between the Sassandra
+and the Cavally denied out of hand that there could be any little men in
+the forest, whether they were true pygmies or unknown primates. On the
+other hand those who had lived in this area were seriously prepared to
+consider that pygmies might have lived there in the past and also that
+there might be a real basis for the legend of the red dwarfs. His own
+impression was that the legends and rumours in the Ivory Coast were
+based on the fairly recent presence of pygmies and the present existence
+of reddish-haired primates whose exact nature was still problematical.
+
+</div>
+
+The reports from the east side of the continent are more numerous and
+varied, and come from more separate sources. Central to these is a
+statement, that has been repeatedly republished, by one Capt. William
+Hichens in *Discovery* for December, 1937, included in an article
+entitled "African Mystery Beast." This goes as follows:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Some years ago I was sent on an official lion-hunt to this area \[Ussure
+and Simbiti forests on the western side of the Wembare plains\] and,
+while
+
+</div>
+
+<span id="page_191">p. 191</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+waiting in a forest glade for a man-eater, I saw two small, brown, furry
+creatures come from dense forest on one side of the glade and disappear
+into the thickets on the other. They were like little men, about 4 feet
+high, walking upright, but clad in russet hair. The native hunter with
+me gazed in mingled fear and amazement. They were, he said, *agogwe*,
+the little furry men whom one does not see once in a lifetime. I made
+desperate efforts to find them, but without avail in that wellnigh
+impenetrable forest. They may have been monkeys, but, if so, they were
+no ordinary monkeys, nor baboons, nor colobus, nor Sykes, nor any other
+kind found in Tanganyika. What were they?
+
+</div>
+
+Subsequent to the publication of this observation, a gentleman by the
+name of Mr. Cuthbert Burgoyne wrote to the publication *Discovery*,
+seconding Captain Hichens' story with the following:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+In 1927 I was with my wife coasting Portuguese East Africa in a Japanese
+cargo boat. We were sufficiently near to land to see objects clearly
+with a glass of 12 magnifications. There was a sloping beach with light
+bush above upon which several dozen baboons were hunting for and picking
+up shell fish or crabs, to judge by their movements. Two pure white
+baboons were amongst them. These are very rare but I had heard of them
+previously. As we watched, two little brown men walked together out of
+the bush and down amongst the baboons. They were certainly not any known
+monkey and yet they must have been akin or they would have disturbed the
+baboons. They were too far away to see in detail, but these small
+human-like animals were probably between 4 and 5 feet tall, quite
+upright and graceful in figure. At the time I was thrilled as they were
+quite evidently no beast of which I had heard or read. Later a friend
+and big game hunter told me he was in Portuguese East Africa with his
+wife and three hunters, and saw a mother, father, and child, of
+apparently a similar animal species, walk across the further side of a
+bush clearing. The natives loudly forbade him to shoot.
+
+</div>
+
+Once again Bernard Heuvelmans has brought to light two further reports,
+albeit brief. The first appeared in *The Journal of the* *East Africa
+and Uganda Natural History Society* in 1924, from the pen of one Mr. S.
+V. Cook. This states that:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Fifteen miles east of Embu Station there rises from the Emberre plains
+the lofty hills of Dwa Ngombe, nearly 6,000 feet high. They are
+inhabited, the Embu natives say, by buffalo and a race of little red men
+who are very jealous of their mountain rights. Old Salim, the
+interpreter at Embu,
+
+</div>
+
+<span id="page_192">p. 192</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+tells me with great dramatic effect how he and some natives once climbed
+to near the top when suddenly an icy cold wind blew and they were pelted
+with showers of small stones by some unseen adversaries. Happening to
+look up in a pause in their hasty retreat, he assures me that he saw
+scores of little red men hurling pebbles and waving defiance from the
+craggy heights. To this day even the most intrepid honey hunters will
+not venture into the hills.
+
+</div>
+
+The final scrap of confirmation comes secondhand from Roger Courtenay
+who tells in his *The Greenhorn in Africa* a story related to him by his
+guide named—as is almost invariable, all down the east side of
+Africa—*Ali*. Using Courtenay's own words, this goes:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+"But have you heard of the little people who live in the Mau—small men,
+who are less men than monkeys? Less than *shenzi* (i.e. loathsome
+foreigners), these little men, and almost monkeys in their lives and
+ways." And he went on to tell how his own father, who was driving his
+sheep to pasture on the slopes of Mount Longenot, fell into the hands of
+these gnomes when he went into a cave, following the trail of blood left
+by one of his cattle that had been stolen. He was stunned from behind,
+and when he came round he found he was surrounded by strange little
+creatures. "The Mau men were lower even," he told his son, "than those
+little people of the forests \[the pygmies\] for, though they had no
+tails that I could see, they were as the monkeys that swing in the
+forest trees. Their skins were white, with the whiteness of the belly of
+a lizard, and their faces and bodies were covered with long, black
+hair." To his great surprise the shepherd noticed that his spear was
+still lying at his side. "The Mau men who are so nearly monkeys did not
+know what was the spear. It is possible they did not know I could have
+fought with it and killed many of them."
+
+</div>
+
+The first reaction to reading these reports is, perhaps naturally, to
+suggest that all the reporters, both local and foreign, had stumbled
+upon a group of true Pigmies, the race of little men who are so
+well-known in the Uele District of the Congo, and at some other points
+about central Africa. It is true that the skins of these people are not
+by any means lacking in a fine, yellowish, downy hair, and that they
+also make a practice of painting themselves white or red for certain
+ceremonial purposes. Also, they are tiny and primitive enough to fit the
+bill. Further, there is no doubt that they were once
+
+<span id="page_193">p. 193</span>
+
+very much more widely distributed almost all over Ethiopian Africa. Then
+also, we must remember that there was once—and there are some still
+living in the Kalahari area—also another completely different race of
+men that were spread all over the continent, and perhaps even into what
+is now Europe in the middle Stone Age. These are the
+yellowish-redskinned Bushmen. Some of them are, and were, very small but
+they have no body hair.
+
+The Negroid peoples are apparently the most modern or newest development
+among human beings, and have very specialized characteristics. It seems
+that they did not even appear on the scene until just about the
+beginning of historical times, and their point of origin appears to have
+been about the headwaters of the Nile. Thence they spread outward in all
+directions possible but in two main streams, one to the west across the
+three Sudans; the other to the east and then south around the great
+lakes and down the eastern uplands. As a matter of fact, the Negro
+peoples only reached South Africa just about the same time as the white
+man did from Europe by sea in the 16th century. These eastern tribes, by
+interbreeding with early Caucasoid types, produced first the Bantu
+peoples, and later the Hamitic. The former wheeled west and crossed the
+Congo, reaching the Cameroons. The tribes that went directly west
+through the Central and into the Western Sudan, encountered a different
+state of affairs. North of the Congo Basin, and all the way to the bulge
+of Africa to the west, there were no Caucasoids to intermingle with but
+there were apparently lots of peoples of the Bushman variety, living in
+the forests at a very low stage of culture. These, the Negroes did not
+absorb to any substantial degree. Instead, they either exterminated or
+completely enslaved them. This is a most important fact that is not
+customarily known about forest West Africa.
+
+I was once greatly surprised when, upon inviting a whole large village
+of the Akunakuna tribe on the Cross River in Nigeria to gather for an
+evening of music and other festivities, to see the community drawn up in
+four very clearly separated groups; two in the foreground with the
+Paramount
+
+<span id="page_194">p. 194</span>
+
+<span class="contnote">\[paragraph continues\]</span> Chief and assorted
+Chiefs and Sub-Chiefs in front, and two other groups on either side, far
+behind. It was still daylight when they assembled and to our greatest
+surprise we suddenly saw that we were looking at two quite different
+peoples composed of: tall, very dark-brown skinned Negro men, and sturdy
+tall women of the same cast of feature and skin color, *and* of very
+short, almost pigmy men, with pale reddish-brown skins, flat faces,
+broad noses, hugely everted lips and little bandy legs on the one side,
+and a mass of tiny but very fat women of the same type and color on the
+other, all of whom had tremendous bottoms. Demanding to know from the
+local Headman "What be those?" and why everybody was not mixing it up in
+the truly democratic way, I was solemnly informed that, as I was not a
+government official, I would be pleased to know that those others were
+"slave-man." Slavery being absolutely taboo in that \[then British\]
+Protectorate, I sought further information and learned that there are
+whole enslaved peoples living within the body of many tribes in the
+general area, who are hewers of wood and drawers of water and with whom
+it is, and always has been, absolutely verboten to interbreed. These
+people were as good \`Bushmen" types as I have ever seen.
+
+We must therefore bear in mind that really extremely primitive peoples
+do still exist all over Ethiopian Africa, and that these have manifestly
+been either enslaved, or actually hunted by the tall, proud Negro
+peoples for centuries but still survive. Those not enslaved must be
+pretty wary and adept at concealment. Nonetheless, both the Sudanese in
+the west and the Bantus in the east seem to insist that such as the
+*Sehités* and *Agogwes*, though *men* alright, are even more lowly and
+ancient than these Bushman-like primitives. I do not think that we have
+to go so far as to dredge up the Australopithe- cines to explain them
+\[though that, of course, is by no means impossible\] because there must
+have been innumerable races and subraces of men, submen, and
+apelike-looking men (or Apemen, if you will) in the intermediate 500,000
+years. Relics of goodness knows how many races could still be lingering
+on in the montane forests of Africa. Let us not forget that it
+
+<span id="page_195">p. 195</span>
+
+was not till 1910 that the second largest land animal in the world was
+found in Africa (Cotton's Ceratothere, or *Ceratotherium* *cottoni*)—a
+kind of Rhino—and the fabulous Okapi (*Okapia* *johnsoni*) turned up.
+The Congo Peacock had to wait till 19361 To say that there is no place
+where creatures, even of the size of pigmies, could still lurk unknown
+on this continent is outright stupidity, as evidence the arrival upon
+the zoological horizon this past years of the large *Ufiti*. This ought
+to be an object lesson to all skeptics.
+
+This story broke in February, 1960, with a news report that sounded as
+wacky as any we have so far encountered. It read, in one version (*The
+Sunday Mail*, Zomba, Nyasaland, February 14, 1960):
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Nyasaland game rangers, investigating reports of a "black, shaggy
+monster" seen in the forest region of Nkata Bay, Lake Nyasa, have
+discovered more than 30 mysterious tree-top structures in the area. In
+an official report, the Chief Ranger, Mr. Oliver Cary, says they are
+believed to be lairs \[sic\] built by these strange creatures. Known
+locally as "Ufiti"the ghost of the supernatural—various reports have
+described the animal as black with long hair, a colorless posterior, no
+tail, broad-chested, and about 5 ft. tall. One was photographed recently
+by a Public Works Department employee, Mr. D. McLagen, in the vicinity
+of Limpasa Bridge which crosses a stream near Nkata Bay on Lake Nyasa in
+the Northern Province of the territory.
+
+</div>
+
+This is a very good example of the sort of report with which we have to
+deal as a normal course of events in ABSMery. It is nonetheless shot
+full of blather; so let us just look at it critically before we come to
+the windup of this story.
+
+First, as usual, anything not previously and definitely known of the
+animal kind is invariably and immediately called a "monster." This is
+totally irresponsible and especially in a case like this when, as it
+turned out, the object involved was something that every foreigner
+should have seen many times in any zoo. Next, the designation of certain
+objects as "mysterious tree-top structures" is deliberately misleading.
+Why didn't the reporter state what sort of structures they were, and why
+they were mysterious? Birdhouses made of plywood, or Amerindian-type
+wigwams
+
+<span id="page_196">p. 196</span>
+
+in Nyasaland *would* be mysterious, but these crude nestlike platforms
+of twisted branches and twigs were not—they were typical. Then, if the
+creatures were known locally by a perfectly good name, there was nothing
+really mysterious about the platforms. To call their makers' "ghosts" is
+going a bit far. Since when have ghosts been reported making treetop
+nests? But, when we contemplate the phrase "*the ghost of the
+supernatural*" one—at least one whose native tongue is the English
+language—stands aghast. Aren't ghosts supernatural anyway? Or am I
+mistaken? And what the heck is *the* ghost of the supernatural? What is
+more, the writer immediately goes on to call the thing an "animal" with
+a "colorless posterior"! What is "colorless"? Was the damned thing's
+fundament black, white, or yellow, like peoples' or was it just a great
+"nothing." "Words," as a famous British parliamentarian once said,
+"should convey meaning." Why this obvious axiom should not apply also to
+official reports and news-stories I cannot for the life of me see.
+Finally, we are informed that one was photographed; but no reproduction
+is attached to the story. Was the picture "classified"; was it so bad
+you couldn't see what it was; or was it so bloody obvious that nobody
+dared show it for fear of being called an ass. Or, alternatively, was it
+so clear but "out of context" that nobody wanted to admit it?
+
+The whole story, as it was subsequently unfolded, is a classic; and it
+may well serve as an example of the function- ing of the modern world in
+face of anything unexpected and frankly unwanted. It had the usual red
+herrings; some ridiculous, others most extremely interesting. The first
+were bandied about infinitely; the latter have been totally ignored.
+Then everybody, at first, said that it was a "native myth"; next, they
+got it as an animal; then they affirmed that it had run away from a
+circus \[what circus in a patch of forest not previously penetrated in
+"darkest" Africa?\]; and then the real "wipe" began. The "experts,"
+having been confounded by the production of photos and the insistence of
+"authority" that the thing existed—they having said that it
+couldn't—could not "explain it away." This time, however, photographs
+seem to
+
+<span id="page_197">p. 197</span>
+
+show clearly that the creature seen was a representative of a race of
+chimpanzees indigenous to this large patch of closed-canopy forest
+isolated from the nearest of their race, or any such forest by no less
+than 700 miles. \[This conclusion has, nonetheless, been nicely covered
+by a firm order that, in no circumstances, is one of these creatures to
+be caught or killed for proper examination.\]
+
+This is all very well but it has a number of singularly unpleasant
+aspects. First, the natives thereabouts seem to have known the thing
+quite well and to have had a name for it; yet, the nearest whites and
+even the game people treated the thing as a "story." True, this
+creature, like ABSMs in many places, was only brought to light when the
+first road was pushed into this forest—shades of Jerry Crew—but then
+everybody indulged the most ridiculous folderol about "ghosts of the
+supernatural." <span id="fr_23"></span>[\*](#fn_23) Then, the alleged
+photos have not been published. They arrived in Salisbury, capital of
+the Federation, on February 6 and were said next day to have "puzzled
+anthropologists and zoologists." We then get "A spokesman for the
+Victoria Memorial Museum in Salisbury" saying that the pictures were not
+sufficiently clear for positive identification. He pointed out, however,
+that "the picture \[singular, this time\] and description tallied with a
+Bushman painting found in the Ruwa region that had been thought to be a
+"bear"." \[This is a near classic in that no bears now live in nor have
+any fossils of any one of them ever been found anywhere in Africa south
+of Morocco and Algeria.\] Be that as it may, we then read on—and I quote
+from *The Rhodesia* *Herald*, of February 7, 1960:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+An eminent Rhodesian zoologist, Mr. R. H. N. Smithers, of the National
+Museum, was able, even from the poor pictures available, to point out
+several unusual features. He said:
+
+"From the statements I have heard from Nyasaland, and from the pictures,
+the animal would at first appear to be a chimpanzee. There are,
+
+</div>
+
+<span id="page_198">p. 198</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+however, two facts that do not support this contention. The animal has a
+distinctly muzzle-like face, while the chimpanzee has a flat "pushed in"
+type of face. Secondly, the animal is, as far as I can recollect, more
+than a thousand miles from where it should be if it was a chimpanzee.
+The beast is obviously not a baboon, even though it has a baboon-like
+face, as baboons have tails and are not black in colour. In addition, a
+baboon does not have this animal's posture and bearing. Then there is
+the enormous size of the animal, which does not agree with either the
+chimpanzee or the baboon." Mr. Smithers said it was most unlikely that
+the animal was of a new species, and added that, if better photographs
+could be obtained as well as plaster casts of the feet, it would
+probably be possible to identify it.
+
+</div>
+
+Just what the worthy zoologist meant by "a new species" I cannot
+determine.
+
+This is all very splendid but then history began to change. I have a set
+of press releases on the subject, issued with the compliments of the
+Nyasaland Information Department, P.O. Box 22, Zomba, Nyasaland, and
+numbered 28/60, 38/60, 51/60, 69/60, 73/60, 81/60, 93/60, and 106/60.
+These constitute ten legal-sized mimeo sheets of most fascinating
+reading. I wish only that I could reproduce them for you in full as they
+constitute a most exemplary public relations procedure and a most
+typical example of what a press officer has to contend with when dealing
+with "experts." Here is the whole story, told officially, starting with
+a report from two pragmatic Public Works Department officials on
+December 16, 1959, of "an unknown animal seen on a road" to a final
+pronouncement by two "game experts" from the Rhodes-Livingstone Museum
+on the following March 17, 1960. This last I herewith reproduce.
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+*PRESS RELEASE NO. 106/60*.
+
+(Issued Wire & Telephone services)
+
+*UFITI STILL ELUSIVE*
+
+Zomba, Thursday.
+
+Nyasaland's rain-forest monster, Ufiti, has been identified as a new
+sub-species of chimpanzee by two game experts from the
+Rhodes-Livingstone Museum.
+
+Mr. B. L. Mitchell and Mr. C. Holliday, who are keeping the creature
+
+</div>
+
+<span id="page_199">p. 199</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+under almost daily observation, have not yet been able to obtain any
+photographs. <span id="fr_24"></span>[\*](#fn_24) Ufiti remains as
+elusive as ever, vanishing as soon as she is approached, and thick bush
+and poor light add to the difficulties of getting clear pictures.
+
+Ufiti, who is believed to be in season, has returned to her favourite
+observation point at the Limpasa Bridge after an absence of about a
+fortnight. The Chief Conservator of Forests, Mr. R. G. M. Willan, who is
+touring the area, was among several people who saw the creature when it
+reappeared near the road on Tuesday.
+
+The two game experts, who are collecting photographs <span
+id="fr_25"></span>[\*](#fn_24) and other forms of visible evidence, hope
+to arrange a bigger expedition to explore the whole rain-forest area.
+
+It is unlikely, however, that any scientific expedition will be allowed
+to capture Ufiti for closer examination until it can be established that
+more of the creatures exist in the rain-forest.
+
+Issued by the Press Section,
+
+Nyasaland Information Department,
+
+P.O. Box 22,
+
+Zomba, Nyasaland
+
+March 17, 1960
+
+</div>
+
+This would at first sight all appear to be more than satisfactory. For
+once, it would seem, the mystery has been explained, the "monster"
+identified, and zoological knowledge enhanced. But unfortunately and
+quite apart from the fact that nothing further has been done about
+anything, a number of most pertinent questions have either been left
+hanging or neatly buried. Let me dredge up some of these from the
+official releases first. For instance, in Release No. 93/60, we read the
+curious statement that "Although reports indicate that *Ufiti* is likely
+to prove a giant subspecies of Chimpanzee, her *pug* \[sic\] marks are
+said to be more human than animal. She is unusually large for a
+chimpanzee and her mouth is much smaller." Then, in Release No. 81/60 we
+find "*He* appears to be almost 6 feet tall with short legs and powerful
+arms, and most observers estimate his weight in the region of 150 lbs."
+In the same issue it goes on to say "Plaster casts of its hind
+footprints reveal *three* \[italics mine\] toes and a
+
+<span id="page_200">p. 200</span>
+
+large thumb." I had better cut in here to point out a few items.
+
+Either footprints were obtained or they were not; if they were, they
+were either more human, or more animal; but no human has only three toes
+and a large "thumb" on its foot, while gorillas and chimps have four
+toes and a widely separated and enormous big toe. Then, no chimp ever
+stood 6 feet tall, or even 5 feet; chimps of those dimensions being
+unable to stand on their puny hind legs alone. What is more, if this is
+a chimp, and of that size, it would weigh more in the neighborhood of
+300 pounds, by the very construction of the beast. These are official
+conundrums. Others come from nonofficial sources. The first is in the
+form of a letter to the *Rhodesian Herald*, of February 24, 1960, from a
+Mrs. Ida P. Wood. This reads:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Sir,—Further to your article on the unknown animal photographed by
+"Lofty" McLaren, perhaps the following would be of use to you and to the
+authorities, who seemed doubtful of the identity of the beast. During an
+explanation to my houseboy on the picture of a tiger on a certain
+breakfast cereal packet, I told him that this animal did not live in
+Africa, and the animal he calls tiger was not in fact a tiger at all and
+that the one on the box was very strong. The word strong seemed to
+strike a bell because, cutting the story as short as possible, he asked
+me then, did I know the "Strong Man." After much hand-waving indicating
+height and breadth, and after being told that it was like a baboon only
+much, much bigger, I came to the conclusion he meant a gorilla.
+
+I said, yes, I did know it, but had not seen one out here. He, it seems,
+has seen them in Nyasaland. He went on to describe them, said there were
+two kinds, a grey and a black one, the black being slightly smaller than
+the grey, about his own height to be exact, 5 ft. 8 in.-5 ft. 9 in. The
+boy comes from Nyasaland and says he saw the first black one in the
+forests near a village by the name of Nazombea in 1952. The other he saw
+in P. E. A. in 1953 by the village of Kurriwe.
+
+Both these names are the Chinyanja pronunciation and the animals in
+Chinyanja are called Fireti. I questioned him closely about the
+possibility of the black one being a different kind but "no," he said,
+"they are the same, only one black, one grey, and only ever one at a
+time."
+
+</div>
+
+<span id="page_201">p. 201</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+It makes a bed as a gorilla <span id="fr_26"></span>[\*](#fn_25) does,
+large and untidy, usually sleeps in it only once, I suppose to eliminate
+the possibility of discovery.
+
+I should be interested to know what the anthropologists interested in
+the previous article think of this information if you would be good
+enough to pass it on. Have the photographs been printed yet?
+
+(signed) Mrs. Ida P. Wood
+
+Sinoia
+
+</div>
+
+This clearly indicates that these creatures *are* known in the area, and
+I have no doubt that a little ingenious and patient inquiry among the
+"benighted local natives" would disclose the fact that they have always
+been very widely known. I should explain that this business of "there is
+a black one and a white one" is almost universal in Africa and usually
+denotes marked sexual dimorphism, which is displayed by so many animals.
+\[Incidentally in many parts of Africa only three colors are
+recognized—black, white, and red. The last is all the earth colors from
+deep orange, through all the browns to deep red. Everything, including
+blues and greens are either white or black according to whether they are
+in strong light or in shade. All shades of color are "so-so" red, black,
+or white.\] This African's insistence that, although there are two
+kinds, they are the same beast, would indicate that the differences are
+either sexual or due to age.
+
+The other concurrent oddity was from quite another part of Africa, 1400
+miles distant, and in an area from which we had not previously had any
+reports. This is actually a very astonishing report and one that should
+be taken most seriously in view of the almost constant surprises that
+are coming out of Southwest Africa and Angola. This part of Africa is
+rapidly assuming the guise of truly "The Darkest," for big game never
+even known to exist there is turning up, and among it are many record
+specimens, while it is the home of the otherwise nonexistent, Giant
+Sable Antelope, and so forth. This apparent ABSM was originally reported
+in the *Evening Standard* of Salisbury for November 18, 1959 but did not
+become
+
+<span id="page_202">p. 202</span>
+
+fully recognized until after the *Ufiti* or *Fireti* affair broke. It
+reads as follows:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+**Windhoek, Wed.—**The authorities in South-West Africa and farmers in
+the vicinity of Outjo are wondering whether a large shambling ape or
+monkey which has been seen on farms near Outjo is not a gorilla. People
+who have seen the animal state emphatically that it is not a large
+baboon. According to their descriptions, the animal closely resembles a
+gorilla. Its footprints are also like those of a gorilla. A farmer, Mr.
+Thuys Maritz, who's Ovambo herdboy reported that the animal had stolen
+his blankets and food, tried to track the animal down but lost the trail
+over rocky ground. The spoor clearly showed that the animal walks on two
+legs. Occasionally, prints resembling knuckle impressions were found
+next to the spoor. The footprints are about 5½ in. wide and resemble
+marks made by a human hand. The five fingers or toes are clearly
+defined. The authorities have appealed to farmers not to shoot the
+animal but to try to capture it alive. The nearest place where gorillas
+are known to live is in the Belgian Congo, nearly 1000 miles from
+South-West Africa.
+
+</div>
+
+Disregarding this report, and reverting to the *Ufiti* for a moment, it
+should be pointed out that there is something very wrong with the whole
+thing. I cannot bring myself to believe that game wardens, forest
+officers, and such other solid citizens could all have been absolutely
+ignorant of chimpanzees as specific animals. Had none of them ever been
+to a zoo where one was housed, or seen so much as a picture of one in a
+book? Even a fleeting sight of such an animal ought to have been enough
+for them to recognize it—if it *was* a chimpanzee. Zoologists and
+anthropologists ought, almost to the same degree, to have been able to
+spot such an animal from any photograph that displayed anything even
+approaching an outline. That any could be in doubt about the identity of
+a picture which was clear enough to ascertain that the animal depicted
+was *not* a baboon, is frankly amazing. There is nothing impossible in a
+sub-species of chimpanzee turning up in this forest and having been
+there all along though in several respects it might be considered
+unlikely, but there is absolutely no doubt about the footprint of an
+ape. It is utterly different from that of any Hominid. There can be no
+doubts
+
+<span id="page_203">p. 203</span>
+
+here. The matter of the *Ufiti* is a most damning indictment of "the
+experts" for, from the published record on file, they would obviously
+then be shown not to know the first thing about their claimed
+specialties. I now have copies of the photographs mentioned together
+with some other most clear close-ups taken later. All, and even the
+foggiest, clearly shows a robust, and typical chimpanzee in very fine
+coat, either peering intently down from a tree in typical Pongid
+fashion, or standing stolidly on all fours in the preferred Great Ape
+stance. \[No walking about on *her* back legs, mark you.\] The
+photographs of two footprints, part of a track in soft earth, are at
+first rather startling as they look almost human but have only four
+toes. However, it is the photo not the prints that is startling for,
+viewed from other angles the "missing toe," namely the great one that is
+very widely—and properly for a chimp—separated is quite plain. This is a
+tale of woe but most important to our search, because it goes far to
+show just what appalling mistakes can be made, misconceptions built up,
+and fantasies conceived in a matter such as this.
+
+When we come to the last great area for alleged "unknowns" in Africa we
+do not, thank goodness, have to deal with experts. However, we have to
+rely on travelers, big-game hunters, and other nonexperts who are
+sometimes almost as bad. \[Oh, for the good old days of
+bulldozer-operators, and timber-cruisers!\] However, there is one very
+bright gleam ahead and this—and almost for the first and only time—is a
+real, honest-to-goodness, fully trained, truly expert, and also
+successful professional "animal collector"; none other than Charles
+Cordier, the Swiss, who has persistently brought back to museums and
+zoos what they really want; properly housed and fed, or properly
+preserved. Here at last is a man whom we can not only rely on for common
+sense reporting, but who really knows his animals and his zoology, as
+well as a great part of the world. You may place more reliance on what
+he says than upon almost all of the rest of the involuntary and even the
+voluntary ABSM hunters combined.
+
+This information comes to me once again from Bernard Heuvelmans
+
+<span id="page_204">p. 204</span>
+
+who had just \[at the time of writing\] received it from Cordier who
+(January, 1961) was somewhere in the Congo. Charles Cordier wrote
+Bernard: "We met three tracks of hind feet—no knuckle marks—in soft mud
+near water. The tracks were most unusual," he says. Also, they were not
+those of a gorilla; and, Cordier goes on: "I ought to know, I have a
+silverback. These 12" tracks were no gorillas." \[The gorilla imprint
+should be compared with the photograph of one made in plaster in
+Appendix B.\] This find was made, as far as we know of now, somewhere in
+the Bakavu area. The track-maker is obviously some new form of large
+Pongid.
+
+This brings up a whole string of stories from less reliable sources.
+These begin with something that has been named the Tano Giant, and was
+first described by one, Louis Bowler, half a century ago. It has some
+funny features, and some illogicalities. It states:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Far away in the primeval forests of the Upper Tano, in the Gold Coast
+Colony, a strange tale is told by the natives of a wild man of the
+woods, which would appear from the description given to be a white ape
+of extraordinary stature and human instinct. The natives who live in the
+village near to the haunts of this freak of nature are terrified out of
+their wits. They barricade their doors at night, and place broiled
+plantains and cassava on the jungle paths leading into the village to
+propitiate him and appease his hunger. They declare he comes to the
+village at night, and only runs when fire is thrown at him. The women
+especially are almost scared to death, and go in a body to their
+plantain farms. It appears that two women while gathering plantains were
+confronted by this creature. One he seized and flung over his shoulder
+carrying her off; the other ran screaming with fright back to the
+village. No trace of the other woman has been found. Several children
+have been taken by this creature, their mutilated bodies being found
+with the whole of their bowels devoured.
+
+The hunter and women who have seen this animal describe him as "past all
+man" in size; his arms they describe as thick as a man's body; his skin
+"all the same as a white man," with black hairs growing thereon. The
+hands have four fingers but no thumb, the head is flat, and, as they
+describe it, "left small for big monkey head," meaning that it was very
+near or like a large monkey's head. They say the mouth "was all the same
+as monkey with big teeth sticking out, and he carries a skin of a bush
+cow," which the natives say "he carries for cloth when small cold, catch
+him,"
+
+</div>
+
+<span id="page_205">p. 205</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+meaning he wraps himself up in it when feeling cold. A hunter tried to
+shoot him, but he smashed the gun and broke both the hunter's arms. Many
+other incidents are related of this terror of the Upper Plains.
+
+</div>
+
+The most outstanding aspect of this report is, to me, that once again it
+is of something definitely Hominid and that came out of a montane forest
+onto orchard-bush, as in the Southwestern case from Windhoek. This is
+indeed unusual. The other outstanding fact is the mention of the absence
+of a thumb. I understand that it is believed that the thumb of
+*Plesianthropus* was exceptionally small for the size of its hand, and
+was placed very high up on that hand. Is it possible that it might have
+been carried pressed against the side of the palm and so not be
+apparent? The fact that this creature was alleged to have a light skin
+covered with black hairs is also novel. The whole account is actually
+more than just aggravating in several respects because it stands
+absolutely alone as far as I have been able to find out. Naturally, one
+presumes that it is but a traveler's tale picked from native imagination
+to give it a tone of authenticity; yet, among such tales—and I have
+hundreds—it is one of the few that seems in some way to have validity.
+
+Perhaps this is because I got to know the West Africans rather well
+myself once; and, while I fully appreciate their great storytelling
+abilities, I did find them essentially most down-to-earth people when it
+comes to the question of their native fauna. West Africans told us some
+of the wildest-sounding things about their local animals but, in almost
+every case, they made good on their words by producing the darned
+things. They are not the sort to think up "thumblessness," a white skin,
+or a head "left small for big monkey head." If they said that—and these
+purport to be firsthand accounts, not traditional tales—they meant it,
+and precisely. The disemboweling of the children also seems to smack of
+the real thing. I know just what the teller meant to imply: namely,
+"Don't try and tell me this was a leopard because I know, even if you
+don't, that that is not the way they start to eat you."
+
+<span id="page_206">p. 206</span>
+
+The only other African ABSM that has been mentioned, and this several
+times, and by several different travelers, is the *Muhalu*. This is a
+muddled issue as may be seen from the following extract from the book
+*Hunting We Will Go* by Mrs. Attilio Gatti. This reads as follows:
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+Then there are rumors about strange anthropoids. One is a large ape
+which is said to live in the Rainy Forest, the pygmy tribes call it the
+*Muhalu*. Commander Attilio Gatti, the well-known African explorer, has
+repeatedly declared that he, for one, believes in the existence of the
+Muhalu and willingly accepts the descriptions of the pygmies who say
+that it is exceptionally large, walks erect habitually, and is covered
+with very dark, possibly black, fur, except for the face, where the
+hairs are white.
+
+Another again, and the worst of all, is a big animal with a coat of long
+hair, black on the back, white on the other parts of the body. And it is
+enough to be seen by this monster, for one to die in the most atrocious
+agony.
+
+We found awaiting us a man from Soli's to say that the pygmies had been
+on the trail of a Bongo mother and young one, and that if the Bwana
+would come they were sure they would capture the little one.
+
+So Tille decided to have one more fling. He also decided to take a group
+of our own boys with him to act as porters. Before they could start,
+however, an event occurred which reduced all Kalume's men to panic.
+
+Ever since we had been in the Ituri we had heard repeated tales and
+rumors of a great animal called by the Bondande, "muhalu." Of all things
+that could arouse terror, this muhalu was the King Bee. Tille had been
+extremely interested in the matter and believed that the creature really
+did exist and was a hitherto unknown fifth anthropoid or subhuman.
+
+At this time, however, he had done no more than talk about it now and
+then. Now, on this morning, one of our men rushed into the clearing, his
+face gray with fright, babbling about the dread muhalu. His stories were
+conflicting. First he said it had knocked him down, and this seemed odd
+because the natives firmly believed that a muhalu had only to look at a
+man and that man would instantly die. Then the boy said he had seen the
+muhalu first and ran away. No matter what had actually happened, the
+news that a muhalu was in the vicinity nearly paralyzed our men.
+
+Tille insisted on going to investigate at the point where the boy
+claimed to have seen the beast. I don't know how he succeeded in
+dragging that boy, half-dead with fright, or in flicking the pride of
+Lamese and two of the other men until they agreed to accompany him.
+
+</div>
+
+<span id="page_207">p. 207</span>
+
+<div style="font-family: Helvetica, Arial, Geneva, sans-serif">
+
+He did find enormous footprints, and several stiff black hairs in the
+hollow of a tree where the evidence showed the brute had been sitting.
+Neither hairs nor print corresponded to any other known ape.
+
+But the panic of our natives had grown so fast that Tille could not stem
+it. Even Kalume begged us, with all his heart, to leave Tzambehe and
+come down to his village. All of our natives, though they had no wish to
+abandon us, were preparing to leave.
+
+</div>
+
+In this area, namely the southern face of the Ubangi-Shari Massif, it
+would seem that we have to deal with two quite separate entities—one an
+unknown Pongid, and another a Hominid, or ABSM. Despite the rather
+obvious exaggerations of the descriptions given by locals—and notably by
+the Pigmies, with whom it is extremely difficult, if really at all
+possible, to communicate—neither appear really to be too outrageous.
+Perhaps one is the terrestrial ape that leaves the odd prints now
+recorded by Cordier, while the other is something akin to the Tano
+Giant. There are a set of tracks recorded from Bakumu which the locals
+say were made by what they call the *Apamandi*, which they there
+describe as a very heavily built small man, clothed in black hair, but
+having a light skin. These prints are approximately eight inches long,
+very short and broad, and have the strange distinction of having the
+second toe longer than either the first or third, and being somewhat
+separated from the first or big toe. The significance of this toe
+proportion will become apparent when we come to investigate the
+*Meh-Teh*, or Snowman of the Himalayas.
+
+The accounts of these two \[or is it but a single\] creatures are very
+vague, fragmentary, and rare. Yet, if you visit the northwestern edge of
+the Ituri Forest you will find that it (or they) are taken quite for
+granted as being rare, but by no means excessively rare, units of the
+local fauna; living in the upper montane forests to the north, and from
+time to time coming down on to the lowlands. I have talked to many
+people who have been into this, previously unadministered, area but only
+those who were specifically interested in its fauna, or who spent time
+investigating the ideas and knowledge of the locals, had ever heard of
+it. Those who did so,
+
+<span id="page_208">p. 208</span>
+
+however, all seem to be of the opinion that there is a race of gorilla
+in the area, or that there is at least some large terrestrial ape there.
+When I asked if, in their opinion, it could be a primitive Hominid
+rather than an advanced ape, the opinions have been violently divided.
+Most returned my query with a perfectly blank stare; but some said "Yes"
+and invariably went on to talk about the possibility of some larger form
+of Australopithecine having survived thereabouts—and they usually pick
+on *Plesianthropus*, probably because that form has been so well
+publicized, along with reconstructions of it.
+
+Africa is undoubtedly the land of Pigmies and of some Great Apes, but it
+does not seem to sport any giant Hominids. At least the Africans don't
+imply this, even if they do refer to the Tano character and the *Muhalu*
+(or one of them) as being very big. Our real *Oh-Mah* types would be the
+perfect target for African bogeyman stories, but they just don't appear
+here, and we shall not meet them again until we reach just the place
+where they ought to be.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_22"></span>[186:\*](abs13.htm#fr_22) The popular belief is
+that there are but four living apes—the Gorilla, Chimpanzee, Mias
+(Orang), and Gibbon. This is not so. See *The Monkey Kingdom* by the
+author.
+
+<span id="fn_23"></span>[197:\*](abs13.htm#fr_23) I am wondering if by
+this expression the writer meant that a ghost of something invisible and
+probably nonexistent might, by inference, be presumed to be something
+visible and substantial. I cannot quite conceive of a ghost of a ghost.
+
+<span id="fn_24"></span>[199:\*](abs13.htm#fr_25) Please note! (Author)
+
+<span id="fn_25"></span>[201:\*](abs13.htm#fr_26) How did Mrs. Wood (or
+her houseboy) know of this?—*Author*.
+
+------------------------------------------------------------------------
+
+[Next: 10. The East—the “Mysterious”](abs14)

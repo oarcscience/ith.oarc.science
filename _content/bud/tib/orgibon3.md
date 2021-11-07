@@ -1,0 +1,43 @@
+    A SHORT HISTORICAL OUTLINE OF THE BON RELIGION
+
+
+
+       THE FOUNDER AND HIS TEACHINGS:
+       PART THREE
+
+       The doctrines which were taught by Lord Shenrab and recorded in these three 
+       accounts are divided into two systems. One classification is called Gozhi 
+       Dzonga (sGo-bzhi mdzod-lnga): "The Four Portals and the Treasury as Fifth".
+       These are:
+
+        1)       Chabkar (Chab-dkar): White Waters; it contains the esoteric or    
+                 higher tantric practices.
+
+        2)       Chabnag (Chab-nag): Black Waters; includes narratives and various 
+                 rites, magic and ordinary.
+
+        3)       Phanyul ('Phan-yul): The Land of Phan: explains the monastic 
+                 rules and gives exposition of philosophical concepts.
+
+        4)       Ponse (dPon-yul): The Lordly Guide; it contains the Great 
+                 Perfection practices (rDzogs-chen).
+
+        5)       Thothog (mTho-thog): The Treasury; it comprises the essential 
+                 aspects of all the Four Portals.
+
+        The second classification is called Thegpa Rimgu'i Bon (Theg-pa-rim-dgu'i
+        Bon), "The Bon of the Nine Successive Stages [or simply] 'The Nine Ways of 
+        Bon'". The first four are the cause (rGyud-kyi theg-pa) the next four 
+        are the ways of result ('Bras-bu'i theg-pa) and the ninth is the Great 
+        Perfection (rDzogs-chen). Examined individually their subject matters 
+        are as follows:
+        1) The Way of the Shen of Prediction: Mo (prediction), rTsis (astrology)
+           gTo (ritual) and dPhyad (examination of causes).
+        2) The way of the Shen of the Visual World: nature and origin of entities.
+        3) The Way of the Shen of Illusion: For disposing of adverse powers.
+        4) The Way of the Shen of Existence: Bardo and guiding one through death.
+        5) The Way of the Virtuous Followers: Guides those who follow this path.
+        6) The Way of the Monkhood: Rules of monastic discipline.
+        7) The Way of Pure Sound: Higher tantric practice, ritual and mandala.
+        8) The Way of the Primeval Shen: Matters of practice and behaviour.
+        9) The Supreme Way: Attainment of rDzogs-chen, the Great Perfection.

@@ -1,0 +1,279 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
+[Previous](brfb04)  [Next](brfb06) 
+
+</div>
+
+------------------------------------------------------------------------
+
+*The Brown Fairy Book*, by Andrew Lang, \[1904\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="an_f03"></span>
+
+How Ball-carrier Finished His Task
+
+After Ball-Carrier had managed to drown the Bad One so that he could not
+do any more mischief, he forgot the way to his grandmother's house, and
+could not find it again, though he searched everywhere. During this time
+he wandered into many strange places, and had many adventures; and one
+day he came to a hut where a young girl lived. He was tired and hungry
+and begged her to let him in and rest, and he stayed a long while, and
+the girl became his wife. One morning he saw two children playing in
+front of the hut, and went out to speak to them. But as soon as they saw
+him they set up cries of horror and ran away. 'They are the children of
+my sister who has been on a long journey,' replied his wife, 'and now
+that she knows you are my husband she wants to kill you.'
+
+'Oh, well, let her try,' replied Ball-Carrier. 'It is not the first time
+people have wished to do that. And here I am still, you see!'
+
+'Be careful,' said the wife, 'she is very cunning.' But at this moment
+the sister-in-law came up.
+
+'How do you do, brother-in-law? I have heard of you so often that I am
+very glad to meet you. I am told that you are more powerful than any man
+on earth, and as I am powerful too, let us try which is the strongest.'
+
+'That will be delightful,' answered he. 'Suppose we begin with a short
+race, and then we will go on to other things.'
+
+'That will suit me very well,' replied the woman, who was a witch. 'And
+let us agree that the one who wins shall have the right to kill the
+other.'
+
+'Oh, certainly,' said Ball-Carrier;' and I don't think we shall find a
+flatter course than the prairie itself—no one knows how many miles it
+stretches. We will run to the end and back again.'
+
+This being settled they both made ready for the race, and Ball-Carrier
+silently begged the good spirits to help him, and not to let him fall
+into the hands of this wicked witch.
+
+'When the sun touches the trunk of that tree we will start,' said she,
+as they both stood side by side. But with the first step Ball-Carrier
+changed himself into a wolf and for a long way kept ahead. Then
+gradually he heard her creeping up behind him, and soon she was in
+front. So Ball-Carrier took the shape of a pigeon and flew rapidly past
+her, but in a little while she was in front again and the end of the
+prairie was in sight. 'A crow can fly faster than a pigeon,' thought he,
+and as a crow he managed to pass her and held his ground so long that he
+fancied she was quite beaten. The witch began to be afraid of it too,
+and putting out all her strength slipped past him. Next he put on the
+shape of a hawk, and in this form he reached the bounds of the prairie,
+he and the witch turning homewards at the moment.
+
+Bird after bird he tried, but every time the witch gained on him and
+took the lead. At length the goal was in sight, and Ball-Carrier knew
+that unless he could get ahead now he would be killed before his own
+door, under the eyes of his wife. His eyes had grown dim from fatigue,
+his wings flapped wearily and hardly bore him along, while the witch
+seemed as fresh as ever. What bird was there whose flight was swifter
+than his? Would not the good spirits tell him? Ah, of course he knew;
+why had he not thought of it at first and spared himself all that
+fatigue? And the next instant a humming bird, dressed in green and blue,
+flashed past the woman and entered the house. The witch came panting up,
+furious at having lost the race which she felt certain of winning; and
+Ball-Carrier, who had by this time changed back into his own shape,
+struck her on the head and killed her.
+
+For a long while Ball-Carrier was content to stay quietly at home with
+his wife and children, for he was tired of adventures, and only did
+enough hunting to supply the house with food. But one day he happened to
+eat some poisonous berries that he had found in the forest, and grew so
+ill that he felt he was going to die.
+
+'When I am dead do not bury me in the earth,' he said, 'but put me over
+there, among that clump of trees.' So his wife and her three children
+watched by him as long as he was alive, and after he was dead they took
+him up and laid the body on a platform of stakes which they had prepared
+in the grove. And as they returned weeping to the hut they caught a
+glimpse of the ball rolling away down the path back to the old
+grandmother. One of the sons sprang forward to stop it, for Ball-Carrier
+had often told them the tale of how it had helped him to cross the
+river, but it was too quick for him, and they had to content themselves
+with the war club and bow and arrows, which were put carefully away.
+
+By-and-by some travellers came past, and the chief among them asked
+leave to marry Ball-Carrier's daughter. The mother said she must have a
+little time to think over it, as her daughter was still very young; so
+it was settled that the man should go away for a month with his friends,
+and then come back to see if the girl was willing.
+
+Now ever since Ball-Carrier's death the family had been very poor, and
+often could not get enough to eat. One morning the girl, who had had no
+supper and no breakfast, wandered off to look for cranberries, and
+though she was quite near home was astonished at noticing a large hut,
+which certainly had not been there when last she had come that way. No
+one was about, so she ventured to peep in, and her surprise was
+increased at seeing, heaped up in one corner, a quantity of food of all
+sorts, while a little robin redbreast stood perched on a beam looking
+down upon her.
+
+'It is my father, I am sure,' she cried; and the bird piped in answer.
+
+From that day, whenever they wanted food they went to the hut, and
+though the robin could not speak, he would hop on their shoulders and
+let them feed him with the food they knew he liked best.
+
+When the man came back he found the girl looking so much prettier and
+fatter than when he had left her, that he insisted that they should be
+married on the spot. And the mother, who did not know how to get rid of
+him, gave in.
+
+The husband spent all his time in hunting, and the family had never had
+so much meat before; but the man, who had seen for himself how poor they
+were, noticed with amazement that they did not seem to care about it, or
+to be hungry. 'They must get food from somewhere,' he thought, and one
+morning, when he pretended to be going out to hunt, he hid in a thicket
+to watch. Very soon they all left the house together, and walked to the
+other hut, which the girl's husband saw for the first time, as it was
+hid in a hollow. He followed, and noticed that each one went up to the
+redbreast, and shook him by the claw; and he then entered boldly and
+shook the bird's claw too. The whole party afterwards sat down to
+dinner, after which they all returned to their own hut.
+
+The next day the husband declared that he was very ill, and could not
+eat anything; but this was only a presence so that he might get what he
+wanted. The family were all much distressed, and begged him to tell them
+what food he fancied.
+
+'Oh! I could not eat any food,' he answered every time, and at each
+answer his voice grew fainter and fainter, till they thought he would
+die from weakness before their eyes.
+
+'There must be some thing you could take, if you would only say what it
+is,' implored his wife.
+
+'No, nothing, nothing; except, perhaps—but of course that is
+impossible!'
+
+'No, I am sure it is not,' replied she; 'you shall have it, I
+promise—only tell me what it is.'
+
+'I think—but I could not ask you to do such a thing. Leave me alone, and
+let me die quietly.'
+
+'You shall not die,' cried the girl, who was very fond of her husband,
+for he did not beat her as most girls' husbands did. 'Whatever it is, I
+will manage to get it for you.'
+
+'Well, then, I think, if I had that—redbreast, nicely roasted, I could
+eat a little bit of his wing!'
+
+The wife started back in horror at such a request; but the man turned
+his face to the wall, and took no notice, as he thought it was better to
+leave her to herself for a little.
+
+Weeping and wringing her hands, the girl went down to her mother. The
+brothers were very angry when they heard the story, and declared that,
+if any one were to die, it certainly should not be the robin. But all
+that night the man seemed getting weaker and weaker, and at last, quite
+early, the wife crept out, and stealing to the hut, killed the bird, and
+brought him home to her husband.
+
+Just as she was going to cook it her two brothers came in. They cried
+out in horror at the sight, and, rushing out of the hut, declared they
+would never see her any more. And the poor girl, with a heavy heart,
+took the body of the redbreast up to her husband.
+
+But directly she entered the room the man told her that he felt a great
+deal better, and that he would rather have a piece of bear's flesh, well
+boiled, than any bird, however tender. His wife felt very miserable to
+think that their beloved redbreast had been sacrificed for nothing, and
+begged him to try a little bit.
+
+'You felt so sure that it would do you good before,' said she, 'that I
+can't help thinking it would quite cure you now.' But the man only flew
+into a rage, and flung the bird out of the window. Then he got up and
+went out.
+
+Now all this while the ball had been rolling, rolling, rolling to the
+old grandmother's hut on the other side of the world, and directly it
+rolled into her hut she knew that her grandson must be dead. Without
+wasting any time she took a fox skin and tied it round her forehead, and
+fastened another round her waist, as witches always do when they leave
+their own homes. When she was ready she said to the ball: 'Go back the
+way you came, and lead me to my grandson.' And the ball started with the
+old woman following.
+
+It was a long journey, even for a witch, but, like other things, it
+ended at last; and the old woman stood before the platform of stakes,
+where the body of Ball-Carrier lay.
+
+'Wake up, my grandson, it is time to go home,' the witch said. And
+Ball-Carrier stepped down oft the platform, and brought his club and bow
+and arrows out of the hut, and set out, for the other side of the world,
+behind the old woman.
+
+When they reached the hut where Ball-Carrier had fasted so many years
+ago, the old woman spoke for the first time since they had started on
+their way.
+
+'My grandson, did you ever manage to get that gold from the Bad One?'
+
+'Yes, grandmother, I got it.'
+
+'Where is it?' she asked.
+
+'Here, in my left arm-pit,' answered he.
+
+So she picked up a knife and scraped away all the gold which had stuck
+to his skin, and which had been sticking there ever since he first stole
+it. After she had finished she asked again:
+
+'My grandson, did you manage to get that bridge from the Bad One?'
+
+'Yes, grandmother, I got that too,' answered he.
+
+'Where is it?' she asked, and Ball-Carrier lifted his right arm, and
+pointed to his arm-pit.
+
+'Here is the bridge, grandmother,' said he.
+
+Then the witch did something that nobody in the world could have guessed
+that she would do. First, she took the gold and said to Ball-carrier:
+
+'My grandson, this gold must be hidden in the earth, for if people think
+they can get it when they choose, they will become lazy and stupid. But
+if we take it and bury it in different parts of the world they will have
+to work for it if they want it, and then will only find a little at a
+time.' And as she spoke, she pulled up one of the poles of the hut, and
+Ball-Carrier saw that underneath was a deep, deep hole, which seemed to
+have no bottom. Down this hole she poured all the gold, and when it was
+out of sight it ran about all over the world, where people that dig hard
+sometimes find it. And after that was done she put the pole back again.
+
+Next she lifted down a spade from a high shelf, where it had grown quite
+rusty, and dug a very small hole on the opposite side of the hut—very
+small, but very deep.
+
+'Give me the bridge,' said she, 'for I am going to bury it here. If
+anyone was to get hold of it, and find that they could cross rivers and
+seas without any trouble, they would never discover how to cross them
+for themselves. I am a witch, and if I had chosen I could easily have
+cast my spells over the Bad One, and have made him deliver them to you
+the first day you came into my hut. But then you would never have
+fasted, and never have planned how to get what you wanted, and never
+have known the good spirits, and would have been fat and idle to the end
+of your days. And now go; in that hut, which you can just see far away,
+live your father and mother, who are old people now, and need a son to
+hunt for them. You have done what you were set to do, and I need you no
+more.'
+
+Then Ball-Carrier remembered his parents and went back to them.
+
+\[From Bureau of Ethnology. 'Indian Folklore.'\]
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: The Bunyip](brfb06)
+
+</div>

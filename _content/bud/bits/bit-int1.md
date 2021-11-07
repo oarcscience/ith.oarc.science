@@ -1,0 +1,158 @@
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-gint) [Next](bits001)
+
+------------------------------------------------------------------------
+
+|                               |                             |
+|:------------------------------|----------------------------:|
+| <span id="page_1">p. 1</span> | <span class="small"></span> |
+
+#### 
+
+CHAPTER I.
+
+THE BUDDHA.
+
+INTRODUCTORY DISCOURSE.
+
+   I<span class="small">N</span> reading the Pâli Scriptures one is
+impressed with the strong personal influence exercised by The Buddha
+over the hearts of his followers. He was regarded, not as a mere
+formulator of dry metaphysical propositions, but as a very wise and
+compassionate friend of his fellow-men. He was full of tact, and all his
+ways were ways of peace. To allay discord he would tell a little story
+or fable with a moral, and his epithet for one of whom he disapproved
+was merely "vain man." Anger, in fact, had no place in his character,
+and the reader of this book will find that it had equally none in his
+religio-philosophic system.
+
+   The term "Buddha" means "Enlightened One," and signifies that the
+person to whom it is applied has solved the riddle of existence, and
+discovered the doctrine for the cessation of misery. It was by his
+attainment of this supreme "Enlightenment" or Wisdom that Gotama became
+a Buddha. During the thirty-five years of his life previous to that
+event, and during all previous existences from the time he set out
+towards the Buddhaship, he was a Bodhisatta,--a term which I have freely
+translated "Future Buddha," but which is more literally rendered "He
+whose essence is Wisdom."
+
+   The Buddha's given name would appear to have been Siddhattha; but as
+the word means "Successful in his Objects," it looks as though it might
+be a simple epithet. The <span id="page_2">p. 2</span> Buddha belonged
+to the Sakya clan. The word "Sakya" means "Powerful;" and the families
+that bore the name had a reputation for pride and haughtiness. They were
+of the warrior caste, but cultivated the peaceful arts of agriculture.
+By his contemporaries The Buddha is usually called Gotama, or, as the
+word is sometimes Anglicized, the Gotamid. It is not quite clear why he
+and others of his clan should bear the name of Gotama in addition to
+that of Sakya. It may be they claimed descent from the ancient sage
+Gautama (Sanskrit "Gautama" becomes "Gotama" in Pâli), to whom are
+attributed some of the hymns of the Rig-Veda; or it may be, as Burnouf
+has suggested, "because Gautama was the sacerdotal family name of the
+military race of Sakyas, who, being of the warrior caste, had no
+ancestor or tutelar saint like the Brahmans, but might, as the Hindu law
+permits, have taken the name of the sage to whose family belonged their
+spiritual guide."
+
+   The Buddha was a Hindu, born not far from the Ganges, and during his
+long ministry wandered about from place to place in the section of
+country about Benares, very much as did Christ in Samaria and Judea. And
+just as Christ once left his native country and went to Egypt, so The
+Buddha is said by native authorities to have paid a couple of visits to
+Ceylon; but the statement is, I fear, somewhat mythical.
+
+   The date of Gotama Buddha is considered to be the sixth century
+before Christ. It would appear that he lived to his eightieth year, and
+the time of his death is given by scholars as about 480 B. C.
+
+   The first eight sections of the present chapter are from the general
+introduction to the Jâtaka ("Book of Birth-Stories"). These
+Birth-Stories, five hundred and fifty in number, are so called because
+they are tales of the anterior existences of Gotama Buddha, while he was
+as yet but a <span id="page_3">p. 3</span> Future Buddha. The Jâtaka is
+an extensive work; five volumes have already been edited by Professor V.
+Fausböll, of Copenhagen, and more is yet to come. It consists of the
+Birth-Stories themselves, with a commentary and a long introduction.
+Examples of these Birth-Stories will be given further on; here we have
+only to do with the Introduction, the author of which and of the
+commentary is unknown.
+
+   After a few preliminary remarks concerning the inception and plan of
+his work, the author begins by quoting entire the Story of Sumedha as
+contained in the metrical work called the Buddha-Vamsa ("History of the
+Buddhas"). He does not quote it all consecutively, but a few stanzas at
+a time as authority for his prose statements. In this prose is also some
+matter of a commentary nature, apparently later glosses and not a part
+of the original text. In my first translation I give the Story of
+Sumedha as quoted in this Introduction to the Jâtaka, but I give it
+consecutively and omit the prose, except that of some of the more
+interesting and explanatory passages, of the glosses especially, I have
+made foot-notes.
+
+   After the Story of Sumedha our author gives formal descriptions of
+each of the twenty-four Buddhas that preceded Gotama. These
+descriptions, however, are tedious, and are not here translated. They
+mainly concern themselves with such details as the height of each
+Buddha, his length of life, how many conversions he made, the names of
+his father, mother, chief disciples, etc. But from the point where my
+second section begins to the end of the eighth I follow the native text
+without making any omissions. I have divided one continuous text into
+seven parts, and then given these divisions titles of my own devising.
+
+   The reader is thus brought up to the ministry of The Buddha. This
+ministry lasted some forty-five years, and an account of part of it is
+given by the author of the Introduction. <span id="page_4">p. 4</span>
+It is, however, only a part that he gives, just enough to conduct his
+reader up to the time when The Buddha was presented with Jetavana
+monastery, the importance of which event to our author will be readily
+perceived when it is remembered that this was the monastery in which The
+Buddha is represented as having related the greater part of the
+Birth-Stories. As our author fails to give us a complete life of The
+Buddha, and as I know of none in Pâli literature, none is attempted in
+this book. But in order that the reader may have at an early stage an
+idea of what the matters were wherein The Buddha considered himself
+"enlightened," two passages are translated from the Mahâ-Vagga. Then
+follows a description of the daily routine of The Buddha's ministry, and
+the last section of this chapter gives the Pâli account of how The
+Buddha died. It is not because the philosophical ideas expressed and the
+references to meditation and trance made in these four sections are
+supposed to be self-explanatory, that I make no comment on them in this
+chapter; but because the next three chapters, as I have already stated
+in my General Introduction, are devoted to the Doctrine, and constitute
+the philosophical and systematic part of this work. It appeared
+desirable to give the reader a general idea of what the Buddhists
+consider to be the salient features of their system of religion before
+beginning its detailed discussion.
+
+------------------------------------------------------------------------
+
+[Next: § 1. The Story of Sumedha](bits001)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,53 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [New
+Thought](../../index)  [Unity](../index)  [Index](index) 
+[Previous](mog00)  [Next](mog02) 
+
+------------------------------------------------------------------------
+
+[![](../img/uni_t.jpg)](index)  
+*Mysteries of Genesis*, by Charles Fillmore, \[1936\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+###  
+
+Foreword ... [3](mog00.htm#page_3)
+
+I Spiritual Man ... [9](mog02.htm#page_9)
+
+II Manifest Man ... [29](mog03.htm#page_29)
+
+III The Fall of Man ... [43](mog04.htm#page_43)
+
+IV The Reaction to Sense Living ... [71](mog05.htm#page_71)
+
+V The Initial Step toward Redemption ... [115](mog06.htm#page_115)
+
+VI The Promise of Salvation ... [139](mog07.htm#page_139)
+
+VII The Fruits of Faith ... [164](mog08.htm#page_164)
+
+VIII The Mental Supplants the Physical ... [188](mog09.htm#page_188)
+
+IX Man Develops Spiritual Faculties ... [231](mog10.htm#page_231)
+
+X The Spiritual Gains Precedence of the Mental ...
+[254](mog11.htm#page_254)
+
+XI Joseph a Type of the Christ ... [293](mog12.htm#page_293)
+
+XII The I AM and Its Faculties in the Body ... [323](mog13.htm#page_323)
+
+XIII The Blessing of the Faculties ... [353](mog14.htm#page_353)
+
+Question Helps ... [377](mog15.htm#page_377)
+
+Index ... [399](mog16.htm#page_399)
+
+<span id="page_5">p. 5</span>
+
+------------------------------------------------------------------------
+
+[Next: Foreword](mog02)

@@ -1,0 +1,340 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [New
+Thought](../../index)  [Unity](../index)  [Index](index) 
+[Previous](chl11)  [Next](chl13) 
+
+------------------------------------------------------------------------
+
+[![](../img/uni_t.jpg)](index)  
+*Christian Healing: the science of being*, by Charles Fillmore,
+\[1926\], at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+###  Lesson Ten Will and Understanding 
+
+1\. "If any man willeth to do his will, he shall know of the teaching."
+Man manifests that which exists eternally in Being. We talk about the
+faculties of man's mind as if they belonged to the individual and had
+origin in him. Man exists in the one invisible Mind. He may assume to
+have a mind of his own, but his origin and destiny are in God-Mind.
+
+2\. Primal causes are complete, finished, absolute. All that man
+manifests has its origin in a cause that we name Divine Mind, Spirit,
+God. This being true in logic and intuition, it is not a difficult
+matter to arrive at the conclusion that the manifestation proves the
+character of the cause. In dealing with the faculties of man, the
+relation between them and the one Mind should not be lost sight of.
+There is but one Mind, and that Mind cannot be separated or divided,
+because, like the principle of mathematics, it is indivisible. All that
+we can say of the one Mind is that it is absolute and that all its
+manifestations are in essence like itself. This brings us to the true
+estimate of man, and when we speak of spiritual man, or Christ man, or
+the son of God, we refer to this original expression of Divine Mind.
+
+3\. In analyzing these faculties and in establishing their relation in
+the individual consciousness, we should clearly understand that they are
+never separated from their Principle, the Divine Mind. In the
+
+<span id="page_108">p. 108</span>
+
+text quoted above, Jesus refers to two of the powers of man and brings
+out a certain phase of their relation. Will and know designate the
+faculties of mind that we term will and understanding. Through
+appropriation, through expansion and growth in consciousness, will and
+understanding would seem to have their source in individual man. But,
+however adapted by man, they can never be divorced from the mind of
+Being, in which they exist as essential members of its wholeness.
+
+4\. Individual consciousness is like an eddy in the ocean--all the
+elements that are found in the ocean are also found in the eddy, and
+every eddy may, in due course, receive and give forth all that is in the
+ocean. As the will of God, man represents I AM identity. This is
+individual consciousness, freedom to act without dictation of any kind,
+selfhood without consciousness of cause, the power to make or break
+without limitation, constructive and destructive ability with a universe
+of workable potentialities. The will is the man. Without absolute
+freedom of will, man would be an automaton. If his will were restricted
+in the least degree on any side, he would not be perfectly free. We know
+that God is the Great Unlimited, and man, His "image" and "likeness,"
+must be of the same character; consequently man has the same freedom
+that God has to act in the fulfillment of desire. God does not dictate
+man's acts, although He may instruct and draw him through love away from
+error. The idea that God makes man
+
+<span id="page_109">p. 109</span>
+
+do certain things cannot be true in a single instance, because, if it
+were, man would not be a free agent. If God interfered with man's will
+in some things, it would follow that He could interfere in any and all
+things. Logic and observation clearly reveal the freedom of man in
+everything.
+
+5\. Creative thought uses the will to build up individual consciousness.
+The Lord God, or Jehovah, of Genesis, is the original "I WILL BE THAT I
+WILL BE." In mind, both Jehovah and Jesus mean I AM. I AM is man's
+self-identity. I AM is the center around which man's system revolves.
+When the I AM is established in a certain understanding of its
+Principle, it is divinely guided in its acts, and they are in harmony
+with divine law. This is the union of will and understanding. In the
+Scripture these two are designated as Ephraim and Manasseh, sons of
+Joseph. Their allotments in the Promised Land were joined, indicating
+that these faculties work in the body from a single brain center. The
+center is in the forehead.
+
+6\. The will should never be retarded in its development, but should be
+strengthened along all lines. The idea of breaking the will of children
+is wholly erroneous. The perfect man is produced by rounding out the
+will and joining it to the understanding. The idea of giving up the will
+to God's will should not include the thought of weakening it, or causing
+it to become in any way less; it properly means that the will is being
+instructed how to act for the best. Do not act until you know how to
+act.
+
+<span id="page_110">p. 110</span>
+
+"Look before you leap." This does not imply that one should be inactive
+and indefinite, waiting for understanding, as do many persons who are
+afraid to act because they may possibly do the wrong thing; it means
+that understanding will be quickened and the will strengthened by the
+confidence that comes as a result of knowledge.
+
+7\. To strengthen the will, and at the same time to discipline it along
+right lines, requires an understanding nothing less than divine. But man
+can balance his will and his understanding; when he does this he will
+always do the right thing at the right time. Nearly every mistake is the
+result of will's acting without the cooperation of its brother,
+understanding. When the will is permitted to act on its own account, man
+becomes emotional and willful. These states of consciousness lead to all
+kinds of bodily discord. Willfullness makes tenseness, and a tense mind
+ties knots in the nerves, muscles, and tendons of the whole organism.
+The metaphysician, observing these conditions, treats for relaxation of
+will and for a general letting go of the whole system. The universal
+treatment for this condition given by Jesus is, "Not my will, but thine,
+be done." This surrender causes personal will to "let go," and a
+unification of man's will with God's will takes place. When this is
+accomplished, all goes well.
+
+8\. Willful persons often complain of a feeling like that produced by a
+tight band around the head. This feeling results from the pressure of
+thought
+
+<span id="page_111">p. 111</span>
+
+substance, which the will has laid hold of and is clinging to with
+centripetal force. In all such cases, and, in fact, in every sense of
+pressure, treat against personal willfullness and affirm the divine
+freedom.
+
+9\. Every organ of the body is affected by the action of the will, and
+when this faculty becomes fixed in a certain attitude, it holds the
+whole body to its central affirmation. The determination to have one's
+own way, regardless of the rights of others, tends to stop the free
+action of the heart; the stomach is then sympathetically affected.
+Persons affected in these ways seldom realize that they have a set
+determination as to how things shall be done in their lives, and they
+are sometimes slow in accepting the higher understanding that is
+necessary to the untangling of mistakes made by the ignorant will.
+Contrariness is another name for perverted will. An exaggerated idea of
+self and its needs takes possession of the mind, and the will is used to
+carry out this shortsighted policy. The result is a belittling of the
+whole man. Persons who are contentious for their personal rights place
+themselves in bondage to material conditions and stop spiritual growth.
+
+10\. How shall we bring the divine will to bear? By understanding; by
+appropriating universal wisdom; by affirming: Not my will, but thine, be
+done. God is potential, unformed will; man is manifest God will, or
+goodwill. When man links his will with the principle of divine force he
+has superior executive capacity. He swiftly brings forth
+
+<span id="page_112">p. 112</span>
+
+faculties that, under the slow action of human personality, would take
+ages to develop.
+
+11\. There is a knowing quality in Divine Mind. God is supreme knowing.
+That in man which comprehends is understanding; it knows and compares in
+wisdom. Its comparisons are not made in the realm of form, but in the
+realm of ideas. It knows how to accomplish things. We may know without
+experience. The human family has learned by hard knocks that experience
+is a severe schoolmaster. In the allegory of Adam and Eve, we see a
+picture of man's falling under the sway of sensation (serpent) and
+having to learn by experience. One of the esoteric meanings of serpent
+is "experience." All the bitter lessons that come through blundering
+ignorance can be evaded when men declare their divine understanding and
+in it follow the divine guidance.
+
+12\. For all willfullness, the healing treatment should be affirmations
+of spiritual understanding. The will is not to be broken, but
+disciplined. The absolute freedom of the individual must be maintained
+at all hazards. God is the one principle; we are all as free to use God
+as we are free to use the principles of mathematics or of music. The
+principle never interferes, but if it is to be rightly applied we must
+develop understanding. Freedom leads to many errors, but, since it is a
+part of Being, man must learn to use it properly; he must learn that the
+freedom of the law means control and conservation, not lust and license.
+
+<span id="page_113">p. 113</span>
+
+13\. We should be careful not to enter into any healing system that
+interferes with freedom. Hypnotism is not real healing. Any system that
+suppresses the will is radically wrong. It is the work of the true
+healer to instruct the patient, to show cause and remedy from the
+viewpoint of spiritual understanding. All other methods are temporary.
+The old states of mind will come again into action unless the causing
+thought is uncovered and removed. A man may have a paralyzed arm through
+selfish desire for money, and though he may find temporary relief in
+mere mental suggestions of health, or hypnotism, he will never get
+permanent healing until he understands the divine law governing
+possessions, and conforms thereto.
+
+14\. There are people who claim that they are being spiritually
+developed through mediumship. This is error. If you believe that you are
+under the control of another's will, if you give up to another will,
+your own will is gradually weakened. If you continue to submit to the
+domination of another, you will finally lose control of your own life.
+The will must be strengthened by being constantly used in divine
+understanding. Mesmerism weakens the will. Spiritual understanding
+quickens and makes alive. God never puts anyone to sleep. "Awake, thou
+that sleepest . . . and Christ shall shine upon thee."
+
+15\. Never say, "I don't know," "I don't understand." Claim your Christ
+understanding at all times, and declare: I am not under any spell of
+human
+
+<span id="page_114">p. 114</span>
+
+ignorance. I am one with infinite understanding. The accumulation of
+ignorance gathered through association with ignorant minds can be
+dissolved by using the word. You may know by simply holding the thought
+that you know. This is not egotism, but spiritual knowing. When you
+declare divine understanding, you sometimes meet your old line of
+thought and are disappointed. Right then continue to hold to your
+declaration for knowing. Judge not by appearances. Do not act until you
+get the assurance; if you keep close to Spirit by affirmation, the
+assurance will come. Will it come by voice? No! You will know through
+the faculty of intuition. Divine knowing is direct fusion of mind of God
+with mind of man. Sometimes we are taught by symbols, visions, and the
+like, but this is only one of the ways that Divine Mind has of
+expressing itself. When the mind deals with God ideals it asks for no
+symbols, visible or invisible, but rests on pure knowing. It was in this
+consciousness that Jesus said: "Father, I thank thee that thou heardest
+me. And I knew that thou hearest me always."
+
+16\. A very practical application of the truth about the will can be
+made in the matter of self-control. Those who try to get control through
+suppressing the personal will fall short. We should be free to express
+all that we are. If you are afraid of any force within you, your fear
+leads to suppression. In the true self-control, the will and the
+understanding both play a part. The feelings and appetites and
+
+<span id="page_115">p. 115</span>
+
+passions must be disciplined. They are not merely to be held in check by
+the will, but they are to be lifted up and developed through the Christ
+Mind.
+
+17\. The problem of self-control is never settled until all that man is
+comes into touch with the divine will and understanding. You must
+understand all your forces before you can establish them in harmony.
+This overcoming is easy if you go about it in the right way. But if you
+try to take dominion through will, force, and suppression, you will find
+it hard and will never accomplish any permanent results. Get your I AM
+centered in God, and from that place of Truth speak true words. In this
+way you will gain real spiritual mastery and raise your will
+consciousness from the human to the divine.
+
+18\. The will plays the leading part in all systems of thought
+concentration. The simple statement, I will to be well, gathers the
+forces of mind and body about the central idea of wholeness, and the
+will holds the center just so long as the I AM continues its
+affirmation. No one ever died until he let go his will to live, and
+thousands live on and on through the force of a determined will.
+
+19\. The "devil" that we are to overcome is the adverse will, which
+seeks to master man in the without. This "adversary" troubles us because
+we strive to maintain personal freedom instead of submitting to divine
+guidance. Self-confidence is a virtue when founded on the Truth of
+Being, but when it arises from the personal consciousness it keeps man
+from
+
+<span id="page_116">p. 116</span>
+
+his dominion. Are you trying just from yourself to be free from the
+traditions of the outer world, or are you resting in the understanding
+and assurance that you are a son of God? To know yourself as a son of
+God is to overcome the "devil"--the personal self. The "devil" makes you
+believe that you are the son of the flesh. To overcome, say: I put Satan
+behind me by the realization that God is my Father. I am centered in
+Him, and all things are under His dominion. I live in the infinite Power
+that produces all self-control. I have no necessity for controlling
+people. Events and people are controlled by divine law. There is an
+eternal law of justice. I am one with that law and I rest in it.
+
+20\. Among the apostles of Jesus, Matthew represents the will, and
+Thomas the understanding. Matthew was the taxgatherer who sat at the
+gate, representing the executive part of the government; so the will is
+the executive faculty of the mind and carries out the edicts of the I
+AM. All thoughts that go into or out of man's consciousness pass the
+gate at which sits the will, and if the will understands its office, the
+character and the value of every thought are inquired into and a certain
+tribute is exacted for the benefit of the whole man.
+
+21\. Thomas, the understanding, is represented as under discipline; that
+is, not yet in the light of Spirit. The understanding, in its first
+steps in Truth, wants its lessons and accompanying demonstrations to be
+couched in terms like those used in the outer
+
+<span id="page_117">p. 117</span>
+
+world. When Jesus showed Himself to Thomas, the latter said that he
+would not believe unless he could see the prints of the nails and feel
+the wound in the side of the Lord. This double proof was given him, and
+Jesus said: "Be not faithless, but believing." Thomas was then
+spiritually awakened and he made the acknowledgment: "My Lord and my
+God."
+
+22\. The people who are being educated in Truth through the written and
+the spoken word will finally arrive at that place where the true light
+from Spirit will dawn upon them, and they will, like Thomas, see with
+spiritual understanding and have proof of the reality of the Christ
+Mind.
+
+<span id="page_118">p. 118</span>
+
+The Establishment Of Will And Understanding
+
+(To be used in connection with Lesson Ten)
+
+1\. My understanding is established in Divine Mind.
+
+2\. "Ye shall know the truth, and the truth shall make you free."
+
+3\. The will of God is ever uppermost in my consciousness.
+
+4\. "Not my will, but thine, be done."
+
+5\. I firmly believe the guiding Intelligence that directs all my
+thoughts.
+
+6\. "There is a spirit in man, and the breath of the Almighty giveth
+them understanding."
+
+7\. The willfullness and stubborness of the flesh have no power in me. I
+am obedient to Spirit and receptive to all its secret thoughts.
+
+8\. "Not . . . of the will of flesh, nor of the will of man, but of
+God."
+
+9\. I am willing to change my mind.
+
+10\. "Be ye transformed by the renewing of your mind."
+
+11\. The Christ of God is born in my consciousness, and I am glorified
+in my understanding.
+
+<span id="page_119">p. 119</span>
+
+------------------------------------------------------------------------
+
+[Next: Lesson 11](chl13)

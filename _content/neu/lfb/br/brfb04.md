@@ -1,0 +1,299 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
+[Previous](brfb03)  [Next](brfb05) 
+
+</div>
+
+------------------------------------------------------------------------
+
+*The Brown Fairy Book*, by Andrew Lang, \[1904\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="an_f02"></span>
+
+Ball-carrier and the Bad One
+
+Far, far in the forest there were two little huts, and in each of them
+lived a man who was a famous hunter, his wife, and three or four
+children. Now the children were forbidden to play more than a short
+distance from the door, as it was known that, away on the other side of
+the wood near the great river, there dwelt a witch who had a magic ball
+that she used as a means of stealing children.  Her plan was a very
+simple one, and had never yet failed. When she wanted a child she just
+flung her ball in the direction of the child's home, and however far off
+it might be, the ball was sure to reach it. Then, as soon as the child
+saw it, the ball would begin rolling slowly back to the witch, just
+keeping a little ahead of the child, so that he always thought that he
+could catch it the next minute. But he never did, and, what was more,
+his parents never saw him again.
+
+Of course you must not suppose that all the fathers and mothers who had
+lost children made no attempts to find them, but the forest was so
+large, and the witch was so cunning in knowing exactly where they were
+going to search, that it was very easy for her to keep out of the way.
+Besides, there was always the chance that the children might have been
+eaten by wolves, of which large herds roamed about in winter.
+
+One day the old witch happened to want a little boy, so she threw her
+ball in the direction of the hunters' huts. A child was standing
+outside, shooting at a mark with his bow and arrows, but the moment he
+saw the ball, which was made of glass whose blues and greens and whites,
+all frosted over, kept changing one into the other, he flung down his
+bow, and stooped to pick the ball up. But as he did so it began to roll
+very gently downhill. The boy could not let it roll away, when it was so
+close to him, so he gave chase. The ball seemed always within his grasp,
+yet he could never catch it; it went quicker and quicker, and the boy
+grew more and more excited. That time he almost touched it—no, he missed
+it by a hair's breadth! Now, surely, if he gave a spring he could get in
+front of it! He sprang forward, tripped and fell, and found himself in
+the witch's house!
+
+'Welcome! welcome! grandson!' said she; 'get up and rest yourself, for
+you have had a long walk, and I am sure you must be tired!' So the boy
+sat down, and ate some food which she gave him in a bowl. It was quite
+different from anything he had tasted before, and he thought it was
+delicious. When he had eaten up every bit, the witch asked him if he had
+ever fasted.
+
+'No,' replied the boy, 'at least I have been obliged to sometimes, but
+never if there was any food to be had.'
+
+'You will have to fast if you want the spirits to make you strong and
+wise, and the sooner you begin the better.'
+
+'Very well,' said the boy, 'what do I do first?'
+
+'Lie down on those buffalo skins by the door of the hut,' answered she;
+and the boy lay down, and the squirrels and little bears and the birds
+came and talked to him.
+
+At the end of ten days the old woman came to him with a bowl of the same
+food that he had eaten before.
+
+'Get up, my grandson, you have fasted long enough. Have the good spirits
+visited you, and granted you the strength and wisdom that you desire?'
+
+'Some of them have come, and have given me a portion of both,' answered
+the boy, 'but many have stayed away from me.'
+
+'Then,' said she, 'you must fast ten days more.'
+
+So the boy lay down again on the buffalo skins, and fasted for ten days,
+and at the end of that time he turned his face to the wall, and fasted
+for twenty days longer. At length the witch called to him, and said:
+
+'Come and eat something, my grandson.' At the sound of her voice the boy
+got up and ate the food she gave him. When he had finished every scrap
+she spoke as before: 'Tell me, my grandson, have not the good spirits
+visited you all these many days that you have fasted?'
+
+'Not all, grandmother,' answered he; 'there are still some who keep away
+from me and say that I have not fasted long enough.'
+
+'Then you must fast again,' replied the old woman, 'and go on fasting
+till you receive the gifts of all the good spirits. Not one must be
+missing.'
+
+The boy said nothing, but lay down for the third time on the buffalo
+skins, and fasted for twenty days more. And at the end of that time the
+witch thought he was dead, his face was so white and his body so still.
+But when she had fed him out of the bowl he grew stronger, and soon was
+able to sit up.
+
+'You have fasted a long time,' said she, 'longer than anyone ever fasted
+before. Surely the good spirits must be satisfied now?'
+
+'Yes, grandmother,' answered the boy, 'they have all come, and have
+given me their gifts.'
+
+This pleased the old woman so much that she brought him another basin of
+food, and while he was eating it she talked to him, and this is what she
+said: 'Far away, on the other side of the great river, is the home of
+the Bad One. In his house is much gold, and what is more precious even
+than the gold, a little bridge, which lengthens out when the Bad One
+waves his hand, so that there is no river or sea that he cannot cross.
+Now I want that bridge and some of the gold for myself, and that is the
+reason that I have stolen so many boys by means of my ball. I have tried
+to teach them how to gain the gifts of the good spirits, but none of
+them would fast long enough, and at last I had to send them away to
+perform simple, easy little tasks. But you have been strong and
+faithful, and you can do this thing if you listen to what I tell you!
+When you reach the river tie this ball to your foot, and it will take
+you across—you cannot manage it in any other way. But do not be afraid;
+trust to the ball, and you will be quite safe!'
+
+The boy took the ball and put it in a bag. Then he made himself a club
+and a bow, and some arrows which would fly further than anyone else's
+arrows, because of the strength the good spirits had given him. They had
+also bestowed on him the power of changing his shape, and had increased
+the quickness of his eyes and ears so that nothing escaped him. And in
+some way or other they made him understand that if he needed more help
+they would give it to him.
+
+When all these things were ready the boy bade farewell to the witch and
+set out. He walked through the forest for several days without seeing
+anyone but his friends the squirrels and the bears and the birds, but
+though he stopped and spoke to them all, he was careful not to let them
+know where he was going.
+
+At last, after many days, he came to the river, and beyond it he noticed
+a small hut standing on a hill which he guessed to be the home of the
+Bad One. But the stream flowed so quickly that he could not see how he
+was ever to cross it, and in order to test how swift the current really
+was, he broke a branch from a tree and threw it in. It seemed hardly to
+touch the water before it was carried away, and even his magic sight
+could not follow it. He could not help feeling frightened, but he hated
+giving up anything that he had once undertaken, and, fastening the ball
+on his right foot, he ventured on the river. To his surprise he was able
+to stand up; then a panic seized him, and he scrambled up the bank
+again. In a minute or two he plucked up courage to go a little further
+into the river, but again its width frightened him, and a second time he
+turned back. However, he felt rather ashamed of his cowardice, as it was
+quite clear that his ball could support him, and on his third trial he
+got safely to the other side.
+
+Once there he replaced the ball in the bag, and looked carefully round
+him. The door of the Bad One's hut was open, and he saw that the ceiling
+was supported by great wooden beams, from which hung the bags of gold
+and the little bridge. He saw, too, the Bad One sitting in the midst of
+his treasures eating his dinner, and drinking something out of a horn.
+It was plain to the boy that he must invent some plan of getting the Bad
+One out of the way, or else he would never be able to steal the gold or
+the bridge.
+
+What should he do? Give horrible shrieks as if he were in pain? But the
+Bad One would not care whether he were murdered or not! Call him by his
+name? But the Bad One was very cunning, and would suspect some trick. He
+must try something better than that! Then suddenly an idea came to him,
+and he gave a little jump of joy. 'Oh, how stupid of me not to think of
+that before!' said he, and he wished with all his might that the Bad One
+should become very hungry—so hungry that he could not wait a moment for
+fresh food to be brought to him. And sure enough at that instant the Bad
+One called out to his servant, 'You did not bring food that would
+satisfy a sparrow Fetch some more at once, for I am perfectly starving.'
+Then, without giving the woman time to go to the larder, he got up from
+his chair, and rolled, staggering from hunger, towards the kitchen.
+
+Directly the door had closed on the Bad One the boy ran in, pulled down
+a bag of gold from the beam, and tucked it under his left arm. Next he
+unhooked the little bridge and put it under his right. He did not try to
+escape, as most boys of his age would have done, for the wisdom put into
+his mind by the good spirits taught him that before he could reach the
+river and make use of the bridge the Bad One would have tracked him by
+his footsteps and been upon him. So, making himself very small and thin,
+he hid himself behind a pile of buffalo skins in the corner, first
+tearing a slit through one of them, so that he could see what was going
+on.
+
+He had hardly settled himself when the servant entered the room, and, as
+she did so, the last bag of gold on the beam fell to the ground—for they
+had begun to fall directly the boy had taken the first one. She cried to
+her master that someone had stolen both the bag and the bridge, and the
+Bad One rushed in, mad with anger, and bade her go and seek for
+footsteps outside, that they might find out where the thief had gone. In
+a few minutes she returned, saying that he must be in the house, as she
+could not see any footsteps leading to the river, and began to move all
+the furniture in the room, without discovering Ball Carrier.
+
+'But he must be here somewhere,' she said to herself, examining for the
+second time the pile of buffalo skins; and Ball-Carrier, knowing that he
+could not possibly escape now, hastily wished that the Bad One should be
+unable to eat any more food at present.
+
+'Ah, there is a slit in this one,' cried the servant, shaking the skin;
+'and here he is.' And she pulled out Ball-Carrier, looking so lean and
+small that he would hardly have made a mouthful for a sparrow.
+
+'Was it you who took my gold and bridge?' asked the Bad One.
+
+'Yes,' answered Ball-Carrier, 'it was I who took them.'
+
+The Bad One made a sign to the woman, who inquired where he had hidden
+them. He lifted his left arm where the gold was, and she picked up a
+knife and scraped his skin so that no gold should be left sticking to
+it.
+
+'What have you done with the bridge?' said she. And he lifted his right
+arm, from which she took the bridge, while the Bad One looked on, well
+pleased. 'Be sure that he does not run away,' chuckled he. 'Boil some
+water, and get him ready for cooking, while I go and invite my friends
+the water-demons to the feast.'
+
+The woman seized Ball-Carrier between her finger and thumb, and was
+going to carry him to the kitchen, when the boy spoke:
+
+'I am very lean and small now,' he said, 'hardly worth the trouble of
+cooking; but if you were to keep me two days, and gave me plenty of
+food, I should get big and fat. As it is, your friends the water-demons
+would think you meant to laugh at them, when they found that I was the
+feast.'
+
+'Well, perhaps you are right,' answered the Bad One; 'I will keep you
+for two days.' And he went out to visit the water-demons.
+
+Meanwhile the servant, whose name was Lung Woman, led him into a little
+shed, and chained him up to a ring in the wall. But food was given him
+every hour, and at the end of two days he was as fat and big as a
+Christmas turkey, and could hardly move his head from one side to the
+other.
+
+'He will do now,' said the Bad One, who came constantly to see how he
+was getting on. 'I shall go and tell the water-demons that we expect
+them to dinner to-night. Put the kettle on the fire, but be sure on no
+account to taste the broth.'
+
+Lung-Woman lost no time in obeying her orders. She built up the fire,
+which had got very low, filled the kettle with water, and passing a rope
+which hung from the ceiling through the handle, swung it over the
+flames. Then she brought in Ball-Carrier, who, seeing all these
+preparations, wished that as long as he was in the kettle the water
+might not really boil, though it would hiss and bubble, and also, that
+the spirits would turn the water into fat.
+
+The kettle soon began to sing and bubble, and Ball Carrier was lifted
+in. Very soon the fat which was to make the sauce rose to the surface,
+and Ball-Carrier, who was bobbing about from one side to the other,
+called out that Lung-Woman had better taste the broth, as he though that
+some salt should be added to it. The servant knew quite well that her
+master had forbidden her to do any thing of the kind, but when once the
+idea was put into her head, she found the smell from the kettle so
+delicious that she unhooked a long ladle from the wall and plunged it
+into the kettle.
+
+'You will spill it all, if you stand so far off,' said the boy; 'why
+don't you come a little nearer?' And as she did so he cried to the
+spirits to give him back his usual size and strength and to make the
+water scalding hot Then he gave the kettle a kick, which upset all the
+boiling water upon her, and jumping over her body he seized once more
+the gold and the bridge, picked up his club and bow and arrows, and
+after setting fire to the Bad One's hut, ran down to the river, which he
+crossed safely by the help of the bridge.
+
+The hut, which was made of wood, was burned to the ground before the Bad
+One came back with a large crowd of water-demons. There was not a sign
+of anyone or anything, so he started for the river, where he saw Ball
+Carrier sitting quietly on the other side. Then the Bad One knew what
+had happened, and after telling the water demons that there would be no
+feast after all, he called to Ball-Carrier, who was eating an apple.
+
+'I know your name now,' he said, 'and as you have ruined me, and I am
+not rich any more, will you take me as your servant?'  'Yes, I will,
+though you have tried to kill me,' answered Ball-Carrier, throwing the
+bridge across the water as he spoke. But when the Bad One was in the
+midst of the stream, the boy wished it to become small; and the Bad One
+fell into the water and was drowned, and the world was rid of him.
+
+\[U.S.. Bureau of Ethnology.\]
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: How Ball-carrier Finished His Task](brfb05)
+
+</div>

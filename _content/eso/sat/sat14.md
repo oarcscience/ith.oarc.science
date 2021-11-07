@@ -1,0 +1,1005 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[Index](index)  [Previous](sat13)  [Next](sat15) 
+
+------------------------------------------------------------------------
+
+[Buy Kindle Download of this
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+
+------------------------------------------------------------------------
+
+[Buy Printed Copy of this Book at
+lulu.com](https://www.lulu.com/content/2742583)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_108">p. 108</span>
+
+### CHAPTER X
+
+<span class="small">OF THE INWARD AND OUTWARD CURE OF MAN</span>
+
+1\. <span class="smallcaps">Let</span> the lover of God understand us
+right; we do not go upon an historical heathenish conjecture, nor only
+upon the light of the outward nature; both suns shine to us. Understand
+us right, and see how God has cured man when the poison of the serpent
+and devil held him imprisoned in death, and how he yet still cures the
+poor soul captivated in God's anger; the like process also must the
+physician keep in curing the outward body.
+
+2\. The divine light and love were extinguished in Adam, because he
+imagined into the serpent's property, viz. into evil and good, so that
+the poison of death began effectually to work in Mercury, and the source
+of anger was inflamed in the eternal Mars, and the dark impression of
+the eternal nature's property took possession of him: His body became
+earth in the dark impression in the poison of the enkindled Mercury, and
+was an enmity against God: he was utterly undone, and there was no
+remedy for him by any creature, neither in heaven, nor in this world;
+the wrathful death captivated him in soul and body.
+
+3\. Now how did God do to cure him and tincture him again? Did he take a
+strange thing thereunto? No, he took the likeness, and cured him with
+that which was corrupted in him, viz. with the divine Mercury, and with
+the divine Venus, and with the divine Jupiter; understand; in man was
+the expressed word, which I call the eternal Mercury in man; for it is
+the true ruling acting life; it was inspired or in-spoken into man's
+image (which God created out of his essence into an image according to
+God) as into a creaturely image, which was the soul with the property of
+all the three worlds, viz. with the world of light and understanding,
+which is God; and with the fire-world, which is the eternal nature of
+the Father of all beings; and with the light, love-world, which is
+heavenly corporality; for in the love-desire is the essence, viz. the
+corporality.
+
+4\. The desire of love is spirit, and is the heart of God, viz. the
+right divine understanding: In the love-essence Mercury is God's word,
+and in the fiery nature he is the wrath of God, the
+
+<span id="page_109">p. 109</span>
+
+original of all mobility and enmity, also of strength and omnipotence;
+the fiery property makes the light, viz. the liberty, desirous; so that
+the nothing is a desire, and this desire is the love of God, which Adam
+extinguished in him: For he imagined after evil and good, that is, after
+earthliness; the earthliness came forth into a being both out of the
+wrath, and out of the love-being, and that through God's motion, that
+the wonders of the abyss and byss might be made manifest, that good and
+evil might be made known and manifest: And this Adam, being the image of
+God, should not do, for God had created him to his image: He should have
+tinctured the fire-world and outward world with the word of love, that
+so none of them should be manifest in him, like as the day holds the
+night swallowed up in itself.
+
+5\. But by false imagination he has awakened and manifested the dark and
+poisonful mercurial fire-world in him, so that his bodily essence of the
+dark impression is fallen to the evil part in the poisonful mercurial
+property, and the soul is become manifest in the eternal nature in the
+Father's fire-property, viz. in the poisonful hateful Mercury; according
+to which God calls him an "angry and zealous God," and "a consuming
+fire."
+
+6\. Now to help and restore this again, viz. the image of God, God must
+take the right cure, and even the same which man was in his innocence:
+But how did he effect it? Behold, O man, behold and see, open thy
+understanding; thou art called.
+
+7\. He introduced the holy Mercury in the flame, viz. in the fiery love
+with the desire of the divine essentiality, or after the divine
+essentiality again (which desire makes divine corporality in itself)
+into the expressed word, viz. into the mercurial fire-soul (understand,
+into the soul's essence in the womb of Mary), and became again that same
+image of God: He tinctured the poison, viz. the wrath of the Father of
+all essences, with the love-fire: He took only that same Mercury which
+he had breathed into Adam for an image, and formed into a creature: He
+took only that same property, yet not in the fire's property, but in the
+burning love: He did with the love introduce again the light of the
+eternal sun into the human property, that he might tincture the wrath of
+the enkindled Mercury in the human property, and inflame it with love,
+that the human Jupiter, viz. the divine understanding, might again
+appear and be manifest.
+
+8\. Ye physicians, if you here understand nothing, then you are
+captivated in the poison of the devil: Behold, I pray, the right cure,
+with which the enkindled Mercury in man's life is to
+
+<span id="page_110">p. 110</span>
+
+be remedied; it must be a Mercury again, but first enkindled in Venus
+and Jupiter; it must have the sun's property, which it attains to by
+Jupiter and Venus: As God deals with us poor men, so must the outward
+poisonful sick Mercury be tinctured with such an external cure; not with
+the dark impression of Saturn, with cold (unless it be first sweetly
+appeased and qualified with Jupiter and Venus, that the sun does again
+shine in Saturn), but with meek love; this is his right physic, whereby
+the death is changed into life; yet this is only a common manual cure,
+which the vulgar may learn.
+
+9\. But it behoves the doctor, if he will be called a doctor, to study
+the whole process, how God has restored the universal in man; which is
+fully clear and manifest in the person of Christ, from his entrance into
+the humanity, even to his ascension, and sending of the Holy Ghost.
+
+10\. Let him follow this entire process, and then he may find the
+universal, provided he be born again of God; but the selfish pleasure,
+worldly glory, covetousness and pride lie in the way. Dear doctors, I
+must tell you, the coals are too black, you defile your white hands
+therewith; the true unfeigned self-denying humility before God and man
+does not relish with you; therefore you are blind: I do not tell you
+this, but the spirit of wonders in its manifestation.
+
+11\. But we will give direction to the desirous seeker, who would fain
+see if he knew the way fitly to attain his intent; for the time is at
+hand, where Moses is called from the sheep to be a shepherd of the Lord,
+which shall shortly be manifest, notwithstanding all the raging and
+raving of the devil: Let not the dear and worthy Christendom think,
+seeing now it seems as if she should go to wrack and ruin, that it is
+utterly undone; No: the Spirit of the Lord of hosts has out of his love
+planted a new branch in the human property, which shall root out the
+thorns of the devil, and make known his child Jesus to all nations,
+tongues and speeches, and that in the morning of the eternal day.
+
+12\. Dear brethren, behold, I pray, the right cure: What did God with us
+when we lay sick in death? Did he quite cast away the created image,
+understand the outward part, viz. the outward corrupt man, and make
+wholly another new man? No: He did it not: For though he introduced
+divine property into our humanity, yet he did not therefore cast away
+our humanity, but brought it into the way or process to the new-birth.
+
+13\. What did he? He suffered the outward humanity, viz. the outward
+water, understand the essentiality of Venus, which
+
+<span id="page_111">p. 111</span>
+
+was shut up in the wrath of death, to be baptized with the water of the
+eternal essence, and with the Holy Ghost, that the incentive of the
+outward essentiality shut up in death might again glow, as a fire that
+falls into tinder: Afterwards he withdrew his outward food from the
+outward body, and brought it into the desert, and let it hunger, and
+then the spark enkindled from the fire of God must imagine into
+God, <span id="fr_186"></span>[1](#fn_186) and eat manna of divine
+essentiality forty days, of which Israel was a type in the wilderness of
+Sinai with their manna: The essence of eternity must overcome the
+essence of time, therefore it is called a temptation of the devil; for
+the devil as a prince in the wrath of God did there tempt the outward
+humanity, and represented all that to it wherein Adam fell, and became
+disobedient to God.
+
+14\. There now it was tried whether the image of God would stand, seeing
+internally there was God's love-fire, and externally the baptism of the
+water of eternal life: Here the soul was tempted, whether it would be a
+king, and an angelical throne instead of the fallen angel, and possess
+the elected throne of God in the royal office, from which Lucifer was
+taken, and thrust into the darkness, viz. into the throne of poison and
+death; but seeing he stood (in that the soul did resign and submit its
+will alone into God's love-fire, and desired no earthly food, nor the
+earthly kingdom good and evil for outward dominion) the process to the
+universal, viz. to the restoration of all that which Adam had lost, did
+further proceed and go on: He turned water into wine.
+
+15\. Ye physicians, observe this, it concerns you in your process, you
+must also go the same way to work: He healed the sick; so you must
+likewise make the form in your poisonful Mercury whole and sound by the
+power of the philosophical baptism: He made the dead alive again, the
+dumb to speak, the deaf to hear, the blind to see, and cleansed the
+lepers; all this must go before, that all the forms in Mercury may be
+pure, sound, and living, which Mercury himself does make after the
+baptism and temptation; as the living speaking Mercury did this in the
+person of Christ; the artist cannot do it, only there must be faith; for
+Christ also testifies, that he could not do many wonders at Capernaum,
+only heal a few diseased; for the faith of those at Capernaum would not
+enter into the divine Mercury of Christ.
+
+16\. So that we see there, that the person of Christ, viz. the
+
+<span id="page_112">p. 112</span>
+
+creature, could not work the wonders in its own power, but the Mercury,
+viz. the living, speaking word in him; for the person did cry and call
+into God, viz. into the speaking word, and set its desire thereinto; as
+we may see in the Mount of Olives where he prayed, that he sweat drops
+of blood; and by Lazarus, when he would raise him up, he said, "Father,
+hear me; but I know that thou always hearest me; yet because of those
+that stand by, I say it, that they may believe that thou workest by me."
+
+17\. Thus the artist must not arrogate anything to himself, the Mercury
+does itself, after the philosophical baptism, work these wonders before
+it manifests the universal; for all the seven forms of nature must be
+crystallised and purified, if the universal shall be revealed; and each
+form carries a peculiar process when it is to be brought out of the
+property of the wrath, and entered into the pure and clear life; and it
+must transmute itself into the crystalline sea which stands before the
+throne of the ancient in the Revelation, and change itself into
+paradise; for the universal is paradisical; and Christ also came for
+that reason into our humanity, that he might again open or make manifest
+the universal, viz. the paradise, again in man: The speaking word in
+Christ wrought wonders through all the seven properties or forms,
+through the expressed word in the humanity, before the whole universal
+was manifest in the body of the human property, and the body glorified.
+
+18\. Even thus it is in the philosophical work, when the Mercury shut up
+in death receives into it the baptism of its refreshment in love, then
+all the seven forms manifest themselves in this property, as it came to
+pass in the process of Christ in his miracles, but as yet they are not
+perfect in the operation of the manifestation of their properties.
+
+19\. The universal is not yet there, till all seven give their will into
+one, and forsake their property in the wrath, and depart from it with
+their will, and take into them the love's property: They must take in
+the will of the nothing, that their will be a nothing, and then it can
+subsist in the wrath of the fire, and there is no further turba therein;
+for so long as the desire of the wrath is in the form, it is adverse and
+opposite to the second form, <span id="fr_187"></span>[1](#fn_187) and
+inflames the second form with its wrathful property, that is, it strikes
+the signature of the second, and awakens it in the wrath, and then the
+voice or sound of the second enkindles the first form's property in
+Mercury, and so no form can attain to any perfection, that it might
+enter into love.
+
+<span id="page_113">p. 113</span>
+
+20\. Therefore the artist can effect nothing, unless he gives a meat to
+the forms, which they all desire, and love to eat, wherein there is no
+turba: Now the properties cannot eat, seeing their mouth is frozen up in
+the impression of Saturn; the artist must first open their mouth, and
+make them alive in their zeal, that all the forms may be hungry, and
+then if there be manna, they all eat together of it, and so the precious
+grain of mustard-seed is sown.
+
+21\. Now when Mercury does thus awake from the death of the impression
+of Saturn, and gets manna into the mouth of his property of the
+poisonful death's source, then arises the flagrat of the kingdom of joy,
+for it is as a light which is enkindled in the darkness, for the joy or
+love springs up in the midst of the anger: Now if Mercury apprehends the
+glimpse or aspect of the love in Mars, then the love dismays the wrath,
+and it is as a transmutation, but it is not fixed and steadfast; and as
+soon as this comes to pass, the angelical properties appear in view.
+
+#### <span class="smallcaps">The Process in the Temptation</span>
+
+22\. Jesus was led by the Spirit into the wilderness, and the devil came
+to him, and tempted him. When the soul of Christ did hunger, the devil
+said to Jesus, Open the centre in the stones, that is, the impressed
+Mercury, and make thee bread, eat the substance of the soul's property:
+What, wilt thou eat of nothing, viz. of the speaking word? Eat of the
+expressed word, viz. of the property of good and evil, and then thou art
+lord in both; this also was Adam's bit, wherein he did eat death: Then
+said Christ Jesus, "Man liveth not by bread alone, but by every word
+which proceedeth from the mouth of God."
+
+23\. Mark! Whence had the person of Christ the will, that he would not
+eat with the soul's hunger of the bread which could have been made of
+stones, which he could well have performed? Or how had it been, if the
+hunger of the human property had after the unction of baptism eaten in
+the temptation of the Mercury in the impression of death, viz. of the
+Sulphur of the expressed word, in which was the anger, and from whence
+the love was fled, as it is so in the earthly property?
+
+24\. Observe! The will and desire to eat of the speaking word came into
+the soul's property from the motion of the Deity: When the same had
+moved itself in the soulish essence, shut up in death in Mary his mother
+in her essence or seed, and introduced the aspect of the eye of God in
+the love into the dead
+
+<span id="page_114">p. 114</span>
+
+soul's essence, and had manifested the love in death, then one divine
+property desired the other; and the desire of the bodily hunger to eat
+of God's bread or essence came from the baptism: When the water of the
+body, which in the impression of the substance was enclosed in death,
+did taste the water of eternal life in the Holy Spirit, viz. the Holy
+Spirit's corporality or essentiality in the baptism, then the incentive
+of the divine hunger of the ardent desire after God's essence did arise
+in the flesh, as a divine hunger, a glimmering or shining incentive of
+divine property.
+
+25\. Now the man Christ must hereupon be tempted in body and soul, of
+which he would eat; on one part the expressed word of love and anger was
+represented before body and soul, in which the devil would be lord and
+master, and rule therein omnipotently; and on the other part the
+speaking word in the love-property was only represented to the soul and
+body.
+
+26\. Here now began the combat which Adam should have undergone in
+paradise; for on one side God's love-desire, which had manifested itself
+in the soul, did eagerly attempt the soulish and bodily property, and
+introduced its desire into the soul's property, that the soul should eat
+of it, and give the body manna thereof; and on the other side the devil
+in God's wrathful property did assault in the soul's property, and
+brought his imagination into the property of the first principle, viz.
+into the centre of the dark world, which is the soul's fire-life.
+
+27\. Here was the contest about the image of God, whether it would live
+in God's love or anger, in the fire or light; for the property of the
+soul, as to its fire-life, was the Father's according to the fire-world;
+and seeing the soul in Adam had quenched the light-world, the
+light-world was again incorporated with the name Jesus, which came to
+pass in the conception of Mary.
+
+28\. Now it was here tried in the temptation of which property man would
+live; whether of the Father's in the fire, or of the Son's in the light
+of love: Here the whole property of Christ's person was tempted: The
+devil said, as he had also said to Adam, Eat of the evil and good: Hast
+thou not bread? Then make bread of stones: Why dost thou hunger so long
+in thy own property? Then said the divine desire, "Man liveth not of
+bread alone, but of every word of God."
+
+29\. Thus the property of the fiery soul resigned itself with its desire
+into the love, viz. into the speaking word's property, and the fiery
+desire did eat manna in the love-desire. O ye philosophers! observe it
+well; when this was done, the love transmuted
+
+<span id="page_115">p. 115</span>
+
+the fiery property into its love-property; here the Father gave the
+fire-soul to the Son, understand the fiery property of the expressed
+Mercury to the speaking Mercury in the light; for Christ also said so
+afterwards, "Father, the men were thine, and thou hast given them me,
+and I give unto them eternal life."
+
+30\. Here God's love gave the eternal love-life to the corrupted
+humanity; the love did wholly give itself in unto the fire-wrath, and
+transmuted the wrath of the soul into a triumphant joyful love; but if
+the soul's and body's property had obeyed the devil in God's wrath, and
+made bread of the enclosed Mercury, and eaten thereof, then had the will
+entered again into its selfhood, and could not have been transmuted.
+
+31\. But seeing it entered into resignation, into the speaking word of
+God, and was willing to be and do whatever that pleased, then the will
+went from its selfhood, through the wrathful death of God's anger, viz.
+from the expressed word, which the devil had poisoned with his
+imagination, quite through the property of the wrath, and sprang forth
+afresh with a new love-desire in God; here the will was paradise, viz. a
+divine love budding in death.
+
+32\. Thus now the love-will being set in opposition to the poisonful
+Mercury of the soul's property in the anger of God, then came the devil,
+and said, Thou art the king, who hast overcome, come and shew thyself in
+thy miracles and deeds of wonder; and he brought him upon the pinnacle
+of the Temple, and said, "Fall down, that men may see it; for it is
+written, He hath given his angels charge over thee, that they should
+bear thee up in their hands, lest thou dash thy foot against a stone."
+Here the devil would fain that he should use again the fire's might,
+viz. the soul's selfhood in its own fiery property, and depart out of
+the resignation into an arrogation of self in its own fire-will, as he
+had done, and also Adam, when he went with the desire in his own might
+into evil and good, and would have his eyes open in evil and good, as
+Moses writes thereof, that the serpent did persuade them to it.
+
+33\. Here came the fine adorned beast again, and tempted the second Adam
+also; for God gave him leave, seeing he said the fire's matrix had drawn
+him, he could not stand: Here now that should be tried; for he was an
+angel also, as well as the human soul, which he had seduced: But the
+human property in body and soul in the person of Christ had once cast
+itself into the resignation out of its selfhood into God's mercy, and
+stood still in the resignation, viz. in the divine will, and would not
+cast
+
+<span id="page_116">p. 116</span>
+
+himself down, or do anything but what God alone did by it, and said to
+the devil, "It is written, Thou shalt not tempt the Lord thy God;" which
+is as much as if he had said, A creature of God shall will nor do
+nothing but what God wills and does by it: There must be no other god
+besides the only one to rule and will, the creature must go and do as
+the will-spirit of God leads it; it must be God's instrument, with which
+he works, and does only what he pleases.
+
+34\. In this proof Adam did not stand; for he went from the resignation
+into an arrogation of self, into an own self-will, and would try evil
+and good, love and anger, and prove how evil and good tasted. Here, dear
+man, was the trying state before the tree of temptation in paradise, and
+that was fulfilled which the first Adam could not, and would not do in
+divine obedience in resignation.
+
+35\. When the devil saw that in this also he had no success, that the
+humanity would not give way to depart out of the resignation, out of
+God's will, he carried the humanity upon a high mountain, and shewed it
+all the riches of the world, all whatever does live and move in the
+expressed word, all the dominions and might in the outward nature, over
+which he calls himself a prince, but has only the one part in the wrath
+of death in possession, and said to it (understand to the human
+property), "If thou fallest down and worshippest me, I will give thee
+all this."
+
+36\. The humanity should again depart out of resignation into a desire
+of propriety, and desire to possess something of its own in arrogation
+of self in the cursed property, evil and good; this had been a dainty
+dish and delight to the devil; then had he remained king, and his lies
+had been truth: In this Adam also was corrupted, and entered into
+selfish propriety, and desired worldly dominion and covetousness (which
+may be seen in Cain), which is the heart of the poisonful Mercury, viz.
+its hunger's desire, which makes itself essence according to the
+property of its hunger, not manna, but earth; as we may see in the wild
+earth, what he has made in the enkindling, or motion of the Father in
+his fire's property, in which inflammation (viz. in the poisonful wrath
+of the expressed Mercury) the devil thought to be a prince, and is so in
+the same property in the wicked, and also in the government of the world
+in the wrath; but God holds him captive with the water and light of the
+third principle, so that he is not prince in the dominion of the
+expressed word, but the judge's executioner; he must look where *turba
+magna* is
+
+<span id="page_117">p. 117</span>
+
+enkindled in the wrath, and there he is busy as far as *turba magna*
+goes in the wrath, further his courage is cooled.
+
+37\. He would give the humanity of Christ this whole dominion to rule
+in, and above all in the essence of all things, as a mighty god, which
+notwithstanding he only possesses in the part of the turba in the wrath
+of God, and has it not in his full dominion: He should but set his
+desire thereinto, and introduce his will into him, and he would bring
+his Mercury of the creature into the greatest omnipotence, that he
+should be a lord over good and evil, and have all things at command, to
+do therewith as he pleased, for so Adam had fooled it.
+
+38\. His Mercury went with the desire into the impression, whence cold
+and heat arise, and imagined thereinto, and so the property of the cold
+and hot fire did presently boil up in the Mercury of the creature; and
+so also the outward heat and cold did soon pierce into the enkindled
+Mercury of the human property, so that the body now suffers pain from
+the heat and cold, which property before (when it stood in the free-will
+of God in the resignation) was not manifest; and thus evil and good did
+rule and domineer in Adam.
+
+39\. For the centre of wrath, viz. the dark world's property, was
+manifest in him, in a poisonful death's property, as the Mercury in man
+is yet to this day so poisonful, and of a venomous source; whereas
+indeed he is changed in the vital <span id="fr_188"></span>[1](#fn_188)
+light into a solar property, but yet the poison and property of death
+hangs to it, and it is his root; as we plainly see, that as soon as the
+ready instrument of his martial fiery property's signature or form is a
+little struck or played upon, that his evil poisonful fiery property
+comes forth, and shews itself, and inflames the body, that it even
+trembles and shakes for the very poison of wrath, and will ever enter
+into the enkindled poison-source in him who has awakened and enkindled
+the same, and assimilate in his malice with the malignant fomenter's
+malice, and wrestle in the poisonful property's right; and then must the
+body set to its strength as a servant, and accomplish the poison's will,
+and wrangle and contest with his adversary, and beat him, or be beaten
+by him; let it be either by hand-blows, or words; it is all in this
+property and desire of this poisonful Mercury.
+
+40\. From hence arises all war and contention, namely, from the dominion
+of God's anger in the corrupt and enkindled Mercury of the expressed
+word, which does so act its delight and sport in the poisonful wrath's
+and dark world's property in man.
+
+<span id="page_118">p. 118</span>
+
+41\. Therefore the warrior is a servant of God's anger: He is the axe
+wherewith the angry husbandman cuts up his thorns and briars from off
+his ground: He is the chief worker and accomplisher of the wrathful
+anger of God: God's anger according to his fire's property will have it
+so, and not his love; and he that suffers himself to be made use of
+thereunto, he serves the anger of God according to the dark and
+fire-world's desire and property, which in the heavy fall of Adam has
+manifested itself in the human property, and brought man, viz. the
+angelical image, into an half-devilish vizard and likeness; in which
+property and image of his will in the expressed creaturely Mercury or
+vital word he cannot inherit God's kingdom, but must be born anew in his
+Mercury and will, with and in Christ, in God's love, viz. in the holy
+speaking Mercury and word of life, that a new obedient will wholly
+resigned into God's love may proceed from his creaturely Mercury, which
+neither wills or acts anything but what the will of the speaking divine
+Mercury wills, who in his selfhood, and selfish arrogation in his own
+will, is as dead, that he may be the instrument of the great God,
+whereby he should act, work, and do how and what he pleases: And then is
+God all in all in him, his will and deed, and he is a branch in the
+great tree which draws sap, power, and life from the tree of God, and
+grows and lives in him, and brings forth his fruit; then is the Mercury
+of the human life a procreated or expressed fruit, which grows upon the
+paradise-tree of God, and gives forth its note and sound, and strikes
+the signature in the speaking word of God, viz. God's harp and lute, in
+his praise, for which end man is created, not that he should necessarily
+play upon the instrument of anger and death according to the devil's
+will.
+
+42\. The devil has given himself to be such a lutanist who contrives and
+helps to act and drive on the play in the wrath, viz. in the darkness:
+He is the instrument and actor in the wrath of the eternal nature, which
+has its effects and achievements with him and in him, <span
+id="fr_189"></span>[1](#fn_189) as its instrument: The like also must
+the wicked man do, as Saint Paul speaks thereof; "The holy man is unto
+God a sweet savour unto life, and the wicked a sweet savour unto death."
+All whatever does live and move must enter <span
+id="fr_190"></span>[2](#fn_190) into the glory of God; one works in his
+love, the other in his anger: All is generated and created in the
+infinite being to the manifestation of the infinite great God; out of
+all the properties of evil and good, creatures were brought forth
+
+<span id="page_119">p. 119</span>
+
+by the will of the speaking word; for the property of the darkness and
+the fire was as well in the speaking as the property of the light; and
+therefore there are evil and good creatures.
+
+43\. But the angels and men were spoken forth in the image of God's
+love; they ought not to speak and incline their will into the fire and
+dark world, and introduce their desire thereinto; also not at all will
+to be their own, but continue steadfast in the resignation in the
+speaking will of God, as a form of the speaking will, and bear no
+inclination to anything, but only to the *speaking;* in which figure
+they stand as an image or platform of the expressing, as a spoken word,
+wherewith the speaking word beholds itself in its own likeness, whereby
+it there manifests the eternal knowledge of the eternal mind, and sets
+the Spirit's will into a form, <span id="fr_191"></span>[1](#fn_191) and
+plays therewith.
+
+44\. As a limner that pourtrays his own image, and does thereby behold
+what he is, and how his form and features are; or as a musician composes
+a curious lesson or song, and so plays and melodises with his life, and
+will of life, viz. with the sound of his own life's Mercury, in the tune
+of the song, or upon some musical instrument, as it is agreeable to his
+life's Mercury, wherewith his vital Mercury does rejoice and delight
+itself.
+
+45\. Thus likewise God created us to his love-consort <span
+id="fr_192"></span>[2](#fn_192) to his joy and glory, whereby he exalts
+his speaking eternal word, or plays in the same with us as with his
+instrument.
+
+46\. Therefore, when this melodious instrument was broken in its sound
+by the wrathful might of his anger, that is, when man's image would play
+in its own might both in evil and good, in love and anger, viz. in its
+own self-will, and would not yield itself to be used to what the
+speaking word had created it, and departed out of resignation into an
+arrogation of self, and would play as itself pleased, now good, then
+bad, then this instrument was against the love of God, in which no
+voice, breath, or smallest degree of anger is manifest or can be, as in
+the light of the fire no pain of the fire is manifest.
+
+47\. For the will of the human Mercury went out from the will of the
+divine speaking word into its own self-will: Thus it fell into the
+centre of the pregnatress of all essences, viz. into the anguish,
+poison, and death, where God's anger, viz. the speaking in the wrath,
+took possession of it.
+
+<div style="margin-left: 32px">
+
+<span class="small">Here now was our distress, we were forlorn,  
+Opprest in wrathful death, and woeful scorn;  
+If God had not restored us again,  
+We should have still been rowling in death's plain.</span>
+
+</div>
+
+<span id="page_120">p. 120</span>
+
+48\. Thus, dear reader, it is clearly set before you wherein Christ was
+tempted; namely, whether the soul, and the whole man, viz. the image of
+the speaking word (after that God had introduced the spark of his love
+again into the human property, and freely given itself again with the
+love into it), would now again enter into its first place, and be God's
+melodious instrument in his love, or not; or whether it would be a
+selfish arrogator in its own will, and do what its own speaking would
+bring forth in the enkindled Mercury of its life; whether it would
+suffer God's will to strike the signature upon its instrument, or the
+anger of God to strike it, as before came to pass \[viz. in the first
+Adam\].
+
+49\. Here it was tried: Therefore said the devil, viz. the organist in
+God's anger, to Christ, that he should fall down and worship him, and
+then he would give him all dominion, power, and glory; he should and
+might do what he pleased, he should live and delight in his own
+self-will; he should only give the devil his will, and forego
+resignation, and depart out of God's mercy and love-will: And if this
+had come to pass, then had the fair instrument been once again broken,
+and the human melody in God's love and deeds of wonder had ended; but
+Christ said, "Get thee hence, Satan: It is written, Thou shalt worship
+the Lord thy God, and serve him only. Then the devil left him, and the
+angels came and ministered unto him."
+
+#### <span class="smallcaps">The Magical Process</span>
+
+50\. Herein (as it is already mentioned at large) the magus must well
+consider his purpose and intent; not desiring with the covetousness of
+the devil to possess the earthly kingdom, also not to fly \[or cast
+himself down\] from the Temple, much less to work out his intent from
+the stones; he must think that he is God's minister and servant, not a
+selfish lord, of whom becomes a fool: If he will help the poor captive
+shut up in the anger of God out of the bands of darkness, wherein he is
+swallowed up in the curse of the earth, and deliver him from the anger
+of God, then he must think and well observe how God with his entrance
+\[viz. into the humanity\] hath redeemed him; he must very exactly and
+intimately consider the temptation of Christ, not blindly grope after it
+with outward manual art, and think with himself, I have a dead stone
+before me; it neither knows or feels anything, I must by force set upon
+it, that I may compel it, and take its jewel, which it has hidden in it.
+
+<span id="page_121">p. 121</span>
+
+51\. He that does so is a fool, and goes on in his own self-will, and is
+altogether unfit for the work; let him not meddle with it; we desire
+faithfully to admonish him, that if he will seek aright, then let him
+consider the process of Christ, how God has again regenerated the
+universal shut up in death in the human property.
+
+52\. For God did not take man as he lay closed up in death, and cast him
+into a furnace, and melted him in the wrath, as the false magus does;
+but he gave his love first into his human essence, and baptized the
+humanity; afterwards he brought him into the wilderness, and set the
+devil opposite to him, not into him; he let him first fast and hunger
+forty days, and gave no outward food to the humanity: He must eat of his
+life's Mercury, that God might see whether the humanity would bring its
+desire into God; and when the humanity introduced its desire into the
+Deity, and received the manna, then he let the devil set upon the
+humanity, who introduced all his subtlety and desires into the humanity,
+and tempted him: Dost thou not understand anything here? What shall I
+say more to thee? If thou art a beast, then I give thee not my pearl; it
+belongs to God's children.
+
+53\. God must become man, man must become God; heaven must become one
+thing with the earth, the earth must be turned to heaven: If you will
+make heaven out of the earth, then give the earth the heaven's food,
+that the earth may obtain the will of heaven, that the will of the
+wrathful Mercury may give itself in unto the will of the heavenly
+Mercury.
+
+54\. But what wilt thou do? Wilt thou introduce the poisonful Mercury
+(which has only a death's will in itself) into the temptation, as the
+false magus does? Will you send one devil to another, and make an angel
+of him? In deed and in truth I must needs laugh at such folly: If thou
+wilt keep a corrupt black devil, how dost thou think to turn the earth
+by the devil to heaven? Is not God the creator of all beings? Thou must
+eat of God's bread, if thou wilt transmute <span
+id="fr_193"></span>[1](#fn_193) thy body out of the earthly property
+into the heavenly.
+
+55\. Christ said, "He that eateth not the flesh of the Son of Man hath
+no part in him: "And he says further, "He that shall drink of the water
+that I shall give, it shall spring up in him to a fountain of eternal
+life." Here lies the pearl of the new-birth: It is not enough to play
+the sophister; the grain of wheat brings forth no fruit, unless it falls
+into the earth; all
+
+<span id="page_122">p. 122</span>
+
+whatever will bring forth fruit must enter into its mother from whence
+it came first to be.
+
+56\. The mother of all beings is Sulphur, Mercury is her life, Mars her
+sense, Venus her love, Jupiter her understanding, Luna her corporeal
+essence, Saturn her husband: You must reconcile or lovingly betroth the
+man with the woman; for the man is angry, yet give him his dear spouse
+into his arms; but see that the spouse be a virgin, wholly chaste and
+pure; for "the woman's seed shall break the serpent's head," viz. the
+man's anger: The virgin must be in real love, without any falsehood or
+unfaithfulness, a virgin which never touched any man in anger according
+to his manhood; for the pure Deity does so espouse itself in clear love
+with the humanity, even as Mary said, "Be it unto me as thou hast
+spoken, for I am the Lord's handmaid;" and so the humanity assumed the
+Deity, and also the Deity the humanity.
+
+57\. The chaste virgin signifies in the philosophic work the clear
+Deity, the humanity is Mercury, Sulphur, and Salt, both heavenly and
+earthly; the heavenly property is disappeared, and as a nothing; the
+deadly property in the wrath is stirred up, and lives to the anger, and
+in the properties of the anger; the humanity, both in Adam and in
+Christ, was tempted. Dost thou ask, wherewith? With the like opposite in
+the wrath, even with such a devil as had all these properties in him, as
+a potent prince \[in all the properties of the anger\].
+
+58\. The properties in Sulphur were tempted with the likeness of the
+Sulphur; in the Sulphur, or from the sulphureous property, the
+temptation did come and arise, and its forms are <span
+id="fr_194"></span>[1](#fn_194) three, as one in the impression, which
+the philosophers call Saturn, which the human spirit or will should open
+in the property of Venus, and therewith satiate or feed its hunger, viz.
+the fire; the other property was, that he should live in his own
+awakened and opened Venus out of Saturn's property, and aspire in
+self-will.
+
+59\. The third property was, he should introduce his will through the
+awakened love-desire again into the centre, viz. into the sulphurean
+mother, which arises in the impression in the anguish: And this he would
+not do, but the first Adam did it; and therefore God when he would help
+him tempted him in the Sulphur, viz. in the first mother to the
+humanity, and suffered a wrathful devil, which was enkindled in the
+Sulphur, to tempt him with his enkindled malignity and malice in the
+Sulphur:
+
+<span id="page_123">p. 123</span>
+
+<span class="contnote">\[paragraph continues\]</span> Dost thou not
+understand this? What then shall I say more to thee?
+
+60\. Sulphur is the womb whereinto we must enter, if we would be new
+born. Nicodemus said well; "How can one being old enter into his
+mother's womb, and be born again?" But Christ said, "Except you be
+converted, and become as children, you cannot see the kingdom of
+heaven." The self-will must enter again into the first mother which
+brought it forth, viz. into the Sulphur, by the will understand Mercury.
+
+6i. But now who will persuade it to do so? For it is become a selfish
+thing, and must enter again into the mother, and become nothing; this
+seemed a strange and wonderful thing to Nicodemus, but the Lord said to
+him, "The wind bloweth where it listeth, and thou hearest the sound
+thereof, but thou knowest not from whence it cometh, or whither it
+goeth; even so is every one that is born of God." Behold, who persuaded
+the will of Christ in his humanity, to enter again with the will into
+the filiation or adoption, as it were in the mother's womb, and eat
+nothing forty days, and would also \[eat\] nothing, but remained in full
+steadfast resignation in the mother? Did not the Deity do it, which was
+entered into the humanity?
+
+62\. Thus likewise it goes in the philosophic work, therefore let the
+artist well observe, and rightly understand us: He must seek the evil
+stubborn child (which is fled from the mother, and entered into the
+centre, and would be a selfish thing) in Saturn; for the wrath of God
+has shut him up with its impression in the chamber of death.
+
+63\. Not that he has made him to Saturn, but he holds him shut up in the
+saturnine death; the same he must again take and bring into the mother's
+womb, and then send the angel with a message to Mary, and tell her, "She
+shall bring forth a son, whose name shall be called Jesus: "And if the
+mother shall yield her consent thereunto, and receive the name Jesus,
+then the new humanity shall begin in the mother, with the new child in
+the old apostate captivated in the anger of God, and the name Jesus will
+first give in itself to the dead child which lay captivated in Saturn,
+and eagerly draw the will of the evil dead child to itself: This is the
+fair bride, which shews her crown of pearl to her apostate bridegroom;
+he should but again receive her, and she would again give him her love.
+Now if the apostate youth shut up in death does again receive her, then
+is the artist well prepared, and counted worthy by God to finish his
+purpose: Now will the bride love the bridegroom, and a virgin bring
+forth
+
+<span id="page_124">p. 124</span>
+
+a son, at which all the world will wonder; the virgin shall embrace the
+man; but he is a man, and not a woman, and has the virgin's heart.
+
+64\. Now he must be tempted, whether or no he will live in virgin-like
+chastity, and in full resignation of his will to God, for he must be a
+valiant champion, and destroy the devil's fortress <span
+id="fr_195"></span>[1](#fn_195) of prey (which he has in his mother) in
+seven kingdoms; then let the devil set his mother's house on fire with
+his wrath, and tempt him, he will now well enough defend himself with
+Christ against the devil.
+
+65\. This being done, the young man with his virgin-like heart will
+wholly give himself up to the mother, when the tempter comes and
+assaults him, and the mother will wholly swallow him up into herself
+through the devil's wrath: He gives himself forth wholly out of his own
+will into the nothing. Now, thinks the artist with himself, I have lost
+all; for he thinks that he has lost heaven; for he seeks nothing, and
+does not consider that a virgin has now brought forth: But let him have
+patience; that which is impossible to the artist, that is possible to
+nature; after the night it is day; when the tempter has finished all his
+temptations, then comes the sign \[or appearance\] of the angels; then
+the devil which has tempted him must depart.
+
+66\. Let the artist well observe this, and pack away the devil, and
+suffer the young man with his virgin-like heart to lie in his bed, and
+eat his former food, for he is now become a physician of his
+sisters <span id="fr_196"></span>[2](#fn_196) in his mother's house; he
+will do great wonders in all the seven kingdoms of his mother (which are
+the seven forms of life) as Christ has done.
+
+67\. In Saturn he will raise the dead, understand, he will awaken the
+dead essence which held him captive in his former prison; for he shall
+turn \[or make\] the earth to heaven: Even as the virgin has raised up
+his will out of the anger in the love, and made him a wonder-worker; so
+must he also awaken with his will, which is united to the virgin's
+heart, the form or signature in his mother's womb, whence she has
+brought forth him and all her children, and enkindle it with the
+virgin's and his love-desire: This is effected and done in the Sulphur
+of Saturn in the young man's own personal <span
+id="fr_197"></span>[3](#fn_197) property, and in his mother; for before
+the espousing of the virgin the heavenly essence of the young man lies
+shut up in death: For when God cursed the earth, then the heavenly
+paradisical body disappeared, and the impression of Saturn took it in
+possession, till the restitution,
+
+<span id="page_125">p. 125</span>
+
+where God shall restore that which is hidden, that paradise does again
+spring forth afresh in the expressed word, or that the artist does open
+the same in a part <span id="fr_198"></span>[1](#fn_198) by God's
+permission.
+
+68\. In the second kingdom of the mother, viz. in Luna, he shall also do
+wonders; for Jesus fed with five barley loaves five thousand people;
+this is the working in the essentiality or corporality. He turned water
+to wine: These and the like do all belong to the lunar property, where
+the champion with his virgin opens paradise, and feeds the body, where
+nothing is, where the outward Mercury has not laboured and wrought: Thus
+the forms <span id="fr_199"></span>[2](#fn_199) in the lunar property
+open themselves as if they are paradisical, even then the artist thinks
+I am nigh unto it; but he is yet far off from the end.
+
+69\. In the third kingdom of the mother, viz. in Jupiter, Christ did
+make the babes and ignorant, of a very weak and mean capacity, knowing
+and understanding, viz. of poor fishermen, carpenters, and the like
+mechanics, he made apostles, and the most understanding men of all; and
+also of poor, disrespected, vilified people, as of women, and simple
+ones, he made faithful, devout, dear, godly children, who apprehended in
+themselves the universal without any art.
+
+70\. Thus likewise it goes in the philosophic work; the essentiality
+which lies disappeared in death, where the Mercury is wholly earthly,
+cold, and impotent, does now arise in power, as if the whole being and
+essence were become a new life, at which the artist wonders, and marvels
+what it is, or how it happens, and yet does also exceedingly rejoice
+that he sees the divine power to spring forth before his eyes in a half
+dead essence, and that in the curse of God: He sees all the four
+elements, each apart, and sees how the wisdom of God represents <span
+id="fr_200"></span>[3](#fn_200) itself therein, as an harmony of joy,
+and sees all colours, and the rainbow upon which Christ sits in judgment
+in the expressed Mercury.
+
+71\. The nature of this splendour arises out of the impression of
+Saturn; the good Jupiter gives himself forth to be seen in such a
+manner, as God will change the world, and transform it again into
+paradise; for this is the understanding in the expressed word, even as
+Christ has made the foolish, rude, ignorant people truly wise and
+knowing in divine, real, heavenly jovial understanding and knowledge.
+
+72\. In the fourth kingdom of the mother of all beings, which
+
+<span id="page_126">p. 126</span>
+
+is the mercurial in the wheel <span id="fr_201"></span>[1](#fn_201) of
+the nature of life, Christ made "the deaf to hear, the dumb to speak,
+and cleansed the lepers" from the poison of Mercury: All apoplexies, the
+French or poisonful pox and sores arise from the saturnine water in
+Mercury, which \[water\] is called *phlegma*, all which Christ healed in
+the form or signature of the young man and virgin; for the eternal
+virginity had espoused itself with the young man, viz. with the
+humanity.
+
+73\. This comes to pass also in the philosophic work: The artist will
+see how the heaven separates itself from the earth, and how the heaven
+does again sink into the earth, and changes the earth into a heavenly
+colour; he will see how Mercury purifies the matter, and how the
+purified colours will appear in antimony in their property, and how the
+wonder proceeds.
+
+74\. In the fifth kingdom of the mother of all beings, Christ expelled
+the devils out of the possessed, and healed the deaf in this form and
+property.
+
+75\. This likewise the artist will see in the philosophic work, how
+Jupiter in Mercury will drive up a black twinkling fiery vapour out of
+the matter, which sticks on like soot; for it is a hunger of the poison
+in Mercury, and is very rightly compared to the devil, for it is of his
+property.
+
+76\. In the sixth kingdom of the mother of all beings, viz. in the wheel
+of life, called Venus, Christ loved his brethren and sisters according
+to the humanity, and washed his disciples’ feet, and loved them even to
+the deepest exinanition, and gave his life into the wrath's property
+even to death for them, and manifested himself among them that he was
+Christ: And when they perceived that the king was come that should
+deprive self-will of its might and dominion, and destroy the devil's
+kingdom; then they cried out, and said, "We have no king but Cæsar;"
+they took him in the dark night into their power, bound him, and brought
+him before their council, <span id="fr_202"></span>[2](#fn_202) mocked
+him, whipped him, and beat him, stripped him of clothes, and hung him on
+the cross.
+
+77\. This also the artist will see very powerfully in the philosophic
+work; for as soon as the dark fiery stream, viz. the material devil goes
+from the matter, then virgin Venus appears in her virginity very
+glorious and beautiful; for it betokens Christ's love, who did so humble
+himself, and manifested his love in our humanity; then the artist thinks
+that he has the philosophic child, then he has now the fine morsel: But
+he
+
+<span id="page_127">p. 127</span>
+
+dances with the Jews, who thought, when they had taken Christ, Now we
+have him, we will keep him well enough. Thus he also thinks, it is
+finished, and receives the child; and when he beholds it in the trial,
+then he has Venus, a woman, and not the virgin with the tincture of the
+fire and light, and is deceived by the woman. <span
+id="fr_203"></span>[1](#fn_203)
+
+78\. Now observe right, What do the properties, viz. Saturn, Mars, and
+Mercury, when they see the child, viz. the champion in royal colour, and
+find that he manages no external dominion and royalty with power and
+authority as they do, but will only rule with love in their poisonful
+fire-might? They will not suffer him.
+
+79\. For Saturn signifies the worldly dominion, and Mercury the
+spiritual dominion, viz. the Pharisees, <span
+id="fr_204"></span>[2](#fn_204) and Mars signifies the devil; these
+three would not endure Christ among them; for he said that he was a king
+of love, and the Son of God, and was come to deliver his people from
+sin: Then thought the devil, sure this rhimes not well, thou wilt lose
+thy kingdom: And the worldly magistrate thought, Is this a king, and
+God's Son? Then he will take away our might; this does not at all like
+us: And the mercurial priests thought; This man is too mean for us, we
+will have a Messiah who may bring us to worldly dominion, and make us to
+be high and rich in the world, that we may alone possess the honour of
+the world; we will not receive him, he is too poor for us; we might so
+lose the favour and respect of the worldly magistrate, and should be
+much damaged; we will rather abide in our power, respect, and authority,
+and abandon this beggarly king with his love-kingdom: In like manner as
+yet to this day they are so minded, and serve his messengers so whom he
+sends.
+
+80\. Thus likewise it goes in the philosophic work, when Venus manifests
+herself with love, viz. in her own property in the three wrathful forms,
+viz. in Saturn, Mars, and Mercury; they can by no means endure it, for
+it is wholly against their austere, dark, fiery might, but especially
+against the poison of Mercury, they flash and lighten against Venus, and
+shoot their rays, viz. the mercurial poisonful rays upon her, as the
+Pharisees did upon Christ. In the meanwhile, Jupiter and Luna hold with
+Venus, and give their power to Venus; for Venus does here stand forth in
+the power of Jupiter; at this the Pharisees laugh, and think with
+themselves, We are wise enough already, what need we
+
+<span id="page_128">p. 128</span>
+
+knowledge and understanding? We will have might and honour; and Luna
+signifies the multitude of laymen who stuck to Christ, while it went
+well with him; so does Luna in the philosophic work to Venus in her
+lustre, so long as Saturn, Mercury, and Mars do not meddle with and
+assault her; but when the power of wrath comes, then Luna changes her
+will, viz. the colour, and looks, arises, and cries also with the rest
+the crucifige: This the artist will see, if he be chosen and accounted
+worthy of God for the work.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_186"></span>[111:1](sat14.htm#fr_186) Put its desire,
+hunger, and imagination into the nothing, the highest good or
+omnipotence, and eat of God's bread.
+
+<span id="fn_187"></span>[112:1](sat14.htm#fr_187) Or other forms.
+
+<span id="fn_188"></span>[117:1](sat14.htm#fr_188) Or life's light.
+
+<span id="fn_189"></span>[118:1](sat14.htm#fr_189) And all his legions
+of evil spirits.
+
+<span id="fn_190"></span>[118:2](sat14.htm#fr_190) Agree, or make for.
+
+<span id="fn_191"></span>[119:1](sat14.htm#fr_191) Image, or likeness.
+
+<span id="fn_192"></span>[119:2](sat14.htm#fr_192) Melody, harmony,
+delight, or play.
+
+<span id="fn_193"></span>[121:1](sat14.htm#fr_193) Or change.
+
+<span id="fn_194"></span>[122:1](sat14.htm#fr_194) Or were.
+
+<span id="fn_195"></span>[124:1](sat14.htm#fr_195) Royal fort, fort
+rampant.
+
+<span id="fn_196"></span>[124:2](sat14.htm#fr_196) Or kindred.
+
+<span id="fn_197"></span>[124:3](sat14.htm#fr_197) Text, bodily.
+
+<span id="fn_198"></span>[125:1](sat14.htm#fr_198) By degrees.
+
+<span id="fn_199"></span>[125:2](sat14.htm#fr_199) Or signatures.
+
+<span id="fn_200"></span>[125:3](sat14.htm#fr_200) Speculates, or
+beholds.
+
+<span id="fn_201"></span>[126:1](sat14.htm#fr_201) Orb, rotation, or
+course.
+
+<span id="fn_202"></span>[126:2](sat14.htm#fr_202) Or judgment-seat.
+
+<span id="fn_203"></span>[127:1](sat14.htm#fr_203) Or lets the woman
+deceive him.
+
+<span id="fn_204"></span>[127:2](sat14.htm#fr_204) Or priests who call
+themselves the ministers of Christ, but are not.
+
+------------------------------------------------------------------------
+
+[Next: Chapter XI](sat15)

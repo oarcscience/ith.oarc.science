@@ -1,0 +1,434 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[Index](index)  [Previous](mks09)  [Next](mks11) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_81">p. 81</span>
+
+### PART SEVEN
+
+<div style="font-size: 90%">
+
+THIS Part tells of a method by which you may construct the mould or
+model from which your future will emerge. It tells how you may make it
+grand and beautiful; it explains that you are not limited as to cost or
+material, that no one can place any limitation on it but yourself. It
+explains that in the construction of this model, there is much work to
+be done, that no one can do the work but yourself, but it tells you what
+to do and how to do it, it suggests methods and plans which if
+faithfully and persistently carried out will result in conditions
+exactly in accordance with the purpose and thought. It tells of millions
+of faithful helpers which will come to your aid if you are faithful in
+your work, and it tells why some who are apparently faithfully
+endeavouring to realize their ideal seem to fail. It is sometimes just
+as important to know what not to do as what to do.
+
+</div>
+
+<span id="page_82">p. 82</span>
+
+#### INTRODUCTION. PART SEVEN
+
+Through all the ages man has believed in an invisible power, through
+which and by which all things have been created and are continually
+being re-created.
+
+We may personalize this power and call it God, or we may think of it as
+the essence or spirit, which permeates all things, but in either case
+the effect is the same.
+
+So far as the individual is concerned, the objective, the physical, the
+visible, is the personal, that which can be cognized by the senses. It
+consists of body, brain and nerves. The subjective is the spiritual, the
+invisible, the impersonal.
+
+The personal is conscious because it is a personal entity. The
+impersonal, being the same in kind and quality as all other Being, is
+not conscious of itself and has therefore been termed the subconscious.
+
+The personal, or conscious, has the power of will and choice, and can
+therefore exercise discrimination in the selection of methods whereby to
+bring about the solution of difficulties.
+
+The impersonal, or spiritual, being a part or one with the source and
+origin of all power, can necessarily exercise no such choice, but, on
+the contrary, it has Infinite resources at its command. It can and does
+bring about results by methods concerning which the human or individual
+mind can have no possible conception.
+
+You will therefore sec that it is your privilege to depend upon the
+human will, with all its limitations and misconceptions, or you may
+utilize the potentialities of Infinity by making use of the subconscious
+mind. Here, then, is the scientific explanation of the wonderful power
+which has been put within your control, if you but understand,
+appreciate and recognize it.
+
+One method of consciously utilizing this omnipotent power is outlined in
+Part Seven.
+
+<span id="page_83">p. 83</span>
+
+#### PART SEVEN
+
+<span class="margnote"><span id="an_VII:1">VII, 1</span></span>1.
+Visualization is the process of making mental images, and the image is
+the mould or model which will serve as a pattern from which your future
+will emerge.
+
+<span class="margnote"><span id="an_VII:2">VII, 2</span></span>2. Make
+the pattern clear, and make it beautiful; do not be afraid; make it
+grand; remember that no limitation can be placed upon you by anyone but
+yourself; you are not limited as to cost or material; draw on the
+Infinite for your supply, construct it in your imagination; it will have
+to be there before it will ever appear anywhere else.
+
+<span class="margnote"><span id="an_VII:3">VII, 3</span></span>3. Make
+the image clear and clean-cut, hold it firmly in the mind and you will
+gradually and constantly bring the thing nearer to you. You can be what
+"you will to be."
+
+<span class="margnote"><span id="an_VII:4">VII, 4</span></span>4. This
+is another psychological fact which is well known, but unfortunately,
+reading about it will not bring about any result which you may have in
+mind; it will not even help you to form the mental image, much less
+bring it into manifestation. Work is necessary, labour, hard mental
+labour, the kind of effort which so few are willing to put forth.
+
+<span class="margnote"><span id="an_VII:5">VII, 5</span></span>5. The
+first step is idealization. It is likewise the most important step,
+because it is the plan on which you are going to build. It must be
+solid; it must be permanent. The architect, when he plans a grand
+building, has every line and detail pictured in advance. The engineer,
+when he spans a chasm, first
+
+<span id="page_84">p. 84</span>
+
+ascertains the strength requirements of a million separate parts.
+
+<span class="margnote"><span id="an_VII:6">VII, 6</span></span>6. They
+see the end before a single step is taken; so you are to picture in your
+mind what you want; you are sowing the seed, but before sowing any seed
+you want to know what the harvest is to be. This is Idealization. If you
+are not sure, return to the chair daily until the picture becomes plain;
+it will gradually unfold; first the general plan will be dim, but it
+will take shape, the outline will take form, then the details, and you
+will gradually develop the power by which you will be enabled to
+formulate plans which will eventually materialize in the objective
+world. You will come to know what the future holds for you.
+
+<span class="margnote"><span id="an_VII:7">VII, 7</span></span>7. Then
+comes the process of visualization. You must see the picture more and
+more complete, see the detail, and, as the details begin to unfold, the
+ways and means for bringing it into manifestation will develop. One
+thing will lead to another. Thought will lead to action, action will
+develop methods, methods will develop friends, and friends will bring
+about circumstances, and, finally, the third step, or Materialization,
+will have been accomplished.
+
+<span class="margnote"><span id="an_VII:8">VII, 8</span></span>8. We all
+recognize that the Universe must have been thought into shape before it
+ever could have become a material fact. And if we are willing to follow
+along the lines of the
+
+<span id="page_85">p. 85</span>
+
+Great Architect of the Universe, we shall find our thoughts taking form,
+just as the Universe took concrete form. It is the same mind operating
+through the individual. There is no difference in kind or quality, the
+only difference is one of degree.
+
+<span class="margnote"><span id="an_VII:9">VII, 9</span></span>9. The
+architect visualizes his building, he sees it as he wishes it to be. His
+thought becomes a plastic mould from which the building will eventually
+emerge, a high one or a low one, a beautiful one or a plain one; his
+vision takes form on paper and eventually the necessary material is
+utilized and the building stands complete.
+
+<span class="margnote"><span id="an_VII:10">VII, 10</span></span>10. The
+inventor visualizes his idea in exactly the same manner. For instance,
+Nikola Tesla, he with the giant intellect, one of the greatest inventors
+of all ages, the man who has brought forth the most amazing realities,
+always visualizes his inventions before attempting to work them out. He
+does not rush to embody them in form and then spend his time in
+correcting defects. Having first built up the idea in his imagination,
+he holds it there as a mental picture, to be reconstructed and improved
+by his thought. "In this way," he writes in the Electrical Experimenter,
+"I am enabled to rapidly develop and perfect a conception without
+touching anything. When I have gone so far as to embody in the invention
+every possible improvement I can think of, and see no fault anywhere, I
+put into concrete form the product
+
+<span id="page_86">p. 86</span>
+
+of my brain. Invariably my device works as I conceived it should; in
+twenty years there has not been a single exception."
+
+<span class="margnote"><span id="an_VII:11">VII, 11</span></span>11. If
+you can conscientiously follow these directions, you will develop Faith,
+the kind of Faith that is the "Substance of things hoped for, the
+evidence of things not seen"; you will develop confidence, the kind of
+confidence that leads to endurance and courage; you will develop the
+power of concentration which will enable you to exclude all thoughts
+except the ones which are associated with your purpose.
+
+<span class="margnote"><span id="an_VII:12">VII, 12</span></span>12. The
+law is that thought will manifest in form, and only one who knows how to
+be the divine thinker of his own thoughts can ever take a Master's place
+and speak with authority.
+
+<span class="margnote"><span id="an_VII:13">VII, 13</span></span>13.
+Clearness and accuracy are obtained only by repeatedly having the image
+in mind. Each repeated action renders the image more clear and accurate
+than the preceding, and in proportion to the clearness and accuracy of
+the image will the outward manifestation be. You must build it firmly
+and securely in your mental world, the world within, before it can take
+form in the world without, and you can build nothing of value, even in
+the mental world, unless you have the proper material. When you have the
+material you can build anything you wish, but make sure of your
+material. You cannot make broadcloth from shoddy.
+
+<span class="margnote"><span id="an_VII:14">VII, 14</span></span>14.
+This material will be brought out by
+
+<span id="page_87">p. 87</span>
+
+millions of silent mental workers and fashioned into the form of the
+image which you have in mind.
+
+<span class="margnote"><span id="an_VII:15">VII, 15</span></span>15.
+Think of it! You have over five million of these mental workers, ready
+and in active use; brain cells they are called. Besides this, there is
+another reserve force of at least an equal number, ready to be called
+into action at the slightest need. Your power to think, then, is almost
+unlimited, and this means that your power to create the kind of material
+which is necessary to build for yourself any kind of environment which
+you desire is practically unlimited.
+
+<span class="margnote"><span id="an_VII:16">VII, 16</span></span>16. In
+addition to these millions of mental workers, you have billions of
+mental workers in the body, every one of which is endowed with
+sufficient intelligence to understand and act upon any message or
+suggestion given. These cells are all busy creating and re-creating the
+body, but, in addition to this, they are endowed with psychic activity
+whereby they can attract to themselves the substance necessary for
+perfect development.
+
+<span class="margnote"><span id="an_VII:17">VII, 17</span></span>17.
+They do this by the same law and in the same manner that every form of
+life attracts to itself the necessary material for growth. The oak, the
+rose, the lily, all require certain material for their most perfect
+expression and they secure it by silent demand, the Law of Attraction,
+the most certain way for you to
+
+<span id="page_88">p. 88</span>
+
+secure what you require for your most complete development.
+
+<span class="margnote"><span id="an_VII:18">VII, 18</span></span>18.
+Make the Mental Image; make it clear, distinct, perfect; hold it firmly;
+the ways and means will develop; supply will follow the demand; you will
+be led to do the right thing at the right time and in the right way.
+Earnest Desire will bring about Confident Expectation, and this in turn
+must be reinforced by Firm Demand. These three cannot fail to bring
+about Attainment, because the Earnest Desire is the feeling, the
+Confident Expectation is the thought, and the Firm Demand is the will,
+and, as we have seen, feeling gives vitality to thought and the will
+holds it steadily until the law of Growth brings it into manifestation.
+
+<span class="margnote"><span id="an_VII:19">VII, 19</span></span>19. Is
+it not wonderful that man has such tremendous power within himself, such
+transcendental faculties concerning which he had no conception? Is it
+not strange that we have always been taught to look for strength and
+power "without"? We have been taught to look everywhere but "within,"
+and whenever this power manifested in our lives we were told that it was
+something supernatural.
+
+<span class="margnote"><span id="an_VII:20">VII, 20</span></span>20.
+There are many who have come to an understanding of this wonderful
+power, and who make serious and conscientious efforts to realize health,
+power and other conditions, and seem to fail. They do not seem able to
+bring the Law into operation. The difficulty in
+
+<span id="page_89">p. 89</span>
+
+nearly every case is that they are dealing with externals. They want
+money, power, health and abundance, but they fail to realize that these
+are effects and can come only when the cause is found.
+
+<span class="margnote"><span id="an_VII:21">VII, 21</span></span>21.
+Those who will give no attention to the world without, will seek only to
+ascertain the truth, will look only for wisdom, will find that this
+wisdom will unfold and disclose the source of all power, that it will
+manifest in thought and purpose which will create the external
+conditions desired. This truth will find expression in noble purpose and
+courageous action.
+
+<span class="margnote"><span id="an_VII:22">VII, 22</span></span>22.
+Create ideals only, give no thought to external conditions, make the
+world within beautiful and opulent and the world without will express
+and manifest the condition which you have made within. You will come
+into a realization of your power to create ideals and these ideals will
+be projected into the world of effect.
+
+<span class="margnote"><span id="an_VII:23">VII, 23</span></span>23. For
+instance, a man is in debt. He will be continually thinking about the
+debt, concentrating on it, and as thoughts are causes the result is that
+he not only fastens the debt closer to him, but actually creates more
+debt. He is putting the great law of Attraction into operation with the
+usual and inevitable result—Loss leads to greater "Loss."
+
+<span class="margnote"><span id="an_VII:24">VII, 24</span></span>24.
+What, then, is the correct principle?
+
+<span id="page_90">p. 90</span>
+
+<span class="contnote">\[paragraph continues\]</span> Concentrate on the
+things you want, not on the things you do not want. Think of abundance;
+idealize the methods and plans for putting the Law of Abundance into
+operation. Visualize the condition which the Law of Abundance creates;
+this will result in manifestation.
+
+<span class="margnote"><span id="an_VII:25">VII, 25</span></span>25. If
+the law operates perfectly to bring about poverty, lack and every form
+of limitation for those who are continually entertaining thoughts of
+lack and fear, it will operate with the same certainty to bring about
+conditions of abundance and opulence for those who entertain thoughts of
+courage and power.
+
+<span class="margnote"><span id="an_VII:26">VII, 26</span></span>26.
+This is a difficult problem for many; we are too anxious; we manifest
+anxiety, fear, distress; we want to do something; we want to help; we
+are like a child who has just planted a seed and every fifteen minutes
+goes out and stirs up the earth to see if it is growing. Of course,
+under such circumstances, the seed will never germinate, and yet this is
+exactly what many of us do in the mental world.
+
+<span class="margnote"><span id="an_VII:27">VII, 27</span></span>27. We
+must plant the seed and leave it undisturbed. This does not mean that we
+are to sit down and do nothing, by no means; we will do more and better
+work than we have ever done before, new channels will constantly be
+provided, new doors will open; all that is necessary is to have an open
+mind, be ready to act when the time comes.
+
+<span id="page_91">p. 91</span>
+
+<span class="margnote"><span id="an_VII:28">VII, 28</span></span>28.
+Thought force is the most powerful means of obtaining knowledge, and if
+concentrated on any subject will solve the problem. Nothing is beyond
+the power of human comprehension, but in order to harness thought force
+and make it do your bidding, work is required.
+
+<span class="margnote"><span id="an_VII:29">VII, 29</span></span>29.
+Remember that thought is the fire that creates the steam that turns the
+wheel of fortune, upon which your experiences depend.
+
+<span class="margnote"><span id="an_VII:30">VII, 30</span></span>30. Ask
+yourself a few questions and then reverently await the response. Do you
+not now and then feel the self within you? Do you assert this self or do
+you follow the majority? Remember that majorities are always led, they
+never lead. It was the majority that fought, tooth and nail, against the
+steam engine, the power loom and every other advance or improvement ever
+suggested.
+
+<span class="margnote"><span id="an_VII:31">VII, 31</span></span>31. For
+your next exercise visualize your friend, see him exactly as you last
+saw him, see the room, the furniture, recall the conversation, now see
+his face, see it distinctly, now talk to him about some subject of
+mutual interest; see his expression change, watch him smile. Can you do
+this? All right, you can; then arouse his interest, tell him a story of
+adventure, see his eyes light up with the spirit of fun or excitement.
+Can you do all of this? If so, your imagination is good, you are making
+excellent progress.
+
+<span id="page_92">p. 92</span>
+
+#### PART SEVEN
+
+61\. *What is visualization?*
+
+The process of making mental pictures.
+
+62\. *What is the result of this method of thought?*
+
+By holding the image or picture in mind, we can gradually but surely
+bring the thing nearer to us. We can be what we will to be.
+
+63\. *What is Idealization?*
+
+It is a process of visualizing or idealizing the plans which will
+eventually materialize in our objective world.
+
+64\. *Why are clearness and accuracy necessary?*
+
+Because "seeing" creates "feeling" and "feeling" creates "being." First
+the mental, then the emotional, then the illimitable possibilities of
+achievement.
+
+65\. *How are they obtained?*
+
+Each repeated action renders the image more accurate than the former
+one.
+
+66\. *How is the material for the construction of your mental image
+secured?*
+
+By millions of mental workers. Brain cells they are called.
+
+67\. *How are the necessary conditions for bringing about the
+materialization of your ideal in the objective world secured?*
+
+By the Law of Attraction. The natural
+
+<span id="page_93">p. 93</span>
+
+law by which all conditions and experiences are brought about.
+
+68\. *What three steps are, necessary in order to bring this law into
+operation?*
+
+Earnest Desire, Confident Expectation, Firm Demand.
+
+69\. *Why do many fail?*
+
+Because they concentrate on loss, disease and disaster. The law is
+operating perfectly; the things they fear are coming upon them.
+
+70\. *What is the alternative?*
+
+Concentrate on the ideals which you desire to see manifested in your
+life.
+
+ 
+
+ 
+
+ 
+
+<div style="margin-left: 20%; margin-right: 20%;">
+
+<div style="font-size: 90%">
+
+Man is mind, and evermore he takes the tool of thought, and shaping what
+he wills, brings forth, a thousand joys, a thousand ills. He thinks in
+secret and it comes to pass, Environment is but his looking glass.—James
+Allen.
+
+</div>
+
+</div>
+
+------------------------------------------------------------------------
+
+[Next: Part Eight](mks11)

@@ -1,0 +1,441 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index) 
+[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow15) 
+[Next](aow17) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Art of War*, by Lionel Giles, \[1910\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_71">p. 71</span>
+
+<span id="img_07100"></span> ![](img/07100.gif)
+
+### VIII. VARIATION OF TACTICS <span id="fr_404"></span>[1](#fn_403).
+
+1\. Sun Tzŭ said: In war, the general receives his commands from the
+sovereign, collects his army and concentrates his forces. <span
+id="fr_405"></span>[2](#fn_404)
+
+2\. When in difficult country, do not encamp. <span
+id="fr_406"></span>[3](#fn_405) In country where high roads intersect,
+join hands with your allies. <span id="fr_407"></span>[4](#fn_406)
+
+<span id="page_72">p. 72</span>
+
+<span class="contnote">\[paragraph continues\]</span> Do not linger in
+dangerously isolated positions. <span id="fr_408"></span>[1](#fn_407) In
+hemmed-in situations, you must resort to stratagem. <span
+id="fr_409"></span>[2](#fn_408) In a desperate position, you must
+fight. <span id="fr_410"></span>[3](#fn_409)
+
+<span id="page_73">p. 73</span>
+
+<span id="img_07300"></span> ![](img/07300.gif)
+
+3\. There are roads which must not be followed, <span
+id="fr_411"></span>[1](#fn_410) armies which must not be attacked, <span
+id="fr_412"></span>[2](#fn_411) towns <span
+id="fr_413"></span>[3](#fn_412) which must not be besieged <span
+id="fr_414"></span>[4](#fn_413), positions which must not be contested,
+commands of the sovereign which must not be obeyed. <span
+id="fr_415"></span>[5](#fn_414)
+
+<span id="page_74">p. 74</span>
+
+<span id="img_07400"></span> ![](img/07400.gif)
+
+4\. The general who thoroughly understands the advantages that accompany
+variation of tactics knows how to handle his troops. <span
+id="fr_417"></span>[1](#fn_416)
+
+5\. The general who does not understand these, may be well acquainted
+with the configuration of the country, yet he will not be able to turn
+his knowledge to practical account. <span
+id="fr_418"></span>[2](#fn_417)
+
+6\. So, the student of war who is unversed in the art of varying his
+plans, even though he be acquainted with the Five Advantages, will fail
+to make the best use of his men. <span id="fr_419"></span>[3](#fn_418)
+
+<span id="page_75">p. 75</span>
+
+<span id="img_07500"></span> ![](img/07500.gif)
+
+7\. Hence in the wise leader's plans, considerations of advantage and of
+disadvantage will be blended together. <span
+id="fr_420"></span>[1](#fn_419)
+
+8\. If our expectation of advantage be tempered in this way, we may
+succeed in accomplishing the essential part of our schemes. <span
+id="fr_421"></span>[2](#fn_420)
+
+9\. If, on the other hand, in the midst of difficulties we
+
+<span id="page_76">p. 76</span>
+
+<span id="img_07600"></span> ![](img/07600.gif)
+
+are always ready to seize an advantage, we may extricate ourselves from
+misfortune. <span id="fr_422"></span>[1](#fn_421)
+
+10\. Reduce the hostile chiefs by inflicting damage on them; <span
+id="fr_423"></span>[2](#fn_422) make trouble for them, <span
+id="fr_424"></span>[3](#fn_423)
+
+<span id="page_77">p. 77</span>
+
+<span id="img_07700"></span> ![](img/07700.gif)
+
+and keep them constantly engaged; <span id="fr_425"></span>[1](#fn_424)
+hold out specious allurements, and make them rush to any given
+point, <span id="fr_426"></span>[2](#fn_425)
+
+11\. The art of war teaches us to rely not on the likelihood of the
+enemy's not coming, but on our own readiness to receive him; <span
+id="fr_427"></span>[3](#fn_426) not on the chance of his not attacking,
+but rather on the fact that we have made our position
+unassailable. <span id="fr_428"></span>[4](#fn_427)
+
+12\. There are five dangerous faults which may affect a general: (1)
+Recklessness, which leads to destruction; <span
+id="fr_429"></span>[5](#fn_428)
+
+<span id="page_78">p. 78</span>
+
+\(2\) cowardice, which leads to capture; <span
+id="fr_430"></span>[1](#fn_429)
+
+\(3\) a hasty temper, which can be provoked by insults; <span
+id="fr_431"></span>[2](#fn_430)
+
+<span id="page_79">p. 79</span>
+
+<span id="img_07900"></span> ![](img/07900.gif)
+
+\(4\) a delicacy of honour which is sensitive to shame; <span
+id="fr_432"></span>[1](#fn_431)
+
+\(5\) over-solicitude for his men, which exposes him to worry and
+trouble. <span id="fr_433"></span>[2](#fn_432)
+
+13\. These are the five besetting sins of a general, ruinous to the
+conduct of war.
+
+14\. When an army is overthrown and its leader slain, the cause will
+surely be found among these five dangerous faults. Let them be a subject
+of meditation.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_403"></span>[71:1](aow16.htm#fr_404) The heading means
+literally "The Nine Variations," but as Sun Tzŭ does not appear to
+enumerate these, and as, indeed, he has already told us (V. §§ 6–11)
+that such deflections from the ordinary course are practically
+innumerable, we have little option but to follow Wang Hsi, who says that
+"Nine" stands for an indefinitely large number. "All it means is that in
+warfare \# we ought to vary our tactics to the utmost degree … I do not
+know what Ts‘ao Kung makes these Nine Variations out to be \[the
+latter's note is \#\], but it has been suggested that they are connected
+with the Nine Situations"—of chap. XI. This is the view adopted by Chang
+Yü: see note on \#, § 2. The only other alternative is to suppose that
+something has been lost—a supposition to which the unusual shortness of
+the chapter lends some weight.
+
+<span id="fn_404"></span>[71:2](aow16.htm#fr_405) Repeated from VII. §
+1, where it is certainly more in place. It may have been interpolated
+here merely in order to supply a beginning to the chapter.
+
+<span id="fn_405"></span>[71:3](aow16.htm#fr_406) For explanation of \#,
+see XI. § 8.
+
+<span id="fn_406"></span>[71:4](aow16.htm#fr_407) See XI, §§ 6, 12.
+Capt. Calthrop omits, \#.
+
+<span id="fn_407"></span>[72:1](aow16.htm#fr_408) \# is not one of the
+Nine Situations as given in the beginning of chap. XI, but occurs later
+on (*ibid*. § 43, *q.v.*). We may compare it with \# (XI. § 7). Chang Yü
+calls it a \#, situated across the frontier, in hostile territory. Li
+Ch‘üan says it is "country in which there are no springs or wells,
+flocks or herds, vegetables or firewood;" Chia Lin, "one of gorges,
+chasms and precipices, without a road by which to advance."
+
+<span id="fn_408"></span>[72:2](aow16.htm#fr_409) See XI. §§ 9, 14.
+Capt. Calthrop has "mountainous and wooded country" which is a quite
+inadequate translation of \#.
+
+<span id="fn_409"></span>[72:3](aow16.htm#fr_410) See XI. §§ 10, 14.
+Chang Yü has an important note here, which must be given in full. "From
+\#," he says, "down to this point, the Nine Variations are presented to
+us. The reason why only five are given is that the subject is treated
+*en précis* (\#). So in chap. XI, where he discusses the variations of
+tactics corresponding to the Nine Grounds, Sun Tzŭ mentions only six
+variations; there again we have an abridgment. \[I cannot understand
+what Chang Yü means by this statement. He can only be referring to §§
+11–14 or §§ 46–50 of chap. XI; but in both places all the nine grounds
+are discussed. Perhaps he is confusing these with the Six \# of chap.
+X.\] All kinds of ground have corresponding military positions, and also
+a variation of tactics suitable to each (\#). In chap. XI, what we find
+enumerated first \[§§ 2–10\] are the situations; afterwards \[§§ 11–14\]
+the corresponding tactics. Now, how can we tell that the \# "Nine
+Variations" are simply the \# "variations of tactics corresponding to
+the Nine Grounds"? It is said further on \[§ 5\] that 'the general who
+does not understand the nine variations of tactics may be well
+acquainted with the features of the country, yet he will not be able to
+turn his knowledge to practical account.' Again, in chap. XI \[§ 41\] we
+read: 'The different measures adapted to the nine varieties of ground
+(\#) and the expediency of aggressive or defensive tactics must be
+carefully examined.' From a consideration of these passages the meaning
+is made clear. When later on the nine grounds are enumerated, Sun Tzŭ
+refers to these nine variations. He wishes here to speak of the Five
+Advantages \[see *infra*, § 6\], so he begins by setting forth the Nine
+Variations. These are inseparably connected in practice, and therefore
+they are dealt with together." The weak point of this argument is the
+suggestion that \# "five things" can stand as a \#, that is, an <span
+id="page_73">p. 73</span> abstract or abridgment, of nine, when those
+that are omitted are not less important than those that appear, and when
+one of the latter is not included amongst the nine at all.
+
+<span id="fn_410"></span>[73:1](aow16.htm#fr_411) "Especially those
+leading through narrow defiles," says Li Ch‘üan, "where an ambush is to
+be feared."
+
+<span id="fn_411"></span>[73:2](aow16.htm#fr_412) More correctly,
+perhaps, "there are times when an army must not be attacked." Ch‘ên Hao
+says: "When you see your way to obtain a trivial advantage, but are
+powerless to inflict a real defeat, refrain from attacking, for fear of
+overtaxing your men's strength."
+
+<span id="fn_412"></span>[73:3](aow16.htm#fr_413) Capt. Calthrop says
+"castles"—an unfortunate attempt to introduce local colour.
+
+<span id="fn_413"></span>[73:4](aow16.htm#fr_414) Cf. III. § 4. Ts‘ao
+Kung gives an interesting illustration from his own experience. When
+invading the territory of \# Hsü-chou, he ignored the city of \# Hua-pi,
+which lay directly in his path, and pressed on into the heart of the
+country. This excellent strategy was rewarded by the subsequent capture
+of no fewer than fourteen important district cities. Chang Yü says: "No
+town should be attacked which, if taken, cannot be held, or if left
+alone, will not cause any trouble " \# Hsün Ying, when urged to attack
+\# Pi-yang, replied: "The city is small and well-fortified; even if I
+succeed in taking it, ’t will be no great feat of arms; whereas if I
+fail, I shall make myself a laughing-stock." In the seventeenth century,
+sieges still formed a large proportion of war. It was Turenne who
+directed attention to the importance of marches, countermarches and
+manœuvres. He said: "It is a great mistake to waste men in taking a town
+when the same expenditure of soldiers will gain a province." <span
+id="fr_416"></span>[\*](#fn_415)
+
+<span id="fn_414"></span>[73:5](aow16.htm#fr_415) This is a hard saying
+for the Chinese, with their reverence for authority, and Wei Liao Tzŭ
+(quoted by Tu Mu) is moved to exclaim: <span id="page_74">p. 74</span>
+\# "Weapons are baleful instruments, strife is antagonistic to virtue, a
+military commander is the negation of civil order!" The unpalatable fact
+remains, however, that even Imperial wishes must be subordinated to
+military necessity. Cf. III. § 17. (5), X. § 23. The *T‘ung Tien* has \#
+before \# etc. This is a gloss on the words by Chu-ko Liang, which being
+repeated by Tu Yu became incorporated with the text. Chang Yü thinks
+that these five precepts are the \# referred to in § 6. Another theory
+is that the mysterious \# are here enumerated, starting with \# and
+ending at \#, while the final clause \#, embraces and as it were sums up
+all the nine. Thus Ho Shih says: "Even if it be your sovereign's command
+to encamp in difficult country, linger in isolated positions, etc., you
+must not do so." The theory is perhaps a little too ingenious to be
+accepted with confidence.
+
+<span id="fn_415"></span>[73:\*](aow16.htm#fr_416) "Marshal Turenne," p.
+50.
+
+<span id="fn_416"></span>[74:1](aow16.htm#fr_417) Before \# in the
+original text there is a \# which is obviously not required.
+
+<span id="fn_417"></span>[74:2](aow16.htm#fr_418) Literally, "get the
+advantage of the ground," which means not only securing good positions,
+but availing oneself of natural advantages in every possible way. Chang
+Yü says: "Every kind of ground is characterised by certain natural
+features, and also gives scope for a certain variability of plan. How is
+it possible to turn these natural features to account unless
+topographical knowledge is supplemented by versatility of mind?"
+
+<span id="fn_418"></span>[74:3](aow16.htm#fr_419) <span id="page_75">p.
+75</span> Ts‘ao Kung says that the \# are \# "the five things that
+follow;" but this cannot be right. We must rather look back to the five
+"variations" contained in § 3. Chia Lin (who reads \# here to balance
+the \#) tells us that these imply five obvious and generally
+advantageous lines of action, namely: "if a certain road is short, it
+must be followed; if an army is isolated, it must be attacked; if a town
+is in a parlous condition, it must be besieged; if a position can be
+stormed, it must be attempted; and if consistent with military
+operations, the ruler's commands must be obeyed." But there are
+circumstances which sometimes forbid a general to use these advantages.
+For instance, "a certain road may be the shortest way for him, but if he
+knows that it abounds in natural obstacles, or that the enemy has laid
+an ambush on it, he will not follow that road. A hostile force may be
+open to attack, but if he knows that it is hard-pressed and likely to
+fight with desperation, he will refrain from striking," and so on. Here
+the \# comes in to modify the \#, and hence we see the uselessness of
+knowing the one without the other—of having an eye for weaknesses in the
+enemy's armour without being clever enough to recast one's plans on the
+spur of the moment. Capt. Calthrop offers this slovenly translation: "In
+the management of armies, if the art of the Nine Changes be understood
+\[*sic*\], a knowledge of the Five Advantages is of no avail."
+
+<span id="fn_419"></span>[75:1](aow16.htm#fr_420) "Whether in an
+advantageous position or a disadvantageous one," says Ts‘ao Kung, "the
+opposite state should be always present to your mind."
+
+<span id="fn_420"></span>[75:2](aow16.htm#fr_421) \#, according to Tu
+Mu, is equivalent to \#, and \# is paraphrased by Chang Yü as \#. Tu Mu
+goes on to say: "If we wish to wrest an advantage from the enemy, we
+must not fix our minds on that alone, but allow for the possibility of
+the enemy also doing some harm to us, and let this enter as a factor
+into our calculations."
+
+<span id="fn_421"></span>[76:1](aow16.htm#fr_422) A translator cannot
+emulate the conciseness of \# "to blend \[thoughts of advantage\] with
+disadvantage," but the meaning is as given. Tu Mu says: "If I wish to
+extricate myself from a dangerous position, I must consider not only the
+enemy's ability to injure me, but also my own ability to gain an
+advantage over the enemy. If in 'my counsels these two considerations
+are properly blended, I shall succeed in liberating myself … For
+instance, if I am surrounded by the enemy and only think of effecting an
+escape, the nervelessness of my policy will incite my adversary to
+pursue and crush me; it would be far better to encourage my men to
+deliver a bold counter-attack, and use the advantage thus gained to free
+myself from the enemy's toils." See the story of Ts‘ao Ts‘ao, VII. § 35,
+note. In his first edition, Capt. Calthrop translated §§ 7–9 as follows:
+"The wise man perceives clearly wherein lies advantage and disadvantage.
+While recognising an opportunity, he does not overlook the risks, and
+saves future anxiety." This has now been altered into: "The wise man
+considers well both advantage and disadvantage. He sees a way out of
+adversity, *and on the day of victory to danger is not blind*." Owing to
+a needless inversion of the Chinese, the words which I have italicised
+are evidently intended to represent § 8!
+
+<span id="fn_422"></span>[76:2](aow16.htm#fr_423) Chia Lin enumerates
+several ways of inflicting this injury, some of which would only occur
+to the Oriental mind:—"Entice away the enemy's best and wisest men, so
+that he may be left without counsellors. Introduce traitors into his
+country, that the government policy may be rendered futile. Foment
+intrigue and deceit, and thus sow dissension between the ruler and his
+ministers. By means of every artful contrivance, cause deterioration
+amongst his men and waste of his treasure. Corrupt his morals by
+insidious gifts leading him into excess. Disturb and unsettle his mind
+by presenting him with lovely women." Chang Yü (after Wang Hsi)
+considers the \# to be military chastisement: "Get the enemy," he says,
+"into a position where he must suffer injury, and he will submit of his
+own accord." Capt. Calthrop twists Sun Tzŭ's words into an absurdly
+barbarous precept: "In reducing an enemy to submission, inflict all
+possible damage upon him."
+
+<span id="fn_423"></span>[76:3](aow16.htm#fr_424) is defined by Ts‘ao
+Kung as \#, and his definition is generally <span id="page_77">p.
+77</span> adopted by the commentators. Tu Mu, however, seems to take it
+in the sense of "possessions," or, as we might say, "assets," which he
+considers to be \# "a large army, a rich exchequer, harmony amongst the
+soldiers, punctual fulfilment of commands." These give us a whip-hand
+over the enemy.
+
+<span id="fn_424"></span>[77:1](aow16.htm#fr_425) \#, literally, "make
+servants of them." Tu Yu says \# "prevent them from having any rest."
+
+<span id="fn_425"></span>[77:2](aow16.htm#fr_426) Mêng Shih's note
+contains an excellent example of the idiomatic use of \# "cause them to
+forget *pien* (the reasons for acting otherwise than on their first
+impulse), and hasten in our direction."
+
+<span id="fn_426"></span>[77:3](aow16.htm#fr_427) The *T‘ung Tien* and
+*Yü Lan* read \#, but the conciser form is more likely to be right.
+
+<span id="fn_427"></span>[77:4](aow16.htm#fr_428) The *T‘ung Tien* and
+*Yü Lan* insert \#, after the first \#, and omit \#.
+
+<span id="fn_428"></span>[77:5](aow16.htm#fr_429) \# "Bravery without
+forethought," as Ts‘ao Kung analyses it, which causes a man to fight
+blindly and desperately like a mad bull. Such an opponent, says Chang
+Yü, "must not be encountered with brute force, but may be lured into an
+ambush and slain." Cf. Wu Tzŭ, chap. IV *ad init*.: \# <span
+id="page_78">p. 78</span> \# "In estimating the character of a general,
+men are wont to pay exclusive attention to his courage, forgetting that
+courage is only one out of many qualities which a general should
+possess. The merely brave man is prone to fight recklessly; and he who
+fights recklessly, without any perception of what is expedient, must be
+condemned." Ssŭ-ma Fa, too, makes the incisive remark \# "Simply going
+to one's death does not bring about victory."
+
+<span id="fn_429"></span>[78:1](aow16.htm#fr_430) \# is explained by
+Ts‘ao Kung of the man "whom timidity prevents from advancing to seize an
+advantage," and Wang Hsi adds, "who is quick to flee at the sight of
+danger." Mêng Shih gives the closer paraphrase \# "he who is bent on
+returning alive," that is, the man who will never take a risk. But, as
+Sun Tzŭ knew, nothing is to be achieved in war unless you are willing to
+take risks. T‘ai Kung said: \# "He who lets an advantage slip will
+subsequently bring upon himself real disaster." In 404 A.D., \# Liu Yü
+pursued the rebel \# Huan Hsüan up the Yangtsze and fought a naval
+battle with him at \# the island of Ch‘êng-hung. The loyal troops
+numbered only a few thousands, while their opponents were in great
+force. But Huan Hsün, fearing the fate which was in store for him should
+he be overcome, had a light boat made fast to the side of his war-junk,
+so that he might escape, if necessary, at a moment's notice. The natural
+result was that the fighting spirit of his soldiers was utterly
+quenched, and when the loyalists made an attack from windward with
+fireships, all striving with the utmost ardour to be first in the fray,
+Huan Hsüan's forces were routed, had to burn all their baggage and fled
+for two days and nights without stopping. \[*See* \#, chap. 99, fol.
+13.\] Chang Yü tells a somewhat similar story of a \# Chao Ying-ch‘i, a
+general of the Chin State who during a battle with the army of Ch‘u in
+597 B.C. had a boat kept in readiness for him on the river, wishing in
+case of defeat to be the first to get across.
+
+<span id="fn_430"></span>[78:2](aow16.htm#fr_431) I fail to see the
+meaning of Capt. Calthrop's "which *brings* insult." Tu Mu tells us that
+\# Yao Hsiang, when opposed in 357 A.D. by \# Huang Mei, \# Têng Ch‘iang
+and others, shut himself up behind his walls and refused to fight. Têng
+Ch‘iang said: "Our adversary is of a choleric temper and easily
+provoked; let us make constant sallies and break down his walls, then he
+will grow angry and come out. <span id="page_79">p. 79</span> Once we
+can bring his force to battle, it is doomed to be our prey." This plan
+was acted upon, Yao Hsiang came out to fight, was lured on as far as \#
+San-yuan by the enemy's pretended flight, and finally attacked and
+slain.
+
+<span id="fn_431"></span>[79:1](aow16.htm#fr_432) This need not be taken
+to mean that a sense of honour is really a defect in a general. What Sun
+Tzŭ condemns is rather an exaggerated sensitiveness to slanderous
+reports, the thin-skinned man who is stung by opprobrium, however
+undeserved. Mei Yao-ch‘ên truly observes, though somewhat paradoxically:
+\# "The seeker after glory should be careless of public opinion."
+
+<span id="fn_432"></span>[79:2](aow16.htm#fr_433) Here again, Sun Tzŭ
+does not mean that the general is to be careless of the welfare of his
+troops. All he wishes to emphasise is the danger of sacrificing any
+important military advantage to the immediate comfort of his men. This
+is a shortsighted policy, because in the long run the troops will suffer
+more from the defeat, or, at best, the prolongation of the war, which
+will be the consequence. A mistaken feeling of pity will often induce a
+general to relieve a beleaguered city, or to reinforce a hard-pressed
+detachment, contrary to his military instincts. It is now generally
+admitted that our repeated efforts to relieve Ladysmith in the South
+African War were so many strategical blunders which defeated their own
+purpose. And in the end, relief came through the very man who started
+out with the distinct resolve no longer to subordinate the interests of
+the whole to sentiment in favour of a part. An old soldier of one of our
+generals who failed most conspicuously in this war, tried once, I
+remember, to defend him to me on the ground that he was always "so good
+to his men." By this plea, had he but known it, he was only condemning
+him out of Sun Tzŭ's mouth.
+
+------------------------------------------------------------------------
+
+[Next: IX. The Army on the March](aow17)

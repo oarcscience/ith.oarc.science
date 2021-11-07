@@ -1,0 +1,145 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index) 
+[Previous](tago11)  [Next](tago13) 
+
+------------------------------------------------------------------------
+
+[Buy this Book on
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte)
+
+</div>
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Time and the Gods*, by Lord Dunsany, \[1905\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="an_f10"></span>
+
+FOR THE HONOUR OF THE GODS
+
+Of the great wars of the Three Islands are many histories writ and of
+how the heroes of the olden time one by one were slain, but nought is
+told of the days before the olden time, or ever the people of the isles
+went forth to war, when each in his own land tended cattle or sheep, and
+listless peace obscured those isles in the days before the olden time.
+For then the people of the Islands played like children about the feet
+of Chance and had no gods and went not forth to war. But sailors, cast
+by strange winds upon those shores which they named the Prosperous
+Isles, and finding a happy people which had no gods, told how they
+should be happier still and know the gods and fight for the honour of
+the gods and leave their names writ large in histories and at the last
+die proclaiming the names of the gods. And the people of the islands met
+and said:
+
+"The beasts we know, but lo! these sailors tell of things beyond that
+know us as we know the beasts and use us for their pleasure as we use
+the beasts, but yet are apt to answer idle prayer flung up at evening
+near the hearth, when a man returneth from the ploughing of the fields.
+Shall we now seek these gods?" And some said:
+
+"We are lords of the Three Islands and have none to trouble us, and
+while we live we find prosperity, and when we die our bones have ease in
+the quiet. Let us not therefore seek those who may loom greater than we
+do in the Islands Three or haply harry our bones when we be dead."
+
+But others said:
+
+"The prayers that a man mutters, when the drought hath come and all the
+cattle die, go up unheeded to the heedless clouds, and if somewhere
+there be those that garner prayer let us send men to seek them and to
+say: 'There be men in the Isles called Three, or sometimes named by
+sailors the Prosperous Isles (and they be in the Central Sea), who
+ofttimes pray, and it hath been told us that ye love the worship of men,
+and for it answer prayer, and we be travellers from the Islands Three.'"
+
+And the people of the Islands were greatly allured by the thought of
+strange things neither men nor beasts who at evening answered prayer.
+
+Therefore they sent men down in ships with sails to sail across the sea,
+and in safety over the sea to a far shore Chance brought the ships. Then
+over hill and valley three men set forth seeking to find the gods, and
+their comrades beached the ships and waited on the shore. And they that
+sought the gods followed for thirty nights the lightnings in the sky
+over five mountains, and as they came to the summit of the last, they
+saw a valley beneath them, and lo! the gods. For there the gods sat,
+each on a marble hill, each sitting with an elbow on his knee, and his
+chin upon his hand, and all the gods were smiling about Their lips. And
+below them there were armies of little men, and about the feet of the
+gods they fought against each other and slew one another for the honour
+of the gods, and for the glory of the name of the gods. And round them
+in the valley their cities that they had builded with the toil of their
+hands, they burned for the honour of the gods, where they died for the
+honour of the gods, and the gods looked down and smiled. And up from the
+valley fluttered the prayers of men and here and there the gods did
+answer a prayer, but oftentimes They mocked them, and all the while men
+died.
+
+And they that had sought the gods from the Islands Three, having seen
+what they had seen, lay down on the mountain summit lest the gods should
+see them. Then they crept backward a little space, still lying down, and
+whispered together and then stooped low and ran, and travelled across
+the mountains in twenty days and came again to their comrades by the
+shore. But their comrades asked them if their quest had failed and the
+three men only answered:
+
+"We have seen the gods."
+
+And setting sail the ships hove back across the Central Sea and came
+again to the Islands Three, where rest the feet of Chance, and said to
+the people:
+
+"We have seen the gods."
+
+But to the rulers of the Islands they told how the gods drove men in
+herds; and went back and tended their flocks again all in the Prosperous
+Isles, and were kinder to their cattle after they had seen how that the
+gods used men.
+
+But the gods walking large about Their valley, and peering over the
+great mountain's rim, saw one morning the tracks of the three men. Then
+the gods bent their faces low over the tracks and leaning forward ran,
+and came before the evening of the day to the shore where the men had
+set sail in ships, and saw the tracks of ships upon the sand, and waded
+far out into the sea, and yet saw nought. Still it had been well for the
+Islands Three had not certain men that had heard the travellers' tale
+sought also to see the gods themselves. These in the night-time slipped
+away from the Isles in ships, and ere the gods had retreated to the
+hills, They saw where ocean meets with sky the full white sails of those
+that sought the gods upon an evil day. Then for a while the people of
+those gods had rest while the gods lurked behind the mountain, waiting
+for the travellers from the Prosperous Isles. But the travellers came to
+shore and beached their ships, and sent six of their number to the
+mountain whereof they had been told. But they after many days returned,
+having not seen the gods but only the smoke that went upward from burned
+cities, and vultures that stood in the sky instead of answered prayer.
+And they all ran down their ships again into the sea, and set sail again
+and came to the Prosperous Isles. But in the distance crouching behind
+the ships the gods came wading through the sea that They might have the
+worship of the isles. And to every isle of the three the gods showed
+themselves in different garb and guise, and to all they said:
+
+"Leave your flocks. Go forth and fight for the honour of the gods."
+
+And from one of the isles all the folk came forth in ships to battle for
+gods that strode through the isle like kings. And from another they came
+to fight for gods that walked like humble men upon the earth in beggars'
+rags; and the people of the other isle fought for the honour of gods
+that were clothed in hair like beasts; and had many gleaming eyes and
+claws upon their foreheads. But of how these people fought till the
+isles grew desolate but very glorious, and all for the fame of the gods,
+are many histories writ.
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: Night and Morning](tago13)
+
+</div>

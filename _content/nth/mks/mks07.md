@@ -1,0 +1,390 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[Index](index)  [Previous](mks06)  [Next](mks08) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_42">p. 42</span> <span id="page_43">p. 43</span>
+
+### PART FOUR
+
+<div style="font-size: 90%">
+
+THIS Part tells what it is which controls that which you call yourself.
+"You" are not your body; the body is simply the physical instrument
+which the ego uses to carry out its purpose. "You" are not your mind;
+this is simply another instrument which the ego uses to think, reason
+and plan. When you say "'I' go" you tell the body where to go, when you
+say "'I' think" you tell the mind what to think. When you come into a
+realization of the true nature of the "I" you will enjoy a sense of
+power which nothing else can give, because you will come to know what
+you are, who you are, what you want, and how to get it.
+
+</div>
+
+<span id="page_44">p. 44</span>
+
+#### INTRODUCTION. PART FOUR
+
+This Part will show you why what you think, or do, or feel, is an
+indication of what you are.
+
+Thought is energy, and energy is power, and it is because all the
+religions, sciences and philosophies with which the world has heretofore
+been familiar have been based upon the manifestation of this energy
+instead of the energy itself, that the world has been limited to
+effects, while causes have been ignored or misunderstood.
+
+For this reason we have God and the Devil in religion, positive and
+negative in science, and good and bad in philosophy.
+
+The Master Key reverses the process; it is interested only in cause, and
+the letters received from readers tell a marvellous story; they indicate
+conclusively that adepts are finding the cause whereby they may secure
+for themselves health, harmony, abundance, and whatever else may be
+necessary for their welfare and happiness.
+
+Life is expressive and it is our business to express ourselves
+harmoniously and constructively. Sorrow, misery, unhappiness, disease
+and poverty are not necessities and we are constantly eliminating them.
+
+But this process of eliminating consists in rising above and beyond
+limitation of any kind. He who has strengthened and purified his thought
+need not concern himself about microbes, and he who has come into an
+understanding of the law of abundance will go at once to the source of
+supply.
+
+It is thus that fate, fortune and destiny will be controlled as readily
+as a captain controls his ship, or an engineer his train.
+
+<span id="page_45">p. 45</span>
+
+#### PART FOUR
+
+<span class="margnote"><span id="an_IV:1">IV, 1</span></span>1. The "I"
+of you is not the physical body; that is simply an instrument which the
+"I" uses to carry out its purposes; the "I" cannot be the Mind, for the
+mind is simply another instrument which the "I" uses with which to
+think, reason, and plan.
+
+<span class="margnote"><span id="an_IV:2">IV, 2</span></span>2. The "I"
+must be something which controls and directs both the body and the mind;
+something which determines what they shall do and how they shall act.
+When you come into a realization of the true nature of this "I" you will
+enjoy a sense of power which you have never before Known.
+
+<span class="margnote"><span id="an_IV:3">IV, 3</span></span>3. Your
+personality is made up of countless individual characteristics,
+peculiarities, habits and traits of character; these are the result of
+your former method of thinking, but they have nothing to do with the
+real "I."
+
+<span class="margnote"><span id="an_IV:4">IV, 4</span></span>4. When you
+say "I think," the "I" tells the mind what it shall think; when you say
+"I go," the "I" tells the physical body where it shall go; the real
+nature of this "I" is spiritual, and is the source of the real power
+which comes to men and women when they come into a realization of their
+true nature.
+
+<span class="margnote"><span id="an_IV:5">IV, 5</span></span>5. The
+greatest and most marvellous power which this "I" has been given is the
+power to think, but few people know how to think constructively, or
+correctly, consequently they achieve only indifferent results. Most
+people
+
+<span id="page_46">p. 46</span>
+
+allow their thoughts to dwell on selfish purposes, the inevitable result
+of an infantile mind. When a mind becomes mature, it understands that
+the germ of defeat is in every selfish thought.
+
+<span class="margnote"><span id="an_IV:6">IV, 6</span></span>6. The
+trained mind knows that every transaction must benefit every person who
+is in any way connected with the transaction, and any attempt to profit
+by the weakness, ignorance or necessity of another will inevitably
+operate to his disadvantage.
+
+<span class="margnote"><span id="an_IV:7">IV, 7</span></span>7. This is
+because the individual is a part of the Universal. A part cannot
+antagonize any other part, but, on the contrary, the welfare of each
+part depends upon a recognition of the interests of the whole.
+
+<span class="margnote"><span id="an_IV:8">IV, 8</span></span>8. Those
+who recognize this principle have a great advantage in the affairs of
+life. They do not wear themselves out. They can eliminate vagrant
+thoughts with facility. They can readily concentrate to the highest
+possible degree on any subject. They do not waste time or money upon
+objects which can be of no possible benefit to them.
+
+<span class="margnote"><span id="an_IV:9">IV, 9</span></span>9. If you
+cannot do these things it is because you have thus far not made the
+necessary effort. Now is the time to make the effort. The result will be
+exactly in proportion to the effort expended. One of the strongest
+affirmations which you can use for the purpose of strengthening the
+
+<span id="page_47">p. 47</span>
+
+will and realizing your power to accomplish is, "I can be what I will to
+be."
+
+<span class="margnote"><span id="an_IV:10">IV, 10</span></span>10. Every
+time you repeat it realize who and what this "I" is; try to come into a
+thorough understanding of the true nature of the "I"; if you do you will
+become invincible; that is, provided that your objects and purposes are
+constructive and are therefore in harmony with the creative principle of
+the Universe.
+
+<span class="margnote"><span id="an_IV:11">IV, 11</span></span>11. If
+you make use of this affirmation, use it continuously, night and
+morning, and as often during the day as you think of it, and continue to
+do so until it becomes a part of you; form the habit.
+
+<span class="margnote"><span id="an_IV:12">IV, 12</span></span>12.
+Unless you do this, you had better not start at all, because modern
+Psychology tells us that when we start something and do not complete it,
+or make a resolution and do not keep it, we are forming the habit of
+failure; absolute, ignominious failure. If you do not intend to do a
+thing, do not start; if you do start, see it through even if the heavens
+fall; if you make up your mind to do something, do it; let nothing, no
+one interfere; the "I" in you has determined, the thing is settled; the
+die is cast, there is no longer any argument.
+
+<span class="margnote"><span id="an_IV:13">IV, 13</span></span>13. If
+you carry out this idea, beginning with small things which you know you
+can control and gradually increase the effort, but never under any
+circumstances allowing your
+
+<span id="page_48">p. 48</span>
+
+<span class="contnote">\[paragraph continues\]</span> "I" to be
+overruled, you will find that you can eventually control yourself, and
+many men and women have found to their sorrow that it is easier to
+control a kingdom than to control themselves.
+
+<span class="margnote"><span id="an_IV:14">IV, 14</span></span>14. But
+when you have learned to control yourself you will have found the "World
+Within" which controls the world without; you will have become
+irresistible; men and things will respond to your every wish without any
+apparent effort on your part.
+
+<span class="margnote"><span id="an_IV:15">IV, 15</span></span>15. This
+is not so strange or impossible as it may appear when you remember that
+the "World Within" is controlled by the "I" and that this "I" is a part
+or one with the Infinite "I" which is the Universal Energy or Spirit,
+usually called God.
+
+<span class="margnote"><span id="an_IV:16">IV, 16</span></span>16. This
+is not a mere statement or theory made for the purpose of confirming or
+establishing an idea, but it is a fact which has been accepted by the
+best religious thought as well as the best scientific thought.
+
+<span class="margnote"><span id="an_IV:17">IV, 17</span></span>17.
+Herbert Spencer says: "Amid all the mysteries by which we are
+surrounded, nothing is more certain than that we are ever in the
+presence of an Infinite and Eternal Energy from which all things
+proceed."
+
+<span class="margnote"><span id="an_IV:18">IV, 18</span></span>18. Lyman
+Abbott, in an address delivered before the Alumni of Bangor Theological
+Seminary,
+
+<span id="page_49">p. 49</span>
+
+said: "We are coming to think of God as dwelling *in* man rather than as
+operating on men from without."
+
+<span class="margnote"><span id="an_IV:19">IV, 19</span></span>19.
+Science goes a little way in its search and stops. Science finds the
+ever-present Eternal Energy, but Religion finds the Power behind this
+energy and locates it within man. But this is by no means a new
+discovery; the Bible says exactly the same thing, and the language is
+just as plain and convincing: "Know ye not that ye are the temple of the
+living God?" Here, then, is the secret of the wonderful creative power
+of the "World Within."
+
+<span class="margnote"><span id="an_IV:20">IV, 20</span></span>20. Here
+is the secret of power, of mastery. To overcome does not mean to go
+without things. Self-denial is not success. We cannot give unless we
+get; we cannot be helpful unless we are strong. The Infinite is not a
+bankrupt and we who are the representatives of Infinite power should not
+be bankrupts either, and if we wish to be of service to others we must
+have power and more power, but to get it we must give it; we must be of
+service.
+
+<span class="margnote"><span id="an_IV:21">IV, 21</span></span>21. The
+more we give the more we shall get; we must become a channel whereby the
+Universal can express activity. The Universal is constantly seeking to
+express itself, to be of service, and it seeks the channel whereby it
+can find the greatest activity, where it can do the most good, where it
+can be of greatest service to mankind.
+
+<span id="page_50">p. 50</span>
+
+<span class="margnote"><span id="an_IV:22">IV, 22</span></span>22. The
+Universal cannot express through you as long as you are busy with your
+plans, your own purposes; quiet the senses, seek inspiration, focus the
+mental activity on the within, dwell in the consciousness of your unity
+with Omnipotence. "Still water runs deep"; contemplate the multitudinous
+opportunities to which you have spiritual access by the Omnipresence of
+power.
+
+<span class="margnote"><span id="an_IV:23">IV, 23</span></span>23.
+Visualize the events, circumstances and conditions which these spiritual
+connections may assist in manifesting. Realize the fact that the essence
+and soul of all things is spiritual and that the spiritual is the real,
+because it is the life of all there is; when the spirit is gone, the
+life is gone; it is dead; it has ceased to exist.
+
+<span class="margnote"><span id="an_IV:24">IV, 24</span></span>24. These
+mental activities pertain to the world within, to the world of cause;
+and conditions and circumstances which result are the effect. It is thus
+that you become a creator. This is important work, and the higher,
+loftier, grander and more noble ideals which you can conceive, the more
+important the work will become.
+
+<span class="margnote"><span id="an_IV:25">IV, 25</span></span>25.
+Over-work or over-play or over-bodily activity of any kind produces
+conditions of mental apathy and stagnation which makes it impossible to
+do the more important work which results in a realization of conscious
+power. We should, therefore, seek the Silence frequently.
+
+<span id="page_51">p. 51</span>
+
+<span class="contnote">\[paragraph continues\]</span> Power comes
+through repose; it is in the Silence that we can be still, and when we
+are still we can think, and thought is the secret of all attainment.
+
+<span class="margnote"><span id="an_IV:26">IV, 26</span></span>26.
+Thought is a mode of motion and is carried by the law of vibration the
+same as light or electricity. It is given vitality by the emotions
+through the law of love; it takes form and expression by the law of
+growth; it is a product of the spiritual "I," hence its Divine,
+spiritual, and creative nature.
+
+<span class="margnote"><span id="an_IV:27">IV, 27</span></span>27. From
+this it is evident that in order to express power, abundance or any
+other constructive purpose, the emotions must be called upon to give
+feeling to the thought so that it will take form. How may this purpose
+be accomplished? This is the vital point; how may we develop the faith,
+the courage, the feeling, which will result in accomplishment?
+
+<span class="margnote"><span id="an_IV:28">IV, 28</span></span>28. The
+reply is, by exercise; mental strength is secured in exactly the same
+way that physical strength is secured, by exercise. We think something,
+perhaps with difficulty the first time; we think the same thing again,
+and it becomes easier this time; we think it again and again; it then
+becomes a mental habit. We continue to think the same thing; finally it
+becomes automatic; we can no longer help thinking this thing; we are now
+positive of what we think; there is no longer any doubt about it. We are
+sure; we know.
+
+<span id="page_52">p. 52</span>
+
+<span class="margnote"><span id="an_IV:29">IV, 29</span></span>29. In
+Part Three I asked you to relax, to let go physically. Now I am going to
+ask you to let go mentally. If you practised the previous exercise
+fifteen or twenty minutes a day in accordance with the instructions, you
+can no doubt relax physically; and anyone who cannot consciously do this
+quickly and completely is not a master of himself. He has not obtained
+freedom; he is still a slave to conditions. But I shall assume that you
+have mastered the exercise and are ready to take the next step, which is
+mental freedom.
+
+<span class="margnote"><span id="an_IV:30">IV, 30</span></span>30. Now
+after taking your usual position, remove all tension by completely
+relaxing, then mentally let go of all adverse conditions, such as
+hatred, anger, worry, jealousy, envy, sorrow, trouble or disappointment
+of any kind.
+
+<span class="margnote"><span id="an_IV:31">IV, 31</span></span>31. You
+may say that you cannot "let go" of these things, but you can; you can
+do so by mentally determining to do so, by voluntary intention and
+persistence.
+
+<span class="margnote"><span id="an_IV:32">IV, 32</span></span>32. The
+reason that some cannot do this is because they allow themselves to be
+controlled by the emotions instead of by their intellect. But the will
+guided by the intellect will gain the victory. You will not succeed the
+first time you try, but practice makes perfect, in this as in everything
+else, and you must succeed in dismissing, eliminating and completely
+destroying
+
+<span id="page_53">p. 53</span>
+
+these negative and destructive thoughts; because they are the seed which
+is constantly germinating into discordant conditions of every
+conceivable kind and description.
+
+31\. *What is thought?*
+
+Thought is spiritual energy.
+
+32\. *How is it carried?*
+
+By the law of vibration.
+
+33\. *How is it given vitality?*
+
+By the law of love.
+
+34\. *How does it take form?*
+
+By the law of growth.
+
+35\. *What is the secret of its creative power?*
+
+It is a spiritual activity.
+
+36\. *How may we develop the faith, courage, and enthusiasm which will
+result in accomplishment?*
+
+By a recognition of our spiritual nature.
+
+37\. *What is the secret of Power?*
+
+Service.
+
+38\. *Why is this so?*
+
+Because we get what we give.
+
+39\. *What is the Silence?*
+
+A physical stillness.
+
+40\. *Of what value is it?*
+
+It is the first step to self-control, self-mastery.
+
+ 
+
+ 
+
+<div style="margin-left: 20%; margin-right: 20%;">
+
+<div style="font-size: 90%">
+
+There is nothing truer than that the quality of thought which we
+entertain correlates certain externals in the outside world. This is the
+Law from which there is no escape. And it is this Law, this correlative
+of the thought with its object, that from time immemorial has led the
+people to believe in special providence.—Wilmans.
+
+</div>
+
+</div>
+
+------------------------------------------------------------------------
+
+[Next: Part Five](mks08)

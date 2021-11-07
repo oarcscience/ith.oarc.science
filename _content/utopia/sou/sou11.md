@@ -1,0 +1,611 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[Index](index)  [Previous](sou10)  [Next](sou12) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+
+------------------------------------------------------------------------
+
+*The Story of Utopias*, by Lewis Mumford, \[1922\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_148">p. 148</span> <span id="page_149">p. 149</span>
+
+### CHAPTER EIGHT
+
+How Étienne Cabet dreamed of a new Napoleon called Icar, and a new
+France called Icaria; and how his utopia, with that which Edward Bellamy
+shows us in Looking Backward, gives us a hint of what machinery might
+bring us to if the industrial organization were nationalized.
+
+<span id="page_150">p. 150</span> <span id="page_151">p. 151</span>
+
+### CHAPTER EIGHT
+
+#### 1
+
+ÉTIENNE CABET opened his eyes upon the year that preceded the meeting of
+the National Assembly in 1788, and closed them upon the Empire of
+Napoleon III.
+
+It would be foolish to give an account of Cabet's Voyage en Icarie
+without noting these facts; for the reason that Cabet's most
+impressionable years were drenched with the flamboyant light of the
+Napoleonic conquests and the Napoleonic tradition which remained as an
+afterglow when the conquests themselves had fallen below the horizon.
+The spectacle of a nationalized church and a nationalized system of
+education, extending their ministrations to the smallest commune through
+a vast system of bureaucracy, must have given a solidity to his dreams
+which the interruption of the first Napoleon's personal downfall could
+only have reinforced.
+
+To understand why the Journey to Icaria, as we may call it, should have
+been one of the best sellers among workingmen in 1845, and to see why
+Louis Blanc should have attempted to set up an organization of National
+Workshops in 1848, one must realize the historic momentum of Napoleon's
+dictatorship. Cabet consciously or unconsciously idealized the
+Napoleonic tradition; and in Icaria he consummated it. That Cabet's
+futile will-to-power should have led him, under the inspiration of Owen,
+to the swamps of Missouri as
+
+<span id="page_152">p. 152</span>
+
+the leader of a little band of communist pioneers is an ironic twist of
+circumstance: his Icaria was a national state, with all its pomp and
+dignity and splendor, and not a squalid collection of huts in the midst
+of a dreary prairie. Cabet died in America, as much perhaps from an
+outraged sense of dignity as from any physical disease, and nothing came
+of his utopia until Edward Bellamy gave it a fresh outline in Looking
+Backward.
+
+#### 2
+
+With the romantic element in the Journey to Icaria—the English lord and
+the Icarian family he visits, and the various friendships and love
+affairs that are outlined in its pages—I purpose to have nothing to do.
+These things add an element of complication to Cabet's picture without
+doing very much to illuminate it.
+
+Icaria is a country divided into a hundred provinces almost equal in
+extent and almost the same in population. These provinces are in turn
+divided into ten communes, which are likewise almost equal, and the
+provincial capital is in the center of the province, whilst each
+communal city is the center of the commune. The elegance and precision
+of the decimal system has overlaid the facts of geography and as one
+looks over the map of the imaginary country one recalls the way in which
+the French revolution divided France into arbitrary administrative areas
+called departments, upsetting those ancient regional groupings which
+corresponded, roughly, with the natural units of soil, climate,
+population, and historic continuity.
+
+In the midst of Icaria is the city of Icara. Icara is a reconstructed
+Paris, built on a reconstructed Seine.
+
+<span id="page_153">p. 153</span>
+
+<span class="contnote">\[paragraph continues\]</span> It is almost
+circular, cut into two equal parts by a river whose banks have been
+straightened and enclosed in two straight walls; and the bed has been
+deepened to receive ocean vessels. In the middle of the city the river
+divides into two arms, which form a rather big circular island—though
+the islands formed naturally by the division of a river are inevitably
+not circular!—and here is the civic center, planted with trees, in the
+midst of which stands a palace. There is a superb garden elevated on a
+terrace; in the center, a vast column surmounted by a colossal statue
+that dominates all the buildings. On each side of the river is a big
+quay, bordered by public offices. The effect is indubitably
+metropolitan.
+
+The city is divided into quarters: Icara has sixty communes of almost
+equal size. In each quarter is a school, a hospital, a temple, shops,
+public places, and monuments. The streets are straight and wide, the
+city being traversed by fifty avenues parallel to the river and fifty
+perpendicular to it. How it is possible to reconcile this street plan
+with a circular city I have no notion; and Cabet apparently did not take
+the trouble to cast his verbal specifications into a definite picture or
+plan. Each block has fifteen houses on each side, with a public building
+in the middle, and one at each end; and between the rows of houses are
+gardens which the inhabitants of Icaria, like those of Utopia, have a
+great pride in keeping up. The blocks are arranged around squares, very
+much like those of Belgravia and Mayfair in London; but the gardens are
+public ones and are cared for by the inhabitants.
+
+The Icarian villages are almost as metropolitan as the principal city
+itself. One notes a great preoccupation
+
+<span id="page_154">p. 154</span>
+
+with hygienic conveniences and sanitary regulations. There are dust
+collectors of special model; the sidewalks are covered with glass
+against rain; and the stations for omnibuses are also covered. The
+streets are well-lighted and paved. Stables, slaughter houses, and
+hospitals are on the outskirts of the village. The factories and
+warehouses are on the railway lines and canals, and half the streets are
+closed to all traffic except dog-carts.
+
+In sum, Icaria enjoys a highly sophisticated and metropolitan form of
+life. Everything has been "arranged," everything has been "attended to."
+There are no upsetting complications and diversities. Even the weather
+has been disposed of. Nothing short of a very powerful and persistent
+organization could have accomplished these things. What is this
+organization?
+
+#### 3
+
+In the beginning was Icar, the dictator who established the government
+of Icaria, and out of Icar there sprang a number of bureaux,
+departments, and committees. Let us follow a typical Icarian through his
+day, and examine the institutions he comes in contact with.
+
+Our Icarian is an early riser by necessity, for at 6 A. M. breakfast is
+served in a restaurant or factory. It is not a capricious breakfast; it
+is such a breakfast, perhaps, as the guardians of Battle Creek,
+Michigan, dream of. The food that is served in Icaria is regulated by a
+committee of scientists; and while everybody has all that is good for
+him, precisely what is good and in what amounts, someone else has
+decided in advance.
+
+<span id="page_155">p. 155</span>
+
+<span class="contnote">\[paragraph continues\]</span> So it is at
+present in our armies and navies, and to some extent in our cheap
+lunchrooms, the difference being that there remains, outside Icaria, the
+possibility of breaking away from the routine and following caprice and
+appetite without respect for the committee of dietitians.
+
+When our Icarian has breakfasted, he goes to his work, seven hours in
+summer, six in winter. He works the same number of hours as every other
+Icarian, and whether he works in the field or the workshop, the products
+of his industry are deposited in public stores. Who is his employer? The
+State. Who owns all the instruments of production and service, down to
+the horses and carriages? The State. Who organizes the workers? The
+State. Who constructs the stores and factories, attends to the
+cultivation of the ground, has houses built, and makes all the things
+necessary for clothing, lodging, and transport? The same. In theory, the
+public is the sole proprietor and director of industry; in
+practice—Cabet doesn't tell us otherwise and it necessarily follows in a
+system of national industry—a body of engineers and officials have taken
+over the dictatorship of Icar and are running the affairs of the
+community.
+
+How familiar this Icaria seems to us. Utopia—*c’est la guerre!* 
+
+When he is through with his work, our Icarian possibly changes his
+clothes. Exactly what clothes are necessary, and what are permissible
+has already been prescribed by a committee on clothes; which comes to
+saying that every Icarian's dress is a uniform, even as every Icarian is
+an official of the State. Eating, working, dressing, sleeping—there is
+no getting away from
+
+<span id="page_156">p. 156</span>
+
+<span class="contnote">\[paragraph continues\]</span> State regulations.
+The uniformity that irks us in modern life and that makes people who
+have some remnant of free initiative in their makeup chafe in the civil
+service, to say nothing of the army, is extended to the last degree in
+Icaria. Napoleon's conception of a nation in arms is dominant; only now
+it is a nation in overalls.
+
+Our Icarian's father and mother were married after a six-month interval
+of courtship. Since they took advantage of the institution at the
+earliest moment permitted by law, he was twenty and she was eighteen. By
+education, they had been taught to look upon conjugal fidelity as a
+desideratum; and they realized that concubinage and adultery would be
+looked upon as crimes by public opinion, even if these crimes were not
+punished by law. Before our Icarian was born his mother received public
+instruction on maternity.
+
+Up to the age of five our Icarian's education was domestic; but from the
+fifth to the seventeenth or eighteenth year, domestic instruction was
+combined with intellectual and moral education, under a program laid
+down by a committee which had consulted all systems of education,
+ancient and modern. His general or elementary education was the same as
+that of every other Icarian; but at seventeen for girls and eighteen for
+men, his professional education began.
+
+The only industries or professions open to our Icarians were those
+recognized and sanctioned by the State; and every year a list is
+published telling the number of workers needed in each profession. The
+number of workers, in turn, is determined by a committee on industry,
+which plans the amount of goods that must be produced during the coming
+year. Our
+
+<span id="page_157">p. 157</span>
+
+<span class="contnote">\[paragraph continues\]</span> Icarian begins
+work at eighteen, his sister at seventeen; and he is exempt from work at
+sixty-five, while she would be exempt at fifty. The republic, I may note
+parenthetically, asks from each commune the sort of industrial and
+agricultural production which goes best with its natural resources;
+delivering its surplus production to other communes and giving it, in
+turn, what it may lack.
+
+Cabet describes all these institutions in the minutest fashion, down to
+the noiseless window with which each Icarian's house is equipt; but the
+broad outlines of the industrial and social system are contained in this
+picture. What we see is a National State, abundantly organized for war,
+and remaining on that footing in the midst of its peace-time activities.
+What is not of national importance, in this scheme of things, is of no
+importance; and the people who decide what is or is not of national
+importance are the officeholders—I find it difficult to discover a
+utopian equivalent for this word or to fancy any great improvement in
+utopia—in the capital.
+
+The political activities that regulate these Icarian institutions do not
+greatly reassure us. From each of the thousand communes two deputies are
+chosen to hold office for two years: this constitutes the national
+representation. The basis of this system is the communal assembly; and
+from this communal assembly the provincial representatives are drawn.
+The national executive consists of sixteen members, each with a special
+department; and it is plain that here is the seat of power; for exactly
+what business remains in the hands of the two thousand legislators when
+the food committee has determined the amount and variety of food, the
+
+<span id="page_158">p. 158</span>
+
+industrial committee the quantity and kind of manufactured products, and
+the educational committee the methods, subjects, and aims of education,
+it is a little hard to determine.
+
+There are no newspapers and no means of organized criticism, except the
+right of submitting propositions to the popular assemblies. The only
+thing resembling public opinion is the collective opinion of these
+assemblies. The newspapers are published by the government, one for the
+nation, one for the province, and one for the commune; and they are
+devoted solely to the presentation of news, divorced from opinion. For
+this kind of political system, and for all the power that it might
+presume to wield, there is a word in philosophy which has no
+substitute—epiphenomenon. The popular system of representation in Icaria
+is but a shadow of that dictatorial power which was first wielded by
+Icar and was in turn transmitted to the committees and bureaux.
+
+If I have been criticizing Icaria in terms of the last century of
+political experience, I can only plead that it is because Icaria is so
+little like Utopia and so much like the actual order of things. It must
+be prepared to stand fire as a fait accompli: indeed, in the early days
+of the second Russian revolution it came near to being a fait
+accompli—there was more of Cabet than of Marx perhaps in embryonic
+Soviet Russia! Icaria is essentially not an ideal but an idealization;
+and it is in order to keep the two from being confused that I have
+emphasized its little weaknesses. What is good in Icaria is what is good
+in the institution of an army; what is bad is what is bad in the
+execution of a war. If the good life could be perpetrated by a junta of
+
+<span id="page_159">p. 159</span>
+
+busybodies, as Plato would call them, Icaria would be a model community.
+
+#### 4
+
+Looking backward into the future: that was the paradox by which a young
+New England romancer, Edward Bellamy, concerned like Thoreau and Emerson
+and the rest of the great Concord school with the well-being of his
+community, descended from literature to sociology; and stirred the minds
+of thousands of people in America in much the same fashion that Theodor
+Hertzka, writing at the same time, stirred his European contemporaries.
+Having begun to romanticize about reality, Bellamy during the decade
+that followed the publication of Looking Backward, devoted himself to
+realizing his romance. In a later work, Equality, he set forth his
+picture of the New Society of the year 2000 in much greater detail; just
+as if the popularity of his first work committed him to take up
+seriously the tasks of the economist and the statesman.
+
+The chief pleasure, nowadays, in both of these books is the familiar one
+of recognition; for if Bellamy did not portray a better future he at any
+rate, like Mr. H. G. Wells, in his early romances, outlined many ports
+of a future that has for us, in the twentieth century, become an
+actuality; a fact which makes us realize very poignantly the limitations
+of his utopia. In spite of a thin-lipped style, Bellamy handles his
+story in a neat, workmanlike way, with a certain plausibility and
+familiarity which doubtless explains the fact that it can still be
+found, without any difficulty, on
+
+<span id="page_160">p. 160</span>
+
+the fiction shelves of our circulating public libraries.
+
+The preface to Looking Backward is dated: "Historical Section Shawmut
+College, Boston, December 26, 2000." In that preface the work is
+presented as an avowed romance which will enable the readers of 2000 to
+realize the gaps that separate them from their ancestors, and to value
+the prodigious "moral and material" transformation that has taken place
+in a few generations. Julius West is a person whom our Shawmut historian
+invents, to bridge the gap between the two eras, Julius West, a young
+man of wealth, sensitive to the ignominy of his position, and feeling
+that, as a "rich man living among the poor, an educated man among the
+uneducated," he "was like one living in isolation among a jealous and
+alien race." In order to overcome his insomnia West sleeps in a vaulted
+room in the foundations of his house, and gets put to sleep by a
+hypnotist; and so by a dramatic oversight he hibernates for 113 years,
+and awakens among strange faces. Needless to say, West has a love affair
+in the old world which is carried on in the new, through a descendant of
+the girl he meant to marry; and it is equally needless to observe that
+he reawakens to the world of 1887 as soon as the institutions of 2000
+have been described and the love affair has been resolved.
+
+Let us take West's muzziness, his amazement, and his sense of isolation
+for granted, and follow him as he explores his new environment.
+
+#### 5
+
+If Plato cavalierly disposes of the labor problem of the Republic by
+permitting things to remain pretty
+
+<span id="page_161">p. 161</span>
+
+much as they were, Bellamy makes the solution of labor organization and
+the distribution of wealth the key to every other institution in his
+utopia.
+
+In the United States of 1887 the growing organization of labor and the
+aggregation of capital into trusts were the two chief economic factors:
+Dr. Leete, Julius West's host, pictures how this aggregation and
+combination were continued until, by a mere shift of gears, "the epoch
+of trusts had ended in The Great Trust." In a word, "the people of the
+United States concluded to assume the conduct of their own business,
+just as one hundred years before they had assumed the conduct of their
+own government, organizing now for industrial purposes on precisely the
+same grounds that they had organized for political purposes." Was there
+any violence in this transition? Ah no! everything had been prepared
+beforehand by public opinion, the great corporations had gradually
+trained everybody into an acceptance of large-scale organization, and
+the final step of merging all the big corporations into a national
+corporation occurred without a jar. With the assumption by the nation of
+the mills, machinery, railroads, farms, mines, and capital in general,
+all the difficulties of labor vanished, for every citizen became by
+virtue of his citizenship an employee of the government, and was
+distributed according to the needs of industry.
+
+In 2000 "the labor army" is not a figure of speech: it is an army
+indeed, for the nation is a single industrial unit, and the principle
+upon which the working force is recruited is universal compulsory
+industrial service. After a man's education has been completed in the
+common school system, which extends straight through college, he must
+first serve a term of three
+
+<span id="page_162">p. 162</span>
+
+years in an unclassified labor army, which performs all the rough and
+menial tasks of the community. When this period is over, he is permitted
+to offer himself as a recruit in any of the trades or professions which
+may be declared open by the government, and can train for his calling up
+to the age of thirty, in the national schools and institutes. In order
+to attract people into occupations where they are needed, the hours are
+reduced and, for the dangerous trades, volunteers are called for. There
+are however no discriminations in pay. Every person is credited with a
+sum of four thousand dollars per annum at the National Bank, a sum which
+he receives because of his needs as a man and not because of his
+capacity as a worker. Instead of being rewarded for giving the full
+measure of his energies and abilities, a man is penalized if he fails to
+do so. It is possible to shift from one branch of the service to
+another, under certain restrictions, even as in the navy one can change
+one's rating and apply for service on a different ship or station, but
+except for the possibility of retiring on a half-income at the age of
+thirty-three, everyone must remain at work until he is forty-five.
+
+To this rule there is one exception; and we may note ironically that it
+is made in favor of the writer's guild. If a man produces a book he may
+name his own royalties, and live as long from this income as the sale
+will allow; and if he wishes to start a newspaper or a magazine, and can
+get credit from a sufficient number of other people to support his
+enterprise, there is nothing to prevent him from remitting service to
+the amount his guarantors are ready to deduct from their personal
+income. In other words, a man must "either by
+
+<span id="page_163">p. 163</span>
+
+literary, artistic, or inventive productiveness indemnify the nation for
+the loss of his services, or must get a sufficient number of people to
+contribute to such an indemnity." This is the one open hole in our
+militarized, industrial utopia; and I think it is the most acceptable
+feature in the whole system. A community organized as a single unit,
+directed by a general staff at Washington, and perpetually exhibiting a
+herd complex which every institution would naturally reinforce, might
+not be a very genial shelter for the soul of an artist; but if it were,
+this means of support would doubtless be fair and excellent for the
+encouragement of the arts.
+
+To go back to our army. The entire field of production and distribution
+is divided into ten great departments, each representing a group of
+allied industries; and each particular industry is in turn represented
+by a subordinate bureau, which has a complete record of the plant and
+the force under its control, of the present product, and of the means of
+increasing it. The estimates of the distributive department, after
+adoption by the administration, are sent as mandates to the ten great
+departments, which allot them to the subordinate bureaux, representing
+the particular industries, and these set the men at work. . . . "After
+the necessary contingents have been detailed for the various industries,
+the amount of labor left for other employment is expended in creating
+fixed capital, such as buildings, machinery, engineering works, and so
+forth."
+
+In order to safeguard the consumer from the caprices of the
+administration, a new article must be produced as soon as a certain
+guaranteed demand for it has been established by popular petition,
+whilst an old article
+
+<span id="page_164">p. 164</span>
+
+must be continued to be produced as long as there are customers for it,
+provision being made that the price rise in accordance with the greater
+cost of production per unit.
+
+Now the general of this industrial army is the president of the United
+States. He is chosen from among the corps commanders; and it is provided
+that every officer in the army, from the president down to the sergeant,
+must work his way up from the grade of common laborer. The chief
+peculiarity of this system consists in the way in which the voting is
+done. The voters are all honorary members of the guild to which they
+belong; that is, men who are over forty-five years old; this applies not
+merely to the ten lieutenant generals, but to the commander-in-chief,
+who is not eligible for the presidency until he has been a certain
+number of years out of office. The president is elected by vote of all
+the men of the nation who are not connected with the industrial army;
+for any other method, Bellamy thinks, would be prejudicial to
+discipline. There are various names for this practice: one of them is
+gerontocracy, or government by the aged; and another, more familiar, is
+"alumni control." When we recollect that the hardships of military
+service look rather mild and pleasant to the man who has been mustered
+out, I doubt if the youngsters in the industrial army would stand much
+chance of having their lot improved if the initiative for a change had
+to come from the alumni. Yet we know what even the formation of a
+worker's shop committee would be in an industrial army: it would be
+mutiny. As for criticism of the administration, that would be treason;
+admiration for the practices of another country would be disloyalty; and
+advocacy of a change in the method of industry would be sedition.
+
+<span id="page_165">p. 165</span>
+
+True: corruption and bribe-taking and all the dirty scandals that we
+associate today with a financial oligarchy would be wiped out in utopia;
+but this merely means that the defects of the old order would disappear
+along with its virtues. What would remain would be the defects that
+arise when a nation is in arms, and when there is no escape, by travel
+or mental withdrawal, from its institutions; in short, the defects of a
+state of war. To call this a peaceful community is absurd: one might as
+well call a battleship a pleasure-craft because a modern one possesses a
+band and shows motion pictures to the crew. The organization of this
+utopia is an organization for war; and the one rule that such a
+community would not tolerate is "live and let live." If this is the
+peace that "industrial preparedness" ensures it is scarcely worth
+having. Any community that liked this state of life would scarcely need
+the constant exhortation of the recruiting sergeant or the final
+compulsion of a conscription act.
+
+#### 6
+
+The great part of Looking Backward is a discussion of this perfected
+form of industrial organization; the manner in which it is worked; and
+the effects of complete economic equality in doing away with the
+necessity for the greater part of the legal machinery of the present
+day, since crimes with an economic motive would almost, according to
+Bellamy, be unthinkable. Here and there however we have glimpses of the
+social life of this new age.
+
+First of all, there floats before our eyes the picture of a vast body of
+superannuated persons, who for the
+
+<span id="page_166">p. 166</span>
+
+most part spend their time in a sort of country-club existence. They can
+travel, because the other countries in the world are likewise
+nationalized, and by a simple system of book-keeping foreign credit for
+goods and personal services can be transferred from one country to
+another; and they can take up special vocations and hobbies during their
+superannuated years; but it is equally plain that their work has not
+done very much to foster intellectual or emotional maturity, since in
+relation to the citizens the state exists as a "Great White Father"; and
+there is good reason perhaps for the great interest in sport which
+characterizes Bellamy's utopia. Games are organized, apparently, upon
+lines of industrial guild rivalry; just as one has sports nowadays
+between rival battleship squadrons perhaps; for "if bread is the first
+necessity of life, recreation is a second, and the nation caters for
+both." The demand for bread and circuses, our guide explains, is
+recognized in the year 2000 as a wholly reasonable one. Both work and
+play are external to the citizen's inner trends and interests; and we
+should not be surprised if an infantile element predominated in the
+character of this happy republic.
+
+This externalism, this impersonality, seems to characterize the whole
+scene. We follow Julius West and his new love, Edith, into a modern
+shop, where everything is displayed by sample, and an order for goods is
+sent to a central warehouse, and along with undoubted economies of space
+and time, we note that there is an almost complete absence of personal
+contacts or relationships: more than ever the worker has become a cog in
+the machine, more than ever he deals with a thin, barren, abstract world
+of paper notations, more
+
+<span id="page_167">p. 167</span>
+
+than ever his desire for social contacts is dammed up; and so, more than
+ever, there must be occasion in this new age for stimulants and
+socialities beside which the roller coasters of Coney Island and the
+promiscuities of a modern dance hall would be insipid things. Bellamy
+does not show us what these compensatory institutions would be: but he
+has invented a high-powered engine of repression, and he does not fool
+us when he conceals the safety-valve. Unless there is a safety-valve his
+universal army, under a rigorous discipline for twenty-four years, is
+bound to blow up the works. We can guess when we read the cheap
+illustrated papers, when we go to the movies, when we watch the behavior
+of the crowds on Broadway, what this twenty-first century Utopia would
+be like—it would be all that a modern city is, exaggerated. In The New
+Society, Dr. Walter Rathenau drew a picture of a socialized modern
+society, moving along its present path without any change in its aims
+and ideals; and that nightmare of his must be added to Bellamy's dream
+in order to define it.
+
+It is the same with every other institution. There is a big communal
+restaurant in which each family of the neighborhood has a private room;
+this is the place where the principal meal is ordered by the family, and
+served by young conscript waiters. Am I at fault if I point out that
+this universal hostelry is a little too elaborate and mechanical; that
+there is more promise of a genuine utopia in Plato's olives and cheese
+and beans, simply served, than in the "perfection of catering and
+cooking" which the new age boasts. So one could go down the line and
+enumerate the mechanical marvels which take the place of a fully
+humanized life; marvels like the telephone concerts and sermons which
+astoundingly
+
+<span id="page_168">p. 168</span>
+
+anticipate by thirty-odd years the radio broadcasting service which is
+now a prevalent mania in America. Are these things, as Aristotle would
+have said, the material bases of the good life, or are they substitutes
+for the good life? There may have been some doubt as to the answer in
+Bellamy's time; but I think there need not be any at present. In so far
+as these instruments are consonant with humanized purposes they are
+good; in so far as they are irrelevant they are so much rubbish—idiotic
+rubbish. A free public library is a good thing; but a free public
+library devoted exclusively to distributing the novels of Gene Stratton
+Porter and the uplift books of Mr. Orison Swett Marden would not
+contribute so much as a useful platitude towards a vivid and stimulating
+society.
+
+There is no escaping the problem of ends and the problem of ends, if I
+may be permitted a pun, belongs at the beginning. Subordinate to
+humanized ends, machinery and organization—yes, complicated machinery
+and organization—have undoubtedly a useful contribution to make towards
+a good community; unsubordinated, or subordinated only to the engineer's
+conceptions of an efficient industrial equipment and personnel, the most
+innocent machine may be as humanly devastating as a Lewis gun. All this
+Bellamy overlooked in Looking Backward, and yet—something remains.
+
+What remains in Looking Backward is the honest passion that inspired the
+man; the play of generous impulses; the insistence that there is no fun
+for an ordinarily imaginative person in dining with Dives whilst Lazarus
+hangs around the table. Bellamy wanted everyone to be equally educated,
+so that everyone might be his companion; he wanted everyone to be
+
+<span id="page_169">p. 169</span>
+
+decently fed and sheltered; he wanted to take his share in the dirty
+work and to see that accidents of wealth did not keep other people from
+taking theirs. He wanted private life to be simple and public life to be
+splendid. He wanted men and women to mate with each other without
+permitting this relationship to be compromised by obligations to a
+father, a mother, or the butcher, the baker, and the grocer. He wanted
+the generous, the just, and the tender-hearted to be as well endowed as
+the cold-hearted, the greedy, and the self-seeking. He pleaded for an
+absence of artificiality and restraint in the relations of the sexes;
+for such a candor as has perhaps come into fashion again—thank
+heaven!—today, a candor which permits women physical freedom in dress,
+and a spiritual freedom in exhibiting their love, and giving it freely.
+All this is to the good. I do not question Bellamy's fine motives; I
+question only the outlets he imagined for them. There is a breach
+between Bellamy's conception of the good life and the structure he
+erected to shelter it. This breach is due, I believe, to an
+over-emphasis of the part that wholesale mechanical organization,
+directed by a handful of people, would play in such a reconstruction. If
+Bellamy sometimes exaggerated the bad in modern society, with its muddle
+of competitive privileges, he likewise overestimated the good that it
+contained; and he was more than fair to the present order of things when
+he made the future so closely in its image.
+
+------------------------------------------------------------------------
+
+[Next: Chapter Nine](sou12)

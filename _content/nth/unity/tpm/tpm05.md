@@ -1,0 +1,214 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [New
+Thought](../../index)  [Unity](../index)  [Index](index) 
+[Previous](tpm04)  [Next](tpm06) 
+
+------------------------------------------------------------------------
+
+[![](../img/uni_t.jpg)](index)  
+*The Twelve Powers of Man*, by Charles Fillmore, \[1930\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+###  Strength--Stability--Steadfastness 
+
+<div style="margin-left: 32px">
+
+<span class="small">WHEN the strong man fully armed guardeth his own
+court, his  
+goods are in peace: but when a stronger than he shall come  
+upon him, and overcome him, he taketh from him his whole  
+armor wherein he trusted, and divideth his spoils.  
+</span>
+
+</div>
+
+Jesus gave the foregoing illustration of a strong man's being overcome
+by a stronger. The incident is mentioned in three of the Gospels, those
+of Matthew, Mark, and Luke. It is usually interpreted as illustrating in
+a general way the overcoming of evil, but the peculiar identification of
+the strong man in his court (or house), and the necessity of overcoming
+him, hint at a deeper significance. One who has studied man as an
+aggregation of personalities readily identifies the "strong man" as one
+of the twelve foundation powers that make up the manifest man. Among the
+apostles of Jesus the strong man is designated as Andrew, brother of
+Peter. The Greek meaning of Andrew is "strong man."
+
+The development of the natural world from coarser to finer types in
+vegetable life and in animal life is paralleled in many respects in the
+unfoldment of man. The source of everything is in the realm of ideas; a
+knowledge of this fact, coupled with faith
+
+<span id="page_35">p. 35</span>
+
+in the working power of the unseen, makes man greater than all other
+expressions of Divine Mind. However, knowledge of the law of mind
+evolution does not relieve man of the necessity of refining and
+transmuting the various types of man that he has brought forth, and of
+which he is the epitome.
+
+The Jehovah man is constantly making the Adam man and breathing into his
+nostrils the breath of life. The Adam man exists in the subconsciousness
+as a multitude of men: The wise man and the foolish man, the kind man
+and the cruel man, the loving man and the hateful man, the stingy man
+and the generous man, the hungry man and the full man, the happy man and
+the troubled man, the weak man and the strong man, the good man and the
+bad man, the live man and the dead man, the poor man and the rich man,
+the timid man and the courageous man, the sick man and the healthy man,
+the old man and the young man, the erratic man and the sane man--these,
+and a thousand other types of man as active personalities, occupy the
+consciousness of every human being. Every male has within him the female
+and every female has within her the male. This fact is admitted by
+physiology, substantiating the Genesis record of the ideal creation of
+man as "male and female," and his expression in Adam and Eve as the male
+and female in one man. The fact was corroborated by the Great Teacher
+when He said, "Have ye not read, that he who made them from the
+beginning made them male and female?"
+
+The "strong man fully armed," referred to by
+
+<span id="page_36">p. 36</span>
+
+Jesus, is the strength and stability in man. In the natural man he is
+manifest as physical strength, but in the regeneration he is overcome
+and his possessions are divided or given to the other faculties as a
+nucleus around which the higher forces gather. The "stronger than he"
+who takes away the "whole armor" in which the strong man trusted is
+spiritual strength. The overcoming of Goliath by David illustrates the
+mastery of the spiritual over the material. Goliath trusted in his
+armor, which represents the protective power of matter and material
+conditions. David, spiritual strength, had no armor or material
+protection. David's power was gained by trust in divine intelligence,
+through which he saw the weak place in Goliath's armor. Direct to this
+weak place, with the sling of his concentrated will, he sent a thought
+that shattered the forehead of the giant. This incident shows how easy
+it is to overcome the seemingly strong personal and material conditions
+when the mind of Spirit is brought into action.
+
+David was sure of himself, because he had slain the lion that had killed
+his sheep. The lion is the beast in man; when overcome, or, rather,
+transmuted to finer energy, this lion becomes a mighty soul strength.
+
+The life of Samson, as set forth in Judges, shows the different
+movements of strength in human consciousness, and its betrayal and end.
+Samson did all kinds of athletic stunts, but was finally robbed of his
+strength by Delilah, a Philistine woman, who
+
+<span id="page_37">p. 37</span>
+
+had his head shaved while he slept on her knees. Hair represents
+vitality. When the vital principle is taken away the strength goes with
+it. The body is weakened by this devitalization and finally perishes.
+Eve took away the strength of Adam in like manner, and every man who
+gives up the vital essence of his body for the pleasure of sensation
+blindly pulls down the pillar of his temple, as did Samson.
+
+Supreme strength as demonstrated by Jesus can be attained by one who
+trusts in Spirit and conserves his vital substance. The strength of
+Spirit is necessary to the perpetuation of soul and body and to the
+overcoming of death. "For there are eunuchs, that were so born from
+their mother's womb: and there are eunuchs, that were made eunuchs by
+men: and there are eunuchs, that made themselves eunuchs for the kingdom
+of heaven's sake."
+
+The body has many "brain" and nerve centers, through which the mind
+acts. Consciously we use only the brain in the head. We should think
+through every cell in the organism, and consciously direct every
+function in building up the body. When one has attained the mastery of
+these various bodily functions through thinking in the brain center that
+stores the vital energy of each particular faculty, then all
+deterioration ceases and the body is perpetually renewed.
+
+The strength here discussed is not physical strength alone, but mental
+and spiritual strength. All strength originates in Spirit; and the
+thought and the word spiritually expressed bring the manifestation.
+
+<span id="page_38">p. 38</span>
+
+"The name of Jehovah is a strong tower."
+
+We grow to be like that which we idealize. Affirming or naming a mighty
+spiritual principle identifies the mind with that principle; then all
+that the principle stands for in the realm of ideas is poured out upon
+the one who affirms.
+
+"Be strong in the Lord, and in the strength of his might" is a great
+strengthening affirmation for ourselves and for others. Be steadfast,
+strong, and steady in thought, and you will establish strength in mind
+and in body. Never let the thought of weakness enter your consciousness,
+but always ignore the suggestion and affirm yourself to be a tower of
+strength, within and without.
+
+The development of man is under law. Creative Mind is not only law, but
+it is governed by the action of the law that it sets up. We have thought
+that man was brought forth under the fiat or edict of a great creative
+Mind that could make or unmake at will, or change its mind and declare a
+new law at any time; but a clear understanding of ourselves and of the
+unchangeableness of Divine Mind makes us realize that everything has its
+foundation in a rule of action, a law, that must be observed by both
+creator and created.
+
+Man's development is not primarily under the physical law, because the
+physical law is secondary. There is a law of Spirit, and the earthly is
+but the showing forth of some of the results of that law. We begin our
+existence as ideas in Divine Mind; those ideas are expressed and
+developed and brought
+
+<span id="page_39">p. 39</span>
+
+to fruitage, and the expression is the important part of the soul's
+growth.
+
+Evolution is the result of the development of ideas in mind. What we are
+is the result of the evolution of our consciousness, and that
+consciousness is the result of seed ideas sown in our mind. When
+Froebel, the great teacher of children, began his primary school, he
+thought a long time before he gave it a name. One day the name came to
+him, "a children's garden"; so he called his school a "kindergarten."
+Froebel may not have seen the connection, but in naming his system of
+educating the children of men, he was true to the plan given in Genesis
+2:8. Humanity is the garden of God, of which the soil is the omnipresent
+thought substance.
+
+Jesus says that the seed is the word; He gives illustrations of the
+various places in which the seed is sown, and the results of the sowing.
+The seed, or Word of God, is sown in the minds of men; these seed ideas
+go through many changes, and they bring forth a harvest according to the
+capacity of the receiving soil. If you will to do the will of God, the
+exercise of your will in God-Mind strengthens your will power. If you
+have faith in things invisible, the faith seed is growing in your mind
+and your faith will be increased. Every word or idea in Divine Mind is
+sown by man in his mind, and is then brought forth--according to man's
+receptivity. "Whatsoever a man soweth, that shall he also reap." So all
+the faculties that exist in Divine Mind (the twelve pillars of the
+temple of God) are in this way
+
+<span id="page_40">p. 40</span>
+
+expressed through the mind and the body of man.
+
+Some have claimed that the Bible is a work on physiology. So it is, but
+it is far more; it treats of spirit, soul, and body as a unit. That is
+the reason why those who have studied the Bible from a merely
+physiological standpoint have not understood it. They have looked for
+descriptions of flesh and bones. In truth those things have no active
+existence without accompanying life and intelligence; and the Bible sets
+forth this fact in many symbols.
+
+Jesus, the Great Teacher, who knew what was in man, began His evolution
+with Spirit. He is the "only begotten Son of God"; He is the type that
+you should strive to follow, not only in spiritual culture and in soul
+culture, but in physical culture. If you would bring forth the very best
+that is in you, study the methods of Jesus. Study them in all their
+details, get at the spirit of everything that is written about this
+wonderful man, and you will find the key to the true development of your
+soul and your body. If you will carry out His system, there will be
+revealed to you a new man, a man of whom you never dreamed, existing in
+the hidden realms of your own subconsciousness.
+
+<span id="page_41">p. 41</span>
+
+------------------------------------------------------------------------
+
+[Next: Chapter 4](tpm06)

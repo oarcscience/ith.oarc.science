@@ -1,0 +1,235 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
+[Previous](brfb17)  [Next](brfb19) 
+
+</div>
+
+------------------------------------------------------------------------
+
+*The Brown Fairy Book*, by Andrew Lang, \[1904\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="an_f16"></span>
+
+Pivi and Kabo
+
+When birds were men, and men were birds, Pivi and Kabo lived in an
+island far away, called New Claledonia. Pivi was a cheery little bird
+that chirps at sunset; Kabo was an ugly black fowl that croaks in the
+darkness. One day Pivi and Kabo thought that they would make slings, and
+practice slinging, as the people of the island still do. So they went to
+a banyan tree, and stripped the bark to make strings for their slings,
+and next they repaired to the river bank to find stones. Kabo stood on
+the bank of the river, and Pivi went into the water. The game was for
+Kabo to sling at Pivi, and for Pivi to dodge the stones, if he could.
+For some time he dodged them cleverly, but at last a stone from Kabo's
+sling hit poor Pivi on the leg and broke it. Down went Pivi into the
+stream, and floated along it, till he floated into a big hollow bamboo,
+which a woman used for washing her sweet potatoes.
+
+'What is that in my bamboo?' said the woman. And she blew in at one end,
+and blew little Pivi out at the other, like a pea from a pea-shooter.
+
+'Oh!' cried the woman, 'what a state you are in! What have you been
+doing?'
+
+'It was Kabo who broke my leg at the slinging game,' said Pivi.
+
+'Well, I am sorry for you,' said the woman; 'will you come with me, and
+do what I tell you?'
+
+'I will!' said Pivi, for the woman was very kind and pretty. She took
+Pivi into a shed where she kept her fruit laid him on a bed of mats, and
+made him as comfortable as she could, and attended to his broken leg
+without cutting off the flesh round the bone, as these people usually
+do.
+
+'You will be still, won't you, Pivi?' she said. 'If you hear a little
+noise you will pretend to be dead. It is the Black Ant who will come and
+creep from your feet up to your head. Say nothing, and keep quiet, won't
+you, Pivi?'
+
+'Certainly, kind lady,' said Pivi, 'I will lie as still as can be.'
+
+'Next will come the big Red Ant—you know him?'
+
+'Yes, I know him, with his feet like a grasshopper's.'
+
+'He will walk over your body up to your head. Then you must shake all
+your body. Do you understand, Pivi?'
+
+'Yes, dear lady, I shall do just as you say.'
+
+'Very good,' said the woman, going out and shutting the door.
+
+Pivi lay still under his coverings, then a tiny noise was heard, and the
+Black Ant began to march over Pivi, who lay quite still. Then came the
+big Red Ant skipping along his body, and then Pivi shook himself all
+over. He jumped up quite well again, he ran to the river, he looked into
+the water and saw that he was changed from a bird into a fine young man!
+
+'Oh, lady,' he cried, 'look at me now! I am changed into a man, and so
+handsome!'
+
+'Will you obey me again?' said the woman.
+
+'Always; whatever you command I will do it,' said Pivi, politely.
+
+'Then climb up that cocoa-nut tree, with your legs only, not using your
+hands,' said the woman.
+
+Now the natives can run up cocoa-nut trees like squirrels, some using
+only one hand; the girls can do that. But few can climb without using
+their hands at all.
+
+'At the top of the tree you will find two cocoa-nuts. You must not throw
+them down, but carry them in your hands; and you must descend as you
+went up, using your legs only.'
+
+'I shall try, at least,' said Pivi. And up he went, but it was very
+difficult, and down he came.
+
+'Here are your cocoa-nuts,' he said, presenting them to the woman.
+
+'Now, Pivi, put them in the shed where you lay, and when the sun sets to
+cool himself in the sea and rise again not so hot in the dawn you must
+go and take the nuts.'
+
+All day Pivi played about in the river, as the natives do, throwing
+fruit and silvery showers of water at each other. When the sun set he
+went into the hut. But as he drew near he heard sweet voices talking and
+laughing within.
+
+'What is that? People chattering in the hut! Perhaps they have taken my
+cocoa-nuts,' said Pivi to himself.
+
+In he went, and there he found two pretty, laughing, teasing girls. He
+hunted for his cocoanuts, but none were there.
+
+Down he ran to the river. 'Oh, lady, my nuts have been stolen!' he
+cried.
+
+'Come with me, Pivi, and there will be nuts for you,' said the woman.
+
+They went back to the hut, where the girls were laughing and playing.
+
+'Nuts for you?' said the woman, 'there are two wives for you, Pivi, take
+them to your house.'
+
+'Oh, good lady,' cried Pivi, 'how kind you are!'
+
+So they were married and very happy, when in came cross old Kabo.
+
+'Is this Pivi?' said he. 'Yes, it is—no, it isn't. It is not the same
+Pivi—but there is a kind of likeness. Tell me, are you Pivi?'
+
+'Oh, yes!' said Pivi. 'But I am much better looking, and there are my
+two wives, are they not beautiful?'
+
+'You are mocking me, Pivi! Your wives? How? Where did you get them? You,
+with wives!'
+
+Then Pivi told Kabo about the kind woman, and all the wonderful things
+that had happened to him.
+
+'Well, well!' said Kabo, 'but I want to be handsome too, and to have
+pretty young wives.'
+
+'But how can we manage that?' asked Pivi.
+
+'Oh, we shall do all the same things over again—play at slinging, and,
+this time, you shall break my leg, Pivi!'
+
+'With all the pleasure in life,' said Pivi, who was always ready to
+oblige.
+
+So they went slinging, and Pivi broke Kabo's leg, and Kabo fell into the
+river, and floated into the bamboo, and the woman blew him out, just as
+before. Then she picked up Kabo, and put him in the shed, and told him
+what to do when the Black Ant came, and what to do when the Red Ant
+came. But he didn't!
+
+When the Black Ant came, he shook himself, and behold, he had a twisted
+leg, and a hump back, and was as black as the ant.
+
+Then he ran to the woman.
+
+'Look, what a figure I am!' he said; but she only told him to climb the
+tree, as she had told Pivi.
+
+But Kabo climbed with both hands and feet, and he threw down the nuts,
+instead of carrying them down, and he put them in the hut. And when he
+went back for them there he found two horrid old black hags, wrangling,
+and scolding, and scratching! So back he went to Pivi with his two
+beautiful wives, and Pivi was very sorry, but what could he do? Nothing,
+but sit and cry.
+
+So, one day, Kabo came and asked Pivi to sail in his canoe to a place
+where he knew of a great big shell-fish, enough to feed on for a week.
+Pivi went, and deep in the clear water they saw a monstrous shell-fish,
+like an oyster, as big as a rock, with the shell wide open.
+
+'We shall catch it, and dry it, and kipper it,' said Pivi, 'and give a
+dinner to all our friends!'
+
+'I shall dive for it, and break it off the rock,' said Kabo, 'and then
+you must help me to drag it up into the canoe.'
+
+There the shell-fish lay and gaped, but Kabo, though he dived in, kept
+well out of the way of the beast.
+
+Up he came, puffing and blowing: 'Oh, Pivi,' he cried, 'I cannot move
+it. Jump in and try yourself!'
+
+Pivi dived, with his spear, and the shell-fish opened its shell wider
+yet, and sucked, and Pivi disappeared into its mouth, and the shell shut
+up with a snap!
+
+Kabo laughed like a fiend, and then went home.
+
+'Where is Pivi?' asked the two pretty girls. Kabo pretended to cry, and
+told how Pivi had been swallowed.
+
+'But dry your tears, my darlings,' said Kabo, 'I will be your husband,
+and my wives shall be your slaves. Everything is for the best, in the
+best of all possible worlds.'
+
+'No, no!' cried the girls, 'we love Pivi. We do not love anyone else. We
+shall stay at home, and weep for Pivi!'
+
+'Wretched idiots!' cried Kabo; 'Pivi was a scoundrel who broke my leg,
+and knocked me into the river.'
+
+Then a little cough was heard at the door, and Kabo trembled, for he
+knew it was the cough of Pivi!
+
+'Ah, dear Pivi!' cried Kabo, rushing to the door. 'What joy! I was
+trying to console your dear wives.'
+
+Pivi said not one word. He waved his hand, and five and twenty of his
+friends came trooping down the hill. They cut up Kabo into little
+pieces. Pivi turned round, and there was the good woman of the river.
+
+'Pivi,' she said, 'how did you get out of the living tomb into which
+Kabo sent you?'
+
+'I had my spear with me,' said Pivi. 'It was quite dry inside the shell,
+and I worked away at the fish with my spear, till he saw reason to open
+his shell, and out I came.' Then the good woman laughed; and Pivi and
+his two wives lived happy ever afterwards.
+
+\[Moncelon. Bulletin de la Societe d'Anthropologie. Series iii. vol.
+ix., pp. 613-365.\]
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: The Elf Maiden](brfb19)
+
+</div>

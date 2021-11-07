@@ -1,0 +1,855 @@
+[Index](index)
+
+------------------------------------------------------------------------
+
+# Popular Tales from the Norse: Page Index
+
+### [Title Page](ptn00)
+
+[page i](ptn00.htm#page_i)  
+[page ii](ptn00.htm#page_ii)  
+[page iii](ptn00.htm#page_iii)  
+
+### [Notice to the Second Edition](ptn01)
+
+[page v](ptn01.htm#page_v)  
+[page vi](ptn01.htm#page_vi)  
+[page vii](ptn01.htm#page_vii)  
+
+### [Notice to the First Edition](ptn02)
+
+[page ix](ptn02.htm#page_ix)  
+[page x](ptn02.htm#page_x)  
+
+### [Contents](ptn03)
+
+[page xi](ptn03.htm#page_xi)  
+[page xii](ptn03.htm#page_xii)  
+[page xiii](ptn03.htm#page_xiii)  
+[page xiv](ptn03.htm#page_xiv)  
+[page xv](ptn03.htm#page_xv)  
+
+### [Memoir of George Dasent](ptn04)
+
+[page xvii](ptn04.htm#page_xvii)  
+[page xviii](ptn04.htm#page_xviii)  
+[page xix](ptn04.htm#page_xix)  
+[page xx](ptn04.htm#page_xx)  
+[page xxi](ptn04.htm#page_xxi)  
+[page xxii](ptn04.htm#page_xxii)  
+[page xxiii](ptn04.htm#page_xxiii)  
+[page xxiv](ptn04.htm#page_xxiv)  
+[page xxv](ptn04.htm#page_xxv)  
+[page xxvi](ptn04.htm#page_xxvi)  
+[page xxvii](ptn04.htm#page_xxvii)  
+[page xxviii](ptn04.htm#page_xxviii)  
+[page xxix](ptn04.htm#page_xxix)  
+[page xxx](ptn04.htm#page_xxx)  
+[page xxxi](ptn04.htm#page_xxxi)  
+[page xxxii](ptn04.htm#page_xxxii)  
+[page xxxiii](ptn04.htm#page_xxxiii)  
+[page xxxiv](ptn04.htm#page_xxxiv)  
+[page xxxv](ptn04.htm#page_xxxv)  
+[page xxxvi](ptn04.htm#page_xxxvi)  
+[page xxxvii](ptn04.htm#page_xxxvii)  
+[page xxxviii](ptn04.htm#page_xxxviii)  
+[page xxxix](ptn04.htm#page_xxxix)  
+[page xl](ptn04.htm#page_xl)  
+[page xli](ptn04.htm#page_xli)  
+
+### [Origin](ptn05)
+
+[page xliii](ptn05.htm#page_xliii)  
+[page xliv](ptn05.htm#page_xliv)  
+[page xlv](ptn05.htm#page_xlv)  
+[page xlvi](ptn05.htm#page_xlvi)  
+[page xlvii](ptn05.htm#page_xlvii)  
+[page xlviii](ptn05.htm#page_xlviii)  
+[page xlix](ptn05.htm#page_xlix)  
+[page l](ptn05.htm#page_l)  
+[page li](ptn05.htm#page_li)  
+[page lii](ptn05.htm#page_lii)  
+[page liii](ptn05.htm#page_liii)  
+[page liv](ptn05.htm#page_liv)  
+[page lv](ptn05.htm#page_lv)  
+[page lvi](ptn05.htm#page_lvi)  
+[page lvii](ptn05.htm#page_lvii)  
+
+### [Diffusion](ptn06)
+
+[page lviii](ptn06.htm#page_lviii)  
+[page lix](ptn06.htm#page_lix)  
+[page lx](ptn06.htm#page_lx)  
+[page lxi](ptn06.htm#page_lxi)  
+[page lxii](ptn06.htm#page_lxii)  
+[page lxiii](ptn06.htm#page_lxiii)  
+[page lxiv](ptn06.htm#page_lxiv)  
+[page lxv](ptn06.htm#page_lxv)  
+[page lxvi](ptn06.htm#page_lxvi)  
+[page lxvii](ptn06.htm#page_lxvii)  
+[page lxviii](ptn06.htm#page_lxviii)  
+[page lxix](ptn06.htm#page_lxix)  
+[page lxx](ptn06.htm#page_lxx)  
+[page lxxi](ptn06.htm#page_lxxi)  
+[page lxxii](ptn06.htm#page_lxxii)  
+[page lxxiii](ptn06.htm#page_lxxiii)  
+[page lxxiv](ptn06.htm#page_lxxiv)  
+[page lxxv](ptn06.htm#page_lxxv)  
+[page lxxvi](ptn06.htm#page_lxxvi)  
+[page lxxvii](ptn06.htm#page_lxxvii)  
+[page lxxviii](ptn06.htm#page_lxxviii)  
+[page lxxix](ptn06.htm#page_lxxix)  
+[page lxxx](ptn06.htm#page_lxxx)  
+[page lxxxi](ptn06.htm#page_lxxxi)  
+
+### [Norse Mythology](ptn07)
+
+[page lxxxii](ptn07.htm#page_lxxxii)  
+[page lxxxiii](ptn07.htm#page_lxxxiii)  
+[page lxxxiv](ptn07.htm#page_lxxxiv)  
+[page lxxxv](ptn07.htm#page_lxxxv)  
+[page lxxxvi](ptn07.htm#page_lxxxvi)  
+[page lxxxvii](ptn07.htm#page_lxxxvii)  
+[page lxxxviii](ptn07.htm#page_lxxxviii)  
+[page lxxxix](ptn07.htm#page_lxxxix)  
+[page xc](ptn07.htm#page_xc)  
+[page xci](ptn07.htm#page_xci)  
+[page xcii](ptn07.htm#page_xcii)  
+[page xciii](ptn07.htm#page_xciii)  
+[page xciv](ptn07.htm#page_xciv)  
+[page xcv](ptn07.htm#page_xcv)  
+[page xcvi](ptn07.htm#page_xcvi)  
+[page xcvii](ptn07.htm#page_xcvii)  
+[page xcviii](ptn07.htm#page_xcviii)  
+[page xcix](ptn07.htm#page_xcix)  
+[page c](ptn07.htm#page_c)  
+[page ci](ptn07.htm#page_ci)  
+[page cii](ptn07.htm#page_cii)  
+[page ciii](ptn07.htm#page_ciii)  
+[page civ](ptn07.htm#page_civ)  
+[page cv](ptn07.htm#page_cv)  
+[page cvi](ptn07.htm#page_cvi)  
+[page cvii](ptn07.htm#page_cvii)  
+[page cviii](ptn07.htm#page_cviii)  
+
+### [Norse Popular Tales](ptn08)
+
+[page cix](ptn08.htm#page_cix)  
+[page cx](ptn08.htm#page_cx)  
+[page cxi](ptn08.htm#page_cxi)  
+[page cxii](ptn08.htm#page_cxii)  
+[page cxiii](ptn08.htm#page_cxiii)  
+[page cxiv](ptn08.htm#page_cxiv)  
+[page cxv](ptn08.htm#page_cxv)  
+[page cxvi](ptn08.htm#page_cxvi)  
+[page cxvii](ptn08.htm#page_cxvii)  
+[page cxviii](ptn08.htm#page_cxviii)  
+[page cxix](ptn08.htm#page_cxix)  
+[page cxx](ptn08.htm#page_cxx)  
+[page cxxi](ptn08.htm#page_cxxi)  
+[page cxxii](ptn08.htm#page_cxxii)  
+[page cxxiii](ptn08.htm#page_cxxiii)  
+[page cxxiv](ptn08.htm#page_cxxiv)  
+[page cxxv](ptn08.htm#page_cxxv)  
+[page cxxvi](ptn08.htm#page_cxxvi)  
+[page cxxvii](ptn08.htm#page_cxxvii)  
+[page cxxviii](ptn08.htm#page_cxxviii)  
+[page cxxix](ptn08.htm#page_cxxix)  
+[page cxxx](ptn08.htm#page_cxxx)  
+[page cxxxi](ptn08.htm#page_cxxxi)  
+[page cxxxii](ptn08.htm#page_cxxxii)  
+[page cxxxiii](ptn08.htm#page_cxxxiii)  
+[page cxxxiv](ptn08.htm#page_cxxxiv)  
+[page cxxxv](ptn08.htm#page_cxxxv)  
+[page cxxxvi](ptn08.htm#page_cxxxvi)  
+[page cxxxvii](ptn08.htm#page_cxxxvii)  
+[page cxxxviii](ptn08.htm#page_cxxxviii)  
+[page cxxxix](ptn08.htm#page_cxxxix)  
+[page cxl](ptn08.htm#page_cxl)  
+[page cxli](ptn08.htm#page_cxli)  
+[page cxlii](ptn08.htm#page_cxlii)  
+[page cxliii](ptn08.htm#page_cxliii)  
+[page cxliv](ptn08.htm#page_cxliv)  
+[page cxlv](ptn08.htm#page_cxlv)  
+[page cxlvi](ptn08.htm#page_cxlvi)  
+[page cxlvii](ptn08.htm#page_cxlvii)  
+[page cxlviii](ptn08.htm#page_cxlviii)  
+[page cxlix](ptn08.htm#page_cxlix)  
+[page cl](ptn08.htm#page_cl)  
+[page cli](ptn08.htm#page_cli)  
+[page clii](ptn08.htm#page_clii)  
+[page cliii](ptn08.htm#page_cliii)  
+[page cliv](ptn08.htm#page_cliv)  
+[page clv](ptn08.htm#page_clv)  
+[page clvi](ptn08.htm#page_clvi)  
+[page clvii](ptn08.htm#page_clvii)  
+[page clviii](ptn08.htm#page_clviii)  
+[page clix](ptn08.htm#page_clix)  
+[page clx](ptn08.htm#page_clx)  
+
+### [Conclusion](ptn09)
+
+[page clxi](ptn09.htm#page_clxi)  
+[page clxii](ptn09.htm#page_clxii)  
+[page clxv](ptn09.htm#page_clxv)  
+[page clxiii](ptn09.htm#page_clxiii)  
+[page clxiv](ptn09.htm#page_clxiv)  
+[page clxv](ptn09.htm#page_clxv)  
+[page clxvi](ptn09.htm#page_clxvi)  
+[page clxvii](ptn09.htm#page_clxvii)  
+[page clxviii](ptn09.htm#page_clxviii)  
+[page clxix](ptn09.htm#page_clxix)  
+[page clxx](ptn09.htm#page_clxx)  
+[page clxxi](ptn09.htm#page_clxxi)  
+[page clxxii](ptn09.htm#page_clxxii)  
+[page clxxiii](ptn09.htm#page_clxxiii)  
+[page clxxiv](ptn09.htm#page_clxxiv)  
+[page clxxv](ptn09.htm#page_clxxv)  
+[page clxxvi](ptn09.htm#page_clxxvi)  
+[page clxxvii](ptn09.htm#page_clxxvii)  
+
+### [Extracts From Press Notices](ptn10)
+
+[page clxxvix](ptn10.htm#page_clxxvix)  
+[page clxxx](ptn10.htm#page_clxxx)  
+
+### [True and Untrue](ptn11)
+
+[page 1](ptn11.htm#page_1)  
+[page 2](ptn11.htm#page_2)  
+[page 3](ptn11.htm#page_3)  
+[page 4](ptn11.htm#page_4)  
+[page 5](ptn11.htm#page_5)  
+[page 6](ptn11.htm#page_6)  
+[page 7](ptn11.htm#page_7)  
+
+### [Why the Sea Is Salt](ptn12)
+
+[page 8](ptn12.htm#page_8)  
+[page 9](ptn12.htm#page_9)  
+[page 10](ptn12.htm#page_10)  
+[page 11](ptn12.htm#page_11)  
+[page 12](ptn12.htm#page_12)  
+[page 13](ptn12.htm#page_13)  
+
+### [The Old Dame and Her Hen](ptn13)
+
+[page 14](ptn13.htm#page_14)  
+[page 15](ptn13.htm#page_15)  
+[page 16](ptn13.htm#page_16)  
+[page 17](ptn13.htm#page_17)  
+[page 18](ptn13.htm#page_18)  
+[page 19](ptn13.htm#page_19)  
+[page 20](ptn13.htm#page_20)  
+[page 21](ptn13.htm#page_21)  
+[page 22](ptn13.htm#page_22)  
+
+### [East o' the Sun and West o' the Moon](ptn14)
+
+[page 23](ptn14.htm#page_23)  
+[page 24](ptn14.htm#page_24)  
+[page 25](ptn14.htm#page_25)  
+[page 26](ptn14.htm#page_26)  
+[page 27](ptn14.htm#page_27)  
+[page 28](ptn14.htm#page_28)  
+[page 29](ptn14.htm#page_29)  
+[page 30](ptn14.htm#page_30)  
+[page 31](ptn14.htm#page_31)  
+[page 32](ptn14.htm#page_32)  
+[page 33](ptn14.htm#page_33)  
+[page 34](ptn14.htm#page_34)  
+[page 35](ptn14.htm#page_35)  
+
+### [Boots Who Ate a Match with the Troll](ptn15)
+
+[page 36](ptn15.htm#page_36)  
+[page 37](ptn15.htm#page_37)  
+[page 38](ptn15.htm#page_38)  
+
+### [Hacon Grizzlebeard](ptn16)
+
+[page 39](ptn16.htm#page_39)  
+[page 40](ptn16.htm#page_40)  
+[page 41](ptn16.htm#page_41)  
+[page 42](ptn16.htm#page_42)  
+[page 43](ptn16.htm#page_43)  
+[page 44](ptn16.htm#page_44)  
+[page 45](ptn16.htm#page_45)  
+[page 47](ptn16.htm#page_47)  
+[page 48](ptn16.htm#page_48)  
+
+### [Boots Who Made the Princess Say, ''That's A Story.''](ptn17)
+
+[page 49](ptn17.htm#page_49)  
+[page 50](ptn17.htm#page_50)  
+
+### [The Twelve Ducks](ptn18)
+
+[page 51](ptn18.htm#page_51)  
+[page 52](ptn18.htm#page_52)  
+[page 53](ptn18.htm#page_53)  
+[page 54](ptn18.htm#page_54)  
+[page 55](ptn18.htm#page_55)  
+[page 56](ptn18.htm#page_56)  
+[page 57](ptn18.htm#page_57)  
+[page 58](ptn18.htm#page_58)  
+[page 59](ptn18.htm#page_59)  
+
+### [The Giant Who Had No Heart in His Body](ptn19)
+
+[page 60](ptn19.htm#page_60)  
+[page 61](ptn19.htm#page_61)  
+[page 62](ptn19.htm#page_62)  
+[page 67](ptn19.htm#page_67)  
+[page 68](ptn19.htm#page_68)  
+
+### [The Fox as Herdsman](ptn20)
+
+[page 69](ptn20.htm#page_69)  
+[page 70](ptn20.htm#page_70)  
+
+### [The Mastermaid](ptn21)
+
+[page 71](ptn21.htm#page_71)  
+[page 72](ptn21.htm#page_72)  
+[page 73](ptn21.htm#page_73)  
+[page 74](ptn21.htm#page_74)  
+[page 75](ptn21.htm#page_75)  
+[page 76](ptn21.htm#page_76)  
+[page 78](ptn21.htm#page_78)  
+[page 79](ptn21.htm#page_79)  
+[page 80](ptn21.htm#page_80)  
+[page 81](ptn21.htm#page_81)  
+[page 82](ptn21.htm#page_82)  
+[page 83](ptn21.htm#page_83)  
+[page 84](ptn21.htm#page_84)  
+[page 85](ptn21.htm#page_85)  
+[page 86](ptn21.htm#page_86)  
+[page 87](ptn21.htm#page_87)  
+[page 88](ptn21.htm#page_88)  
+[page 89](ptn21.htm#page_89)  
+[page 90](ptn21.htm#page_90)  
+
+### [The Cat on the Dovrefell](ptn22)
+
+[page 91](ptn22.htm#page_91)  
+[page 92](ptn22.htm#page_92)  
+
+### [Princess on the Glass Hill](ptn23)
+
+[page 93](ptn23.htm#page_93)  
+[page 94](ptn23.htm#page_94)  
+[page 95](ptn23.htm#page_95)  
+[page 96](ptn23.htm#page_96)  
+[page 97](ptn23.htm#page_97)  
+[page 98](ptn23.htm#page_98)  
+[page 99](ptn23.htm#page_99)  
+[page 100](ptn23.htm#page_100)  
+[page 101](ptn23.htm#page_101)  
+[page 102](ptn23.htm#page_102)  
+[page 103](ptn23.htm#page_103)  
+
+### [How One Went Out to Woo](ptn24)
+
+[page 104](ptn24.htm#page_104)  
+
+### [The Cock and Hen](ptn25)
+
+[page 105](ptn25.htm#page_105)  
+
+### [The Master-Smith](ptn26)
+
+[page 106](ptn26.htm#page_106)  
+[page 107](ptn26.htm#page_107)  
+[page 108](ptn26.htm#page_108)  
+[page 109](ptn26.htm#page_109)  
+[page 110](ptn26.htm#page_110)  
+[page 111](ptn26.htm#page_111)  
+[page 112](ptn26.htm#page_112)  
+[page 113](ptn26.htm#page_113)  
+
+### [The Two Step-Sisters](ptn27)
+
+[page 114](ptn27.htm#page_114)  
+[page 115](ptn27.htm#page_115)  
+[page 116](ptn27.htm#page_116)  
+[page 117](ptn27.htm#page_117)  
+[page 118](ptn27.htm#page_118)  
+[page 119](ptn27.htm#page_119)  
+[page 120](ptn27.htm#page_120)  
+[page 121](ptn27.htm#page_121)  
+[page 122](ptn27.htm#page_122)  
+[page 123](ptn27.htm#page_123)  
+[page 124](ptn27.htm#page_124)  
+
+### [Buttercup](ptn28)
+
+[page 125](ptn28.htm#page_125)  
+[page 126](ptn28.htm#page_126)  
+[page 127](ptn28.htm#page_127)  
+[page 128](ptn28.htm#page_128)  
+[page 129](ptn28.htm#page_129)  
+
+### [Taming the Shrew](ptn29)
+
+[page 130](ptn29.htm#page_130)  
+
+### [Shortshanks](ptn30)
+
+[page 131](ptn30.htm#page_131)  
+[page 132](ptn30.htm#page_132)  
+[page 133](ptn30.htm#page_133)  
+[page 134](ptn30.htm#page_134)  
+[page 135](ptn30.htm#page_135)  
+[page 136](ptn30.htm#page_136)  
+[page 137](ptn30.htm#page_137)  
+[page 138](ptn30.htm#page_138)  
+[page 139](ptn30.htm#page_139)  
+[page 140](ptn30.htm#page_140)  
+[page 141](ptn30.htm#page_141)  
+[page 142](ptn30.htm#page_142)  
+[page 143](ptn30.htm#page_143)  
+[page 144](ptn30.htm#page_144)  
+[page 145](ptn30.htm#page_145)  
+[page 146](ptn30.htm#page_146)  
+[page 147](ptn30.htm#page_147)  
+[page 148](ptn30.htm#page_148)  
+[page 149](ptn30.htm#page_149)  
+
+### [Gudbrand on the Hill-side](ptn31)
+
+[page 150](ptn31.htm#page_150)  
+[page 151](ptn31.htm#page_151)  
+[page 152](ptn31.htm#page_152)  
+[page 153](ptn31.htm#page_153)  
+[page 154](ptn31.htm#page_154)  
+
+### [The Blue Belt](ptn32)
+
+[page 155](ptn32.htm#page_155)  
+[page 156](ptn32.htm#page_156)  
+[page 157](ptn32.htm#page_157)  
+[page 158](ptn32.htm#page_158)  
+[page 159](ptn32.htm#page_159)  
+[page 160](ptn32.htm#page_160)  
+[page 161](ptn32.htm#page_161)  
+[page 162](ptn32.htm#page_162)  
+[page 163](ptn32.htm#page_163)  
+[page 164](ptn32.htm#page_164)  
+[page 165](ptn32.htm#page_165)  
+[page 166](ptn32.htm#page_166)  
+[page 167](ptn32.htm#page_167)  
+[page 168](ptn32.htm#page_168)  
+[page 169](ptn32.htm#page_169)  
+[page 170](ptn32.htm#page_170)  
+[page 171](ptn32.htm#page_171)  
+
+### [Why the Bear Is Stumpy-Tailed](ptn33)
+
+[page 172](ptn33.htm#page_172)  
+
+### [Not a Pin to Choose Between Them](ptn34)
+
+[page 173](ptn34.htm#page_173)  
+[page 174](ptn34.htm#page_174)  
+[page 175](ptn34.htm#page_175)  
+[page 176](ptn34.htm#page_176)  
+[page 177](ptn34.htm#page_177)  
+[page 178](ptn34.htm#page_178)  
+[page 179](ptn34.htm#page_179)  
+
+### [One's Own Children Are Always Prettiest](ptn35)
+
+[page 180](ptn35.htm#page_180)  
+
+### [The Three Princesses of Whiteland](ptn36)
+
+[page 181](ptn36.htm#page_181)  
+[page 182](ptn36.htm#page_182)  
+[page 183](ptn36.htm#page_183)  
+[page 184](ptn36.htm#page_184)  
+[page 185](ptn36.htm#page_185)  
+[page 186](ptn36.htm#page_186)  
+[page 187](ptn36.htm#page_187)  
+[page 188](ptn36.htm#page_188)  
+
+### [The Lassie and Her Godmother](ptn37)
+
+[page 189](ptn37.htm#page_189)  
+[page 190](ptn37.htm#page_190)  
+[page 191](ptn37.htm#page_191)  
+[page 192](ptn37.htm#page_192)  
+[page 193](ptn37.htm#page_193)  
+
+### [The Three Aunts](ptn38)
+
+[page 195](ptn38.htm#page_195)  
+[page 196](ptn38.htm#page_196)  
+[page 197](ptn38.htm#page_197)  
+[page 198](ptn38.htm#page_198)  
+
+### [The Cock, the Cuckoo, and the Blackcock](ptn39)
+
+[page 199](ptn39.htm#page_199)  
+
+### [Rich Peter the Pedlar](ptn40)
+
+[page 200](ptn40.htm#page_200)  
+[page 201](ptn40.htm#page_201)  
+[page 202](ptn40.htm#page_202)  
+[page 203](ptn40.htm#page_203)  
+[page 204](ptn40.htm#page_204)  
+[page 205](ptn40.htm#page_205)  
+[page 206](ptn40.htm#page_206)  
+[page 207](ptn40.htm#page_207)  
+[page 208](ptn40.htm#page_208)  
+[page 209](ptn40.htm#page_209)  
+[page 210](ptn40.htm#page_210)  
+[page 211](ptn40.htm#page_211)  
+[page 212](ptn40.htm#page_212)  
+[page 213](ptn40.htm#page_213)  
+
+### [Gertrude's Bird](ptn41)
+
+[page 214](ptn41.htm#page_214)  
+
+### [Boots and the Troll](ptn42)
+
+[page 215](ptn42.htm#page_215)  
+[page 216](ptn42.htm#page_216)  
+[page 217](ptn42.htm#page_217)  
+[page 218](ptn42.htm#page_218)  
+[page 219](ptn42.htm#page_219)  
+[page 220](ptn42.htm#page_220)  
+[page 221](ptn42.htm#page_221)  
+
+### [Goosey Grizzel](ptn43)
+
+[page 222](ptn43.htm#page_222)  
+[page 223](ptn43.htm#page_223)  
+[page 224](ptn43.htm#page_224)  
+[page 225](ptn43.htm#page_225)  
+[page 226](ptn43.htm#page_226)  
+[page 227](ptn43.htm#page_227)  
+[page 228](ptn43.htm#page_228)  
+
+### [The Lad Who Went to the North Wind](ptn44)
+
+[page 229](ptn44.htm#page_229)  
+[page 230](ptn44.htm#page_230)  
+[page 231](ptn44.htm#page_231)  
+[page 232](ptn44.htm#page_232)  
+
+### [The Master Theif](ptn45)
+
+[page 233](ptn45.htm#page_233)  
+[page 234](ptn45.htm#page_234)  
+[page 235](ptn45.htm#page_235)  
+[page 236](ptn45.htm#page_236)  
+[page 237](ptn45.htm#page_237)  
+[page 238](ptn45.htm#page_238)  
+[page 239](ptn45.htm#page_239)  
+[page 240](ptn45.htm#page_240)  
+[page 241](ptn45.htm#page_241)  
+[page 242](ptn45.htm#page_242)  
+[page 243](ptn45.htm#page_243)  
+[page 244](ptn45.htm#page_244)  
+[page 245](ptn45.htm#page_245)  
+[page 246](ptn45.htm#page_246)  
+[page 247](ptn45.htm#page_247)  
+[page 248](ptn45.htm#page_248)  
+[page 249](ptn45.htm#page_249)  
+[page 250](ptn45.htm#page_250)  
+[page 251](ptn45.htm#page_251)  
+
+### [The Best Wish](ptn46)
+
+[page 252](ptn46.htm#page_252)  
+[page 253](ptn46.htm#page_253)  
+[page 254](ptn46.htm#page_254)  
+[page 255](ptn46.htm#page_255)  
+[page 257](ptn46.htm#page_257)  
+[page 258](ptn46.htm#page_258)  
+[page 259](ptn46.htm#page_259)  
+[page 260](ptn46.htm#page_260)  
+[page 261](ptn46.htm#page_261)  
+[page 262](ptn46.htm#page_262)  
+[page 263](ptn46.htm#page_263)  
+
+### [The Three Billy-Goats Gruff](ptn47)
+
+[page 264](ptn47.htm#page_264)  
+
+### [Well Done and Ill Paid](ptn48)
+
+[page 266](ptn48.htm#page_266)  
+[page 267](ptn48.htm#page_267)  
+[page 268](ptn48.htm#page_268)  
+[page 269](ptn48.htm#page_269)  
+
+### [The Husband Who Was to Mind the House](ptn49)
+
+[page 270](ptn49.htm#page_270)  
+[page 271](ptn49.htm#page_271)  
+[page 272](ptn49.htm#page_272)  
+
+### [Dapplegrim](ptn50)
+
+[page 273](ptn50.htm#page_273)  
+[page 274](ptn50.htm#page_274)  
+[page 275](ptn50.htm#page_275)  
+[page 277](ptn50.htm#page_277)  
+[page 278](ptn50.htm#page_278)  
+[page 279](ptn50.htm#page_279)  
+[page 280](ptn50.htm#page_280)  
+[page 281](ptn50.htm#page_281)  
+[page 282](ptn50.htm#page_282)  
+[page 283](ptn50.htm#page_283)  
+[page 284](ptn50.htm#page_284)  
+[page 285](ptn50.htm#page_285)  
+
+### [Farmer Weathersky](ptn51)
+
+[page 286](ptn51.htm#page_286)  
+[page 287](ptn51.htm#page_287)  
+[page 289](ptn51.htm#page_289)  
+[page 290](ptn51.htm#page_290)  
+[page 291](ptn51.htm#page_291)  
+[page 292](ptn51.htm#page_292)  
+[page 293](ptn51.htm#page_293)  
+[page 294](ptn51.htm#page_294)  
+[page 295](ptn51.htm#page_295)  
+
+### [Lord Peter](ptn52)
+
+[page 296](ptn52.htm#page_296)  
+[page 297](ptn52.htm#page_297)  
+[page 298](ptn52.htm#page_298)  
+[page 299](ptn52.htm#page_299)  
+[page 300](ptn52.htm#page_300)  
+[page 301](ptn52.htm#page_301)  
+[page 302](ptn52.htm#page_302)  
+
+### [The Seven Foals](ptn53)
+
+[page 303](ptn53.htm#page_303)  
+[page 304](ptn53.htm#page_304)  
+[page 305](ptn53.htm#page_305)  
+[page 306](ptn53.htm#page_306)  
+[page 307](ptn53.htm#page_307)  
+[page 308](ptn53.htm#page_308)  
+[page 309](ptn53.htm#page_309)  
+[page 310](ptn53.htm#page_310)  
+[page 311](ptn53.htm#page_311)  
+
+### [The Widow's Son](ptn54)
+
+[page 312](ptn54.htm#page_312)  
+[page 313](ptn54.htm#page_313)  
+[page 314](ptn54.htm#page_314)  
+[page 315](ptn54.htm#page_315)  
+[page 316](ptn54.htm#page_316)  
+[page 317](ptn54.htm#page_317)  
+[page 318](ptn54.htm#page_318)  
+[page 319](ptn54.htm#page_319)  
+[page 320](ptn54.htm#page_320)  
+[page 321](ptn54.htm#page_321)  
+[page 322](ptn54.htm#page_322)  
+
+### [Bushy Bride](ptn55)
+
+[page 323](ptn55.htm#page_323)  
+[page 324](ptn55.htm#page_324)  
+[page 325](ptn55.htm#page_325)  
+[page 326](ptn55.htm#page_326)  
+[page 327](ptn55.htm#page_327)  
+[page 329](ptn55.htm#page_329)  
+[page 330](ptn55.htm#page_330)  
+
+### [Boots and His Brothers](ptn56)
+
+[page 336](ptn56.htm#page_336)  
+
+### [Big Peter and Little Peter](ptn57)
+
+[page 337](ptn57.htm#page_337)  
+[page 338](ptn57.htm#page_338)  
+[page 339](ptn57.htm#page_339)  
+[page 340](ptn57.htm#page_340)  
+[page 341](ptn57.htm#page_341)  
+[page 342](ptn57.htm#page_342)  
+[page 343](ptn57.htm#page_343)  
+[page 344](ptn57.htm#page_344)  
+[page 345](ptn57.htm#page_345)  
+
+### [Tatterhood](ptn58)
+
+[page 346](ptn58.htm#page_346)  
+[page 347](ptn58.htm#page_347)  
+[page 348](ptn58.htm#page_348)  
+[page 349](ptn58.htm#page_349)  
+[page 350](ptn58.htm#page_350)  
+[page 351](ptn58.htm#page_351)  
+[page 352](ptn58.htm#page_352)  
+[page 353](ptn58.htm#page_353)  
+
+### [The Cock and Hen That Went to the Dovrefell](ptn59)
+
+[page 354](ptn59.htm#page_354)  
+[page 355](ptn59.htm#page_355)  
+[page 356](ptn59.htm#page_356)  
+
+### [Katie Woodencloak](ptn60)
+
+[page 357](ptn60.htm#page_357)  
+[page 358](ptn60.htm#page_358)  
+[page 359](ptn60.htm#page_359)  
+[page 360](ptn60.htm#page_360)  
+[page 361](ptn60.htm#page_361)  
+[page 362](ptn60.htm#page_362)  
+[page 363](ptn60.htm#page_363)  
+[page 364](ptn60.htm#page_364)  
+[page 365](ptn60.htm#page_365)  
+[page 366](ptn60.htm#page_366)  
+[page 367](ptn60.htm#page_367)  
+[page 368](ptn60.htm#page_368)  
+[page 369](ptn60.htm#page_369)  
+[page 370](ptn60.htm#page_370)  
+[page 371](ptn60.htm#page_371)  
+[page 372](ptn60.htm#page_372)  
+
+### [Thumbikin](ptn61)
+
+[page 373](ptn61.htm#page_373)  
+[page 374](ptn61.htm#page_374)  
+
+### [Doll i' the Grass](ptn62)
+
+[page 375](ptn62.htm#page_375)  
+[page 376](ptn62.htm#page_376)  
+
+### [The Lad and the Deil](ptn63)
+
+[page 377](ptn63.htm#page_377)  
+[page 378](ptn63.htm#page_378)  
+
+### [The Cock and Hen a-Nutting](ptn64)
+
+[page 379](ptn64.htm#page_379)  
+[page 380](ptn64.htm#page_380)  
+[page 381](ptn64.htm#page_381)  
+[page 382](ptn64.htm#page_382)  
+
+### [The Big Bird Dan](ptn65)
+
+[page 383](ptn65.htm#page_383)  
+[page 384](ptn65.htm#page_384)  
+[page 385](ptn65.htm#page_385)  
+[page 386](ptn65.htm#page_386)  
+[page 387](ptn65.htm#page_387)  
+[page 388](ptn65.htm#page_388)  
+[page 389](ptn65.htm#page_389)  
+[page 390](ptn65.htm#page_390)  
+[page 391](ptn65.htm#page_391)  
+[page 392](ptn65.htm#page_392)  
+[page 393](ptn65.htm#page_393)  
+[page 394](ptn65.htm#page_394)  
+[page 395](ptn65.htm#page_395)  
+
+### [Soria Moria Castle](ptn66)
+
+[page 396](ptn66.htm#page_396)  
+[page 397](ptn66.htm#page_397)  
+[page 398](ptn66.htm#page_398)  
+[page 399](ptn66.htm#page_399)  
+[page 400](ptn66.htm#page_400)  
+[page 401](ptn66.htm#page_401)  
+[page 402](ptn66.htm#page_402)  
+[page 403](ptn66.htm#page_403)  
+[page 404](ptn66.htm#page_404)  
+[page 405](ptn66.htm#page_405)  
+[page 406](ptn66.htm#page_406)  
+[page 407](ptn66.htm#page_407)  
+[page 408](ptn66.htm#page_408)  
+[page 409](ptn66.htm#page_409)  
+
+### [Bruin and Reynard](ptn67)
+
+[page 410](ptn67.htm#page_410)  
+[page 411](ptn67.htm#page_411)  
+
+### [Tom Totherhouse](ptn68)
+
+[page 412](ptn68.htm#page_412)  
+[page 413](ptn68.htm#page_413)  
+[page 414](ptn68.htm#page_414)  
+
+### [Little Annie the Goose-Girl](ptn69)
+
+[page 415](ptn69.htm#page_415)  
+[page 416](ptn69.htm#page_416)  
+[page 417](ptn69.htm#page_417)  
+[page 418](ptn69.htm#page_418)  
+
+### [Introduction to Appendix: Ananzi Stories](ptn70)
+
+[page 419](ptn70.htm#page_419)  
+[page 420](ptn70.htm#page_420)  
+[page 421](ptn70.htm#page_421)  
+
+### [Note](ptn71)
+
+[page 422](ptn71.htm#page_422)  
+[page 423](ptn71.htm#page_423)  
+
+### [Why The Jack-Spaniard's Waist is Small](ptn72)
+
+[page 425](ptn72.htm#page_425)  
+
+### [Ananzi and the Lion](ptn73)
+
+[page 426](ptn73.htm#page_426)  
+[page 427](ptn73.htm#page_427)  
+[page 428](ptn73.htm#page_428)  
+
+### [Ananzi and Quanqua](ptn74)
+
+[page 429](ptn74.htm#page_429)  
+[page 430](ptn74.htm#page_430)  
+
+### [The Ear of Corn and the Twelve Men](ptn75)
+
+[page 431](ptn75.htm#page_431)  
+[page 432](ptn75.htm#page_432)  
+
+### [The King and the Ant's Tree](ptn76)
+
+[page 433](ptn76.htm#page_433)  
+
+### [The Little Child and the Pumpkin Tree](ptn77)
+
+[page 434](ptn77.htm#page_434)  
+
+### [The Brother and his Sisters](ptn78)
+
+[page 435](ptn78.htm#page_435)  
+[page 436](ptn78.htm#page_436)  
+[page 437](ptn78.htm#page_437)  
+
+### [The Lion, the Goat, and the Baboon](ptn80)
+
+[page 438](ptn80.htm#page_438)  
+
+### [Ananzi and Baboon](ptn81)
+
+[page 439](ptn81.htm#page_439)  
+
+### [The Man and the Doukana Tree](ptn82)
+
+[page 440](ptn82.htm#page_440)  
+
+### [Nancy Fairy](ptn83)
+
+[page 441](ptn83.htm#page_441)  
+[page 442](ptn83.htm#page_442)  
+[page 443](ptn83.htm#page_443)  

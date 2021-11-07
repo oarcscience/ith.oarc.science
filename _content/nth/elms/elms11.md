@@ -1,0 +1,215 @@
+<div class="filenav">
+
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[Index](index)  [Previous](elms10)  [Next](elms12) 
+
+</div>
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
+at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_63">p. 63</span>
+
+### IX.
+
+### CAUSES AND CONDITIONS.
+
+The expression "*relative* first cause" has been used in the last
+section to distinguish the action of the creative principle in the
+*individual* mind from Universal First Cause on the one hand and from
+secondary causes on the other. As it exists in *us*, primary causation
+is the power to initiate a train of causation directed to an individual
+purpose. As the power of initiating a fresh sequence of cause and effect
+it is first cause, and as referring to an individual purpose it is
+relative, and it may therefore be spoken of as relative first cause, or
+the power of primary causation manifested by the individual. The
+understanding and use of this power is the whole object of Mental
+Science, and it is therefore necessary that the student should clearly
+see the relation between causes and conditions. A simple illustration
+will go further for this purpose than any elaborate explanation. If a
+lighted candle is brought into a room the room becomes illuminated, and
+if the candle is taken away it becomes dark again. Now the illumination
+and the darkness are both conditions, the one positive resulting from
+the presence of the
+
+<span id="page_64">p. 64</span>
+
+light, and the other negative resulting from its absence: from this
+simple example we therefore see that every positive condition has an
+exactly opposite negative condition corresponding to it, and that this
+correspondence results from their being related to the *same cause*, the
+one positively and the other negatively; and hence we may lay down the
+rule that all positive conditions result from the active presence of a
+certain cause, and all negative conditions from the absence of such a
+cause. A condition, whether positive or negative, is never *primary*
+cause, and the *primary* cause of any series can never be negative, for
+negation is the condition which arises from the absence of active
+causation. This should be thoroughly understood as it is the philosophic
+basis of all those "denials" which play so important a, part in Mental
+Science, and which may be summed up in the statement that evil being
+negative, or privation of good, has no substantive existence in itself.
+Conditions, however, whether positive or negative, are no sooner called
+into existence than they become causes in their turn and produce further
+conditions, and so on *ad infinitum*, thus giving rise to the whole
+train of secondary causes. So long as we judge only from the information
+conveyed to us by the outward senses, we are working on the plane of
+secondary causation and see nothing but a succession of conditions,
+forming part of an endless train of antecedent conditions
+
+<span id="page_65">p. 65</span>
+
+coming out of the past and stretching away into the future, and from
+this point of view we are under the rule of an iron destiny from which
+there seems no possibility of escape. This is because the outward senses
+are only capable of dealing with the relations which one mode of
+limitation bears to another, for they are the instruments by which we
+take cognizance of the relative and the conditioned. Now the only way of
+escape is by rising out of the region of secondary causes into that of
+primary causation, where the originating energy is to be found before it
+has yet passed into manifestation as a condition. This region is to be
+found *within ourselves*; it is the region of pure ideas; and it is for
+this reason that I have laid stress on the two aspects of spirit as pure
+thought and manifested form. The thought-image or ideal pattern of a
+thing is the *first cause* relatively to that thing; it is the substance
+of that thing untrammelled, by any antecedent conditions.
+
+If we realize that all visible things *must* have their origin in
+spirit, then the whole creation around us is the standing evidence that
+the starting-point of all things is in thought-images or ideas, for no
+other action than the formation of such images can be conceived of
+spirit prior to its manifestation in matter. If, then, this is spirit's
+modus operandi for self-expression, we have only to transfer this
+conception from the scale of cosmic spirit working on the plane
+
+<span id="page_66">p. 66</span>
+
+of the universal to that of individualized spirit working on the plane
+of the particular, to see that the formation of an ideal image by means
+of our thought is setting first cause in motion with regard to this
+specific object. There is no difference in kind between the operation of
+first cause in the universal and in the particular, the difference is
+only a difference of scale, but the power itself is identical. We must
+therefore always be very clear as to whether we are *consciously* using
+first cause or not. Note the word "consciously" because, whether
+consciously or unconsciously, we are always using first cause; and it
+was for this reason I emphasized the fact that the Universal Mind is
+purely subjective and therefore bound by the laws which apply to
+subjective mind on whatever scale. Hence we are *always* impressing some
+sort of ideas upon it, whether we are aware of the fact or not, and all
+our existing limitations result from our having habitually impressed
+upon it that idea of limitation which we have imbibed by restricting all
+possibility to the region of secondary causes. But now when
+investigation has shown us that conditions are never causes in
+*themselves*, but only the subsequent links of a chain started on the
+plane of the pure ideal, what we have to do is to reverse our method of
+thinking and regard the ideal as the real, and the outward manifestation
+as a mere reflection which must change with every change of the object
+
+<span id="page_67">p. 67</span>
+
+which casts it. For these reasons it is essential to know whether we are
+consciously making use of first cause with a definite purpose or not,
+and the criterion is this. If we regard the fulfilment of our purpose as
+contingent upon any *circumstances*, past, present, or future, we are
+not making use of first cause; we have descended to the level of
+secondary causation, which is the region of doubts, fears, and
+limitations, all of which we are impressing upon the universal
+subjective mind with the inevitable result that it will build up
+corresponding external conditions. But if we realize that the region of
+secondary causes is the region of mere reflections we shall not think of
+our purpose as contingent on any conditions whatever, but shall know
+that by forming the idea of it in the absolute, and maintaining that
+idea, we have shaped the first cause into the desired form and can await
+the result with cheerful expectancy.
+
+It is here that we find the importance of realizing spirit's
+independence of time and space. An ideal, as such, cannot be formed in
+the future. It must either be formed here and now or not be formed at
+all; and it is for this reason that every teacher, who has ever spoken
+with due knowledge of the subject, has impressed upon his followers the
+necessity of picturing to themselves the fulfilment of their desires as
+*already accomplished* on the spiritual plane,
+
+<span id="page_68">p. 68</span>
+
+as the indispensable condition of fulfilment in the visible and
+concrete.
+
+When this is properly understood, any anxious thought as to the *means*
+to be employed in the accomplishment of our purposes is seen to be quite
+unnecessary. If the end is already secured, then it follows that all the
+steps leading to it are secured also. The means will pass into the
+smaller circle of our conscious activities day by day in due order, and
+then we have to work upon them, not with fear, doubt, or feverish
+excitement, but calmly and joyously, because we *know* that the end is
+already secured, and that our reasonable use of such means as present
+themselves in the desired direction is, only one portion of a much
+larger co-ordinated movement, the final result of which admits of no
+doubt. Mental Science does not offer a premium to idleness, but it
+takes, all work out of the region of anxiety and toil by assuring the
+worker of the success of his labour, if not in the precise form he
+anticipated, then in some other still better suited to his requirements.
+But suppose, when we reach a point where some momentous decision has to
+be made, we happen to decide wrongly? On the hypothesis that the end is
+already secured you cannot decide wrongly. Your right decision is as
+much one of the necessary steps in the accomplishment of the end as any
+of the other conditions leading up to it, and therefore, while being
+careful to avoid rash action,
+
+<span id="page_69">p. 69</span>
+
+we may make sure that the same Law which is controlling the rest of the
+circumstances in the right direction will influence our judgment in that
+direction also. To get good results we must properly understand our
+relation to the great impersonal power we are using. It is intelligent
+and we are intelligent, and the two intelligences must co-operate. We
+must not fly in the face of the Law by expecting it to do *for* us what
+it can only do *through* us; and we must therefore use our intelligence
+with the knowledge that it is acting *as the instrument of a greater
+intelligence*; and because we have this knowledge we may, and should,
+cease from all anxiety as to the final result. In actual practice we
+must first form the ideal conception of our object with the definite
+intention of impressing it upon the universal mind—it is this intention
+which takes such thought out of the region of mere casual fancies—and
+then affirm that our knowledge of the Law is sufficient reason for a
+calm expectation of a corresponding result, and that therefore all
+necessary conditions will come to us in due order. We can then turn to
+the affairs of our daily life with the calm assurance that the initial
+conditions are either there already or will soon come into view. If we
+do not at once see them, let us rest content with the knowledge that the
+spiritual prototype is already in existence and wait till some
+circumstance pointing in the desired direction begins to show itself.
+
+<span id="page_70">p. 70</span>
+
+<span class="contnote">\[paragraph continues\]</span> It may be a very
+small circumstance, but it is the direction and not the magnitude which
+is to be taken into consideration. As soon as we see it we should regard
+it as the first sprouting of the seed we have sown in the Absolute, and
+do calmly, and without excitement, whatever the circumstances may seem
+to require, and then later on we shall see that this doing will in turn
+lead to further circumstances in the same direction until we find
+ourselves conducted step by step to the accomplishment of our object. In
+this way the understanding of the great principle of the Law of Supply
+will, by repeated experiences, deliver us more and more completely out
+of the region of anxious thought and toilsome labour and bring us into a
+new world where the useful employment of all our powers, whether mental
+or physical, will only be an unfolding of our individuality upon the
+lines of its own nature, and therefore a perpetual source of health and
+happiness; a sufficient inducement, surely, to the careful study of the
+laws governing the relation between the individual and the Universal
+Mind.
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: X.—Intuition](elms12)
+
+</div>

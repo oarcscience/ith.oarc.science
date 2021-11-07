@@ -1,0 +1,22 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index) 
+[Previous](prwe335)  [Next](prwe337) 
+
+------------------------------------------------------------------------
+
+WAYLAND SMITH.
+
+"'WAYLAND SMITH:' a Dissertation on a Tradition of the Middle Ages, from
+the French of G. B. Depping and Francisque Michel, with Additions by S.
+W. Singer, and the Amplified Legend, by Oehlenschlager." Pickering,
+1847.
+
+To this very interesting little volume I would refer those of my readers
+who feel desirous of tracing.the resemblance of our humble "Jack the
+Tinkeard," with the Icelandic *Valund*, the English *Velond*, or Sir
+Walter Scott's *Wayland* in "Kenilworth."
+
+------------------------------------------------------------------------
+
+[Next: The Wonderful Cobbler of Wellington](prwe337)

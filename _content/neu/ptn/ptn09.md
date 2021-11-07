@@ -1,0 +1,531 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn08)  [Next](ptn10) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+
+------------------------------------------------------------------------
+
+[Buy this Book on
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
+Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_clxi">p. clxi</span>
+
+### CONCLUSION.
+
+We have now only to consider the men and women of these Tales, and then
+our task is done. It will be sooner
+
+<span id="page_clxii">p. clxii</span>
+
+done, because they may be left to speak for themselves, and must stand
+or fall by their own words and actions. The tales of all races have a
+character and manner of their own. Among the Hindoos the straight stem
+of the story is overhung with a network of imagery which reminds one of
+the parasitic growth of a tropical forest. Among the Arabs the tale is
+more elegant, pointed with a moral, and adorned with tropes and
+episodes. Among the Italians it is bright, light, dazzling and swift.
+Among the French we have passed from the woods, and fields, and bills,
+to my lady's *boudoir*,—rose-pink is the prevailing colour, and the air
+is loaded with patchouli and *mille fleurs*. We miss the song of birds,
+the modest odour of wild-flowers, and the balmy fragrance of the pine
+forest. The Swedes are more stiff, and their style is more like that of
+a chronicle than a tale. The Germans are simple, hearty, and rather
+comic than humorous; and M. Moe <span id="fr_78"></span>[1](#fn_78) has
+well said, that as we read them it is as if we sat and listened to some
+elderly woman of the middle class, who recites them with a clear, full,
+deep voice. In Scotland the few that have been collected by Mr. Robert
+Chambers <span id="fr_79"></span>[2](#fn_79) are as good in tone and
+keeping as anything of the kind in the whole range of such popular
+collections. <span id="fr_80"></span>[3](#fn_80) The wonderful
+
+<span id="page_clxiii">p. clxiii</span>
+
+likeness which is shewn between such tales as "The Black Bull of
+Norroway" in Mr. Chambers's collection, and Katie Woodencloak in these
+Norse Tales, is to be accounted
+
+<span id="page_clxiv">p. clxiv</span>
+
+for by no theory of the importation of this or that particular tale in
+later times from Norway, but by the fact that the Lowland Scots, among
+whom these tales were
+
+<span id="page_clxv">p. clxv</span>
+
+told, were lineal descendants of Norsemen, who had either seized the
+country in the Viking times, or had been driven into it across the
+Border after the Norman Conquest.
+
+<span id="page_clxvi">p. clxvi</span>
+
+These Norse Tales we may characterise as bold, outspoken, and humorous,
+in the true sense of humour. In the midst of every difficulty and danger
+arises that old
+
+<span id="page_clxvii">p. clxvii</span>
+
+<span class="contnote">\[paragraph continues\]</span> Norse feeling of
+making the best of everything, and keeping a good face to the foe. The
+language and tone are perhaps rather lower than in some other
+collections,
+
+<span id="page_clxviii">p. clxviii</span>
+
+but it must be remembered that these are the tales of "hempen
+homespuns," of Norse yeomen, of Norske Bönder, who call a spade a spade,
+and who burn tallow, not wax; and yet in no collection of tales is the
+general tone so chaste, are the great principles of morality better
+worked out, and right and wrong kept so steadily in sight. The general
+view of human nature is good and kindly. The happiness of married life
+was never more prettily told than in "Gudbrand on the Hillside," [p.
+149](ptn30.htm#page_149), where the tenderness of the wife for her
+husband weighs down all other considerations; and we all agree with M.
+Moe that it would be well if there were many wives like Gudbrand's. The
+balance, too, is very evenly kept between the sexes;
+
+<span id="page_clxix">p. clxix</span>
+
+for if any wife should point with indignation at such a tale as "Not a
+Pin to choose between them," [p. 173](ptn34.htm#page_173), where wives
+suffer; she will be amply avenged when she reads "The Husband who was to
+mind the House," [p. 269](ptn48.htm#page_269), where the husband has
+decidedly the worst of the bargain, and is punished as he deserves.
+
+Of particular characters, one occurs repeatedly. This is that which we
+have ventured, for want of a better word, to call "Boots," from that
+widely-spread tradition in English families, that the youngest brother
+is bound to do all the hard work his brothers set him, and which has
+also dignified him with the term here used. In Norse he is called
+"*Askefis*," or "*Espen Askefjis*." By M. Moe he
+
+<span id="page_clxx">p. clxx</span>
+
+is called "*Askepot*," <span id="fr_81"></span>[1](#fn_81) a Danish word
+which the readers of Grimm's Tales will see at once is own brother to
+*Aschenpüttel*. The meaning of the word is "one who pokes about the
+ashes and blows up the fire"; one who does dirty work, in short; and in
+Norway, according to M. Moe, the term is almost universally applied to
+the youngest son of the family. He is Cinderella's brother, in fact; and
+just as she had all the dirty work put upon her by her sisters, he meets
+with the same fate from his brothers. He is generally the youngest of
+three, whose names are often Peter and Paul, as in No. XLII. ([p.
+295](ptn51.htm#page_295)), and who despise, cry down, and mock him. But
+he has in him that deep strength of character and natural power upon
+which the good powers always smile. He is the man whom Heaven helps,
+because he can help himself; and so, after his brothers try and fail, he
+alone can watch in the barn, and tame the steed, and ride up the glass
+hill, and gain the Princess and half the kingdom. The Norse "Boots"
+shares these qualities in common with the "Pinkel" of the Swedes, and
+the *Dummling* of the
+
+<span id="page_clxxi">p. clxxi</span>
+
+<span class="contnote">\[paragraph continues\]</span> Germans, as well
+as with our "Jack the Giant Killer," but he starts lower than these—he
+starts from the dust-bin and the coal-hole. There he sits idle whilst
+all work; there he lies with that deep irony of conscious power, which
+knows its time must one day come, and meantime can afford to wait. When
+that time comes, he girds himself to the feat, amidst the scoffs and
+scorn of his flesh and blood; but even then, after he has done some
+great deed, he conceals it, returns to his ashes, and again sits idly by
+the kitchen-fire, dirty, lazy, and despised, until the time for final
+recognition comes, and then his dirt and rags fall off,—he stands out in
+all the majesty of his royal robes, and is acknowledged once for all a
+king. In this way does the consciousness of a nation, and the mirror of
+its thought, reflect the image and personification of a great moral
+truth, that modesty, endurance, and ability will sooner or later reap
+their reward, however much they may be degraded, scoffed at, and
+despised by the proud, the worthless, and the overbearing. <span
+id="fr_82"></span>[1](#fn_82)
+
+As a general rule, the women are less strongly marked than the men; for
+these Tales, as is well said, are uttered "with a manly mouth;" <span
+id="fr_83"></span>[2](#fn_83) and none of the female characters, except
+perhaps "The Mastermaid," and "Tatterhood," can compare in strength with
+"The Master-Smith," "The Master-Thief," "Shortshanks," or "Boots." Still
+the true womanly type comes out in full play in such tales as "The Two
+Step-sisters." [p. 113](ptn26.htm#page_113); East o' the Sun and West
+
+<span id="page_clxxii">p. clxxii</span>
+
+o' the Moon," [p. 22](ptn13.htm#page_22); "Bushy Bride," [p.
+322](ptn54.htm#page_322), and "The Twelve Wild Ducks," [p.
+51](ptn18.htm#page_51). In all these the lassie is bright, and good, and
+helpful; she forgets herself in her eagerness to help others. When she
+goes down the well after the unequal match against her step-sister in
+spinning bristles against flax; she steps tenderly over the hedge, milks
+the cow, shears the sheep, relieves the boughs of the apple-tree,—all
+out of the natural goodness of her heart. When she is sent to fetch
+water from the well, she washes and brushes, and even kisses, the
+loathsome head; she believes what her enemies say, even to her own wrong
+and injury; she sacrifices all that she holds most dear, and at last
+even herself, because she is made to believe that it is her brother's
+wish. And so on her, too, the good powers smile. She can understand and
+profit by what the little birds say; she knows how to choose the right
+casket. And at last, after many trials, all at once the scene changes,
+and she receives a glorious reward, while the wicked stepmother and her
+ugly daughter meet with a just fate. Nor is another female character
+less tenderly drawn in "Hacon Grizzlebeard," [p. 39](ptn16.htm#page_39),
+where we see the proud, haughty princess subdued and tamed by natural
+affection into a faithful, loving wife. We sympathise with her more than
+with the "Patient Grizzel" of the poets, who is in reality too good, for
+her story has no relief; while in Hacon Grizzlebeard we begin by being
+angry at the princess's pride; we are glad at the retribution which
+overtakes her, but we are gradually melted at her sufferings and
+hardships when she gives up all for the Beggar and follows him; we burst
+into tears with her when she exclaims, "Oh the Beggar, and the babe, and
+the cabin!" and we rejoice
+
+<span id="page_clxxiii">p. clxxiii</span>
+
+with her when the Prince says, "Here is the Beggar, and there is the
+babe, and so let the cabin burn away."
+
+Nor is it unprofitable here to remark how the professions fare when they
+appear in these tales. The Church cannot be said to be treated with
+respect, for "Father Lawrence" is ludicrously deceived and scurvily
+treated by the Master Thief, [p. 232](ptn44.htm#page_232); nor does the
+priest come off any better in "Goosey Grizzel," [p.
+221](ptn42.htm#page_221), where he is thrown by the Farmer into the wet
+moss. Indeed it seems as if the popular mind were determined to revenge
+itself when left to itself, for the superstition of Rome on the one
+hand, and the severity of strict Lutheranism on the other. It has little
+to say of either of them, but when it does speak, its accents are not
+those of reverence and love. The Law, too, as represented by those awful
+personages, the Constable, the Attorney, and the Sheriff in "The
+Mastermaid," [p. 71](ptn21.htm#page_71), is held up to ridicule, and
+treated with anything but tenderness. But there is one profession for
+which a good word is said, a single word, but enough to shew the feeling
+of the people. In "The Twelve Wild Ducks," [p. 51](ptn18.htm#page_51),
+the king is "as soft and kind" to Snow-white and Rosey-red "as a
+doctor,"—a doctor, alas! not of laws, but of medicine; and thus this
+profession, so often despised, but in reality the noblest, has homage
+paid to it in that single sentence, which neither the Church with all
+its dignity, nor the Law with all its cunning, have been able to extort
+from the popular mind. Yet even this profession has a hard word uttered
+against it in "Katie Woodencloak," [p. 357](ptn60.htm#page_357), where
+the doctor takes a great fee from the wicked queen to say she will never
+be well unless she has some of the Dun Bull's flesh to eat.
+
+<span id="page_clxxiv">p. clxxiv</span>
+
+And now it is time to bring this Introduction to an end, lest it should
+play the Wolf's part to Odin, and swallow up the Tales themselves.
+Enough has been said, at least, to prove that even nursery tales may
+have a science of their own, and to shew how the old Nornir and divine
+spinners can revenge themselves if their old wives' tales are insulted
+and attacked. The inquiry itself might be almost indefinitely prolonged,
+for this is a journey where each turn of the road brings out a new point
+of view, and the longer we linger on our path, the longer we find
+something fresh to see. Popular mythology is a virgin mine, and its ore,
+so far from being exhausted or worked out, has here, in England at
+least, been scarcely touched. It may, indeed, be dreaded lest the time
+for collecting such English traditions is not past and gone; whether the
+steam-engine and printing-press have not played their great work of
+enlightenment too well; and whether the popular tales, of which, no
+doubt, the land was once full, have not faded away before those great
+inventions, as the race. of Giants waned before the might of Odin and
+the Æsir. Still the example of this very Norway, which at one time was
+thought, even by her own sons, to have few tales of her own, and now has
+been found to have them so fresh and full, may serve as a warning not to
+abandon a search, which, indeed, can scarcely be said to have been ever
+begun; and to suggest a doubt whether the ill success which may have
+attended this or that particular attempt, may not have been from the
+fault rather of the seekers after traditions, than from the want of the
+traditions themselves. In point of fact, it is a matter of the utmost
+difficulty to gather such tales
+
+<span id="page_clxxv">p. clxxv</span>
+
+in any country, as those who have collected them most successfully will
+be the first to confess. It is hard to make old and feeble women, who
+generally are the depositaries of these national treasures, believe that
+the inquirer can have any real interest in the matter. They fear that
+the question is only put to turn them into ridicule; for the popular
+mind is a sensitive plant; it becomes coy, and closes its leaves at the
+first rude touch; and when once shut, it is hard to make these aged lips
+reveal the secrets of the memory. There they remain, however, forming
+part of an under-current of tradition, of which the educated classes,
+through whose mind flows the bright upper-current of faith, are apt to
+forget the very existence: things out of sight, and therefore out of
+mind. Now and then a wave of chance tosses them to the surface from
+those hidden depths, and all Her Majesty's inspectors of schools are
+shocked at the wild shapes which still haunt the minds of the great mass
+of the community. It cannot be said that the English are not a
+superstitious people. Here we have gone on for more than a hundred years
+proclaiming our opinion that the belief in witches, and wizards, and
+ghosts, and fetches, was extinct throughout the land. Ministers of all
+denominations have preached them down, and philosophers convinced all
+the world of the absurdity of such vain superstitions; and yet it has
+been reserved for another learned profession, the Law, to produce in one
+trial at the Staffordshire assizes, a year or two ago, such a host of
+witnesses, who firmly believed in witchcraft, and swore to their belief
+in spectre dogs and wizards, as to shew that, in the Midland counties at
+least, such traditions are anything but extinct. If so much of
+
+<span id="page_clxxvi">p. clxxvi</span>
+
+the bad has been spared by steam, by natural philosophy, and by the
+Church, let us hope that some of the good may still linger along with
+it, and that an English Grimm may yet arise who may carry out what Mr.
+Chambers has so well begun in Scotland, and discover in the mouth of an
+Anglo-Saxon Gammer Grethel, some, at least, of those popular tales which
+England once had in common with all the Aryan race.
+
+For these Norse Tales one may say that nothing can equal the tenderness
+and skill with which MM. Asbjörnsen and Moe have collected them. Some of
+that tenderness and beauty may, it is hoped, be found in this English
+translation; but to those who have never been in the country where they
+are current, and who are not familiar with that hearty simple people, no
+words can tell the freshness and truth of the originals. It is not that
+the idioms of the two languages are different, for they are more nearly
+allied, both in vocabulary and construction, than any other two tongues,
+but it is the face of nature herself, and the character of the race that
+looks up to her, that fail to the mind's eye. The West Coast of Scotland
+is something like that nature in a general way, except that it is
+infinitely smaller and less grand; but that constant, bright blue sky,
+those deeply-indented, sinuous, gleaming friths, those headstrong rivers
+and headlong falls, those steep hill-sides, those long ridges of fells,
+those peaks and needles rising sharp above them, those hanging glaciers
+and wreaths of everlasting snow, those towering endless pine forests,
+relieved by slender stems of silver birch, those green spots in the
+midst of the forest, those winding dales and upland lakes, those various
+shapes of
+
+<span id="page_clxxvii">p. clxxvii</span>
+
+birds and beasts, the mighty crashing elk, the fleet reindeer, the
+fearless bear, the nimble lynx, the shy wolf, those eagles, and swans,
+and seabirds, those many tones and notes of Nature's voice making
+distant music through the twilight summer night, those brilliant,
+flashing northern lights when days grow short, those dazzling, blinding
+storms of autumn snow, that cheerful winter frost and cold, that joy of
+sledging over the smooth ice, when the sharp-shod horse careers at full
+speed with the light sledge, or rushes down the steep pitches over the
+crackling snow through the green spruce wood—all these form a Nature of
+their own. These particular features belong in their fatness and
+combination to no other land. When in the midst of all this natural
+scenery we find an honest, manly race, not the race of the towns and
+cities, but of the dales and fells, free and unsubdued, holding its own
+in a country where there are neither lords nor ladies, but simple men
+and women, brave men and fair women, who cling to the traditions of
+their forefathers, and whose memory reflects as from. the faithful
+mirror of their native steel the whole history and progress of their
+race—when all these natural features, and such a manly race meet; then
+we have the stuff out of which these tales are made, the living rock out
+of which these sharp-cut national forms are hewn. Then, too, our task of
+introducing them is over, we may lay aside our pen, and leave the reader
+and the tales to themselves.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_78"></span>[clxii:1](ptn09.htm#fr_78) M. Moe, *Introd.
+Norsk. Event.*, Christiania, 1851, 2d ed., to which the writer is
+largely indebted.
+
+<span id="fn_79"></span>[clxii:2](ptn09.htm#fr_79) *Popular Rhymes of
+Scotland*, ed. 1847.
+
+<span id="fn_80"></span>[clxii:3](ptn09.htm#fr_80) The following list,
+which only selects the more prominent collections, will suffice to shew
+that Popular Tales have a literature of their own:—Sanscrit: The
+*Pantcha-Tantra*, "The Five Books," a collection of fables of which only
+extracts have as yet been published, but of which Professor <span
+id="page_clxiii">p. clxiii</span> Wilson has given an analysis in the
+Transactions of the Asiatic Society, vol. i. sect. 2. The *Hitopadesa*,
+or "Wholesome Instruction," a selection of tales and fables from the
+*Pantcha-Tantra*, first edited by Carey at Serampore in 1804; again by
+Hamilton in London in 1810; again in Germany by A. W. von Schlegel in
+1829, an edition which was followed in 1831 by a critical commentary by
+Lassen; and again in 1830 at Calcutta with a Bengali and English
+translation. The work had been translated into English by Wilkins so
+early as 1787, when it was published in London, and again by Sir William
+Jones, whose rendering, which is not so good as that by Wilkins,
+appeared after his death in the collected edition of his works. Into
+German it has been translated in a masterly way by Max Müller, Leipzig,
+Brockhaus, 1844. Versions of these Sanscrit collections, the date of the
+latter of which is ascribed to the end of the second century of the
+Christian era, varying in many respects, but all possessing sufficient
+resemblance to identify them with their Sanscrit originals, are found in
+almost every Indian dialect, and in Zend, Arabic, Persian, Hebrew,
+Greek, and Turkish. We are happy to be able to state here that the
+eminent Sanscrit scholar, Professor Benfey of Göttingen, is now
+publishing a German translation of the *Pantcha-Tantra*, which will be
+accompanied by translations of numerous compositions of the same kind,
+drawn from unpublished Sanscrit works, and from the legends current
+amongst the Mongolian tribes. The work will be preceded by an
+introduction embracing the whole question of the origin and diffusion of
+fables and popular tales. The following will be the title of Prof.
+Benfey's work: <span id="page_clxiv">p. clxiv</span>—"*Pantcha Tantra*.
+Erster Theil: Fünf Bücher Indischer Fabeln, Märchen, und Erzälungen. Aus
+dem Sanskrit übersetzt, mit Anmerkungen und Einleitung über das Indische
+Grundwerk und dessen Ausflüsse, so wie über die Quellen und Verbreitung
+des Inhalts derselben. Zweiter Theil, Übersetzungen und Anmerkungen."
+Most interesting of all for our purpose is the collection of Sanscrit
+Tales, collected in the twelfth century of our era, by *Somadeva Bhatta*
+of Cashmere. This has been published in Sanscrit, and translated into
+German by Hermann Brockhaus, and the nature of its contents has already
+been sufficiently indicated. We may add, however, that Somadeva's
+collection exhibits the Hindoo mind in the twelfth century in a
+condition, as regards popular tales, which that of Europe has not yet
+reached. How old these stories and fables must have been in the East, we
+see both from the *Pantcha-Tantra* and the *Hitopadesa*, which are
+strictly didactic works, and only employ tales and fables to illustrate
+and inculcate a moral lesson. We in the West have got beyond fables and
+apologues, but we are only now collecting our popular tales. In
+Somadeva's time the simple tale no longer sufficed; it had to be fitted
+into and arranged with others, with an art and dexterity which is really
+marvellous; and so cleverly is this done, that it requires a mind of no
+little cultivation, and a head of more than ordinary clearness, to carry
+without confusion all the wheels within wheels, and fables within
+fables, which spring out of the original story as it proceeds. In other
+respects the popular tale loses in simplicity what it gains in intricacy
+by this artificial arrangement; and it is evident that in the twelfth
+century the Hindoo tales <span id="page_clxv">p. clxv</span> had been
+long since collected out of the mouths of the people, and reduced to
+writing;—in a word, that the popular element had disappeared, and that
+they had passed into the written literature of the race. We may take
+this opportunity, too, to mention that a most curious collection of
+tales and fables, translated from Sanscrit, has recently boon discovered
+in Chinese. They are on the eve of publication by M. Stanislas Julien,
+the first of Chinese scholars; and from the information on the matter
+which Professor Max Müller has kindly furnished to the translator, it
+appears that they passed with Buddhism from India into China. The work
+from which M. Julien has taken these fables—which are all the more
+precious because the Sanscrit originals have in all probability
+perished,—is called Yu-lin, or "The Forest of Comparisons." It was the
+work of Youen-thai, a great Chinese scholar, who was President of the
+Ministry of Justice at Pekin in the year 1565 of our era. He collected
+in twenty-four volumes, after the labour of twenty years, during which
+he read upwards of four hundred works, all the fables and comparisons he
+could find in ancient books. Of those works, two hundred were
+translations from the Sanscrit made by Buddhist monks, and it is from
+eleven of these that M. Julien has translated his Chinese Fables. We
+need hardly say that this work is most anxiously expected by all who
+take an interest in such matters. Let it be allowed to add here, that it
+was through no want of respect towards the memory of M. de Sacy that the
+translator has given so much prominence to the views and labours of the
+Brothers Grimm in this Introduction. To M. de Sacy belongs all the merit
+of exploring what may be called the old written <span id="page_clxvi">p.
+clxvi</span> world of fable. He, and Warton, and Dunlop, and Price, too,
+did the dayswork of giants, in tracing out and classifying those tales
+and fables which had passed into the literature of the Aryan race. But,
+besides this old region, there is another new hemisphere of fiction
+which lies in the mouths and in the minds of the people. This new world
+of fable the Grimms discovered, and to them belongs the glory of having
+brought all its fruits and flowers to the light of day. This is why
+their names must ever be foremost in a work on Popular Tales, shining,
+as their names must ever shine, a bright double star over that new
+hemisphere. In more modern times, the earliest collection of popular
+tales is to be found in the *Piacevoli Notte* of John Francis Straparola
+of Caravaggio, near Milan, the first edition of which appeared at Venice
+in 1550. The book, which is shamefully indecent, even for that age, and
+which at last, in 1606, was placed in the *Index Expurgatorius*,
+contains stories from all sources, and amongst them nineteen genuine
+popular tales, which are not disfigured by the filth with which the rest
+of the volume is full. Straparola's work has been twice translated into
+German,—once at Vienna, 1791, and again by Schmidt in a more complete
+form, *Märchen-Saal*, Berlin, 1817. But a much more interesting Italian
+collection appeared at Naples in the next century. This was the
+*Pentamerone* of Giambattista Basile, who wrote in the Neapolitan
+dialect, and whose book appeared in 1637. This collection contains
+forty-eight tales, and is in tone, and keeping and diction, one of the
+best that has ever appeared in any language. It has been repeatedly
+reprinted at Naples. It has been translated into German, and a portion
+of it, a year or two back, by <span id="page_clxvii">p. clxvii</span>
+Mr. Taylor, into English. In France the first collection of this kind
+was made by Charles Perrault, who, in 1697, published eight tales, under
+a title taken from an old *Fabliau*, *Contes de ma Mère l'Oye*, whence
+comes our "Mother Goose." To these eight, three more tales were added in
+later editions. Perrault was shortly followed by Madame d'Aulnoy (born
+in 1650, died 1705), whose manner of treating her tales is far less true
+to nature than Perrault's, and who inserts at will verses, alterations,
+additions, and moral reflections. Her style is sentimental and
+over-refined; the courtly airs of the age of Louis XIV. predominate, and
+nature suffers by the change from the cottage to the palace. Madame
+d'Aulnoy was followed by a host of imitators: the Countess Murat, who
+died in 1716; Countess d'Auneuil, who died in 1700; M. de Preschac, born
+1676, who composed tales of utter worthlessness, which may be read as
+examples of what popular tales are not, in the collection called *Le
+Cabinet des Fées*, which was published in Paris in 1785. Not much better
+are the attempts of Count Hamilton, who died in 1720; of M. de Moncrif,
+who died in 1770; of Mademoiselle de la Force, died 1724; of
+Mademoiselle l'Héritier, died 1737; of Count Caylus, who wrote his
+*Féeries Nouvelles* in the first half of the eighteenth century, for the
+popular element fails almost entirely in their works. Such as they are,
+they may also be read in the *Cabinet des Fées*, a collection which ran
+to no fewer than forty-one volumes, and with which no lover of popular
+tradition need trouble himself much. To the playwright and the
+story-teller it has been a great repository, which has supplied the lack
+of original invention. In Germany we need trouble ourselves with none
+<span id="page_clxviii">p. clxviii</span> of the collections before the
+time of the Grimms, except to say that they are nearly worthless. In
+1812-14 the two brothers, Jacob and William, brought out the first
+edition of their *Kinder- und Haus-Märchen*, which was followed by a
+second and more complete one in 1822, 3 vols., Berlin, Reimer. The two
+first volumes have been repeatedly republished, but few readers in
+England are aware of the existence of the third, a third edition of
+which appeared in 1856 at Göttingen, which contains the literature of
+these traditions, and is a monument of the care and pains with which the
+brothers—or rather William, for it is his work—even so far back as 1820,
+had traced out parallel traditions in other tribes and lands. This work
+formed an era in popular literature, and has been adopted as a model by
+all true collectors ever since. It proceeded on the principle of
+faithfully collecting these traditions from the mouths of the people,
+without adding one jot or tittle, or in any way interfering with them,
+except to select this or that variation as most apt or beautiful. To the
+adoption of this principle we owe the excellent <span id="page_clxix">p.
+clxix</span> Swedish collection of George Stephens and Hylten Cavallins,
+*Svenska Folk-Sagor og Æfventyr*, 2 vols., Stockholm 1844, and following
+years; and also this beautiful Norse one, to which Jacob Grimm awards
+the palm over all collections, except perhaps the Scottish, of MM.
+Asbjörnsen and Moe. To it also we owe many most excellent collections in
+Germany, over nearly the whole of which an active band of the Grimms'
+pupils have gone gathering up as gleaners the ears which their great
+masters had let fall or let lie. In Denmark the collection of M.
+Winther, *Danske Folkeeventyr*, Copenhagen 1823, is a praiseworthy
+attempt in the same direction; nor does it at all detract from the merit
+of H. C. Andersen as an original writer, to observe how often his
+creative mind has fastened on one of these national stories, and worked
+out of that piece of native rock a finished work of art. Though last,
+not least, are to be reckoned the Scottish stories collected by Mr.
+Robert Chambers, of the merit of which we have already expressed our
+opinion in the text.
+
+<span id="fn_81"></span>[clxx:1](ptn09.htm#fr_81) After all, there is,
+it seems, a Scottish word which answers to *Askepot* to a hair. See
+Jamieson's Dictionary where the reader will find *Ashiepattle* as used
+in Shetland for "a neglected child"; and not in Shetland alone, but in
+Ayrshire, *Ashypet*, an adjective, or rather a substantive degraded to
+do the dirty work of an adjective, "one employed in the lowest kitchen
+work." See too the quotation, "when I reached Mrs. Damask's house she
+was gone to bed, and nobody to let me in, dripping wet as I was, but an
+*ashypet* lassie, that helps her for a servant."—*Steamboat*, page 259.
+So again *Assiepet*, substantive, "a dirty little creature, one that is
+constantly soiled with *ass* or ashes."
+
+<span id="fn_82"></span>[clxxi:1](ptn09.htm#fr_82) The Sagas contain
+many instances of Norsemen who sat thus idly over the fire, and were
+thence called *Kolbitr*, *coalbiters*, but who afterwards became mighty
+men.
+
+<span id="fn_83"></span>[clxxi:2](ptn09.htm#fr_83) Moe: *Introd. Norsk.
+Event*.
+
+------------------------------------------------------------------------
+
+[Next: Extracts From Press Notices](ptn10)

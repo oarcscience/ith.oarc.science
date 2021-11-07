@@ -1,0 +1,974 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
+[Index](index)  [Previous](lrs05)  [Next](lrs07) 
+
+------------------------------------------------------------------------
+
+<span id="page_139">p. 139</span>
+
+CHAPTER IV:  
+THE SEQUELS TO "AMADIS DE GAUL"
+
+|                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "Inferior as these after-books of *Amadis* certainly are, they form so singular an epoch in the history of literature that an abridgment of the whole series into our language is to be desired."- SOUTHEY |
+
+IN dealing with the literatures of the Peninsula, a task for which he
+was eminently well equipped, Southey followed an instinct of natural
+discrimination which seldom played him false. Feeble as some of the
+'after-books' of A*madis* undoubtedly are, we cannot afford to ignore
+them, if only because of the literary phenomena they present. In these
+fantastic tales the Imagination which had flowered so luxuriantly in
+*Amadis* became overblown. They are, indeed, the petals fallen from the
+fading rose—so quickly did the wonderful blossom of chivalric fiction
+droop and wither.
+
+The first of these sequels, called *The Fifth Book of Amadis,* is more
+generally known as *Esplandian,* as it chiefly refers to the adventures
+of that hero. Cervantes is, perhaps, rather more unkind to this romance
+than its peculiar merits deserve, for he makes his critical curate say
+of it: "Verily the father's goodness shall not excuse the want of it in
+the son. Here, good mistress housekeeper, open that window and throw it
+into the yard. Let it serve as a foundation to that pile which we are to
+set a-blazing presently."
+
+The first edition of *Esplandian* was published at Seville in 1542. The
+greater part of it seems to have been composed by Montalvo, the original
+translator of *Amadis.* But whereas when he penned that work he acted
+the part of a translator only, in *Esplandian* he undertook the *róle*
+of authorship proper, and that he failed to
+
+<span id="page_140">p. 140</span>
+
+discern the wide distinctions which separate these tasks is rather
+painfully apparent. It seems to me, however, a mistaken criticism which
+brands *Esplandian* as entirely lacking in merit, and I suspect that
+more than one of the censorious folk who have thus entreated it have not
+perused it in the original, or have merely taken Cervantes word
+regarding its lack of quality. It is notorious that many English critics
+seem to believe it possible to pass a verdict upon works written in
+Spanish without possessing more than a nodding acquaintance with the
+language, and the absurd idea obtains among many men of letters, who
+ought to know better, that, given a knowledge of Latin and French, the
+acquisition of the Castilian tongue is merely a matter of a little
+reading.
+
+Esplandian possesses many quaint beauties, and the fairy ‘machinery' and
+rather distinguished simplicity of its atmosphere make it most pleasant
+and delectable to peruse. Where, too, may we encounter a better or more
+representative example of romantic extravagance at its best ?- for
+*Esplandian,* without exhibiting the grosser faults of its descendants,
+has the rich and varied colour of that imaginative excess which is the
+birthright of all true poets, and in the discipline of which all are not
+successful. I quite admit, however, that *Esplandian* is food for the
+enthusiast, and I do not recommend its perusal to unromantic souls. It
+is not for the barbers and curates of this world, and pity 'tis that
+they who cannot appreciate its spirit should attempt to influence others
+to its detriment.
+
+Esplandian spent his childhood at the Court of his grand father, King
+Lisuarte, and had scarcely been knighted when he felt the call of high
+adventure. His wishes in this respect were speedily gratified, for
+shortly after
+
+<span id="page_141">p. 141</span>
+
+the gilt spurs had been placed on his heels he fell into a deep swoon,
+which seemed to portend enchantment of no common order. As he slept, the
+people of the Firm Island, whence he had journeyed to have knight-hood
+conferred upon him, beheld a vast mountain of fire approach the shore,
+from which issued the sylph-like form of the enchantress Urganda the
+Unknown, sailing through the air upon the back of an enormous dragon.
+Some time prior to these events Amadis, to whose custody the malicious
+Archelaus had been entrusted, had injudiciously released that firebrand
+of the magical world, only to learn shortly afterward that the
+unscrupulous wizard had taken advantage of his new-found liberty to work
+his wiles once more upon the all too unsuspecting Lisuarte, who seemed
+incapable of profiting by experience, and who now paid for his credulity
+by incarceration in the deepest dungeons of the necromancer's castle.
+Urganda announced to the distracted son-in-law that it would be
+necessary for Esplandian to execute a mission of vengeance, and ere it
+was possible to question her further she bore away the youth on the back
+of the winged monster she bestrode.
+
+The enchantress conveyed the sleeping Esplandian to a mysterious vessel
+called the *Ship of the Great Serpent,* and on waking it was with no
+little exaltation of spirit that he found himself on its deck. As he was
+wafted across the smooth ocean he felt a thrill of pleasure arising from
+the magical ease with which the enchanted galley skimmed the waves. In
+time he beheld a rocky islet standing in the midst of a forsaken sea,
+and going ashore he found it to be barren and showing no other sign of
+habitation than a tall tower, which crowned its topmost height. He
+climbed the eminence upon which
+
+<span id="page_142">p. 142</span>
+
+it stood, and discovered the ancient fortalice to be completely
+deserted. Exploring its recesses, he observed a stone in which a richly
+ornamented sword was firmly embedded, but as he attempted to grasp this
+the air was rent by the bellowings of a frightful dragon, which
+descended upon him with such velocity that ere he could prepare himself
+for its onset it had coiled its enormous folds round his body in an
+effort to break through the plates of his armour and crush him to death.
+Man and monster wrestled to and fro in a death-grapple, and so terrific
+were their exertions that the earth shook and the castle rocked beneath
+them as they swayed and writhed in a deadly embrace. At length
+Esplandian succeeded in freeing his right hand from the dragon's
+encircling folds, and, drawing a magic sword which Urganda had bestowed
+upon him, passed it through the monster's scaly hide. Mortally wounded,
+the dragon relaxed its grip, and its huge body became rigid in death.
+When he had assured himself that it was quite dead, Esplandian quitted
+the castle and returned to the shore, a weird light which came from the
+enchanted sword, which he had extracted from the boulder, guiding his
+footsteps through the gathering dusk.
+
+Re-embarking on the *Ship of th*e *Great Serpent,* he was speedily
+wafted to a rugged country known as the Forbidden Mountain, a stronghold
+on the borders of Turkey and Greece. At a distance he perceived a
+castle, and was making his way thither when he en countered a hermit,
+who warned him to avoid it, and told him that a prince of renown was
+imprisoned therein. At once it occurred to Esplandian that this must be
+none other than Lisuarte, and the castle the stronghold of the wicked
+Archelaus, and this surmise naturally made
+
+<span id="page_143">p. 143</span>
+
+him resolve to inquire into the character of the place. As he neared the
+gate he saw that it was guarded by a giant sentinel, who, on espying
+him, rushed at him fiercely, brandishing a formidable club. Avoiding the
+onset of his gigantic adversary, Esplandian slew him with the sword of
+power, and was about to enter the castle when he was suddenly confronted
+by Archelaus in person. A bitterly contested struggle ensued. The
+enchanter, enraged at the stripling's audacity in seeking to probe the
+mysteries of his stronghold, and in the knowledge that he came of the
+race of his detested enemy Lisuarte, attacked Esplandian with great
+fury. But his blind rage could not avail against the cooler courage of
+his youthful antagonist, who succeeded in dispatching him with the magic
+sword, thus for ever putting an end to his necromantic enormities. A
+nephew of the slain enchanter next assaulted the young knight, but he
+too fell before the magic falchion of Urganda. Next Arcobone, the mother
+of Archelaus, a witch deeply versed in the mysteries of the occult arts,
+sought to vanquish him by the force of her anathemas, but the powers of
+counter-charm concealed in Esplandian's blade saved him from the fury of
+the dread sybil, who felt herself bound to obey his behests. He
+commanded her to reveal the place of Lisuarte's confinement, and had the
+satisfaction of releasing his aged relative.
+
+As Esplandian and Lisuarte were about to leave the island, the fleet of
+Matroed, eldest son of Arcobone, arrived off its shores, and the young
+hero found himself forced to do battle with a fresh enemy, for, relying
+upon his ability to defeat such a youthful adversary with ease, Matroed
+made the combat a strictly personal one, and
+
+<span id="page_144">p. 144</span>
+
+he and Esplandian were engaged in deadly fight until the waning of the
+sun. But at length the many wounds which the pagan warrior had received
+forced him to discontinue the struggle, and he begged Esplandian to
+permit him to die in peace. At this juncture a holy man arrived, and the
+expiring heathen requested his blessing, which was piously granted.
+
+Assuming the name of 'the Black Knight,' the colour of his armour,
+Esplandian now ruled in the Forbidden Mountain as lord of the castle he
+had subdued. But he was not permitted to remain in quiet for long, as
+the fortalice was speedily invested by Armato, the Soldan of Turkey,
+with a great army. Attracting numerous followers to himself, however,
+Esplandian defeated the paynims, and took their sovereign prisoner.
+Encouraged by this success, he carried the war into the heart of the
+Turkish dominions and captured the principal city.
+
+Before entering upon his career of adventure Esplandian had met
+Leonorina, daughter of the Emperor of Constantinople, of whom he had
+become greatly enamoured, and during the course of his war with the
+Turks he had dispatched many messengers to her, assuring her of his
+undying affection. He now learned that she had taken umbrage at his long
+absence, so, when the capital of Turkey had fallen to his sword, he
+speedily set out for Constantinople. Arrived there, he purchased a cedar
+chest of exquisite workmanship, which he entrusted to certain
+messengers, commanding them to bear it to the lady. When she opened it
+in the privacy of her own apartment, to her mingled confusion and
+delight her long-absent lover himself emerged from its recesses. In
+Spanish romance it is inevitable
+
+<span id="page_145">p. 145</span>
+
+that the loves of the hero and heroine should remain unknown to the
+lady's relatives, not only because this was demanded by the romantic
+susceptibilities of the average Spanish reader, but because Spanish
+opinion would have been seriously affronted by the idea of parental
+compliance in any intercourse between the lovers prior to marriage, save
+of the most formal kind. This sorry condition of affairs still obtains
+among the middle and upper classes of Spain and Spanish America, and we
+can scarcely suppress amusement when we hear of ardent youths unable to
+converse confidentially with the maidens to whom they are formally
+affianced otherwise than by assuming some ridiculous disguise, or
+through the kind offices of servants. Not infrequently young Spanish
+couples whose engagement is quite *en règle* and to whose union not the
+slightest opposition is made, arrange and carry out an elopement, purely
+because of the romantic atmosphere surrounding such a proceeding. It is
+circumstances such as these which enable us to appreciate the firm hold
+of romance upon the Spanish heart.
+
+But Esplandian had but little time for dalliance, as the Turks were once
+more arrayed against him in the field. He had, however, a firm ally in
+Urgancla, but, to counterbalance this, the infidels were supported by
+the enchantress Melia, the sister of Armato, the defeated soldan, who
+had succeeded in making his escape upon the back of a flying dragon,
+dispatched for that purpose by this Turkish witch. With all speed he
+levied a large army, and set siege to Constantinople. Numerous as the
+sands of the sea were his allies, one of whom was a beautiful Amazonian
+queen, who brought with her to the scene of hostilities a squadron of
+fifty griffins, which
+
+<span id="page_146">p. 146</span>
+
+flew over the city much in the manner of devastating aircraft, belching
+fire and smoke on the heads of the unhappy folk below.
+
+So dire was the loss of life in this combat between the forces of
+Christendom and paganism that at last it was agreed that the question of
+pre-eminence should be settled by the issue of a double combat. Amadis
+and Esplandian were selected on the one side, and the Amazon queen and a
+celebrated pagan soldan on the other. The heathens were defeated, but so
+enraged were they at their downfall that they rushed to the attack with
+every available man (and woman) in their hosts. But the Christians,
+mightily encouraged by the victory of their champions, repulsed them
+with terrific loss, and drove them from the bounds of the Grecian
+dominions. The Greek Emperor, probably only too happy to rid himself of
+the burden of such a troublous inheritance, resigned his crown to
+Esplandian, who espoused his Leonorina and settled down to the task of
+governing the Hellenic realm.
+
+Relieved from the pressure of military duties, in which she had proved
+herself no inefficient ally, the sage Urganda had now leisure to pay
+some attention to the private affairs of her mortal charges. On
+consulting her magic mirror and other divinatory apparatus, she was
+desolated to find that Amadis, Galaor, Esplandian, and indeed all of her
+favourite champions, were soon to pay the debt of nature. Had her
+prophetic soul been enabled to envisage the immensities of fiction to
+which their future adventures were to give rise, she would undoubtedly
+have allowed nature to take its course, so we must conclude that her
+powers of vision were limited. Resolved to frustrate unkindly Fate, she
+
+<span id="page_147">p. 147</span>
+
+summoned her *protègès* to the Firm Island, and advised them, if they
+desired to escape mortality, to obey the Injunctions she would now place
+upon them. They anxiously assured her that these would be carried out to
+the letter, and with the best possible grace submitted to be cast into a
+magic sleep, from which, it was decreed, they were not to awaken until
+disenchanted by Lisuarte, son of Esplandian, who, on gaining possession
+of a certain magic sword, would be enabled to bring them once more to
+life with renewed vigour.
+
+The Sixth Book of the *Amadis* series is concerned with the adventures
+of Florisando, his nephew, but as its hero is not in the line direct,
+and is, moreover, intolerably tiresome, we may well pass him over with a
+mere mention of his existence.
+
+Lisuarte of Greece
+
+More sprightly is Lisuarte of Greece, hero of the seventh and eighth
+books, which are believed to have been written by Juan Diaz, Bachelor of
+Canon Law, and published in 1526. Lisuarte is not, however, the sole
+hero of this romance, Perion, a later son of Amadis and Oriana, claiming
+a considerable share of the exploits which fall to be recounted in the
+volume. This young warrior, hearing of the prowess and address in arms
+of the King of Ireland, resolved to gratify a desire to be knighted by
+him, and for this purpose embarked for the Green Isle. While traversing
+St George's Channel, or its romantic equivalent, he encountered a damsel
+cruising in a boat managed by four apes. The animals begged Perion to
+accompany their mistress for the fulfilment of a great enterprise, so,
+quitting his own vessel, he embarked in the boat along with the apes
+
+<span id="page_148">p. 148</span>
+
+and the lady. His attendants, chagrined by his acceptance of the
+adventure thus thrust upon him, turned their vessel eastward and sailed
+on until they eventually arrived at Constantinople, where they reported
+his virtual disappearance, on learning of which his kinsman Lisuarte
+decided to go in quest of him.
+
+In the meantime young Perion had arrived with his strange
+fellow-wanderers in the kingdom of Trehizond, which, as we are all
+aware, is readily accessible from the Irish coast. In that city he had
+seen and fallen in love with the daughter of the Emperor, but did not
+have much leisure to pay his addresses to her, as the Lady of the Apes
+rather unduly hurried him in the preliminaries of the task she had set
+him. They had scarcely left Trebizond when Lisuarte arrived in the city,
+and promptly fell in love with Onoloria, the Emperor's remaining
+daughter. But one day, as the lovers were enjoying each other's society,
+an enormous giantess entered the Court and requested a boon from
+Lisuarte, which, in true romantic fashion, he granted without inquiring
+its nature. It proved to be his attendance for a year wherever the
+gigantic damsel chose to demand it. The giantess was, indeed, a pagan
+spy, and had concocted this device to withdraw Lisuarte, who was one of
+the great props of Christian Greece, from the support of the Hellenic
+throne at a difficult and dangerous time.
+
+When Lisuarte had quitted Trebizond on the adventure in which he was an
+unwilling partaker, the Emperor of that country, father of his
+*inamorata,* was informed of the true character of the prodigious damsel
+who had carried him off by a letter which was closed with sixtyseven
+seals and which announced that Constantinople
+
+<span id="page_149">p. 149</span>
+
+was about to be besieged by Armato, the Turkish Soldan, who had placed
+himself at the head of a league of sixty-seven princes for the purpose
+of waging war against the imperial city. Meanwhile Lisuarte was given
+into the care of the King of the Giants' Isle, whose daughter Gradaffile
+fell in love with him, procured his escape, and followed him to
+Constantinople, whence he at once betook himself for the purpose of
+combating the infidels who invested it. In this task he was assisted by
+Perion, who now arrived in Greece, after having accomplished the behest
+of the Lady of the Apes.
+
+In course of time Lisuarte became conscious that duty now called him to
+effect the release of his sleeping ancestors from the spell in which
+they had been cast for the purpose of prolonging their existences. After
+many adventures, which we spare the reader, he obtained possession of
+the fatal sword and proceeded to the Firm Island, where he broke the
+enchanted sleep into which Amadis, Esplandian, and the rest had been
+lulled by the far-sighted Urganda. These, naturally refreshed by their
+long slumber, and longing for martial exercise, at once assisted him in
+routing the pagan forces before Constantinople, and achieving peace once
+more. Lisuarte, freed from his patriotic labours, now bethought himself
+of his lady-love, and turned his steps to the city of Trebizond. Perion
+had also gone thither from a similar reason, but on the request of the
+Duchess of Austria had accompanied that lady to her dominions, which
+were in the grip of a usurper. On his return from this chivalrous task
+lie encountered his kinsman Lisuarte, and both champions were in the act
+of preparing their wedding festivities when Perion and the
+
+<span id="page_150">p. 150</span>
+
+Emperor of Trebizond were carried off by pagan treachery in the midst of
+a hunting expedition. Lisuarte, following on their track, was also
+seized by the enemy, and imprisoned along with those he had sought to
+succour.
+
+Amadis of Greece
+
+The Ninth Book carries on the adventures and exploits of the race of
+Amadis, who in more senses than one may be said to be immortal. It was
+first published in 1535 at Burgos, a place of many literary
+associations, and purports to have been imitated in Latin from the
+Greek, after the manner of the famous Troy romance *Dares and Dictys,*
+and at a later time translated into the Romance language by the potent
+and wise magician Alquife, evidently a supposititious Moor pressed into
+the service of the most imaginative but undisciplined writer who
+fabricated it. *Amadis of Greece,* indeed, approaches the sublime of
+imaginative excess and fictional unreason, and in its extravagant pages
+we are confronted with such a maze of marvel that to provide an
+intelligent account of it is a task of no little difficulty.
+
+Following the wild career of the romancer with the halting step of
+modern incredulity, we learn that Amadis of Greece was, like his
+forbears, a child unwanted, the son of Lisuarte and Onoloria, Princess
+of Trebizond, born shortly after the period of their interrupted
+wedding. While the infant was being baptized at a fountain in a wild and
+deserted place, to which he had been conveyed for the purposes of
+secrecy, he was carried off by corsairs, who sold him to the Moorish
+King of Saba. Distinguished by the representation of a sword upon his
+breast he adopted the name, when knighted
+
+<span id="page_151">p. 151</span>
+
+by the pagan monarch, of ‘The Knight of the Flaming Sword.' Soon after
+he had entered the ranks of chivalry he was falsely accused of
+cherishing a secret love for the Queen of Saba, and, dreading the wrath
+of his benefactor, he made his escape, and embarked upon a career of
+adventure—which, indeed, it would have been difficult for anyone of his
+lineage to have avoided.
+
+A pagan in religion and sentiment, he came to the vicinity of the
+Forbidden Mountain which his grandfather had been instrumental in
+liberating from the clutches of the infidel, and, reversing the pious
+work then accomplished, he defeated and expelled those who held it for
+the Emperor of Greece. Aroused by the menacing turn events had taken,
+the great Esplandian himself, now Emperor of Constantinople, hastened to
+the scene of hostilities and engaged in single combat with the doughty
+new-comer, only, however, to suffer defeat at his hands, an event which
+never could have entered into the calculation of the enthusiastic author
+who composed the romance of that hero, who would have been horrified at
+the mere thought of the eclipse of his invincible ‘star.' Shortly after
+this Amadis encountered the King of Sicily. Their acquaintance commenced
+with a combat, as it was indeed essential that it should, as the only
+fitting means of introduction between gentlemen of errant tendencies,
+but when they came to know and esteem each other they patched up a
+comradeship which was the more powerfully cemented by the passion of
+Amadis for the martial monarch's lovely daughter.
+
+In the course of his voyage to Sicily, Amadis chanced to visit an
+island, where he found the Emperor of Trebizond, Lisuarte, Perion, and
+Gradaffile in a state of enchanted
+
+<span id="page_152">p. 152</span>
+
+slumber. As we have seen, they had been spirited away by the emissaries
+of paganism. It chanced that at this time Amadis of Gaul, who was
+evidently not yet too old for adventurous pursuits, encountered the
+Queen of Saba, who was everywhere searching for a champion to defend her
+against her husband's false charges of conjugal infidelity. Amadis
+espoused her quarrel, and accompanied her to Saba, where he did battle
+with and overcame her accuser. He also succeeded in establishing her
+innocence, and that of his namesake, Amadis of Greece, to the
+satisfaction of the King her husband.
+
+After he had freed his ancestors from their charmed sleep, Amadis of
+Greece betook himself to Sicily. He had not been long in the island when
+he heard a knight reciting amorous verses in the vicinity of the palace.
+At once his jealous heart leapt to the conclusion that the singer was
+chanting the praise of his princess. Almost crazed by his suspicions, he
+searched everywhere for his supposed rival, but without success, dogging
+his footsteps, but always failing to come up with him. During this chase
+he met with many adventures. But at last he seems to have convinced
+himself that his suspicions were groundless and that the singer he had
+heard had had no designs upon the heart of his
+
+inamorata.
+
+Whilst these events were passing, Lisuarte, the father of our hero, had
+returned to Trebizond, and had formally requested the hand of Onoloria.
+But Zairo, Soldan of Babylon, had seen this princess in a dream, and,
+accompanied by his sister Abra, had arrived at Trebizond to demand her
+in marriage. The Emperor was quite prepared to grant his suit, but not
+so Lisuarte, who had prior claims to the lady, and his opposition so
+enraged the Soldan that he resorted to warlike measures and set
+
+<span id="page_153">p. 153</span>
+
+siege to "many-towered Trebizond." After the siege had progressed for
+some time champions were selected from either army to decide the
+pretensions of the rival parties. But the Soldan's paladins were
+defeated by Gradaffile, daughter of the King of the Giant's Isle, who
+disguised herself as a knight, and whose Amazonian fury the unfortunate
+Babylonians could scarcely be expected to confront with any chance of
+success. The Soldan, however, after the manner of the baffled in
+romance, broke the rules of the tourney and carried off Onoloria by a
+stratagem.
+
+As his fleet sailed with all speed from Trebizond, it encountered that
+of Amadis of Gaul, who was hastening to the relief of that city, and had
+evidently not been retarded in his passage of the Dardanelles by any
+considerations of international law. In the circumstances it is scarcely
+necessary to chronicle the Soldan's overthrow, or dwell upon his
+untimely fate.
+
+But the will to evil of the race of Babylon was not extinguished by the
+decease of the short-lived if romantically named Zairo. By his death his
+sister Abra succeeded to the throne of Semiramis. While sojourning at
+Trebizond in the happy days before hostilities had broken out between
+her brother and Lisuarte, she had fallen under the spell of that
+champion's attractions, and after the manner of Eastern womanhood as
+depicted by the writers of romance, made the first advances to the
+object of her affections. Let us hope that he did not repulse her as
+rudely as did blunt Sir Bevis of Hamton, when the fair Saracen Josiana
+sent her envoys to him to acquaint him with her passion
+
+<table data-cellspacing="0" data-border="0" width="349">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td data-valign="TOP" height="106"><p>He said, if ye ne were messengers,<br />
+I should ye slay, ye iossengers.</p></td>
+</tr>
+</tbody>
+</table>
+
+<span id="page_154">p. 154</span>
+
+<table data-cellspacing="0" data-border="0" width="349">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td data-valign="TOP" height="106"><p>I ne will rise one foot fro' grounde<br />
+For to speak with an heathen hounde.<br />
+She is a hound, also be ye:<br />
+Out of my chamber swith ye flee.</p></td>
+</tr>
+</tbody>
+</table>
+
+But repulse her Lisuarte did, and all the fury of a woman scorned burned
+in the breast of the fair Babylonian. Out of the depths of her vengeance
+she sent emissaries to all the kingdoms of the earth, asking that the
+knighthood of every realm should assist her to destroy Lisuarte. One of
+her damsels while on this quest met with Amadis of Greece, who, still a
+pagan, was easily inveigled into promising that he would never rest
+until he had presented the lady Abra with the head of Lisuarte. On the
+arrival of Amadis at Trebizond a dreadful combat between father and son
+ensued, which was mercifully broken off by the timely appearance of
+Urganda, who, following her usual custom, made parent and child known to
+one another.
+
+But the young Amadis was not to be exempt from the amorous advances of
+pagan princesses any more than his father had been. Niquea, the daughter
+of an Eastern soldan, had fallen in love with him by report, and had
+sent him her picture by the hands of a favourite dwarf. The lady's
+undoubted attractions were, however, seriously counterbalanced by the
+circumstance that all who beheld her resplendent beauty either died on
+the spot or were deprived of reason. Her father, in the exercise of
+ordinary wisdom, shut her up in an almost inaccessible tower, to which
+her relatives (who, like most family friends, were rather apt to
+discount her charms) alone had the
+
+entrée.
+
+Notwithstanding the former strong attachment of Amadis to the Princess
+of Sicily, he had no sooner set
+
+<span id="page_155">p. 155</span>
+
+eyes on the portrait of Niquea than he renounced his former allegiance
+and devoted his affections to the Oriental beauty. In order that he
+might delight his eyes with the original of the portrait which had so
+enchanted him, he disguised himself as a female slave, and gained access
+to the tower in which Niquea was interned. They plighted their troth to
+each other, and Amadis remained in the tower in his disguise. Needless
+to say, Niquea's good looks wrought him no bale.
+
+We now return to the fair but vindictive Abra, who, having marshalled an
+immense army, marched against Trebizond. After a furious encounter, the
+forces of paynimne were duly routed. But as Onoloria had in the meantime
+been so obliging as to shake off the trammels of mortality, Lisuarte, at
+the persuasion of his platonic friend Gradaffile, agreed to cement a
+lastlug peace by espousing the Babylonian queen, who was thus lucky in
+love if unlucky in war.
+
+Niquca, tiring of her virtual imprisonment, succeeded in eloping with
+Amadis, and soon afterward arrived with him at Trebizond, where their
+nuptials were celebrated. Later she gave birth to a son named Florisel
+de Niquea, the subject of a future tale.
+
+This romance, like that of *Esplandian,* ends with the enchantment of
+the Greek heroes and princesses in the Tower of the Universe by the
+spells of the wise magician Zirfea, who warned them that by this means
+alone could they escape mortality. But, unlike the enchantment of the
+Firm Island, the spell which they must needs undergo in this tower of
+marvels was not of a somnolent character, so that the enchanted paladins
+and their lady-loves were enabled to cultivate each other's society for
+a century or so, an advantage at
+
+<span id="page_156">p. 156</span>
+
+which they had small occasion to grumble, when their long separation as
+relatives is taken into account. Even did they tire of one another's
+society, they were not likely to fall under the more dreadful spell of
+boredom, since the accommodating magician who undertook their
+enchantment had provided an apparatus by means of which they could
+behold every event which took
+
+place in the world, a vehicle of solace and amusement which Madame
+d'Aulnoy introduced into one of her fairy fictions.
+
+Cervantes barber and priest were especially caustic regarding Amadis of
+Greece and its immediate successors. " Into the yard with them all,"
+quoth the priest, "for rather than not burn the queen Pintiquinestra and
+the shepherd Darinel with his eclogues and the devilish intricate
+discourses of its author, I would burn the father who begot me, did I
+meet him in the garb of a knight errant."
+
+Florisel of Niquea
+
+The composition which chiefly seems to have excited the wrath of
+Cervantes' unromantic churchman and even more unpoetic barber is the
+Tenth Book of *Amadis*, which is entitled as above, and is feigned to be
+written by no less a person than Cirfea, Queen of the Argives, who
+doubtless composed it in the intervals of repose stolen from the more
+important duties of royalty. Her Majesty does not degrade her exalted
+position by revealing to us the fee which she received from the
+Valladolid publishers who produced the work in 1532, but if one may
+place a value on her compositions without breaking the dread law of
+*lèse-majesté*, it might be suggested that a penny a line would amply
+remunerate
+
+<span id="page_157">p. 157</span>
+
+the literary output of this most imaginative sovereign. In a word,
+Cirfea, or the scribbler who sought to shelter himself behind her royal
+robes, is tiresome to a degree, and her pastoral absurdities can
+scarcely be described otherwise than in a vein of humorous tolerance.
+The one thing that renders her work of any importance is that she was
+probably the first to import the sylvan element into romance, and is
+thus the creator of that long line of artificial and over-amorous
+shepherds and shepherdesses whose tears and sighs fall upon or are
+wafted over the poetic pages of the seventeenth and eighteenth
+centuries, and the insistence of whose plaints makes one dread to open a
+volume which seems in any way reminiscent of
+
+1'espril de bergères.
+
+The romance introduces us to Sylvia, the daughter of Lisuarte and
+Onoloria, who was, in the course of nature, removed from her parents in
+infancy, and was brought up to a pastoral life in the neighbourhood of
+Alexandria, which, if it enjoyed a reputation in her day as a
+sheep-rearing district, must have owed it to the well-known properties
+of sand as a medium for the fattening of those animals for the market.
+As Sylvia grew up she became conscious of her beauty, and, relying upon
+her good looks, and no doubt also upon her pretty name, she enslaved to
+her will the handsome swain Darinel, whose appellation, like that of his
+lady-love, is racy of the land of the Pharaohs. Sylvia conceived it as
+being correct in a shepherdess to be 'cruel' to her lover, who, thus
+setting the fashion for many a future sonneteer, complained bitterly of
+her indifference, and signified his intention of ending his days by
+exposing himself to the fury of the elements on a mountain-top-rather a
+prolonged operation, one would think, in a region especially
+
+<span id="page_158">p. 158</span>
+
+suited to pulmonary patients. Probably finding that the climate of Egypt
+scarcely lent itself to the consummation of such a fate, he betook
+himself to the region of Babylonia, where, in the intervals of searching
+for mountains in a land where they are tantalizingly absent, he found
+time to make a friendship with Florisel, whose good nature must have
+been sorely tried by his plaintive apostrophes to his mistress's
+eyebrow. So glowing, indeed, were Darinel's descriptions of Sylvia's
+charms that Florisel became infected with his unhappy comrade's emotion,
+so that at last, unable to combat the passion which was consuming him,
+he disguised himself as a shepherd \~Lnd prevailed upon the luckless
+Darinel to conduct him to Sylvia's abode. But although Florisel had paid
+her the great compliment of walking all the way from Babylon for a
+glance from her bright eyes, she showed herself every whit as cold to
+him as she had been to Darinel.
+
+One evening, when Florisel deigns to grant the reader a blessed
+intermission from his pleadings to the fair shepherdess, he described to
+her how the prince Anastarax, brother of Niquea, had been enclosed in a
+fiery palace by the enchantments of the potent magician Zirfea. On
+hearing the story, the petulant Sylvia fell headlong in love with
+Anastarax, and persuaded Florisel and Darinel, who no longer hankered
+after Alpine rigours, to attempt the deliverance of the fire-encircled
+prince. But when they arrived in the vicinity of the tower in which he
+was detained they learned that the adventure was reserved for
+Alastraxare, a fair Amazon, daughter of Amadis of Greece and the Queen
+of Caucasus. The reader is now compelled to follow the fortunes of this
+female Hercules, whose tongue-encircling name has
+
+<span id="page_159">p. 159</span>
+
+proved a stumbling-block to generations of printers. These are spread
+over many pages. The little party from Alexandria went in search of this
+heroine, and encountered many adventures, as per arrangement with the
+booksellers. Chief among these was the amorous dalliance with Arlanda,
+princess of Thrace, who had fallen in love with Florisel by report, as
+ladies had a disconcerting habit of doing in the days of high romance.
+She donned the clothes of the immaculate Sylvia, and thus beguiled him
+to a moonlight rendezvous, where she succeeded in gaining his favour
+while he was under the impression that she was the shepherdess whom he
+had vainly pursued so long.
+
+In the course of their wanderings Sylvia became separated from the rest
+of the party during a great storm, and, retracing her steps, made her
+way back to the flaming prison of Anastarax. Meanwhile Florisel and
+Darinel arrived on the coast of Apollonia, where the former happily
+forgot the charms of the capricious little shepherdess, who by this time
+had been duly discovered as the daughter of Lisuarte, and had been
+united to her beloved Anastarax. But it was not because he suffered from
+a failing memory that Florisel became oblivious of Sylvia, but rather on
+account of the bright eyes of the Princess Helena of Apollonia.
+
+The sequence of the tale is now broken up in a manner calculated to
+aggravate the most hardened of readers. Florisel was not left much
+leisure to enjoy the society of the fascinating Apollonian princess, as
+the deliverance of his kindred from the enchanted tower had all along
+been reserved for him. When at last he had satisfied the promptings of
+duty, he set his face once more toward Apollonia, but was not, of
+course, destined to
+
+<span id="page_160">p. 160</span>
+
+arrive on the shores of that delectable kingdom without undergoing still
+further adventures. Landing at Colchos, he met with Alastraxare, who had
+found happiness with Falanges, a brilliant warrior of Florisel's train.
+Arriving at last in Apollonia, he found the Princess Helena on the eve
+of a marriage with the Prince of Gaul, a match ordained by the lady's
+politic father. But Florisel would have belied the adventurous blood
+which he drew from a long line of heroes who had never yet remained
+inactive in such a contingency if he had failed to defeat the tyrannical
+father's intentions, so, as our royal authoress remarks, he repeated the
+exploit of Paris in the tale of Troy by carrying off this second Helen.
+
+Like its prototype of Homeric story, this action very naturally
+precipitated the kingdoms of the Fast and West, real and apocryphal,
+into a condition of chaotic warfare. Assisted by the Russians, who even
+at that distant epoch appear to have had a predilection for the task of
+social demolition, the countries of the West poured their myriads upon
+the plains of Constantinople, and inflicted a serious reverse upon the
+Hellenic arms. But the erratic Slavs, true to type, turned later upon
+their allies of the Occident, drove them from the shores of the Golden
+Horn, and finally secured Florisel in the possession of the capital of
+the East and the Princess Helena.
+
+Here the august Cirfea might with all judiciousness have written "Finis"
+with her golden pen to this amazing history. But at this stage of
+events, if a phrase so familiarly colloquial may be employed regarding
+one so exalted, she 'gets her second wind,' probably in view of the
+circumstance that her bargain with the
+
+<span id="page_161">p. 161</span>
+
+booksellers of Valladolid stipulated that their patrons were to be
+regaled with so many thousand lines of her glowing periods, an
+arrangement in which she was probably loath to disappoint them, for
+reasons to which, as a crowned head, she should have been superior. But
+her domain of Argolis is proverbially a poor country, whose populace
+possesses a rooted and hereditary bias against taxation. Be that as it
+may, she was not the last Balkan sovereign to supply herself with
+pin-money by literary labours. Equipping herself, therefore, with a
+fresh ream of parchment from the Department of Archives (for Government
+paper has proverbially been everybody's property, even from the times of
+Khammurabi), she cast about for fresh situations and addressed herself
+to the task of 'spinning out.
+
+When the treacherous Russians had accounted for the armies of the West,
+they embarked for their own country, there to hatch fresh schemes for
+the further disturbance of a harassed Europe. But Amadis of Greece was
+in no mind that a people who owed so many debts to civilization (to say
+nothing of vast pecuniary obligations) should escape unpunished for
+their original adherence to the enemy. Pursuing them, but losing track
+of their vessels, he came to the inevitable desert island, where he
+resolved to stay and do penance for his infidelity to the Princess of
+Sicily. Quite naturally, that lady herself landed on its shores, and,
+after up-braiding her unfaithful lover, very sensibly advised him to
+return to his sorrowing wife Niquea, which he at last consented to do.
+
+When, after a reasonable interval, Amadis did not return to
+Constantinople, the imperial city was in an uproar, and Florisel and
+Falanges elected to go in quest
+
+<span id="page_162">p. 162</span>
+
+of him. They arrived in time at the island, where, under the assumed
+name of Moraizel, the former fell in love with and espoused its queen,
+Sidonia, who, however, did not scruple to show her preference for his
+companion. But Florisel soon tired of his island bride, who bore him a
+beautiful little daughter, Diana, destined to prove the heroine of the
+eleventh and twelfth books of this interminable history.
+
+Agesilan of Colchos
+
+The young Agesilan of Colchos was prosecuting his studies at Athens when
+he chanced to see a statue of the beauteous Diana. Irresistibly
+attracted by it, he resolved to search for and behold the original, so,
+donning the garb of a female minstrel, he fared to the Court of Queen
+Sidonia, the royal maiden's mother. Here he was employed as a companion
+to the princess. But when a succession of adventurous knights arrived in
+the island he could not refrain from giving them battle in the guise of
+an Amazon, with results invariably in his favour.
+
+Learning from the Queen how she had been neglected by Florisel, Agesilan
+obligingly offered to bring her the bead of the erring warrior,
+revealing, at the same time, his own personality. Sidonia, who bore her
+husband a deep grudge for his desertion of her, readily accepted his
+championship. So Agesilan repaired to Constantinople and defied the
+recreant to mortal combat. It was arranged that the encounter should
+take place in the dominions of Sidonia, but on the would-be combatants
+arriving in these regions they found them beleaguered by the ubiquitous
+Russians, who, not content with the freedom of their own vast steppes,
+seem to
+
+<span id="page_163">p. 163</span>
+
+have hankered after a place in the sun in a more genial clime. It was
+scarcely fair to the ebullient Slavs to launch two such renowned
+paladins upon them at one and the same time, but, the brief battle over,
+victory seems to have made Florisel and Sidonia forget their
+estrangement, and all went merry as a marriage bell, Agesilan being duly
+affianced to Diana.
+
+It was agreed, however, that the splendours of Constantinople would
+provide a more fitting background to their nuptials, and accordingly all
+set sail for the Golden Horn, having first been honoured by a visit from
+Amadis of Gaul in person, who, notwithstanding his patriarchal years,
+still continued to prove the delights of errantry. He was accompanied by
+Amadis of Greece, who, though almost as venerable as his
+great-grandfather, could yet break a lance with any like-minded
+champion.
+
+They had not proceeded far from the shores of the island when they were
+beset by a furious tempest, in which Agesilan and Diana were separated
+from the rest of their kindred and cast upon a desert rock, where they
+would have perished had not an accommodating knight, mounted upon a
+hippogriff who chanced to be flying overhead, picked them up and carried
+them to his home in the Canary Islands. But their preserver's
+disinterestedness vanished on beholding the beauty of Diana, so, when
+Agesilan was off his guard, he bore her to a distant part of the Green
+Island, as his demesne was called. His amorous dream was, however,
+destined to be rudely broken in upon, for at that moment a party of
+corsairs landed, and seeing in Diana a prize who would bring them a
+large sum in the nearest slavemarket, promptly bore her off.
+
+Agesilan, on being unable to find Diana, suspected
+
+<span id="page_164">p. 164</span>
+
+treachery, so mounted the hippogriff and set out in search of her.
+Having in vain surveyed the island from the back of the winged monster,
+in his despair he took to flying at large. Whether from 'engine trouble'
+or causes even more obscure, he was forced to alight in the country of
+the Garamantes, the king of which had been struck blind as a punishment
+for his overweening pride. Moreover, the unfortunate monarch was doomed
+to have the food prepared for him devoured daily by a hideous dragon.
+From this monster Agesilan delivered him. The whole incident is an
+unblushing imitation of a passage in *Orlando Furioso* (can. xxxiii, st.
+102 ff), in which Senapus, King of Ethiopia, is visited by a like
+misfortune, and has his food daily destroyed by harpies until relieved
+by Astolpho, who descends in his dominions on a winged steed. But the
+author of *Agesilan* is no whit more guilty than Ariosto himself, for
+both incidents are derived origin-ally from the story of Phineus and the
+harpies in the *Argonautica* of Apollonius Rhodius.
+
+Agesilan, pursuing the quest of Diana, arrived at the Desolate Isle. The
+god Tervagant (Termagaunt, Tyr Magus = 'Tyr the Mighty') had fallen in
+love with the queen of this country, and on being repulsed by her let
+loose a band of demons upon her possessions, who ravaged them far and
+wide. The god's oracle had announced that he would not be appeased
+unless the inhabitants daily exposed a maiden on the sea-shore until
+such time as he found one as much to his taste as the Queen. Each day a
+hapless damsel was chained to a rock on the desolate shores of the
+island, and was promptly devoured by a monster which rose out of the
+sea. This naturally rendered the supply of maidens
+
+<span id="page_165">p. 165</span>
+
+in the vicinity rather scarce, so in order to save one of the local
+ladies for another occasion, Diana, who had been brought to the island,
+was tied to the rock one morning and, like another Andromeda, of whose
+myth the incident is a paraphrase, was left to the mercy of the monster.
+AgesiIan, soaring through the air on his hippogriff, witnessed her
+plight, descended to her aid, and, after a terrific combat, slew the
+monster which had been about to devour her.
+
+Having accounted for the grisly satellite of Tervagant, he placed the
+almost unconscious Diana upon his aery steed, whose head he turned in
+the direction of Constantinople but on the way thither this now
+practised airman caught sight of the ship of Amadis from which he and
+his mistress had been separated in the tempest. Alighting on the vessel
+with all the skill of a seaplane pilot on the deck of a 'mother-ship,'
+he greeted his astonished kindred, and the party eventually reached
+Constantinople, where the wedding of the principal characters was
+solemnized.
+
+Silvio de la Selva
+
+Silvio de la Selva, son of Amadis of Greece and a certain Finistea, is
+the hero of the twelfth and last book of the *Amadis* series. He first
+came into prominence by the gallant display he made against the Russians
+at the siege of Constantinople, and when the Tsar of that turbulent folk
+showed a desire to plunge Europe into the distractions of war once more
+he was not the last to unsheath his falchion and assure the twelve
+dwarfish ambassadors of the Muscovite that the confederacy of one
+hundred and sixty monarchs which he had brought together had a small
+chance of
+
+<span id="page_166">p. 166</span>
+
+returning to their respective dominions. The resultant siege, with its
+sallies and combats *à outrance,* we shall forbear to describe, only
+remarking *en passant* that, in the mercantile phrase, its details are
+'up to sample.' But if the Greek princes bethought them to escape the
+consequences of having incurred the enmity of the turbulent Russ merely
+by defeating him in the field, they were destined to receive a rude
+awakening, for by one fell stroke of necromantic art the entire galaxy
+was spirited away. Once more the inhabitants of the romantic city on the
+Bosphorus were plunged into the deepest consternation but, nothing
+daunted at the task which now confronted them, the knights and paladins
+of the family – in themselves an army of no mean dimensions— set out in
+search of their honoured relatives. But we are not yet liberated from
+the tangle of plot and counterplot excogitated by the expiring hackery
+of Castile, and the dying candle of the great romance of *Amadis* does
+not flare up and flicker out with the rescue of the heroes and heroines
+who have swaggered through its pages in almost immortal sequel of
+intrigue and battle. For, the princesses having been brought safely back
+to Constantinople, it was discovered that during their absence some of
+them had been blessed with little olive branches, many of whose
+adventures are related, until the bewildered reader, lost in the maze of
+their story, like Milton's Satan, looks round in desperation for any
+outlet of escape, exclaiming with the fallen great one:
+
+"Me miserable, which way shall I fly?"
+
+But, like the doomed archangel, he must 'dree his weird,' and wade
+through the adventures of Spheramond, son of Rogel of Greece, and Amadis
+of Astre
+
+<span id="page_167">p. 167</span>
+
+son of Agesilan—or, better still, he may do as we did, and, reverently
+closing the worm-eaten volume, restore it to the library, where its
+embossed back is, perhaps, rather more appreciated than its grotesque
+contents.
+
+Instead of being hurled from the throne by an incensed and neglected
+populace, the line of Amadis continued to flourish exceedingly, and
+perhaps the secret of its success as a dynasty lies in the fact that it
+was more habitually resident in fire-ringed castles or enchanted islands
+than in its palace in the metropolis, which it seems to have chiefly
+employed as a convalescent establishment in which to recover from wounds
+delivered by magic swords and the poisonous bites of 'loathly' dragons,
+rather than as a seat of governmental activity and imperial direction.
+
+We have seen how the great theme of *Amadis of Gaul* burst upon Spain in
+a blaze of glory, and how, mangled by the efforts of fluent hacks, it
+sank into insignificance amid the derision of the enlightened and the
+gibes of the vulgar. It is as if our own peerless British epos of
+Arthur, that thrice heroic treasury of the deeds of those who
+
+<table data-cellspacing="0" data-border="0" width="349">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td data-valign="TOP" height="106"><p>Jousted in Aspremont or Montalban,<br />
+Damasco, or Morocco, or Trebizond</p></td>
+</tr>
+</tbody>
+</table>
+
+had been seized upon by Grub Street and prostituted to the necessities
+of scribblers. We cannot give thanks enough to the god of letters that
+it has escaped such a doom, though this has been more by virtue of good
+hap than through that of any protecting influence. The sequels of
+*Amadis* descend by stages of lessening excellence until at length they
+approach the limits of drivel. But does this sorrowful circumstance in
+any way dim the glory of the first fine rapture? Nay, no
+
+<span id="page_168">p. 168</span>
+
+more than darkness can cloud the memory of morning. The knightly
+eloquence of the original characters may degenerate in rodomontade; the
+lofty and delicate imagery of the primary books may merge into
+unspeakable vulgarities of invention the tender beauty which enchants
+the first love idyll may become coarse intrigue. But no work of art is
+to be judged by its imitations. With the exception of the Fifth Book,
+the remaining *Amadis* romances are as oleographs placed beside a noble
+painting. Unrestrained in execution, daubed in colours of the harshest
+crudity, uneven in outline and distressing in *ensemble,* they are more
+fitted for the scullions' hall than the picture-gallery. Vet they may
+not be passed over in a work dealing with Spanish romance, and they
+point a moral which in this twentieth century it is fitting that we
+should digest—that if a nation acquiesce in the debasement of its
+literary standards and revel in the worthless and the excitement of
+meretricious fiction, it will cease to excel among the comity of
+peoples. Literature is the expression of a nation's soul. And what
+species of soul is that which voices itself in crudely jacketed
+novelettes, redolent of a psychology at once ridiculous and unhealthy?
+Have we no Cervantes to shatter this ignoble thing to the sound of
+inextinguishable laughter? Is not the sad lesson of *Amadis* one for the
+consideration of our own people? Spain was I)ever so great as when its
+first books roused her chivalry to an ardour of knightly patriotism, and
+she was never so little as when the printing-presses of Burgos and
+Valladolid and Saragossa flooded her cities with a mercenary and
+undistinguished fiction, prompted by commercial greed, and joyfully
+received by a public avid for the drug of sensation.
+
+------------------------------------------------------------------------
+
+[Next: V. The Palmerin Romances](lrs07)

@@ -1,0 +1,330 @@
+    HEALING : A TIBETAN BUDDHIST PERSPECTIVE
+
+
+    Compiled by: 
+
+    Ven. Pende Hawter
+    The Karuna Hospice Service
+    P.O. Box 2020
+    Windsor 4030
+    Queensland, Australia
+    Tel. (07) 857 8555
+
+
+    What is healing?
+
+    What do we mean by healing? Do we mean healing of the physical body,
+    healing of the psyche/soul/mind, or both of these. What is the
+    connection between body and mind? Many modern healing techniques regard
+    successful healing as the cure of the presenting physical problem,
+    whether this be symptoms of cancer, AIDS, chronic fatigue syndrome, or
+    some other illness. If the person does not recover from the presenting
+    physical problem, or if that problem recurs or another develops at a
+    later time, this may be regarded as failure. It is not uncommon in
+    these situations for the therapist or organisation that has been
+    helping the "sick" person to infer or state that the person must have
+    done something wrong, that they haven't stuck strictly enough to the
+    diet or meditated enough or done whatever else it was that they were
+    supposed to do. In these situations the person can become very guilty,
+    depressed or angry. In many cases, they just give up hope. To avoid
+    these problems, it is necessary to consider a more comprehensive view
+    of healing that incorporates not only physical healing but mental
+    healing.
+
+
+    Mind is the creator
+
+    To understand healing from the Buddhist perspective, a useful starting
+    point is to consider the Buddhist concept of mind. The mind is
+    non-physical. It is formless, shapeless, colourless, genderless and has
+    the ability to cognize or know. The basic nature of mind is pure,
+    limitless and pervasive, like the sun shining unobstructedly in a clear
+    sky. The problems or sickness we experience are like clouds in the sky
+    obscuring the sun. Just as the clouds temporarily block the sun but are
+    not of the same nature as the sun, our problems or sickness are
+    temporary and the causes of them can be removed from the mind. From the
+    Buddhist perspective, the mind is the creator of sickness and health.
+    In fact, the mind is believed to be the creator of all of our problems.
+    That is, the cause of disease is internal, not external. 
+
+
+    Unlimited potential
+
+    You are probably familiar with the concept of karma, which literally
+    means action. All of our actions lay down imprints on our mindstream
+    which have the potential to ripen at some time in the future. These
+    actions can be positive, negative or neutral. These karmic seeds are
+    never lost. The negative ones can ripen at any time in the form of
+    problems or sickness; the positive ones in the form of happiness,
+    health or success. To heal present sickness, we have to engage in
+    positive actions now. To prevent sickness occurring again in the
+    future, we have to purify, or clear, the negative karmic imprints that
+    remain on our mindstream. Karma is the creator of all happiness and
+    suffering. If we don't have negative karma we will not get sick or
+    receive harm from others. Buddhism asserts that everything that happens
+    to us now is the result of our previous actions, not only in this
+    lifetime but in other lifetimes. What we do now determines what will
+    happen to us in the future.
+    In terms of present and future healing, the main objective is to guard
+    our own actions, or karma. This requires constant mindfulness and
+    awareness of all the actions of our body, speech and mind. We should
+    avoid carrying out any actions that are harmful to ourselves and to
+    others. Buddhism is therefore a philosophy of total personal
+    responsibility. We have the ability to control our destiny, including
+    the state of our body and mind. Each one of us has unlimited potential
+    - what we have to do is develop that potential. 
+
+
+    Healthy mind, healthy body
+
+    Why do some people get ill while others remain in the best of health?
+    Consider skin cancer. Of all the people who spend many hours out in the
+    sun, some will develop skin cancer and others will not. The external
+    situation is the same for all of them, but only some will be affected.
+    The secondary cause of the skin cancer - the sun - is external, but the
+    primary cause - the imprints laid down on the mindstream by previous
+    actions - is internal.
+
+    Also, people with similar types of cancer will often respond quite
+    differently to the same treatment, whether this be orthodox or
+    alternative. Some will make a complete recovery. Some will recover
+    temporarily and then develop a recurrence. Others will rapidly become
+    worse and die. Logically one has to look to the mind for the cause of
+    these differences.
+
+    Buddhism asserts that for lasting healing to occur, it is necessary to
+    heal not only the current disease with medicines and other forms of
+    treatment, but also the cause of the disease, which originates from the
+    mind. If we do not heal or purify the mind, the sickness and problems
+    will recur again and again.
+
+    This introduces the notion of "ultimate healing". By ridding the mind
+    of all its accumulated "garbage", all of the previously committed
+    negative actions and thoughts, and their imprints, we can be free of
+    problems and sickness permanently. We can achieve ultimate healing - a
+    state of permanent health and happiness. In order to heal the mind and
+    hence the body, we have to eliminate negative thoughts and their
+    imprints, and replace them with positive thoughts and imprints.
+
+
+    The inner enemy
+
+    The basic root of our problems and sickness is selfishness, what we can
+    call the inner enemy. Selfishness causes us to engage in negative
+    actions, which place negative imprints on the mindstream. These
+    negative actions can be of body, speech or mind, such as thoughts of
+    jealousy, anger and greed. Selfish thoughts also increase pride, which
+    results in feelings of jealousy towards those higher than us,
+    superiority towards those lower than us and competitiveness towards
+    equals. These feelings in turn result in an unhappy mind, a mind that
+    is without peace. On the other hand, thoughts and actions directed to
+    the well-being of others bring happiness and peace to the mind.
+
+
+    Conscious living, conscious dying
+
+    It is important to consider what happens to us when we die. The
+    Buddhist view is that at the time of death the subtle consciousness,
+    which carries with it all the karmic imprints from previous lives,
+    separates from the body. After spending up to forty-nine days in an
+    intermediate state between lives, the consciousness enters the
+    fertilised egg of its future mother at or near the moment of
+    conception. New life then begins. We bring into our new life a long
+    history of previous actions with the potential to ripen at any time or
+    in any of a myriad ways. The state of mind at the time of death is
+    vitally important and can have a considerable effect on the situation
+    into which we are reborn. Hence the need to prepare well for death and
+    to be able to approach our death with a peaceful, calm and controlled
+    mind. Death itself can be natural, due to exhaustion of the lifespan,
+    or untimely, due to certain obstacles. These obstacles arise from the
+    mind and can be counteracted in different ways. One method commonly
+    employed in Tibetan Buddhism to remove life obstacles is to save the
+    lives of animals that would otherwise have been killed. For example,
+    animals can be rescued from being slaughtered or live bait can be
+    purchased and released. For those with a life threatening illness, it
+    is important to understand that being free of that illness doesn't mean
+    that you will have a long life. There are many causes of death and
+    death can happen to anybody at any time.
+
+
+    Not just pills and potions
+
+    Tibetan medicine is popular and effective. It is mostly herbal
+    medicine, but its uniqueness lies in the fact that in the course of its
+    preparation it is blessed extensively with prayers and mantras, giving
+    it more power. It is said that taking such medicine will either result
+    in recovery, or, if the person is close to death, they will die quickly
+    and painlessly. (Another theory, based on personal experience, is that
+    it tastes so bad you want to recover quickly so that you can stop
+    taking the medicine!)
+
+    Blessed pills and blessed water are also used extensively. The more
+    spiritually developed the person carrying out the blessings or the
+    healing practices, the more powerful is the healing result or
+    potential. These pills often contain the relics of previous great
+    meditators and saints, bestowing much power on the pills. 
+
+    Many Tibetan lamas actually blow on the affected part of the body to
+    effect healing or pain relief. I have seen a person with AIDS with
+    intense leg pain have his pain disappear after a lama meditated
+    intensely and blew on his leg for twenty minutes. Compassion is the
+    power that heals. 
+
+    Visualisation can also be very powerful healing. One method is to
+    visualise a ball of white light above your head, with the light
+    spreading in all directions. Imagine the light spreading through your
+    body, completely dissolving away all sickness and problems. Concentrate
+    on the image of your body as completely healed and in the nature of
+    light.
+
+    This type of meditation is even more powerful when combined with
+    visualising holy images and reciting mantras. I often tell my Christian
+    patients to visualise the light as Jesus, with the light emanating from
+    him. 
+
+    In the Tibetan tradition, there are many Buddha figures (deities) which
+    can be visualised while reciting their mantra. The Medicine Buddha;
+    Chenrezig, or Avalokiteshvara (the Buddha of Compassion); or one of the
+    long-life deities such as Amitabha are commonly used. Deities can be in
+    peaceful or wrathful aspects. The wrathful ones are often used to cure
+    heavy disease such as AIDS.
+
+    If you are not comfortable with these images, you can use other objects
+    such as crystals, or simply visualise all the universal healing energy
+    absorbing into you, transforming your body into light, and imagine
+    yourself as totally healed.
+
+    Over the centuries many people have used these methods and have
+    recovered from their illnesses, even from conditions such as leprosy,
+    paralysis and cancer. The aim of these practises is to heal the mind as
+    well as the body, so that the diseases or problems will not recur in
+    the future.
+    Also, many diseases are associated with spirit harm. Lamas and other
+    practitioners will often recite certain prayers and mantras or engage
+    in ceremonies to stop the spirit harm and allow the person to recover. 
+
+    A seven year old girl I knew had petit-mal epilepsy as the result of
+    spirit harm; the epilepsy disappeared after various rituals and prayers
+    had been performed. Whenever she had an epileptic attack, the girl
+    would see a frightening apparition coming towards her. After the
+    initial prayers had been performed, however, her attacks lessened and
+    she would see a brick wall between her and the frightening figure. This
+    wall was the colour of a monk's robes. Eventually the attacks and
+    visions disappeared altogether.
+
+    In summary, we can say that the essential ingredients in the healing
+    process, for both the person doing the healing and the person being
+    healed, are compassion, faith, and pure morality. 
+
+
+    Changing our minds
+
+    Another powerful method of healing in Tibetan Buddhism is to meditate
+    on the teachings known as thought transformation. These methods allow a
+    person to see the problem or sickness as something positive rather than
+    negative. A problem is only a problem if we label it a problem. If we
+    look at a problem differently, we can see it as an opportunity to grow
+    or to practice, and regard it as something positive. We can think that
+    having this problem now ripens our previous karma, which does not then
+    have to be experienced in the future. 
+
+    If someone gets angry at us, we can choose to be angry in return or to
+    be thankful to them for giving us the chance to practice patience and
+    purify this particular karma. It takes a lot of practice to master
+    these methods, but it can be done.
+
+    It is our concepts which often bring the greatest suffering and fear.
+    For example, due to a set of signs and symptoms, the doctor gives the
+    label 'AIDS' or 'cancer'. This can cause great distress in a person's
+    mind, because they forget that it is only a label, that there is no
+    truly existent, permanent AIDS or cancer. 'Death' is another label that
+    can generate a lot of fear. But in reality 'death' is only a label for
+    what happens when the consciousness separates from the body, and there
+    is no real death from its own side. This also relates to our concept of
+    'I' and of all other phenomena. They are all just labels and have no
+    true, independent existence. 
+
+    Lama Zopa Rinpoche, a highly realised Tibetan Lama, says that the most
+    powerful healing methods of all are those based on compassion, the wish
+    to free other beings from their suffering. The compassionate mind -
+    calm, peaceful, joyful and stress-free - is the ideal mental
+    environment for healing. A mind of compassion stops our being totally
+    wrapped up in our own suffering situations. By reaching out to others
+    we become aware of not just my pain but the pain (that is, the pain of
+    all beings). 
+
+    Many people find the following technique powerful and effective: think
+    "By me experiencing this disease or pain or problem, may all the other
+    beings in the world be free of this disease, pain or problem" or "I am
+    experiencing this pain/sickness/problem on behalf of all living
+    beings."
+
+    One voluntarily takes on suffering in order for others to be free of
+    it. This is similar to the Christian concept of regarding one's
+    suffering as sharing the suffering of Jesus on the cross. Even death
+    can be used in this way: "By me experiencing death, may all other
+    beings be freed from the fears and difficulties of the death process."
+
+    We have to ask ourselves "What is the purpose of my life? Why do I want
+    to have good health and a long life?". The ultimate purpose of our life
+    is to be of benefit to others. If we live longer and just create more
+    negative karma, it is a waste of time.
+
+    Giving and taking is another powerful meditation. As you breathe in,
+    visualise taking the suffering and the causes of suffering from all
+    living beings, in the form of black smoke. When breathing in the black
+    smoke, visualise smashing the black rock of selfishness at your heart,
+    allowing compassion to manifest freely. As you breathe out, visualise
+    breathing out white light that brings them happiness, enjoyment and
+    wisdom.
+
+    Developing compassion is more important than having friends, wealth,
+    education. Why? Because it is only compassion that guarantees a happy
+    and peaceful mind, and it is the best thing to help us at the time of
+    death 
+
+    We can use our sickness and problems in a very powerful way for
+    spiritual growth, resulting in the development of compassion and
+    wisdom. The highest development of these qualities is the full
+    realisation of our potential, the state of full enlightenment.
+    Enlightenment brings great benefit to ourselves and allows us to work
+    extensively for others. This is the state of ultimate healing.
+
+    I have outlined some of the concepts that are the basis of the Buddhist
+    philosophy on healing. Many of these methods were taught by Lama Zopa
+    Rinpoche at Tara Institute in Melbourne in August 1991 during the first
+    course given by Lama Zopa specifically for people with life-threatening
+    illnesses.
+
+    Some of these ideas may appear unusual at first, but please keep an
+    open mind about them. If some of the ideas appear useful to you, please
+    use them; if not, leave them aside.
+
+    May you achieve health and happiness.
+    (revised January 1995)
+
+
+
+
+
+
+
+
+
+
+    REFERENCES
+
+    Levine, Steven Healing Into Life and Death, Anchor Press/Doubleday, New
+    York, 1987
+
+    Geshe Rabten and Geshe Dhargyey Advice From a Spiritual Friend, Wisdom
+    Publications, Boston, 1986
+
+    Sogyal Rinpoche The Tibetan Book of Living and Dying, Rider, London,
+    1992
+
+    Lama Zopa Rinpoche Transforming Problems Into Happiness, Wisdom
+    Publications, Boston 1993 
+
+    Lama Thubten Zopa Rinpoche The Door to Satisfaction, Wisdom
+    Publications, Boston, 1994
