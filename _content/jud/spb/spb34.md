@@ -1,0 +1,507 @@
+<div class="filenav">
+
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[Index](index)  [Previous](spb33)  [Next](spb35) 
+
+</div>
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
+Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_359">p. 359</span>
+
+### ADDITIONAL SERVICE FOR NEW YEAR
+
+O Lord, open thou my lips, and my mouth shall declare thy praise.
+
+Blessed art thou, O Lord our God and God of out fathers, God of Abraham,
+God of Isaac, and God of Jacob, the great, mighty and revered God, the
+most high God, who bestowest lovingkindnesses and possessest all things;
+who rememberest the pious deeds of the patriarchs, and in love wilt
+bring a redeemer to their children's children for thy name's sake.
+
+Remember us unto life, O King, who delightest in life, and inscribe us
+in the book of life, for thine own sake, O living God.
+
+O King, Helper, Savior and Shield. Blessed art. thou, O Lord, the Shield
+of Abraham.
+
+Thou, O Lord, art mighty for ever, thou quickenest the dead, thou art
+mighty to save.
+
+Thou sustainest the living with lovingkindness, quickenest the dead with
+great mercy, supportest the falling, healest the sick, loosest the
+bound, and keepest thy faith to them that sleep in the dust. Who is like
+unto thee, Lord of mighty acts, and who resembleth thee, O King, who
+killest and quickenest, and causest salvation to spring forth?
+
+Who is like unto thee, Father of mercy, who in mercy rememberest thy
+creatures unto life?
+
+<span id="page_360">p. 360</span>
+
+Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
+who quickenest the dead.
+
+Thou art holy, and thy name is holy, and holy beings praise thee daily.
+(Selah.)
+
+Now, therefore, O Lord our God, impose thine awe upon all thy works, and
+thy dread upon all that thou hast created, that all works may fear thee
+and all creatures prostrate themselves before thee, that they may all
+form a single band to do thy will with a perfect heart, even as we know,
+O Lord our God, that dominion is thine, strength is in thy hand, and
+might in thy right hand, and that thy name is to be feared above all
+that thou hast created.
+
+Give then glory, O Lord, unto thy people, praise to them that fear thee,
+hope to them that seek thee, and free speech to them that wait for thee,
+joy to thy land, gladness to thy city, a flourishing horn unto David thy
+servant, and a clear shining light unto the son of Jesse, thine
+anointed, speedily in our days.
+
+Then shall the just also see and be glad, and the upright shall exult,
+and the pious triumphantly rejoice, while iniquity shall close her
+mouth, and all wickedness shall be wholly consumed like smoke, when thou
+makest the dominion of arrogance to pass away from the earth.
+
+<span id="page_361">p. 361</span>
+
+And thou, O Lord, shalt reign, thou alone over all thy works on Mount
+Zion, the dwelling place of thy glory, and in Jerusalem, thy holy city,
+as it is written in thy Holy Words, The Lord shall reign for ever, thy
+God, O Zion, unto all generations. Praise ye the Lord.
+
+Holy art thou, and dreaded is thy name, and there is no God beside thee,
+as it is written, And the Lord of hosts is exalted in judgment, and the
+holy God is sanctified in righteousness. Blessed art thou, O Lord, the
+holy King.
+
+Thou hast chosen us from all peoples; thou hast loved us and taken
+pleasure in us, and hast exalted us above all tongues; thou hast
+sanctified us by thy commandments, and brought us near unto thy service,
+O our King, and called us by thy great and holy name.
+
+*On Sabbath add the words in brackets*.
+
+And thou hast given us in love, O Lord our God, \[this Sabbath day and\]
+this Day of Memorial, a day of blowing the Shofar \[on Sabbaths
+substitute for the last phrase—a day of remembrance of blowing the
+Shofar, in love\]; an holy convocation, as a memorial of the departure
+from Egypt.
+
+But on account of our sins we were exiled from our land, and removed far
+from our country, and we are unable to fulfil our obligations in thy
+chosen house, that great and holy temple which was called by thy name,
+because of the hand that hath been stretched out against thy sanctuary.
+May it be thy will, O Lord
+
+<span id="page_362">p. 362</span>
+
+our God and God of our fathers, merciful King, that thou mayest again in
+thine abundant compassion have mercy upon us and upon thy sanctuary, and
+mayest speedily rebuild it and magnify its glory. Our Father, our King,
+do thou speedily make the glory of thy kingdom manifest upon us; shine
+forth and exalt thyself upon us in the sight of all living; bring our
+scattered ones among the nations near unto thee, and gather our
+dispersed from the ends of the earth. Lead us with exultation unto Zion
+thy city, and unto Jerusalem the place of thy sanctuary with everlasting
+joy; and there we will prepare before thee the offerings that are
+obligatory for us, the continual offerings according to their order, and
+the additional offerings according to their enactment; and the
+additional offerings of \[this Sabbath day and\] this Day of Memorial,
+we will prepare and offer unto thee in love according to the precept of
+thy will, as thou hast prescribed for us in thy Law through the hand of
+Moses thy servant, by the mouth of thy glory, as it is said:
+
+\[And on the Sabbath day two he-lambs of the first year without blemish,
+and two-tenth parts of an ephah of fine flour for a meal offering,
+mingled with oil, and the drink offering thereof; this is the burnt
+offering of every Sabbath, beside the continual burnt offering and the
+drink offering thereof.\]
+
+And in the seventh month, on the first day of the month, ye shall have
+an holy convocation; ye shall do no servile work: it shall be a day of
+blowing the Shofar unto you. And ye shall offer a burnt offering
+
+<span id="page_363">p. 363</span>
+
+for a sweet savor unto the Lord; one young bullock, one ram, seven
+he-lambs of the first year without blemish. And their meal offering and
+their drink offerings as hath been ordained; three-tenth parts of an
+ephah for each bullock, and two-tenth parts for the ram, and one-tenth
+part for each lamb, with wine according to the drink offering thereof,
+and two he-goats wherewith to make atonement, and the two continual
+offerings according to their enactment; beside the burnt offering of the
+New Moon and the meal offering thereof, and the continual burnt offering
+and the meal offering thereof, and their drink offerings, according to
+their ordinance, for a sweet savor, an offering made by fire unto the
+Lord.
+
+\[They that keep the Sabbath and call it a delight shall rejoice in thy
+kingdom; the people that hallow the seventh day, even all of them, shall
+be satiated and delighted with thy goodness, seeing that thou didst find
+pleasure in the seventh day, and didst hallow it; thou didst call it the
+desirable of days, in remembrance of the creation.\]
+
+It is our duty to praise the Lord of all things, to ascribe greatness to
+him who formed the world in the beginning, since he hath not made us
+like the nations of other lands, and hath not placed us like other
+families of the earth, since he hath not assigned unto us a portion as
+unto them, nor a lot as unto all their multitude. For we bend the knee
+and offer worship and thanks before the supreme King of kings, the Holy
+One, blessed be he, who stretched forth the heavens and laid the
+foundations of the earth, the seat of whose glory is in the heavens
+above, and the abode of whose might is in the loftiest heights. He is
+our God; there is none else: in truth he is our King; there is none
+besides him; as it is written in his Law, And thou shalt know this day,
+and lay it to thine heart, that
+
+<span id="page_364">p. 364</span>
+
+the Lord he is God in heaven above and upon the earth beneath: there is
+none else.
+
+We therefore hope in thee, O Lord our God, that we may speedily behold
+the glory of thy might, when thou wilt remove the abominations from the
+earth, and the idols will be utterly cut off, when the world will be
+perfected under the kingdom of the Almighty, and all the children of
+flesh will call upon thy name, when thou wilt turn unto thyself all the
+wicked of the earth. Let all the inhabitants of the world perceive and
+know that unto thee every knee must bow, every tongue must swear. Before
+thee, O Lord our God, let them bow and fall; and unto thy glorious name
+let them give honor; let them all accept the yoke of thy kingdom, and do
+thou reign over them speedily, and for ever and ever. For the kingdom is
+thine, and to all eternity thou wilt reign in glory; as it is written in
+thy Law, The Lord shall reign for ever and ever.
+
+And it is said, He hath not beheld iniquity in Jacob, neither hath he
+seen perverseness in Israel: the Lord his God is with him, and the
+trumpet shout of a King is among them. And it is said, And he became
+King in Jeshurun, when the heads of the people were gathered, the tribes
+of Israel together. And in thy Holy Words it is written, saying, For the
+kingdom is the Lord's, and he is ruler over the nations. And it is said,
+The Lord reigneth; he hath robed him in majesty; the Lord hath robed
+him, yea, he hath girded himself with strength: the world also is set
+firm, that it cannot be
+
+<span id="page_365">p. 365</span>
+
+moved. And it is said, Lift up your heads, O ye gates, and be ye lifted
+up, ye everlasting doors, that the King of glory may come in. Who, then,
+is the King of glory? The Lord, strong and mighty, the Lord mighty in
+battle. Lift up your heads, O ye gates; yea, lift them up, ye
+everlasting doors, that the King of glory may come in. Who, then, is the
+King of glory? The Lord of hosts, he is the King of glory. (Selah.) And
+by the hands of thy servants, the prophets, it is written, saying, Thus
+saith the Lord, the King of Israel and his Redeemer, the Lord of hosts:
+I am the first, and I am the last; and beside me there is no God. And it
+is said, And saviors shall come up on Mount Zion to judge the Mount of
+Esau, and the kingdom shall be the Lord's. And it is said, And the Lord
+shall be King over all the earth: in that day shall the Lord be One and
+his name One. And in thy Law it is written saying, Hear, O Israel: the
+Lord our God, the Lord is One.
+
+Our God and God of our fathers, reign thou in thy glory over the whole
+universe, and be exalted above all the earth in thine honor, and shine
+forth in the splendor and excellence of thy might upon all the
+inhabitants of thy world, that whatsoever hath been made may know that
+thou hast made it, and whatsoever hath been created may understand that
+thou hast created it, and whatsoever hath breath in its nostrils may
+say, the Lord God of Israel is King and his dominion ruleth over all.
+\[Our God and
+
+<span id="page_366">p. 366</span>
+
+<span class="contnote">\[paragraph continues\]</span> God of our
+fathers, accept our rest.\] Sanctify us by thy commandments, and grant
+our portion in thy Law; satisfy us with thy goodness, and gladden us
+with thy salvation: \[and in thy love and favor, O Lord our God, let us
+inherit thy holy Sabbath; and may Israel, who hallow thy name, rest
+thereon\]. O purify our hearts to serve thee in truth, for thou art God
+in truth, and thy word is truth, and endureth for ever. Blessed art
+thou, O Lord,) King over all the earth, who sanctifiest \[the Sabbath
+and\] Israel and the Day of Memorial.
+
+Thou rememberest what was wrought from eternity and art mindful of all
+that hath been formed from of old: before thee all secrets are revealed
+and the multitude of hidden things from the beginning; for there is no
+forgetfulness before the throne of thy glory; nor is there ought hidden
+from thine eves. Thou rememberest every deed that hath been done: not a
+creature is concealed from thee: all things are manifest and known unto
+thee, O Lord our God, who lookest and seest to the end of all
+generations. For thou wilt bring on the appointed time of memorial when
+every spirit and soul shall be visited, and the multitudinous works be
+remembered with the innumerable throng of thy creatures. From the
+beginning thou didst make this thy purpose known, and from aforetime
+thou didst disclose it. This day, on which was the beginning of thy
+work, is a memorial of the first day, for it is a statute for Israel, a
+decree of the God of Jacob. Thereon also sentence is pronounced upon
+countries,—which of them is destined to the
+
+<span id="page_367">p. 367</span>
+
+sword and which to peace, which to famine and Which to plenty; and each
+separate creature is visited thereon, and recorded for life or for
+death. Who is not visited on this day? For the remembrance of every
+creature cometh before thee, each man's deeds and destiny, his works and
+ways, his thoughts and schemes, his imaginings and achievements. Happy
+is the man who forgetteth thee not, and the son of man who strengtheneth
+himself in thee; for they that seek thee shall never stumble, neither
+shall any be put to shame who trust in thee. Yea, the remembrance of all
+works cometh before thee, and thou enquirest into the doings of them
+all. Of Noah also thou wast mindful in thy love, and didst visit him
+with a promise of salvation and mercy, when thou broughtest the waters
+of the flood to destroy all flesh on account of their evil deeds. So his
+remembrance came before thee, O Lord our God, to increase his seed like
+the dust of the earth, and his offspring like the sand of the sea: as it
+is written in thy Law, And God remembered Noah, and every living thing,
+and all the cattle that were with him in the ark: and God made a wind to
+pass over the earth, and the waters subsided. And it is said, And God
+heard their groaning, and God remembered his covenant with Abraham, with
+Isaac and with Jacob. And it is said, Then will I remember my covenant
+with
+
+<span id="page_368">p. 368</span>
+
+<span class="contnote">\[paragraph continues\]</span> Jacob; and also my
+covenant with Isaac, and also my covenant with Abraham will I remember;
+and I will remember the land. And in thy Holy Words it is written
+saying, He hath made a memorial for his wondrous works: the Lord is
+gracious and full of compassion. And it is said, He hath given food unto
+them that fear him: he will ever be mindful of his covenant. And it is
+said, And he remembered for them his covenant, and repented according to
+the multitude of his lovingkindnesses. And by the hands of thy servants,
+the prophets, it is written saying, Go and cry in the ears of Jerusalem,
+saying, Thus saith the Lord, I remember for thee the kindness of thy
+youth, the love of thy bridal state; how thou wentest after me in the
+wilderness, in a land that was not sown. And it is said, Nevertheless, I
+will remember my covenant with thee in the days of thy youth, and I will
+establish unto thee an everlasting covenant. And it is said, Is Ephraim
+a precious son unto me? Is he a caressed child? As often as I spake
+against him, I earnestly remembered him . therefore my heart yearneth
+for him: I will surely have mercy upon him, saith the Lord.
+
+Our God and God of our fathers, let us be remembered by thee for good:
+grant us a visitation of salvation and mercy from thy heavens, the
+heavens of old; and remember unto us, O Lord our God, the covenant and
+the lovingkindness and the oath which thou swarest unto Abraham our
+father on Mount Moriah: and may the binding with which Abraham our
+father bound his son Isaac on the altar appear before thee.
+
+<span id="page_369">p. 369</span>
+
+how he overbore his compassion in order to perform thy will with a
+perfect heart. So may thy compassion overbear thine anger against us; in
+thy great goodness may the fierceness of thy wrath turn aside from thy
+people, thy city and thine inheritance. Fulfil unto us, O Lord our God,
+the word in which thou hast bidden us trust in thy Law through the hand
+of Moses thy servant, from the mouth of thy glory, as it is said, But I
+will remember unto them the covenant of their ancestors, whom I brought
+forth out of the land of Egypt in the sight of the nations, that I might
+be their God: I am the Lord. For thou art he who remembereth from
+eternity all forgotten things, and before the throne of whose glory
+there is no forgetfulness. O remember the binding of Isaac this day in
+mercy unto his seed. Blessed art thou, O Lord, who rememberest the
+covenant.
+
+Thou didst reveal thyself in a cloud of glory unto thy holy people in
+order to speak with them. Out of heaven thou didst make them hear thy
+voice and wast revealed unto them in clouds of purity. The whole world
+trembled at thy presence, and the works of creation were in awe of thee,
+when thou didst thus reveal thyself, O our King, upon Mount Sinai to
+teach thy people the law and commandments, and didst make them hear thy
+majestic voice and thy holy utterances out of flames of fire. Amidst
+thunders and lightnings thou didst manifest thyself to them, and while
+the Shofar sounded thou didst shine forth upon them; as it is written in
+thy Law, And it came to pass on the
+
+<span id="page_370">p. 370</span>
+
+third day, when it was morning, that there were thunders and lightnings,
+and a thick cloud upon the mount, and the sound of the Shofar exceeding
+loud; and all the people that were in the camp trembled. And it is said,
+And the sound of the Shofar waxed louder and louder; Moses spake, and
+God answered him by a voice. And it is said, And all the people
+perceived the thunderings and the lightnings, and the sound of the
+Shofar, and the mountain smoking: and when the people saw it, they were
+moved and stood afar off. And in thy Holy Words it is written, saying,
+God is gone up with a shout, the Lord with the sound of a Shofar. And it
+is said, With trumpets and sound of Shofar shout joyously before the
+King, the Lord. And it is said, Blow the Shofar on the new moon, at the
+beginning of the month, for our day of festival; for it is a statute for
+Israel, a decree of the God of Jacob. And it is said, Praise ye the
+Lord. Praise God in his sanctuary: praise him in the firmament of his
+power. Praise him for his mighty acts: praise him according to his
+abundant greatness. Praise him with the blast of the Shofar: praise him
+with the harp and the lyre. Praise him with the timbrel and dance:
+praise him with stringed instruments and the pipe, Praise him with the
+clear-toned cymbals: praise him with the loud-sounding cymbals. Let
+everything that hath breath praise the Lord. Praise ye the Lord. And by
+the hands of thy servants, the prophets, it is written saying, All ye
+inhabitants of the world, and ye dwellers on the earth, when an ensign
+is lifted up on the mountains, see ye, and when the Shofar is
+
+<span id="page_371">p. 371</span>
+
+blown, hear ye. And it is said, And it shall come to pass on that day,
+that a great Shofar shall be blown; and they shall come who were lost in
+the land of Assyria, and they that were outcasts in the land of Egypt;
+and they shall worship the Lord in the holy mountain at Jerusalem. And
+it is said, And the Lord shall be seen over them, and his arrow shall go
+forth as the lightning: and the Lord God shall blow the Shofar, and
+shall go with the whirlwinds of the south. The Lord of hosts shall be a
+shield unto them. So be a shield unto thy people Israel with thy peace.
+
+Our God and God of our fathers, sound the great Shofar for our freedom,
+lift up the ensign to gather our exiles; bring our scattered ones among
+the nations near unto thee, and gather our dispersed from the ends of
+the earth. Lead us with exultation unto Zion, thy city, and unto
+Jerusalem the place of thy sanctuary with everlasting joy; and there we
+will prepare before thee the offerings that are obligatory for us, as is
+commanded us in thy Law through the hand of Moses thy servant, from the
+mouth of thy glory, as it is said, And in the day of your gladness, and
+in your set feasts, and in the beginnings of your months, ye shall blow
+with the trumpets over your burnt offerings, and over the sacrifices of
+your peace offerings; and they shall be to you for a memorial before
+your God: I am the Lord your God. For thou hearest the sound of the
+Shofar and givest heed to the trumpet-blast, and there
+
+<span id="page_372">p. 372</span>
+
+is none like unto thee. Blessed art thou, O Lord, who in mercy hearest
+the sound of the trumpet-blast of thy people Israel.
+
+Accept, O Lord our God, thy people Israel and their prayer; restore the
+service to the oracle of thy house; receive in love and favor both the
+fire offerings of Israel and their prayer; and may the service of thy
+people Israel be ever acceptable unto thee.
+
+And let our eyes behold thy return in mercy to Zion. Blessed art thou, O
+Lord, who restorest thy divine presence unto Zion.
+
+We give thanks unto thee, for thou art the Lord our God and the God of
+our fathers for ever and ever; thou art the Rock of our lives, the
+Shield of our salvation through every generation. We will give thanks
+unto thee and declare thy praise for our lives which are committed unto
+thy hand, and for our souls which are in thy charge, and for thy
+miracles, which are daily with us, and for thy
+
+*Congregation in an undertone*
+
+<div style="margin-left: 32px">
+
+<span class="small">We give thanks unto thee, for thou art the Lord our
+God and the God of our fathers, the God of all flesh, our Creator and
+the Creator of all things in the beginning. Blessings and thanksgivings
+be to thy great and holy name, because thou hast kept us in life and
+hast preserved us so mayest thou continue to keep us in life and to
+preserve us. O gather our exiles to thy holy courts to observe thy
+statutes, to do thy will, and to serve thee with a perfect heart; seeing
+that we give thanks unto thee. Blessed be the God to whom thanksgivings
+are due.</span>
+
+</div>
+
+<span id="page_373">p. 373</span>
+
+wonders and thy benefits, which are wrought at all times, evening, morn
+and noon. O thou who art all-good, whose mercies fail not; thou,
+merciful Being, whose lovingkindnesses never cease, we have ever hoped
+in thee.
+
+For all these things thy name, O our King, shall be continually blessed
+and exalted for ever and ever.
+
+O inscribe all the children of thy covenant for a happy life.
+
+And everything that liveth shall give thanks unto thee for ever, and
+shall praise thy name in truth, O God, our salvation and our help.
+Blessed art thou, O Lord, whose name is All-good, and unto whom it is
+becoming to give thanks.
+
+*At the repetition of the Amidah by the Reader, the following is
+introduced:—*
+
+Our God and God of our fathers, bless us with the three-fold blessing of
+thy Law written by the hand of Moses thy servant, which was spoken by
+Aaron and his sons, the priests, thy holy people, as it is said, The
+Lord bless thee, and keep thee: the Lord make his face to shine upon
+thee, and be gracious unto thee: the Lord turn his face unto thee, and
+give thee peace.
+
+Grant peace, welfare, blessing, grace, lovingkindness and mercy unto us
+and unto all Israel, thy people. Bless us, O our Father, even all of us
+together, with the light of thy countenance; for by the light of thy
+countenance thou hast given us, O Lord our God,
+
+<span id="page_374">p. 374</span>
+
+the Law of life, lovingkindness and righteousness, blessing, mercy, life
+and peace; and may it be good it thy sight to bless thy people Israel at
+all times and in every hour with thy peace.
+
+In the book of life, blessing, peace and good sustenance may we be
+remembered and inscribed before thee, we and all thy people the house of
+Israel, for a happy life and for peace. Blessed art thou, O Lord who
+makest peace.
+
+O my God! guard my tongue from evil and my lips from speaking guile; and
+to such as curse me let my soul be dumb, yea, let my soul be unto all as
+the dust. Open my heart to thy Law, and let my soul pursue thy
+commandments. If any design evil against me, speedily make their counsel
+of none effect, and frustrate their designs. Do it for the sake of thy
+name, do it for the sake of thy right hand, do it for the sake of thy
+holiness, do it for the sake of thy Law. In order that thy beloved ones
+may be delivered, O save with thy right hand, and answer me. Let the
+words of my mouth and the meditation of my heart be acceptable before
+thee, O Lord, my Rock and my Redeemer. He who maketh peace in his high
+places, may he make peace for us and for all Israel, and say ye, Amen.
+
+<span id="page_375">p. 375</span>
+
+May it be thy will, O Lord our God and God of our fathers, that the
+temple be speedily rebuilt in our days, and grant our portion in thy
+Law. And there we will serve thee with awe, as in the days of old, and
+as in ancient years. Then shall the offering of Judah and Jerusalem be
+pleasant unto the Lord, as in the days of old, and as in ancient years.
+
+*For the Blessing of the Priests when the New Year falls on a week-day,
+see pp. [347](spb31.htm#page_347)–[348](spb31.htm#page_348)*.
+
+------------------------------------------------------------------------
+
+*On the [First](errata.htm#8) Day of New Year, or, when New Year falls
+on Sabbath, on the Second Day, after the Afternoon Service, it is
+customary to go to the banks of a river, or of any other piece of water,
+and to say the following:—*
+
+Who is a God like unto thee, that pardoneth iniquity and passeth by the
+transgression of the remnant of his heritage? He retaineth not his anger
+for ever, because he delighteth in lovingkindness. He will turn again
+and have mercy upon us; he will subdue our iniquities. And thou wilt
+cast all their sins into the depths of the sea. O mayest thou cast all
+the sins of thy people, the house of Israel, into a place where they
+shall be no more remembered or visited, or ever
+
+<span id="page_376">p. 376</span>
+
+again come to mind. Thou wilt show faithfulness to Jacob, and
+lovingkindness to Abraham as thou hast sworn unto our fathers from the
+days of old.
+
+------------------------------------------------------------------------
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: Service for the Eve of the Day of Atonement](spb35)
+
+</div>

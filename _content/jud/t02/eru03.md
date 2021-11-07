@@ -1,0 +1,121 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru02)  [Next](eru04) 
+
+------------------------------------------------------------------------
+
+[![](../img/tn_talm.jpg)](index)  
+*Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
+by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_v">p. v</span>
+
+# INTRODUCTION TO TRACT ERUBIN.
+
+THIS Tract, virtually the third of the Sabbath series, treats of
+subjects similar to those discussed in the first two. The main point of.
+difference is, that most of the laws laid down in the preceding two
+volumes are founded on biblical behests, while those instituted in the
+present volume are of purely rabbinical origin, notwithstanding the
+assertion of a solitary individual who appears in the course of a debate
+and declares that the legal-limit branch of the Erub is a biblical
+enactment.
+
+A remarkable feature of the Tract is the exposition of the manner in
+which the shrewd sages circumvene the rigorous prohibitions contained in
+the Tract Sabbath and how they take advantage of every loophole afforded
+them through imperfections in the law, at the same time avoiding any
+palpable infraction of the law itself.
+
+As already explained in the introduction to Volume I., the restrictions
+with which the Sabbath was surrounded had their unquestionable political
+import, but their very rigor made the sages, than whom none knew the
+people better, doubt whether enforcement and still less voluntary
+observance could ever be possible. It became necessary, therefore, to
+find some way of modifying the law, not directly, but by the institution
+of other in a measure counteracting laws. The solution for this problem
+presented itself in the "Erub" (literally "commixture") ordinances, the
+first results of which were to bring about a distinction between the
+different kinds of ground inhabited by man. Lines of demarcation between
+public, unclaimed, and private ground and ground which was under no
+particular jurisdiction were strictly drawn. Whatever ground, however,
+could be made by hook or crook to come under the category of private
+ground was eagerly included, as in the latter things could be carried
+about at will. In order, therefore, to have as much private ground as
+possible, each man having an interest in public ground would relinquish
+or transfer his right to his neighbor and thus make it communal or
+private property. Of course, this could be
+
+<span id="page_vi">p. vi</span>
+
+done only among Israelites, and where a Gentile had an interest in a
+piece of coveted ground, his share had to be bought outright.
+
+It was this desire to be in the same neighborhood, yea, even on the same
+grounds, that laid the foundation of the subsequent Ghettos, still
+flourishing in most of the large cities of the world. How this communal
+living was fostered may be readily understood, when it is stated that
+the sages permitted the execution of a written instrument in Palestine
+an the Sabbath, under ordinary circumstances a grave offence, where a
+piece of property had to be purchased from a Gentile for communal
+purposes. (See Gitin, 8b, and Schulchan Aruch Orach Chaym, 306, §11.)
+
+The name of this Tract may be said to have a certain significance. The
+Hebrew word "Erub" has a variety of meanings, among them "commixture,"
+as stated, "agreeable," "secure," and "safeguard." As the discussions in
+the Tract will demonstrate, either one of these meanings may be applied
+to the appellation of the Tract and still express the purpose of the
+laws ordained. By those laws the observance of the Sabbath was made
+"secure," they proved a "safeguard" against "amalgamation" or "mingling"
+with other nations, and by virtue of the modification to the laws of
+Sabbath which was brought about, the observance of the Sabbath was made
+more "agreeable." Several other meanings might be utilized in the same
+manner, but lest they seem far-fetched they are omitted.
+
+Another peculiarity of this Tract is that under no circumstances and on
+no occasion is the derivation of a law enacted in this particular Tract
+inquired into, and unlike other tracts there will not be found a single
+query as to where the Mishna derives the law. For want of other sources
+the institution of the Erub has been attributed to King Solomon, *vide*
+page 51.
+
+The main subjects of discussion in the following pages will be how this
+Erub shall be effected, what materials shall be used to bring about a
+commixture, how entries (by which is meant the entry to a court or a
+yard where an aggregation of families reside) are to be arranged, and
+the like.
+
+Altogether there are four kinds of Erubin, only three of which will be
+discussed in this treatise. They are: The combining of courts, the
+combining of limits, and the combining of streets, also known as
+junction. The other commixture is called combining of cookery, which
+will be treated at length in Tract Yom Tob.
+
+<span id="page_vii">p. vii</span>
+
+The combining of courts deals with the regulations by the observance of
+which various houses standing in one court are joined together into one
+common ground, thus enabling the householders to carry and convey
+articles to and from one another. The combining of limits treats of the
+regulations through which the distance of two thousand ells, beyond
+which no Israelite is allowed to travel on the Sabbath, may be legally
+extended.
+
+The combining of streets treats of the rules to be observed in the case
+of narrow streets and public places which can be turned into private
+ground under certain conditions.
+
+Finally, it may be well to add that, of all the difficult and
+complicated treatises in the Talmud, the Tract Erubin is by far the most
+difficult, and in a great many places almost incomprehensible to other
+than the most careful students.
+
+THE EDITOR.
+
+NEW YORK, *September*, 1897.
+
+------------------------------------------------------------------------
+
+[Next: Synopsis of Tract Erubin](eru04)

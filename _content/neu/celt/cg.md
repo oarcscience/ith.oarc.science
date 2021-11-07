@@ -1,0 +1,30 @@
+---
+layout: seclanding
+description: "The Carmina Gadelica by Alexander Carmicheal, at Intangible Textual Heritage"
+keywords: "Scotland Scottish Folklore Legend Myth Celtic Spirituality Song Poetry Goddess"
+title: "The Carmina Gadelica by Alexander Carmicheal"
+categories: ' <BR> <A HREF="../index">Legends and Sagas</A>&nbsp; <A HREF="index">Celtic Folklore</A><BR>'
+pathh1: "cg1/img/05800.jpg"
+alttext1: ""
+titleh1: "The Carmina Gadelica"
+---
+# The Carmina Gadelica
+
+### by Alexander Carmicheal
+
+#### \[1900\]
+
+------------------------------------------------------------------------
+
+This is the master page for the two volumes of the Carmina Gadelica
+located at this site.
+
+<span class="c_e"> <span class="c_t">[Carmina Gadelica, Vol.
+I](cg1/index)</span>   by <span class="c_a">Alexander Carmicheal</span>
+\[<span class="c_d">1900</span>\].  
+</span>
+
+<span class="c_e"> <span class="c_t">[Carmina Gadelica, Vol.
+II](cg2/index)</span>   by <span class="c_a">Alexander Carmicheal</span>
+\[<span class="c_d">1900</span>\].  
+</span>

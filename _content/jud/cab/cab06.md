@@ -1,0 +1,330 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[Index](index)  [Previous](cab05)  [Next](cab07) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_54">p. 54</span>
+
+### CHAPTER IV.
+
+### THE CABALA IN THE POST-ZOHAR PERIOD.
+
+**Visionary Teachings**.--The new text-book of religion which was
+introduced into Judaism by stealth, "placed the Kabbala, which a century
+before had been unknown, on the same level as the Bible and the Talmud,
+and to a certain extent on a still higher level. The Zohar undoubtedly
+produced good, in so far as it opposed enthusiasm to the legal
+dry-as-dust manner of the study of the Talmud, stimulated the
+imagination and the feelings, and cultivated a disposition that
+restrained the reasoning faculty. But the ills which it has brought on
+Judaism outweigh the good by far. The Zohar confirmed and propagated a
+gloomy superstition, and strengthened in people's minds the belief in
+the Kingdom of Satan, in evil spirits and ghosts. Through its constant
+use of coarse expression, often verging on the sensual, in
+contradistinction to the chaste, pure spirit pervading Jewish
+literature, the Zohar sowed the
+
+<span id="page_55">p. 55</span>
+
+seeds of unclean desires, and later on produced a sect that laid aside
+all regard for decency. Finally, the Zohar blunted the sense for the
+simple and the true, and created a visionary world in which the souls of
+those who zealously occupied themselves with it were lulled into a sort
+of half-sleep and lost the faculty of distinguishing between right and
+wrong. Its quibbling interpretations of Holy Writ, adopted by the
+Kabbalists and others infected with this mannerism, perverted the verses
+and words of the Holy Book, and made the Bible the wrestling-ground of
+the most curious insane notions."
+
+During the thirteenth century the Cabala was represented in Italy by
+Menahem di Recanati who wrote a commentary on the Pentateuch which is
+little else than a commentary on the Zohar. This work was translated
+into Latin by Pico della Mirandola.
+
+At the beginning of the fourteenth century Joseph ben Abraham ibn Wakkar
+(1290-1340) endeavored to reconcile the Cabala with philosophy, and to
+this end wrote a treatise on the cardinal doctrines of the Cabala. An
+analysis of this treatise, which is still in manuscript in the Bodleian
+library (cod. Laud. 119; described by Uri No. 384) is given by
+Steinschneider in Ersch and Gruber's *Allgemeine Encyclopädie*, Part II,
+Vol. XXXI, p. 100 f.
+
+<span id="page_56">p. 56</span>
+
+During the fourteenth and fifteenth centuries the Cabala was especially
+cultivated in Spain. In unmeasured terms the Zoharites denounced their
+co-religionists who could not see the advantages of the Cabala.
+Prominent among the Zoharites was Abraham of Granada, who composed
+(between 1391 and 1409) a cabalistic work *Berith menuchat*, "The
+Covenant of Peace," (Amsterdam, 1648), a farrago of strange names of the
+Deity and the angels, of transposed letters, and jugglery with vowels
+and accents. "He had the hardihood," says Graetz, "to teach that those
+who could not apprehend God by Cabalistic methods belonged to the weak
+in faith, were ignorant sinners, and like the depraved and the apostate
+were overlooked by God, and not found worthy of His special providence.
+He thought that the relinquishment of their religion by cultured Jews
+was explained by their fatal application to scientific study, and their
+contempt for the Cabala. On the other hand he professed to see in the
+persecutions of 1391, and in the conversion of so many prominent Jews to
+Christianity, the tokens of the Messianic age, the suffering that must
+precede it, and the approach of the redemption." Another such writer was
+Shem Tob ben Joseph ibn Shem Tob (died 1430), author of *Emunoth*, i.e.,
+"Faithfulness" (Ferrara, 1557), in which he attacks Jewish thinkers and
+philosophers as
+
+<span id="page_57">p. 57</span>
+
+heretics, and maintains that the salvation of Israel depends upon the
+Cabala. The third writer was Moses Botarel (or Botarelo), also a
+Spaniard, who claimed to be a thaumaturge and prophet, and even
+announced himself as the Messiah. He prophesied that in the spring of
+1393 the Messianic age would be ushered in. As the Cabala penetrated all
+branches of life and literature, voices were also raised against the
+Zohar. The first among the Jews who opposed its authority was Elias del
+Medigo, who in his *Bechinath ha-daath* (i.e., "Examination of the Law,"
+written in December, 1491) openly expressed his opinion that the Zohar
+was the production of a forger, and that the Cabala was made up of the
+rags and tatters of the neo-Platonic school. But his voice and that of
+others had no power to check the rapid progress of the Cabala, which had
+now found its way from Spain and Italy into Palestine and Poland.
+
+**Wonder Workers and Prophets**.--Passing over some minor advocates and
+teachers of the Cabala, we must mention two scholars in Palestine, who
+distinguished themselves as masters of the Cabala, Moses Cordovero <span
+id="fr_36"></span>[1](#fn_36) and Isaac Luria. The former (1522-1570)
+was a pupil of Solomon Alkabez <span id="fr_37"></span>[2](#fn_37) and
+wrote many works on the Cabala. His principal work is the *Pardes
+Rim-monim*, i.e.,
+
+<span id="page_58">p. 58</span>
+
+<span class="contnote">\[paragraph continues\]</span> "The Garden of
+Pomegranates." (Cracow, 1591), excerpts of which have been translated
+into Latin by Bartolocci in *Bibliotheca Magna Rabbinicia*, Vol. IV, p.
+231 f., and by Knorr von Rosenroth, "*Tractatus de Anima ex libro Pardes
+Rimonim*" in his *Kabbala Denudata*, Sulzbach, 1677. Cordovero is
+chiefly occupied with the scientific speculations of the Cabala, or the
+speculative Cabala, in contradistinction to the wonder-working Cabala,
+which was represented by Isaac Luria (born in Jerusalem in 1534, and
+died 1572). He claimed to have constant interviews with the prophet
+Elijah, who communicated to him sublime doctrines. He visited the
+sepulchers of ancient teachers, and there, by prostrations and prayers,
+obtained from their spirits all manner of revelations. He was convinced
+that he was the Messiah, the son of Joseph, and that he was able to
+perform all sorts of miracles. He imagined a complete system of
+transmigration and combination of souls. He saw spirits everywhere; he
+saw how the souls were set free from the body at death, how they hovered
+in the air, or rose out of their graves. On the Sabbath he dressed in
+white, and wore a fourfold garment to symbolize the four letters of the
+name of God. His sentiments he delivered orally and his disciples
+treasured
+
+<span id="page_59">p. 59</span>
+
+up his marvelous sayings, whereby they performed miracles and converted
+thousands to the doctrines of this theosophy.
+
+His disciples were divided into two classes, the "initiated" and the
+"novices," who boastfully called themselves "*guré ari*," i.e., "the
+lion's whelps." They systematically circulated the most absurd stories
+about Luria's miracles, and thus it came about that his cabalistic
+doctrines caused inexpressible harm in Jewish circles. Through Luria's
+influence a Judaism of the Zohar and the Cabala was formed side by side
+with the Judaism of the Talmud and the rabbis; for it was due to him
+that the spurious Zohar was placed upon a level with, indeed higher
+than, the Holy Scriptures and the Talmud.
+
+The real exponent of Luria's cabalistic system was Chayim Vital
+Calabrese <span id="fr_38"></span>[3](#fn_38) (1543-1620). After his
+master's death he diligently collected all the manuscript notes of the
+lectures delivered by Luria, which together with his own jottings Vital
+published under the title of *Ez chayim*, i.e., "The Tree of
+Life," <span id="fr_39"></span>[4](#fn_39) having spent over thirty
+years upon their preparation. The work consists of six parts; that
+portion which treats of the doctrine of metempsychosis (*Hagilgulim*),
+is found
+
+<span id="page_60">p. 60</span>
+
+in a Latin translation in Knorr von Rosenroth's work.
+
+The Luria-Vital system found many adherents everywhere. Abraham de
+Herera (died 1639) wrote in Spanish two cabalistic works, the "House of
+God" (*beth Elohim*) and the "Gate of Heaven" (*shaar ha-shemayim*),
+which the Amsterdam preacher Isaac Aboab translated into Hebrew. Both
+are given in a Latin translation in Knorr von Rosenroth's work, together
+with a translation of "The Valley of the King" (*emek ha-melech*) by
+Naphtali Frankfurter. Besides these we may mention Isaiah Horwitz (died
+at Tiberias in 1629), author of *Sh’ne luchoth haberith* (abbreviated
+*Shela*), i.e., "The Two Tables of the Covenant," a kind of
+Real-Encyclopedia of Judaism on a cabalistic basis. This work has been
+often reprinted and enjoys a great reputation among the Jews.
+Abridgments of it were frequently published (Amsterdam, 1683; Venice,
+1705; Warsaw, 1879) .
+
+There were not wanting those who opposed the Cabala. Of the numerous
+opponents which the Zohar and Luria-Vital's works called forth, none was
+so daring, so outspoken and powerful as Leon de Modena of Venice
+(1571-1648). He is best known as the author of *Historia dei Riti
+Hebraici ed observanza degli Hebrei di questi tempi*, or the "History of
+the Rites, Customs and
+
+<span id="page_61">p. 61</span>
+
+<span class="contnote">\[paragraph continues\]</span> Manner of Life of
+the Jews" (Padua, 1640), and translated into Latin, French, Dutch,
+English. <span id="fr_40"></span>[5](#fn_40) But besides this and other
+works, he also wrote a polemical treatise against the Cabalists, whom he
+despised and derided, entitled *Ari noham*, i.e., "Roaring Lion,"
+published by Julius Fürst, Leipsic, 1840. In this treatise he shows that
+the cabalistic works, "which are palmed upon ancient authorities, are
+pseudonymous; that the doctrines themselves are mischievous; and that
+the followers of this system are inflated with proud notions, pretending
+to know the nature of God better than any one else, and to possess the
+nearest and best way of approaching the Deity." He even went so far as
+to question whether God will ever forgive those who printed the
+cabalistic works (comp. Fürst, p. 7), and this no doubt, because so many
+Cabalists joined the Church.
+
+But no opposition could stem the tide of the Cabala. Its wonder-working
+branch had now largely laid hold on the minds and fancies of the Jews,
+and was producing among them the most mournful and calamitous effects.
+The chief actor in this tragedy was the cabalist Sabbatai Zebi, <span
+id="fr_41"></span>[6](#fn_41)
+
+<span id="page_62">p. 62</span>
+
+born at Smyrna, July, 1641. When fifteen years of age he rapidly
+mastered the mysteries of the Cabala, which he expounded before crowded
+audiences at the age of eighteen. When twenty-four years of age, he
+revealed to his disciples that he was the Messiah, the son of David, the
+true Redeemer, and that he was to redeem and deliver Israel from their
+captivity. At the same time he publicly pronounced the
+Tetragrammaton, <span id="fr_42"></span>[7](#fn_42) which the high
+priest was only permitted to do on the day of atonement. As he would not
+desist, he was excommunicated by the Jewish sages at Smyrna. He went to
+Salonica, Athens, Morea and Jerusalem, teaching his doctrines,
+proclaiming himself the Messiah, anointing prophets and converting
+thousands upon thousands. As his followers prepared to be led back by
+him to Jerusalem, they wound up their affairs, and in many places trade
+was entirely stopped. By the order of the Sultan, Mohammed IV, Sabbathai
+Zevi was arrested and taken before him at Adrianople. The Sultan said to
+him: "I am going to test thy Messiahship. Three poisoned arrows shall be
+shot into thee, and if they do not kill thee, I too will believe that
+thou art the Messiah." He saved himself by embracing Islamism in the
+presence of the Sultan, who gave him the name Effendi, and appointed him
+Kapidji-Bashi. Sabbathai
+
+<span id="page_63">p. 63</span>
+
+died Sept. 10, 1676, after having ruined thousands upon thousands of
+Jewish families. In spite of this fiasco the number of Sabbathai's
+followers was not diminished.
+
+Famous as a champion of orthodoxy was Jacob Israel Emden (1696-1776)
+rabbi of Altona. During his rabbinate there, the famous Jonathan
+Eybenschütz <span id="fr_43"></span>[8](#fn_43) (born in Cracow in 1690)
+was called to Altona in 1750, since the German and Polish Jews were
+divided in that place. As every rabbi was regarded as a sort of
+magician, the new-comer was expected to stop the epidemic raging at that
+time in the city. Eybenschütz prepared amulets, which he distributed
+among the people. For curiosity's sake one was opened, and to! in it was
+written: "O thou God of Israel, who dwellest in the beauty of thy power,
+send down salvation to this person through the merit of thy servant
+Sabbathai Zevi, in order that thy name, and the name of the Messiah
+Sabbathai Zevi, may be hallowed in the world." This amulet came into the
+hands of Emden. Eybenschütz denied all connection with the adherents of
+Sabbathai, and as he had already gained a great influence, he was
+believed; at least, almost everybody kept quiet. But Emden was not
+quiet, and finally the ban was pronounced against Eybenschütz. Even the
+King Frederic V of Denmark
+
+<span id="page_64">p. 64</span>
+
+sided with Emden, and Eybenschütz lost his position. Being forsaken by
+his friends, Eybenschütz went to his former pupil, Moses Gerson Kohen,
+who after baptism took the name of Karl Anton. Anton wrote an apology in
+behalf of his teacher, which he dedicated to the King of Denmark. This
+and other influences had the effect that the whole affair was dropped
+and Eybenschütz was elected anew as rabbi of the congregation.
+Eybenschütz died in 1764 and was followed twelve years later by his
+opponent Emden. Both are buried in the Jewish cemetery of Altona.
+
+Another Zoharite was Jacob Frank <span id="fr_44"></span>[9](#fn_44)
+(Jankiew Lebowicz), the founder of the Jewish sect of the Frankists,
+born in Poland in 1712. He acquired a great reputation as a Cabalist,
+and settled in Podolia, where he preached a new doctrine, the
+fundamental principles of which he had borrowed from the teachings of
+Sabbathai Zevi. He was arrested through the influence of the rabbis, but
+was liberated through the intervention of the Roman Catholic clergy, and
+authorized by the King to profess freely his tenets. His followers then,
+under the name of Zoharites and Anti-Talmudists oppressed their former
+adversaries in turn. As the papal nuncio at Warsaw declared against
+them, Frank and most of his adherents embraced
+
+<span id="page_65">p. 65</span>
+
+<span class="contnote">\[paragraph continues\]</span> Christianity.
+Frank continued to make proselytes and his sect increased in Poland and
+Bohemia. He lived in princely style on means furnished him by his
+followers, and died at Offenbach, in Hesse, December 10, 1791.
+
+The Cabalists of the eighteenth century, with the exception of Moses
+Chayim Luzzatto (born 1707, died 1747), are of little importance. Modern
+influences gradually put a stop to the authority of the Cabala, and
+modern Judaism sees in the Cabala in general only an historical
+curiosity or an object of literary historical disquisitions.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_36"></span>[57:1](cab06.htm#fr_36) See my article *s.v.*
+"Moses Cordovero," *loc. cit.*
+
+<span id="fn_37"></span>[57:2](cab06.htm#fr_37) <span id="page_58">p.
+58</span> He is the author of a hymn "*Lecha dodi*," i.e., "Come my
+beloved," which is found in all Jewish prayer-books, and used in the
+service for Sabbath eve.
+
+<span id="fn_38"></span>[59:3](cab06.htm#fr_38) See my article *s.v.*
+"Vital" in McClintock and Strong.
+
+<span id="fn_39"></span>[59:4](cab06.htm#fr_39) For a description of the
+component parts of this work, see Fürst, *Bibliotheca Judaica*, III, pp.
+479-481.
+
+<span id="fn_40"></span>[61:5](cab06.htm#fr_40) The English translation
+is found in Picard's *Ceremonies and Religious Customs of the Various
+Nations of the Known World*, Vol. I, London, 1733.
+
+<span id="fn_41"></span>[61:6](cab06.htm#fr_41) See my article *s.v.*
+"Sabbatai Zebi" in McClintock and Strong; see also *Geschichte des
+Sabbatai-Zebi, sein Leben and Treiben*, Warsaw, 1883; and *Der
+Erzbetrüger Sabbatai Sevi, der letzte falsche Messias der Juden*, etc.,
+Halle, 1760; Berlin, 1908.
+
+<span id="fn_42"></span>[62:7](cab06.htm#fr_42) Called by the Jews
+*shem-hammephorash*, on which see my article *s.v.* in McClintock and
+Strong.
+
+<span id="fn_43"></span>[63:8](cab06.htm#fr_43) See my article *s.v.*
+"*Eybenschütz*" in *loc. cit.*, Vol. XII, p. 367.
+
+<span id="fn_44"></span>[64:9](cab06.htm#fr_44) Comp. Graetz, *Frank and
+die Frankisten*, Berlin, 1868.
+
+------------------------------------------------------------------------
+
+[Next: Chapter V. The Most Important Doctrines of the Cabala](cab07)

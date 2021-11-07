@@ -1,0 +1,1845 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
+[Index](index)  [Previous](tcr12)  [Next](tcr14) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417930985/internetsacredte)
+
+------------------------------------------------------------------------
+
+*True Christian Religion*, by Emanuel Swedenborg, \[1771\], tr. by John
+C. Ager \[1906\] at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+### True Christian Religion
+
+<span class="margnote"><span id="601.">601.</span></span>
+
+VIII\. THE REGENERATED MAN HAS A NEW WILL AND A NEW UNDERSTANDING. The
+church of today knows both from the Word and from reason that a
+regenerated man is a renewed or new man. From the Word, by the following
+passages: Make you a new heart and a new spirit; for why will ye die, O
+house of Israel? (Ezek. 18:31). I will give you a new heart and a new
+spirit in the midst of you; and I will take away the stony heart out of
+your flesh, and will give you a heart of flesh; and I will put My spirit
+within you (Ezek. 36:26, 27). Henceforth know we no man after the flesh,
+therefore if any man is in Christ, he is a new creature (2 Cor. 5:16,
+17). In these passages "a new heart" means a new will, and "a new
+spirit" means a new understanding; for "heart" in the Word signifies the
+will, and "spirit," when connected with heart, signifies the
+understanding. The church also knows from reason that the regenerated
+man has a new will and a new understanding, since these two faculties
+constitute man, and they are what are regenerated. Therefore every man
+is such as he is with respect to these two faculties, that is, he is
+evil whose will is evil, and still more so he whose understanding favors
+the evil; while the reverse is true of the good. Religion alone renews
+and regenerates man. Religion occupies the highest seat in the human
+mind, and sees beneath it the civil matters pertaining to the world; it
+also ascends by means of them, as the pure sap ascends through a tree to
+its very top, and from that height it surveys what is natural, as from a
+tower or mountain one surveys the plains below.
+
+<span class="margnote"><span id="602.">602.</span></span>
+
+But it must be understood that while man may rise as to his
+understanding almost into the light in which the angels of heaven are,
+unless he rises also as to his will, he is still the old and not a new
+man. But it has been shown already how the understanding elevates the
+will more and more to the same height with itself. For this reason
+regeneration is predicated primarily of the will, and secondarily of the
+understanding. For the understanding in man is like light in the world,
+and the will is like the heat there; and it is known that light without
+heat does not vivify or cause vegetation, but light joined with heat.
+Moreover, as to the lower region of the mind, the understanding is
+actually in the light of the world, while as to the higher region it is
+in the light of heaven; consequently if the will is not raised from the
+lower region into the higher, and there conjoined with the
+understanding, it remains in the world; and then the understanding flies
+upward and downward, but returns every night to the will below and
+sleeps there; and they unite like a man and a harlot, and beget
+two-headed offspring. From all this it is clear that unless a man has a
+new will and a new understanding, he is not regenerated.
+
+<span class="margnote"><span id="603.">603.</span></span>
+
+The human mind is divided into three regions, the lowest is called the
+natural, the middle the spiritual, and the highest the celestial. By
+regeneration man is raised from the lowest region, which is the natural,
+into the higher, which is the spiritual, and through this into the
+celestial. That there are these three regions belonging to the mind will
+be shown in the following section. This is why the unregenerate man is
+called natural, and the regenerate man spiritual. This makes clear that
+the mind of the regenerate man is raised into the spiritual region, and
+there sees from the higher what takes place in the lower or natural
+mind. That there is a lower and a higher region in the human mind,
+everyone can see and recognize by a slight attention to his own
+thoughts; for what he thinks, he sees; and therefore he says that he has
+thought or thinks this and that, which would be impossible unless there
+were an interior thought that is called perception, which looks down
+into the lower which is called thought. When a judge has heard or read
+over a long series of arguments presented by an advocate, he collects
+them all into one view in the higher region of his mind, thus forming
+them into one general idea; and from that he then looks down into the
+lower region, which is that of natural thought, and there arranges the
+arguments in order, and accordance with the higher, presents his opinion
+and pronounces judgment. Who does not know that a man may form more
+thoughts and conclusions in a moment or two, than he can express by
+means of his lower thoughts in half an hour? All this has been presented
+to make known that the human mind is divided into lower and higher
+regions.
+
+<span class="margnote"><span id="604.">604.</span></span>
+
+As to the new will: it is above the old one in the spiritual region, and
+the new understanding likewise, this with that and that with this. In
+that region they are conjoined and conjointly look down upon the old or
+natural will and understanding, and so arrange all things therein as to
+moderate them. Who cannot see that if there were but one region in the
+human mind, and if both evils and goods and truths and falsities were
+there brought together and mixed together, there would be a conflict
+such as would arise if wolves and lambs, tigers and calves, hawks and
+doves, were brought together into one enclosure? What would result but a
+cruel slaughter, the savage beasts tearing in pieces the tame ones? This
+is why it has been provided that goods with their truths should be
+collected together in the higher region, so that they may subsist in
+safety, and resist assault, and also by constraints and other means may
+subjugate and afterward disperse evils with their falsities. This, then,
+is the same as was said in the preceding section, that in the
+regenerated man the Lord through heaven rules what pertains to the
+world. And the higher or spiritual region of the human mind is a heaven
+in miniature, while the lower or natural region is a world in miniature,
+and for this reason man was called by the ancients a microcosm \[a
+little world\], and he may also be called a microuranos \[a little
+heaven\].
+
+<span class="margnote"><span id="605.">605.</span></span>
+
+That the regenerate man, that is, one who is renewed in will and
+understanding, is in the heat of heaven, that is, in its love, and at
+the same time in the light of heaven, that is, in its wisdom; and on the
+other hand, that the unregenerate man is in the heat of hell, that is,
+in its love, and at the same time in its darkness, that is, in its
+insanities, is at this day known and yet unknown. This is because the
+church of today makes regeneration an appendage to its faith, and into
+faith reason must not be admitted, consequently it must be admitted into
+nothing pertaining to its appendage, which, as before said, includes
+renovation and regeneration. These, together with that faith itself, are
+to those of the present church like a house, the doors and windows of
+which are closed, so that it is not known what is in it, whether it is
+empty or is full of genii from hell, or of angels from heaven. It may be
+added, that this confusion has been brought about by a fallacy which has
+arisen from the fact that a man may by his understanding ascend almost
+into the light of heaven, and consequently can from intelligence think
+and speak of spiritual things, whatever his will's love may be.
+Ignorance of this truth has also caused ignorance of all that concerns
+regeneration and renovation of character.
+
+<span class="margnote"><span id="606.">606.</span></span>
+
+From all this it may be concluded that an unregenerate man is like one
+who sees phantoms at night, and believes them to be men; and afterwards,
+when he is being regenerated, he is like the same man seeing in the
+early dawn that the things he saw at night are delusions, and still
+later, when he is regenerated and is in the light of day, seeing them to
+be the offspring of delirium. An unregenerate man is like one dreaming,
+and a regenerate man like one awake; and in the Word natural life is
+likened to sleep, and spiritual life to a state of wakefulness. The
+unregenerate man is meant by the foolish virgins who had lamps but no
+oil, and the regenerate man by the wise virgins who had both lamps and
+oil, "lamps" meaning such things as pertain to the understanding, and
+"oil" such things as pertain to love. The regenerate are like the lamps
+of the lampstand in the tabernacle; they are like the bread of faces
+there with the frankincense upon it; and they are those who shall "shine
+as the brightness of the firmament, and as the stars for ever and ever"
+(as said in Dan. 12:3). The unregenerate man is like one who is in the
+garden of Eden, and who eats from the tree of the knowledge of good and
+evil, and is therefore banished from the garden; he is indeed that very
+tree. But the regenerate man is like one who is in that garden and eats
+of the tree of life. That it is given to such to eat of it, is obvious
+from the following in Revelation: To him that overcometh will I give to
+eat of the tree of life, which is in the midst of the paradise of God
+(Rev. 2:7), "the garden of Eden" meaning intelligence in spiritual
+things, arising from love of truth (see Apocalypse Revealed, n. 90). In
+a word, the unregenerate man is a "son of the evil one," and the
+regenerate a "son of the kingdom" (Matt. 13:38); "the son of the evil
+one" there meaning a child of the devil, and "the son of the kingdom" a
+child of the Lord.
+
+<span class="margnote"><span id="607.">607.</span></span>
+
+IX\. A REGENERATE MAN IS IN COMMUNION WITH ANGELS OF HEAVEN AND AN
+UNREGENERATE ONE IN COMMUNION WITH SPIRITS OF HELL. Every man is in
+communion, that is, in affiliation either with angels of heaven or with
+spirits of hell, because he is born to become spiritual, and this would
+be impossible unless he were born to be in some conjunction with those
+who are spiritual. It has been shown in the work on Heaven and Hell that
+as to his mind man is in both worlds, the natural and the spiritual. But
+neither man nor angel nor spirit knows of this conjunction, for the
+reason that man while he lives in the world is in a natural state, while
+angels and spirits are in a spiritual state; and because of the
+distinction between the natural and the spiritual, one is not visible to
+the other. The nature of this distinction has been described in the work
+on Conjugal Love in the Memorable Relation there recorded (n. 326-329).
+From that it is clear that their conjunction is not one of thoughts but
+of affections, and scarcely anyone reflects upon his affections, because
+they are not in the light in which the understanding is, and therefore
+its thought is; but only in the heat in which the will is and therefore
+the affection of its love is. The conjunction between men and angels and
+spirits by means of the affections of love is so close that if it were
+severed and they were thereby separated, men would instantly fall into a
+swoon, and if the relation were not restored, and their conjunction
+renewed, men would die. \[2\] It has been said that man becomes
+spiritual by regeneration, but this does not mean that he becomes
+spiritual as an angel is in himself, but that he becomes spiritual
+natural, that is to say, that the spiritual is inwardly in his natural,
+just as thought is in speech, or as will is in action, for when one
+ceases the other ceases. In like manner man's spirit is in every least
+thing that takes place in the body, and it is that which impels the
+natural to do whatever it does. The natural viewed in itself is passive
+or is a dead force, but the spiritual is active or is a living force;
+the passive or a dead force cannot act from itself, but must be impelled
+by the active, or by a living force. \[3\] As man lives continually in
+communion with the inhabitants of the spiritual world, he is also, when
+he leaves the natural world, introduced immediately among such as are
+like those with whom he had been associated in the world. Therefore it
+is that after death everyone seems to himself to be still living in the
+world, for he then comes into the company of those who are like him as
+to their will's affections, and whom he then acknowledges, as kinsmen
+and relations acknowledge their own in the world; and this is what is
+meant where it is said in the Word of those who die, that they are
+brought together and gathered to their own. From all this it can now be
+seen that a regenerate man is in communion with the angels of heaven,
+and an unregenerate man with the spirits of hell.
+
+<span class="margnote"><span id="608.">608.</span></span>
+
+It must be known that there are three heavens, and these distinct from
+each other according to the three degrees of love and wisdom, and that
+man is in communion with the angels of those three heavens in the
+measure of his regeneration; and this being so, that the human mind is
+divided into three degrees or regions in accord with the heavens. But on
+these three heavens and their division in accordance with the three
+degrees of love and wisdom, see the work on Heaven and Hell (n. 29
+seq.); and also the pamphlet on Interaction between the Soul and the
+Body, (n. 16, 17). Here it will be sufficient merely to illustrate, by a
+simile, the nature of the three degrees in accordance with which the
+heavens are divided. They are like the head, body, and feet in man; the
+highest heaven constituting the head, the middle the body, and the
+lowest the feet; for the whole heaven is before the Lord like one man.
+The truth of this has been disclosed to me by actual observation, for it
+has been granted me to see wholly as one man a single society of heaven,
+which consisted of thousands. Why then should not the whole heaven so
+appear to the Lord? Respecting this living experience, see the work on
+Heaven and Hell (n. 59 seq.). This makes clear what is meant by this,
+which is well known in the Christian world, that the church constitutes
+the body of Christ, and that Christ is the life of that body. And this
+also is thus made clear, namely, that the Lord is the all in all things
+of heaven, since He is the life of that body. Likewise, the Lord is the
+church with those who acknowledge Him alone as the God of heaven and
+earth, and believe in Him. That He is the God of heaven and earth, He
+Himself teaches in Matthew (28:18); and that men ought to believe in
+Him, in John (3:15, 16, 36; 6:40; 11:25, 26).
+
+<span class="margnote"><span id="609.">609.</span></span>
+
+The three degrees in which the heavens are, and consequently, in which
+the human mind is, may also be illustrated in some measure by
+comparisons with material things in the world. In their relative
+nobility these three degrees are like gold, silver, and brass, to which
+metals they are likened in the statue of Nebuchadnezzar (Dan. 2:31-35).
+These three degrees are also distinct from each other, like the ruby,
+sapphire, and agate in respect to purity and goodness; also like the
+olive tree, the vine, and the fig-tree; and so on. Moreover, in the
+Word, "gold," "ruby," and "oil" signify celestial good, which is the
+good of the highest heaven; "silver," "sapphire," and "a vine" signify
+spiritual good, which is that of the middle heaven; while "brass,"
+"agate," and "a fig-tree" signify natural good, which is that of the
+lowest heaven. That there are three degrees, a celestial, a spiritual,
+and a natural, has been stated above.
+
+<span class="margnote"><span id="610.">610.</span></span>
+
+To the foregoing this shall be added, that man's regeneration is not
+effected in a moment, but gradually, from the beginning to the end of
+his life in the world, and is afterward continued and perfected. And
+because man is reformed by conflicts with the victories over the evils
+of his flesh, the Son of man says to each one of the seven churches,
+that he will give gifts to him that overcometh; as to the church of
+Ephesus: To him that overcometh I give to eat of the tree of life (Rev.
+2:7); to the church of Smyrna: He that overcometh shall not be hurt in
+the second death (Rev. 2:11); to the church in Pergamos: To him that
+overcometh will I give to eat of the hidden manna (Rev. 2:17); to the
+church in Thyatira: He that overcometh, to him will I give power over
+the nations (Rev. 2:26); to the church in Sardis: He that overcometh
+shall be clothed in white garments (Rev. 3:5); to the church in
+Philadelphia: He that overcometh I will make him a pillar in the temple
+of God (Rev. 3:12); and to the church of the Laodiceans: He that
+overcometh I will give to him to sit with Me in My throne (Rev. 3:21).
+Finally it may be added that so far as man is regenerated, or so far as
+regeneration is perfected in him, so far he attributes nothing of good
+and truth, that is, of charity and faith, to him self, but to the Lord
+only; for the truths which he gradually acquires teach this clearly.
+
+<span class="margnote"><span id="611.">611.</span></span>
+
+X. SO FAR AS MAN IS REGENERATED SINS ARE REMOVED, AND THIS REMOVAL IS
+THE FORGIVENESS OF SINS. So far as man is regenerated sins are removed,
+because regeneration is the restraining of the flesh that it may not
+rule, and the subjugating of the old man with its lusts, that it may not
+rise up and destroy the intellectual faculty, for that would render man
+incapable of reformation, reformation being impossible unless man's
+spirit, which is above the flesh, is instructed and perfected. Who, if
+he still retains a sound understanding, can fail to see from all this
+that such a work cannot be effected in a moment but only gradually, just
+as man is conceived, carried in the womb, born, and educated, according
+to what has been shown above? For those things which pertain to the
+flesh or the old man are inherent in man from his birth, and build the
+first habitation of his mind, in which lusts have their abode like wild
+beasts in their caves, dwelling first in the outer courts, then by turns
+entering into the underground rooms, as it were, of the house, and
+finally ascending by steps and forming for themselves chambers. This
+takes place gradually, as an infant grows, becomes a boy, afterwards a
+youth, and then begins to think from his own understanding, and to act
+from his own will. Who cannot see that this house in the mind thus far
+built in which lusts dance with joined hands, like the ochim, tziim and
+satyrs, cannot be destroyed in a moment and a new house built in its
+place? Must not those lusts with clasped hands and so sporting
+themselves be first removed, and new desires, which belong to good and
+truth, be introduced in the place of the cupidities which belong to evil
+and falsity? That these things cannot be done in a moment every wise man
+sees from this alone, that every evil is composed of innumerable lusts,
+and is like a fruit which beneath the surface is full of worms with
+white bodies and black heads; also, that evils are numerous and joined
+together like the progeny of a spider when first hatched; wherefore
+unless one evil is brought out after another, and this until their
+connection is broken up, man cannot be made new. These things have been
+cited to make clear that so far as anyone is regenerated sins are
+removed.
+
+<span class="margnote"><span id="612.">612.</span></span>
+
+Man inclines by birth to evils of every kind and from that inclination
+lusts after them, and so far as he is in freedom he also does them; for
+by birth he lusts after dominion over others, and to possess the goods
+of others, which two lusts cut asunder love to the neighbor, and then
+man hates everyone who opposes him, and from hatred breathes revenge
+which inwardly cherishes murder. For the same reason he thinks nothing
+of adulteries, nothing of such robbery as secret theft, nothing of
+blasphemies, which include false witness; and he who thinks nothing of
+these things, is in heart an atheist. Such is man by birth; from which
+it is clear that he is from birth a hell in miniature. Inasmuch then, as
+man, in respect to the interiors of his mind, is born spiritual, as
+beasts are not, and consequently is born for heaven, and yet, as has
+been said, his natural or external man is a miniature hell, it follows
+that a heaven cannot be implanted in this hell, unless the hell is
+removed.
+
+<span class="margnote"><span id="613.">613.</span></span>
+
+He who knows the relation between heaven and hell, and how the one is
+removed from the other, can know how man is regenerated, and also what
+the regenerate man is. That this may be understood it shall be made
+known briefly that the faces of all who are in heaven look toward the
+Lord, while all who are in hell turn their faces from the Lord;
+therefore when hell is looked at from heaven, only the occiput and back
+appear; and those there even appear inverted, like the antipodes, feet
+upward and heads down, and this although they walk upon their feet and
+turn their faces around; for it is the contrary direction of their
+minds' interiors that produces this appearance. These remarkable facts I
+report from my own observation. They made clear to me how regeneration
+is effected, namely, just as hell is removed and thus separated from
+heaven. For, as stated above, as to his first nature which he has by
+birth, man is a hell in miniature, and as to the other nature which he
+acquires by the second birth, he is a heaven in miniature. And from this
+it follows that the evils in man are removed and separated in the same
+manner as heaven and hell in their large form are separated, and that
+evils, as they are removed, turn themselves away from the Lord, and
+gradually invert themselves, and that this takes place in the degree
+that heaven is implanted, that is, that man is made new. To this may be
+added, for the sake of illustration, that every evil in man is in
+conjunction with those in hell who are in like evil, and on the other
+hand that every good in man is in conjunction with those in heaven who
+are in like good.
+
+<span class="margnote"><span id="614.">614.</span></span>
+
+From what has been presented it can be seen that the forgiveness of sins
+is not their being rooted out and washed away, but their removal, and
+thus their separation; also that every evil that a man has actually
+appropriated to himself remains. And since the forgiveness of sins is
+their removal and separation, it follows that man is withheld from evil
+by the Lord and kept in good, and this is what is given to man by
+regeneration. I once heard a certain person in the lowest heaven saying
+that he was exempt from sins, because they had been washed away, adding,
+"by the blood of Christ." But because he was in heaven, and was in that
+error from ignorance, he was let into his own peculiar sins, and as they
+returned he acknowledged them; thereby acquiring a new belief, namely,
+that every man, as well as every angel, is withheld from evil and kept
+in good by the Lord. \[2\] This shows plainly what the forgiveness of
+sins is, that it is not instantaneous, but follows regeneration
+according to the progress thereof. The removal of sins which is called
+the forgiveness of them, may be likened to the casting forth of the
+filth from the camps of the children of Israel into the desert which was
+round about them; for their camps represented heaven, and the desert
+hell. It may also be likened to the removal of the nations from the
+children of Israel, in the land of Canaan, and of the Jebusites from
+Jerusalem; these were not cast out, but separated. It may also be
+likened to what occurred to Dagon the god of the Philistines, in that
+when the ark was brought in he first lay upon his face on the ground,
+and afterward, with his head and hands cut off, upon the threshold; thus
+he was not cast out, but removed. \[3\] It may also be likened to the
+demons sent by the Lord into the swine that afterward plunged into the
+sea; "the sea" there and elsewhere in the Word, signifying hell. It may
+also be likened to the throng that followed the dragon, which, on being
+separated from heaven, first invaded the earth, and was afterward cast
+down into hell. It may also be likened to a forest where there are wild
+beasts of many kinds which when the forest is cut down flee to the
+neighboring thickets, and then the ground in the midst being leveled it
+becomes by cultivation a field.
+
+<span class="margnote"><span id="615.">615.</span></span>
+
+XI\. WITHOUT FREEDOM OF CHOICE IN SPIRITUAL THINGS REGENERATION IS
+IMPOSSIBLE. Who, except a stupid person, cannot see that without freedom
+of choice in spiritual things man cannot be regenerated? Can he without
+this approach the Lord, acknowledge Him as the Redeemer and Savior and
+the God of heaven and earth, as He himself teaches (Matt. 28:18)?
+Without that freedom of choice who can believe in the Lord, that is,
+from faith look to Him and worship Him, and adapt himself to receiving
+the means and benefits of salvation from Him, and from Him cooperate in
+the reception of them? Who without freedom of choice can do any good to
+the neighbor, can practice charity, or take into his thought and will
+other things pertaining to faith and charity, bring them forth, and put
+them into acts? Otherwise, what is regeneration but a mere word dropped
+from the lips of the Lord (John 3), which either remains in the ear, or
+having dropped upon the lips from the thought nearest to speech, becomes
+merely an articulated sound of twelve letters, which sound cannot by any
+meaning be raised into any higher region of the mind, but falls upon the
+air and is dissipated?
+
+<span class="margnote"><span id="616.">616.</span></span>
+
+Tell me, if you can, whether a blinder stupidity respecting regeneration
+is possible than that which prevails with those who have confirmed
+themselves in the faith of the present day, which is, that faith is
+infused into man while he is like a stock or a stone, and that when it
+has been infused, it is followed by justification, which is forgiveness
+of sins, and regeneration, and other gifts besides; and also that man's
+effort must be wholly excluded, that it may not do violence to the merit
+of Christ. In order that this dogma might be still more firmly
+established, they have deprived man of all freedom of choice in
+spiritual things, by asserting his complete impotence therein. It is,
+then, as if God alone were to operate on His part, and no power were
+given to man to operate on his part, and thus conjoin himself with God.
+In that case what is man in respect to regeneration, but like one bound
+hand and foot, like the prisoners on ships called galley-slaves? And
+like these, if he were to free himself from those manacles and fetters,
+he would be punished or condemned to death, that is, if, from freedom of
+choice he were to do good to the neighbor, and of himself were to
+believe in God for the sake of salvation. If a man were confirmed in
+such opinions, and yet had a pious desire for heaven, what would he be
+like but a specter standing and speculating as to whether that faith
+with its benefits has been infused into him; or if not, whether it will
+be infused, therefore whether God the Father has taken pity on him, or
+whether His Son has interceded for him, or whether the Holy Spirit is
+inoperative because employed elsewhere? And yet, because of his complete
+ignorance of the matter, he might go away and console himself by saying,
+"Perhaps that grace is in the morality of my life, which I have and
+which I retain as formerly, and in me therefore it may be holy, while in
+those who have not attained to that faith it is profane. Therefore, in
+order that this holiness may remain in my morality, I will be careful
+hereafter not to exercise either charity or faith of myself;" with much
+more. Such a specter, or if you prefer, such a statue of salt, does
+everyone become who thinks of regeneration separated from freedom of
+choice in spiritual things.
+
+<span class="margnote"><span id="617.">617.</span></span>
+
+The man who believes that regeneration is possible without freedom of
+choice in spiritual things, thus without co-operation, becomes as frigid
+as a stone in regard to all the truths of the church; or if he is warm,
+since his warmth arises from lusts, he is like a burning brand in a
+fire-place, that blazes from the combustible elements in it. He becomes
+comparatively like a palace sinking into the ground even to its roof,
+and becoming flooded with muddy water; after which he dwells upon the
+bare roof, making a hut there for himself of marsh rushes, and at length
+the roof sinks also, and he is drowned. He is also like a ship laden
+with all kinds of precious merchandise taken from the Word as a
+treasury, but gnawed by mice and moth-eaten, or thrown by the sailors
+into the sea, so that the merchants are defrauded of their goods. Those
+who are learned or rich in the mysteries of that faith, are like the
+venders in little shops who sell idols, fruit, wax-flowers, shells,
+snakes in bottles, and such like things. Those who, because of the lack
+of spiritual power adapted and given to man by the Lord, have no wish to
+look upward, are actually like beasts whose heads look downward, and
+which care for nothing but to graze in the forests; and if they enter an
+orchard, they eat up the foliage of the trees like worms, or if they see
+the fruit with their eyes, or still more if they feel it with their
+hands, they fill it with worms; and finally they become like scaly
+serpents, their fallacies sounding and glittering like serpents' scales;
+and so on.
+
+<span class="margnote"><span id="618.">618.</span></span>
+
+XII\. REGENERATION IS IMPOSSIBLE WITHOUT TRUTHS, BY WHICH FAITH IS
+FORMED AND WITH WHICH CHARITY CONJOINS ITSELF. There are three means
+whereby man is regenerated, the Lord, faith, and charity. These three
+would lie hidden like the most costly jewels buried in the earth, if
+Divine truths from the Word did not reveal them. They would indeed be
+hidden from those who deny man's cooperation even if they were to read
+the Word a hundred or a thousand times, although they there stand forth
+in clear light. As concerns the Lord, who that is confirmed in the
+prevailing faith sees there with open eyes the declarations that He and
+the Father are one, that He is the God of heaven and earth, that it is
+the will of the Father that men should believe in the Son, with
+innumerable other statements of the same kind respecting the Lord in
+both Testaments? They do not see because they are not in truths, and
+consequently not in the light in which subjects of this kind can be
+seen; and if light were given, falsities would extinguish it, and these
+truths would then escape their attention like something wholly erased,
+or like underground drains which are trodden upon and passed over. These
+things are said that it may be known that without truths this first
+thing in regeneration cannot be seen. \[2\] As to faith, neither is that
+possible without truths; because faith and truth make one thing; for the
+good of faith is like a soul, truths constituting its body. To say
+therefore that a man believes or has faith, when he is ignorant of all
+of its truths, is like taking the soul out of the body, and talking with
+it when thus invisible. Moreover, all the truths that make up the body
+of faith emit light and enlighten, and render the features of faith
+visible. It is the same with charity; this emits heat with which the
+light of truth conjoins itself, as heat does with light in the world in
+the time of spring, from the conjunction of which the animals and
+vegetables of the earth return to their prolifications. \[3\] It is the
+same with spiritual heat and light; these in like manner conjoin
+themselves in man when he is in the truths of faith and at the same time
+in the goods of charity. For as said above in the chapter on Faith, from
+each particular truth of faith there flows forth a light that
+enlightens, and from each particular good of charity a heat that
+enkindles. It is also there said that spiritual light in its essence is
+intelligence, and spiritual heat in its essence is love; and that the
+Lord alone conjoins these two in man when He regenerates him. For the
+Lord said: The words that I speak unto you are spirit, and are life
+(John 6:63). Believe in the light, that ye may be sons of light. I am
+come a light into the world (John 12:36, 46). The Lord is the Sun in the
+spiritual world; this is the source of all spiritual light and heat;
+that light enlightens, and that heat enkindles; and by the conjunction
+of the two the Lord vivifies and regenerates man.
+
+<span class="margnote"><span id="619.">619.</span></span>
+
+From all this it can be seen, that without truths there is no knowledge
+of the Lord; also that without truths there is no faith, and thus no
+charity; consequently that without truths there is no theology, and
+where this is not, there is no church. Such is the condition today of
+that body of people who call themselves Christians, and who say they are
+in the light of the Gospel, and yet are in the veriest darkness; for
+with them truths lie hidden beneath falsities, like gold, silver, and
+precious stones buried among the bones in the valley of Hinnom. That it
+is so, I was enabled to see clearly from the spheres in the spiritual
+world that flow forth from the Christendom of today and propagate
+themselves. \[2\] One sphere is that respecting the Lord; this breathes
+and pours itself forth from the southern quarter, where the learned
+clergy and erudite laity reside. Wherever this sphere goes it insinuates
+itself into the ideas, and with many takes away faith in the Divinity of
+the Lord's Human, with many weakens it, with many makes it seem foolish;
+and this because it brings in with it the faith in three Gods, and thus
+produces confusion. \[3\] Another sphere that takes away faith is like a
+black cloud in winter, which brings on darkness, turns rain into snow,
+strips bare the trees, freezes the waters, and takes away all pasture
+from the sheep. This sphere in conjunction with the former insinuates a
+kind of lethargy respecting one God, regeneration, and the means of
+salvation. \[4\] A third sphere relates to the conjunction of faith and
+charity; this is so strong as to be irresistible, but at the present day
+it is abominable; it is like a pestilence that infects everyone on whom
+it breathes, and tears asunder every tie between those two means of
+salvation, established as such from the creation of the world, and
+restored anew by the Lord. This sphere invades even the men in the
+natural world, and extinguishes the marriage torches between truths and
+goods. I have felt this sphere, and at such times, when I thought of the
+conjunction of faith and charity, it interposed itself between them and
+violently endeavored to separate them. \[5\] The angels complain of
+these spheres, and pray to the Lord for their dissipation, but they
+received the answer that they cannot be dissipated so long as the dragon
+is on the earth, because it is from the draconic spirits; for it is said
+of the dragon that he was cast down unto the earth, and then follows:
+Therefore rejoice, ye heavens, and woe to those that inhabit the earth!
+(Apoc. 12:12.) \[6\] These three spheres are like tempest-driven
+atmospheres coming forth from the breathing-holes of the dragons, which,
+being spiritual, invade the mind and control it. The spheres of
+spiritual truth there are as yet few, only in the new heaven, and also
+with those beneath heaven, who are separated from the draconic spirits.
+This is why those truths are so little recognized by men in the world
+to-day, just as ships in the Eastern ocean are invisible to captains and
+shipmasters who are sailing in the Western ocean.
+
+<span class="margnote"><span id="620.">620.</span></span>
+
+That regeneration is impossible without the truths by which faith is
+formed, may be illustrated by the following comparisons. It is as
+impossible as a human mind without understanding; for the understanding
+is formed by means of truths, and therefore teaches what ought to be
+believed and what ought to be done, what regeneration is, and how it is
+effected. Regeneration without truths is as impossible as the
+vivification of animals or the growth of trees without light from the
+sun; for if the sun did not give light at the same time that it gives
+heat, it would become "like sackcloth of hair" (as described in the
+Apocalypse 6:12), and "black" (Joel 2:10, 31), and thus mere darkness
+would be upon the earth (Joel 3:15). It would be the same with man
+without truths, which send out light from themselves; for the sun from
+which the light of truths flows forth is the Lord in the spiritual
+world. If spiritual light did not flow therefrom into human minds, the
+church would be in mere darkness, or in shadow from a perpetual eclipse.
+Regeneration, which is effected by means of faith and charity, without
+truths that teach and lead, would be like navigation on the great ocean
+without a rudder, or without a mariner's compass and charts. It would
+also be like riding in a dark forest at night. The mind's internal sight
+with those who are not in truths but in falsities, which they believe to
+be truths, may be likened to the sight of those whose optic nerves are
+obstructed, the eye still appearing sound and capable of sight, although
+it sees nothing; which kind of blindness is called by physicians
+amaurosis and gutta serena; for in such the rational or intellectual
+faculty is obstructed above and open below only, owing to which rational
+light becomes like the light of the eye, and consequently all their
+opinions are imagination only and are fashioned from mere fallacies. And
+in such case men would stand like astrologers in the market-places with
+long telescopes, uttering unmeaning prophecies. Such would all students
+of theology become, unless genuine truths were disclosed by the Lord
+from the Word.
+
+<span class="margnote"><span id="621.">621.</span></span>
+
+To this the following Memorable Relations shall be added. First: I saw
+an assembly of spirits, all on their knees praying to God to send angels
+to them, with whom they might speak face to face, and to whom they might
+open the thoughts of their hearts. And when they rose up, there appeared
+three angels in white standing in their presence. And the angels said
+"The Lord Jesus Christ has heard your prayers, and has therefore sent us
+to you; open to us the thoughts of your hearts." \[2\] And the spirits
+replied, "Our priests have told us that in theological matters it is not
+the understanding but faith that avails, and that an intellectual faith
+does not profit in such matters, because it springs from and savors of
+man, and is not from God. We are Englishmen, and we have heard many
+things from our sacred ministry which we believed; but when we have
+spoken with others who also called themselves reformed, and with some
+who called themselves Roman Catholics, and again with those of various
+sects, they all seemed learned, and yet in many things they did not
+agree with one another; although they all said, 'Believe us,' and some
+said, 'We are ministers of God, and we know.' But as we know that Divine
+truths, which are called truths of faith and are the truths of the
+church, are no one's by birthright alone, or by inheritance, but are
+from God out of heaven; and as they point the way to heaven and enter
+the life together with the goods of charity, and thus lead to eternal
+life; we have become anxious, and on our knees have prayed to God."
+\[3\] Then the angels answered, "Read the Word and believe in the Lord,
+and you will see the truths which must be the truths of your faith and
+of your life. All in the Christian world draw their doctrinals from the
+Word as the one only fountain." But two of the assembly said, "We have
+read, but have not understood." The angels replied, "You have not
+approached the Lord, who is the Word, and also have first confirmed
+yourselves in falsities." The angels said further, "What is faith
+without light; and what is thinking without understanding? It is not
+human. Ravens and magpies can also learn to talk without understanding.
+We can assure you that every man whose soul desires it, is able to see
+the truths of the Word in clear light. There is no animal that does not
+know its life's food when it sees it; and man is a rational and
+spiritual animal; he sees the food of his life, not his body's but his
+soul's food, which is the truth of faith, provided he hungers for it and
+seeks it from the Lord. \[4\] Moreover, the substance of anything that
+is not received in the understanding, does not remain in the memory, but
+only the verbal statement of it. So when we looked down from heaven into
+the world, we have not seen anything, but have only heard sounds, and
+for the most part discordant ones. But we will enumerate some things
+which the learned of the clergy have separated from the understanding,
+not knowing that there are two ways to the understanding, one from the
+world and the other from heaven, and that when the Lord is enlightening
+the understanding He withdraws it from the world. But if the
+understanding is closed in regard to religion, the way to it from heaven
+is closed; and then man sees no more in the Word than a blind man. We
+have seen many such fall into pits out of which they did not rise. \[5\]
+Let this be made clear by examples. Can you not understand what charity
+is and what faith is, that charity is doing rightly with the neighbor,
+and faith is thinking rightly respecting God and the essentials of the
+church; and consequently that he who does rightly and thinks aright,
+that is, lives well and believes aright, is saved?" To this the spirits
+answered that they understood. \[6\] The angels said further, "Man must
+repent of his sins in order to be saved, and unless he repents he
+remains in the sins into which he was born; and repentance consists in
+man's ceasing to will evils because they are contrary to God, searching
+himself once or twice a year, seeing his evils, confessing them before
+the Lord, praying for help, refraining from evils, and beginning a new
+life; and so far as he does this, and believes in the Lord, his sins are
+forgiven." Then some of those from the assembly said, "That we
+understand, and consequently what the forgiveness of sins is." \[7\]
+Then they asked the angels to give them still further information, and
+first of all about God, the immortality of the soul, regeneration, and
+baptism. To this the angels replied: "We shall not say anything but what
+you will understand; otherwise our words would fall like rain upon the
+sand, and upon the seeds therein which wither and die, however they may
+be watered from heaven." And about God they said, "All who enter heaven
+are allotted a place there, and thus eternal joy according to their idea
+of God, because this idea universally reigns in everything pertaining to
+worship. The idea of God as a Spirit, when spirit is supposed to be
+something like ether or wind, is an idea without meaning; but the idea
+of God as a Man is the right idea; for God is Divine love and Divine
+wisdom, together with every quality thereof, and the subject of these is
+not ether or wind, but Man. In heaven the idea of God is that He is the
+Lord the Savior; He is the God of heaven and earth, as He Himself has
+taught. Let your idea of God be like ours, and we shall be associated
+together." When this had been said, their faces beamed. \[8\] Of the
+immortality of the soul they said, "Man lives forever, because he is
+capable of conjunction with God through love and faith; every man is
+capable of this. That this capability is what constitutes the
+immortality of the soul you can understand if you think a little more
+deeply about the matter." \[9\] Of regeneration they said, "Who does not
+see that every man has the freedom to think about God, or not to think
+about Him, provided he has been taught that there is a God? Thus every
+man has freedom in spiritual things as well as in civil and natural
+things. The Lord gives this to all unceasingly; therefore it is man's
+fault if he does not think. It is because of this ability that man is
+man; while it is because of the absence of it that a beast is a beast.
+Man consequently has the ability to reform and regenerate himself as if
+from himself, provided he acknowledges in his heart that it is from the
+Lord. Everyone who repents and believes in the Lord is being reformed
+and regenerated. Man does both as if from himself; but the as if from
+himself is from the Lord. It is true that man cannot contribute anything
+to this work from himself, not an iota; nevertheless, you were not
+created statues but men, in order that you may do this from the Lord as
+if from yourselves. This one and only reciprocation of love and faith,
+is what the Lord above all things wishes man to make to Him. In a word,
+act from yourselves, and believe that it is from the Lord; this is
+acting as if from yourselves." \[10\] Then they asked whether this
+acting as if from himself was implanted in man from creation. An angel
+replied, "It was not, because to act from himself belongs to God alone,
+but He gives it unceasingly, that is, joins it \[to man\] unceasingly;
+and then so far as man does good and believes truth as if from himself,
+he is an angel of heaven; while so far as he does evil and therefrom
+believes falsity, which he also does as if from himself, he is a spirit
+of hell. You may wonder that he does this also as if from himself,
+nevertheless you can see that it is so, when you pray to be guarded from
+the devil lest he seduce you, and enter into you as he did into Judas,
+and fill you with all iniquity, and destroy you soul and body. But a man
+becomes guilty when he believes that he acts from himself, whether in
+doing good or evil, and not when he believes that he acts as if from
+himself; for when he believes that the good is from himself, he claims
+as his own what belongs to God, and when he believes the evil to be from
+himself he attributes to himself what belongs to the devil." \[11\]
+Respecting baptism they said, that baptism is spiritual washing, which
+is reformation and regeneration; that a child is reformed and
+regenerated when, having become an adult, he does the things that his
+sponsors promised for him, namely, these two, repents, and believes in
+God. For they promise first that he will renounce the devil and all his
+works, and secondly, that he will believe in God. All infants in heaven
+are initiated into these two duties; but to them the devil is hell and
+God is the Lord. Moreover, baptism is a sign to the angels that a man
+belongs to the church." Hearing this, those of the assembly said, "We
+understand that." \[12\] Then a voice was heard from the side, crying
+out, "We do not understand," and another, "We do not wish to
+understand." Inquiry was made from whom those voices came, and it was
+found that they came from those who had confirmed themselves in
+falsities of faith, and who wished to be believed as oracles, and so to
+be worshiped. The angels said, "Do not be surprised; there are many such
+at this day; to us from heaven they appear like sculptured images made
+with such skill that they can move the lips and make sounds like those
+of the vocal organs, but do not know whether the breath which the sound
+comes from is from hell or from heaven, because they do not know whether
+it is false or true. They reason and reason, and they confirm and
+confirm, and yet do not see whether anything is so or not. But know
+this, that human ingenuity can confirm whatever it will, even until it
+seems to be actually true; therefore heretics can do so, and impious
+persons; and atheists are more able to prove that there is no God, but
+nature only." \[13\] After this the assembly of the English, inflamed
+with a desire to be wise, said to the angels, "They say so many
+different things about the holy supper, tell us what the truth is about
+it." The angels replied, "The truth is, that the man who looks to the
+Lord and repents, is by that most holy ordinance conjoined with the Lord
+and introduced into heaven." Those of the assembly said, "That is a
+mystery." The angels replied, "It is a mystery, and yet such as may be
+understood. The bread and wine do not effect this; from these there is
+nothing holy; but material bread and spiritual bread, as also material
+wine and spiritual wine correspond to each other mutually, spiritual
+bread being the holy principle of love, and spiritual wine the holy
+principle of faith, both from the Lord, and both being the Lord. From
+this comes the conjunction of the Lord with man and of man with the
+Lord, not with the bread and wine, but with the love and faith of the
+man who has repented; and conjunction with the Lord is also introduction
+into heaven." And after the angels had taught them something about
+correspondence, those of the assembly said, "Now for the first time we
+can understand this also." And when they had said this, behold, a flame
+with light descended from heaven and affiliated them with the angels,
+and they loved each other mutually.
+
+<span class="margnote"><span id="622.">622.</span></span>
+
+Second Memorable Relation: All who have been prepared for heaven (which
+is done in the world of spirits, which is intermediate between heaven
+and hell), when the time is completed wish for heaven with great
+longing; and soon their eyes are opened and they see a path leading to
+some society in heaven; they take this path and ascend, and in the
+ascent there is a gate and a keeper there. He opens the gate, and they
+enter in through it. Then an examiner meets them, who tells them from
+the president to enter still further and to look about and see whether
+there are houses anywhere which they recognize as their own, for there
+is a new house for every novitiate angel. If they find one they so
+report and remain there. But if they do not find one they return and say
+that they have not seen any. And then an examination is made by a
+certain wise one there whether the light that is in them harmonizes with
+that in the society, and especially whether the heat does; for the light
+of heaven in its essence is Divine truth, and the heat of heaven in its
+essence is good, both going forth from the Lord there as a sun. If there
+is in them a light and a heat different from the light and heat of that
+society, that is, a different kind of good and truth, they are not
+received. Therefore they leave that place, and through ways opened
+between the societies in heaven they pass on; and this they do until
+they find a society perfectly harmonious with their affections, and this
+becomes their abode forever. For they are then among their own, just as
+if among relatives and friends whom they love from the heart, because
+they are in like affections; and there they are in their life's
+happiness, and in the joy of their whole bosom from peace of mind, for
+in the light and heat of heaven there is ineffable delight, which is
+shared. Thus it happens with those who are becoming angels. \[2\] And
+yet those who are in evils and falsities may ascend to heaven by
+permission; but when they enter they begin to catch their breath and to
+breathe with difficulty; and presently their sight grows dim, their
+understanding is darkened, they cease to think, a kind of oblivion
+hovers before their eyes, and so they stand like stocks. Then the heart
+begins to throb, the chest to be oppressed, the mind is seized with
+anguish, and their distress increases more and more; and in this state
+they writhe like serpents brought near a fire, so that they roll
+themselves away, and by a steep descent which then appears, they cast
+themselves down, and do not rest until they are in hell among their
+like, where they can draw breath and where their hearts beat freely.
+After this they hate heaven, reject truth, and in heart blaspheme the
+Lord, believing that their pains and torments in heaven were from Him.
+\[3\] From these few things it can be seen what the lot is of those who
+have no regard for the truths of faith, which nevertheless constitute
+the light in which the angels of heaven are, and who have no regard for
+the goods of love and charity, which nevertheless constitute the heat of
+life in which the angels of heaven are; and it will also be seen
+therefrom, how greatly those err who believe that anyone may enjoy
+heavenly happiness if only he is admitted into heaven. For it is the
+belief of the present day, that to be received into heaven is a matter
+of mercy only and that a man's reception into heaven is like entering a
+house in the world where there is a wedding, and being admitted at once
+into its joys and festivities. But let it be understood that in the
+spiritual world there is a sharing of the love's affections and the
+thoughts arising from them, since man is then a spirit, and the life of
+the spirit is the love's affection and its thought; also that
+homogeneous affection conjoins while heterogeneous affection separates,
+and both to a devil in heaven and to an angel in hell heterogeneity is
+torture; and for this reason they are separated in strict accordance
+with the diversities, varieties, and differences of the affections
+pertaining to the love.
+
+<span class="margnote"><span id="623.">623.</span></span>
+
+Third Memorable Relation: I was once permitted to see three hundred of
+the clergy and laity together, all learned and erudite in that they knew
+how to confirm faith alone even to justification thereby, and some still
+further. And because they were in the belief that heaven is a mere
+matter of admission from grace, they were given leave to ascend into a
+heavenly society, which however was not among the higher ones. And when
+they ascended they appeared at a distance like calves. When they entered
+heaven they were received by the angels civilly, but while they were
+talking a trembling seized them, afterward a horror, and finally torture
+like that of death; then they cast themselves down headlong, and in
+their fall they appeared like dead horses. In their ascent they had
+appeared like calves, because a vigorous natural affection for seeing
+and knowing appears, on account of its correspondence, like a calf; but
+in their fall they appeared like dead horses because the understanding
+of truth appears, on account of its correspondence, like a horse, and a
+lack of understanding of truth pertaining to the church appears like a
+dead horse. \[2\] There were boys below who saw them descending, and in
+their descent looking like dead horses; and they then turned their faces
+away and asked their teacher who was with them, "What monstrosity is
+this? We saw men, and now, instead of them we see dead horses; and not
+being able to look at them we turned away our faces. O Teacher, let us
+not stay in this place, let us go away." And they went away. Then the
+teacher taught them on the way the meaning of a dead horse, saying, "A
+horse signifies the understanding of truth from the Word. This is the
+signification of all the horses you have seen; for when a man goes along
+meditating upon the Word, his meditation appears at a distance like a
+horse, noble and lively in proportion as he meditates spiritually, but
+on the other hand poor and lifeless as he meditates materially." \[3\]
+Then the boys asked, "What is meditating spiritually and materially upon
+the Word?" The teacher answered, "I will illustrate it by examples. When
+reading the Word in a reverent way, who does not think within himself
+about God, the neighbor and heaven? He who thinks of God from person
+only and not from essence thinks materially; and he who thinks of the
+neighbor from his outward form only, and not from quality, thinks
+materially; and he who thinks of heaven from place merely, and not from
+love and wisdom, from which heaven is heaven, also thinks materially."
+\[4\] But the boys said, "We have thought of God from person, of the
+neighbor from form, that he is a man, and of heaven from place, that it
+is above us. Have we then when reading the Word appeared to anyone like
+dead horses?" The teacher said, "No; you are still boys, and cannot
+think otherwise; but I have perceived in you an affection for knowing
+and understanding, and this being spiritual you have thought
+spiritually; for there is some spiritual thought latent within your
+material thought, although you are not aware of it. But I will return to
+what I said before, that he who thinks materially while reading the Word
+or meditating upon it, appears at a distance like a dead horse, while he
+who thinks spiritually appears like a living horse, and that he thinks
+materially of God who thinks of Him from person only and not from
+essence. For there are many attributes of the Divine Essence, as
+omnipotence, omniscience, omnipresence, eternity, love, wisdom, mercy,
+grace, and others; and there are attributes that go forth from the
+Divine Essence, namely, creation, preservation, redemption and
+salvation, enlightenment and instruction. Everyone who thinks of God
+from person makes three Gods, saying that the Creator and Preserver is
+one God, the Redeemer and Savior another, and the Enlightener and
+Instructor a third; while everyone who thinks of God from essence makes
+one God, saying, 'God created us, the same God redeemed and saves us,
+and He also enlightens and instructs.' This is why those Who think of
+the trinity of God from person, thus materially, must needs, out of the
+ideas of their thought which is material, make three Gods out of one.
+Nevertheless, in opposition to their thought, they are compelled to say
+that there is a union of these three by means of the essence, because
+they have also thought of God from essence, although, as it were,
+through a lattice. \[5\] "Therefore, my scholars, think of God from
+essence, and from essence of person. For to think of essence from person
+is to think of essence also materially; while to think from essence of
+person is to think of person also spiritually. Because the ancient
+heathen thought materially of God and therefore of the attributes of
+God, they not only made three gods but more, even as many as a hundred;
+for out of every attribute they made a god. You must understand that the
+material does not enter into the spiritual, but the spiritual enters
+into the material. It is the same with thought respecting the neighbor
+from the outward form and not from his quality; as also with thought
+about heaven from place, and not from love and wisdom, from which heaven
+exists. It is the same with each and all things in the Word; therefore
+he who cherishes a material idea of God, as also of the neighbor and
+heaven, can understand nothing in the Word; it is to him a dead letter,
+and when reading it or meditating upon it he appears at a distance like
+a dead horse. \[6\] Those whom you saw descending from heaven, having
+become before your eyes like dead horses, were such as have closed up
+the rational sight in respect to the theological or spiritual matters of
+the church both in themselves and in others by their peculiar dogma that
+the understanding must be kept in obedience to their faith; not
+reflecting that an understanding closed up by religion is as blind as a
+mole, with nothing in it but thick darkness. And such darkness, in
+rejecting from itself all spiritual light, shuts out the influx of that
+light, from the Lord and heaven, and places before it a bar in the
+corporeal-sensual far beneath the rational in matters of faith, that is,
+it places it near the nose, and fixes it in its cartilage, so that
+afterward what is spiritual cannot even be smelled. Because of this some
+have become of such a nature that when they perceive the odor from
+spiritual things they fall into a swoon. By odor I mean perception.
+These are they who make God three. They say, indeed, that from essence
+God is one; and yet, when they pray according to their belief, which is,
+that God the Father will have mercy for the Son's sake and that He will
+send the Holy Spirit, they clearly make three Gods; and they cannot do
+otherwise; for they pray to one to be merciful for the sake of a second
+and to send a third." Then their teacher taught them concerning the Lord
+that He is the one God, in whom is the Divine Trinity.
+
+<span class="margnote"><span id="624.">624.</span></span>
+
+Fourth Memorable Relation: Awaking from sleep at midnight, I saw at some
+height toward the east an angel holding in his right hand a paper which
+appeared of lustrous brightness in the sun's light, and in the center of
+it there was a writing in golden letters; and I saw written: The
+Marriage of Good and Truth. From the writing flashed a splendor which
+spread into a wide circle round about the paper; so that the circle or
+border appeared like the dawn of day in spring. After this I saw the
+angel with the paper in his hand descending, and as he descended the
+paper appeared less and less bright, and the inscription, which was The
+Marriage of Good and Truth, was changed from a golden to a silver color,
+then to a copper color, then to an iron color, and finally to the color
+of copper and iron rust. At last the angel seemed to enter a dark mist
+and to pass through it to the earth; and there the paper, although still
+retained in his hand, was not visible. This was in the world of spirits
+where all men first assemble after death. \[2\] The angel then spoke to
+me, saying: "Ask those who are coming here whether they see me or see
+anything in my hand." A multitude came, one body from the east, one from
+the south, one from the west, and one from the north; and I asked those
+coming from the east and south, who were such as, while in the world,
+had been devoted to learning, whether they saw anyone there with me, or
+anything in his hand. They all said that they saw nothing whatever. Then
+I asked those who came from the west and north, who were such as in the
+world had believed in the sayings of the learned; these said that they
+too did not see anything; although the last of them, who in the world
+had been in simple faith from charity or in some truth from good, said,
+after the former had gone away, that they saw a man with a paper, a man
+in graceful clothing, and a paper upon which letters were written; and
+when they brought their eyes close to it, they said that the inscription
+was, The Marriage of Good and Truth. \[3\] These also spoke to the
+angel, and asked him to tell them what it was. And the angel said, "All
+things in the whole heaven, and all things in the whole world, are by
+creation nothing but a marriage of good and truth, since each and all
+things, both the living and animate, and the lifeless and inanimate, are
+created from a marriage of good and truth and into that marriage.
+Nothing created into truth alone or into good alone is possible; either
+of these alone is nothing; but by means of that marriage the two exist
+and become a something, in quality in accord with the marriage. In the
+Lord God the Creator there is Divine good and Divine truth in their very
+substance. Divine good is the being \[esse\] of His substance, and
+Divine truth is the outgo \[existere\] of His substance, and they are
+also in their very oneness, for in Him they make one infinitely. As
+these two are one in God the Creator Himself, they are also one in each
+and all things created by Him; and by means of this the Creator is
+conjoined in an eternal covenant like that of marriage with all things
+created from Himself." \[4\] The angel said further, that the Sacred
+Scripture, which was dictated by the Lord, is in the whole and in every
+part a marriage of good and truth (see above, 248-253); and because the
+church, which is formed by truths of doctrine, and religion, which is
+formed by goods of life according to truths of doctrine, are, with
+Christians, solely from the Sacred Scripture, it is evident that the
+church also, in general and in particular, is a marriage of good and
+truth. And what has been said of the marriage of good and truth can be
+said also of The Marriage of Charity and Faith, since good belongs to
+charity, and truth to faith. When this had been said the angel raised
+himself up from the earth, and passing through the mist, he ascended
+into heaven; and then the paper, according as he ascended, shone as
+before; and lo, that circle which before appeared like the day-dawn,
+settled down and dispelled the mist which had brought darkness upon the
+earth, and it became sunny.
+
+<span class="margnote"><span id="625.">625.</span></span>
+
+Fifth Memorable Relation: Once when I was meditating about the Lord's
+second coming, there suddenly appeared a flash of light which forcibly
+struck my eyes; and I therefore looked up, and lo, the whole heaven
+above me appeared luminous, and there from the east to the west in a
+continuous strain a Glorification was heard; and an angel stood near who
+said, "That is a glorification of the Lord on account of His coming. It
+comes from the angels of the eastern and western heavens." From the
+southern and northern heavens only a gentle murmur was heard. And
+because all this was heard by the angel, he first said to me that these
+glorifications and celebrations of the Lord are made from the Word.
+Presently he said, "Now they are glorifying and celebrating the Lord
+especially by these words, which are spoken in the prophecy of Daniel:
+Thou sawest iron mixed with miry clay, but they shall not cohere. But in
+those days the God of the heavens shall make a kingdom to arise which
+shall not perish for ages it shall break in pieces and consume all these
+kingdoms, but itself shall stand for ages (2:43, 44). \[2\] After this I
+heard the sound of singing, and more deeply in the east I saw a flashing
+of light more brilliant than the former; and I asked the angel what the
+glorification there was. He said it was in these words in Daniel: I saw
+in the night visions, and behold, one like the Son of man came with the
+clouds of heaven, and there was given Him dominion, and a kingdom; and
+all people and nations shall worship Him; His dominion is the dominion
+of an age, which shall not pass away, and His kingdom that which shall
+not be destroyed (Dan. 7:13, 14). Beside this they were celebrating the
+Lord from these words in the Apocalypse: To Jesus Christ be the glory
+and the might; behold, He cometh with clouds. He is the Alpha and the
+Omega, the Beginning and the End, the Fist and the last, Who is, Who
+was, and Who is to come, the Almighty; I John heard this from the Son of
+man out of the midst of the seven candlesticks (Rev. 1:5-13; 22:8, 13;
+also Matt. 24:30, 32). \[3\] I looked again into the eastern heaven, and
+it lighted up from the right side, the illumination extended to the
+southern expanse, and I heard a sweet sound, and asked the angel what it
+was pertaining to the Lord that they were glorifying there; and he said
+that it was in these words in the Apocalypse: I saw a new heaven and a
+new earth, and I saw the holy city, New Jerusalem, coming down out of
+heaven from God, made ready as a bride for her husband. And I heard a
+great voice out of the heaven saying, Behold the tabernacle of God is
+with men, and He will dwell with them. And an angel spoke with me,
+saying, Come, and I will show thee the bride, the wife of the Lamb. And
+he carried me away in the spirit to a great and high mountain, and
+showed me the city, the holy Jerusalem (Rev. 21:1, 3, 9, 10). I Jesus am
+the bright and morning star; and the Spirit and the bride say, Come, and
+He said I come quickly. Amen. Even so, come Lord Jesus (Rev. 22:16, 17,
+20). \[4\] After this and more, a general glorification from the east to
+the west of heaven, and also from south to north was heard; and I asked
+the angel, "What now?" He said, "The following from the prophets": All
+flesh shall know that I Jehovah am thy Savior and thy Redeemer (Isa.
+49:26). Thus said Jehovah the King of Israel, and his Redeemer, Jehovah
+of Hosts, I am the First and the Last, and beside Me there is no God
+(Isa. 44:6). It shall be said in that day, Lo, this is our God; we have
+waited for Him that He may deliver us; this is Jehovah; we have waited
+for Him, (Isa. 25:9). The voice of one crying in the desert, Prepare ye
+the way of Jehovah. Behold, the Lord Jehovih cometh in strength; He
+shall feed His flock like a shepherd (Isa. 40:3, 5, 10, 11). Unto us a
+Child is born, unto us a Son is given; and His name shall be Wonderful,
+Counselor, God, Mighty, Father of eternity, Prince of peace (Isa. 9:6).
+Behold the days will come when I will raise unto David a righteous
+Branch, and He shall reign King and this is His name, Jehovah our
+righteousness (Jer. 23:5, 6; 33:15, 16). Jehovah of Hosts is His name,
+and thy Redeemer the Holy One of Israel, the God of the whole earth
+shall He be called (Isa. 54:5). In that day Jehovah shall be king over
+all the earth; in that day Jehovah shall be one and His name one (Zech.
+14:9). Hearing and understanding these things my heart greatly rejoiced,
+and I went home joyfully, and here I returned from the spiritual to the
+bodily state, in which I wrote out all this that I had seen and heard.
+
+<span class="margnote"><span id="626.">626.</span></span>
+
+CHAPTER 11 IMPUTATION. I. IMPUTATION AND THE FAITH OF THE PRESENT CHURCH
+(WHICH IS HELD TO BE THE SOLE GROUND OF JUSTIFICATION), MAKE ONE. The
+faith of the present church, which is held to be the sole ground of
+justification, is imputation; that is, in the present church, faith and
+imputation make one, because each belongs to the other, or each mutually
+and interchangeably enters into the other and causes it to be. For if
+faith is mentioned and imputation is not added faith is mere sound; and
+if imputation is mentioned and faith is not added imputation is mere
+sound; but when the two are mentioned together, the result is something
+articulate, and yet without meaning; and in order that the understanding
+may have a perception of some thing, a third must necessarily be added,
+namely, Christ's merit. These form a statement that a man can utter with
+some reason. For it is the faith of the present church that God the
+Father imputes His Son's righteousness, and sends the Holy Spirit to
+work out its effects.
+
+<span class="margnote"><span id="627.">627.</span></span>
+
+In the present church, then, these three, faith, imputation, and
+Christ's merit, are one, and they may be called a triune; for if one of
+these three were taken away, the present theology would be reduced to
+nothing, since it depends on these three perceived as one, as a long
+chain on a fixed hook. So if either faith, or imputation, or Christ's
+merit were taken away, all the things said about justification, the
+forgiveness of sins, vivification, renewal, regeneration,
+sanctification, and about the gospel, freedom of choice, charity, and
+good works, and even life eternal, would become like desolate towns or
+like a temple in ruins, and faith itself, which stands at the head of
+all, would come to nothing, and thus the entire church would be a desert
+and a desolation. All this makes clear upon what a pillar the house of
+God at this day is made to rest: and if that pillar were torn down the
+house would be overthrown, like that in which the lords of the
+Philistines and people to the number of three thousand were amusing
+themselves, when Samson pulled down both of its pillars at once, and all
+within it were slain or died (Judges 16:29). This is said because it has
+been shown in what precedes, and will be shown still further in an
+appendix, that this faith is not Christian, because it is at variance
+with the Word, and that the imputation which it teaches is absurd, since
+Christ's merit cannot be imputed.
+
+<span class="margnote"><span id="628.">628.</span></span>
+
+II\. THE IMPUTATION THAT BELONGS TO THE FAITH OF THE PRESENT DAY IS A
+DOUBLE IMPUTATION. AN IMPUTATION OF CHRIST'S MERIT AND AN IMPUTATION OF
+SALVATION THEREBY. Throughout the whole Christian church it is taught
+that justification and salvation thereby are effected by God the Father
+through the imputation of the merit of Christ His Son; that imputation
+takes place by grace when and where God wills, thus arbitrarily; and
+that those to whom Christ's merit is imputed are adopted into the number
+of children of God. And because the leaders of the church have not
+advanced a foot beyond that imputation or raised their minds above it,
+because of the established dogmas of God's arbitrary election, they have
+fallen into enormous and fanatical errors, and at length into that
+detestable error respecting predestination, and still further into the
+abominable error, that God pays no attention to the deeds of a man's
+life but only to the faith inscribed upon the interiors of his mind.
+Unless, therefore, the error respecting imputation is abolished, atheism
+will invade all Christendom; and then will reign over them. The king of
+the abyss, whose name in Hebrew is Abaddon and in Greek Apollyon (Rev.
+9:11), "Abaddon" and "Apollyon" signifying the destroyer of the church
+by falsities, and "the abyss" the abode of those falsities (see the
+Apocalypse Revealed n. 421, 440, 442). From this it is clear that that
+falsity and the resultant falsities exist in an extended series, over
+which that destroyer reigns; for, as said above, the entire system of
+the present theology is dependent on this imputation, as a long chain on
+a fixed hook, and as man with all his members is dependent on the head.
+And because this imputation reigns everywhere, it is like what Isaiah
+says: The Lord will cut off from Israel head, and tail; the honorable,
+he is the head; and the teacher of lies, he is the tail (9:14, 15).
+
+<span class="margnote"><span id="629.">629.</span></span>
+
+As just said, the imputation of the prevailing faith is a double
+imputation; but it is double in the sense that God exercises His mercy
+toward some, and not toward all, or that a parent exercises his love
+toward one or two of his children, and not toward all, or that the
+Divine law and its command apply to a few and not to all. One kind of
+doubleness, therefore, is far-reaching and undivided, the other is
+restricted and divided; this latter is doubleness, but the former is
+miry. For it is taught that the imputation of Christ's merit is from an
+arbitrary election, and that to those so elected there is an imputation
+of salvation, thus that some are adopted and the rest rejected; which
+would be as if God lifted some up into Abraham's bosom, and gave some
+over as morsels to the devil; and yet the truth is that the Lord rejects
+no man, and gives no man over to the devil, but this is done by the man
+himself.
+
+<span class="margnote"><span id="630.">630.</span></span>
+
+It may be added that the present day doctrine of imputation deprives man
+of all power arising from any freedom of choice in spiritual things, and
+does not even leave him enough to enable him to brush fire from his
+clothing and keep his body from harm, or to extinguish his blazing home
+with water and rescue his family; and yet the Word from beginning to end
+teaches that everyone must shun evils, because they are of the devil and
+from the devil, and must do good because it is of God and from God, and
+that he must do this of himself, the Lord working in him. Put the
+present doctrine of imputation condemns the power to do this as deadly
+to faith and consequently to salvation, lest something belonging to man
+might enter into the imputation, and thus into the merit of Christ; from
+the establishment of which doctrine has issued this satanic principle
+that man is absolutely impotent in spiritual matters; which is like
+saying, Walk, although you have no feet, not even one; Wash, though both
+your hands are cut off; or, Do good, but keep asleep; or, Feed yourself,
+even without a tongue. It is also like giving man a will that is not a
+will; in which case can he not say, "I have no more power than the
+pillar of salt into which Lot's wife was turned, or than Dagon the god
+of the Philistines had when the ark of God was taken into his house; I
+am afraid that my head like his might be torn off, and the palms of my
+hands thrown upon the threshold (1 Sam. 5:4); nor have I any more power
+than Beelzebub the god of Ekron who, as his name signifies, can only
+drive away flies?" That such impotence in spiritual things is believed
+in at the present day may be seen above (n. 464) from the extracts
+respecting freedom of choice.
+
+<span class="margnote"><span id="631.">631.</span></span>
+
+As to the first part of the doubleness of that imputation respecting
+man's salvation, namely, the arbitrary imputation of Christ's merit, and
+the imputation of salvation thereby, the dogmatists differ; some
+teaching that this imputation is absolute, from free power, and takes
+place with those whose external or internal form is well pleasing to
+God; others, that imputation takes place from foreknowledge, with those
+into whom grace is infused, and to whom this faith can be applied.
+Nevertheless, these two opinions aim at one mark, or are like two eyes
+that have one stone for their object, or two ears that have as their
+object one song. At first glance they seem to depart from each other,
+but in the end they unite and agree. For since man's complete impotence
+in things spiritual is taught by both, and everything belonging to man
+is excluded from faith, it follows that this grace which is receptive of
+faith, whether infused arbitrarily or from foreknowledge is the same as
+election; for if that which is called prevenient grace were universal,
+man's application of it from some power of his own would come in, and
+this is of course rejected as leprous. Consequently a man no more knows
+whether from grace that faith has been given him or not, than a stock or
+a stone, which is what he was when it was infused; for there is no
+possible sign to attest it when charity, piety, the pursuit of a new
+life, and the free ability to do either good or evil, are denied to man.
+The signs attesting that faith which are put forth are all ludicrous,
+closely resembling the auguries of the ancients from the flights of
+birds, the prognostications of astrologers by the stars, or of players
+by dice. Such things, and others still more ludicrous, are consequences
+of the doctrine of the Lord's imputed righteousness, which together with
+faith (which is called that righteousness), is communicated to the
+elect.
+
+<span class="margnote"><span id="632.">632.</span></span>
+
+III\. THE FAITH IMPUTATIVE OF THE MERIT AND RIGHTEOUSNESS OF CHRIST THE
+REDEEMER, FIRST AROSE FROM THE DECREES OF THE COUNCIL OF NICE RESPECTING
+THREE DIVINE PERSONS FROM ETERNITY, WHICH FAITH HAS BEEN ACCEPTED BY THE
+WHOLE CHRISTIAN WORLD FROM THAT TIME TO THE PRESENT. As to the Nicene
+Council itself, it was convoked by the emperor Constantine the Great by
+the advice of Alexander, bishop of Alexandria, and was composed of all
+the bishops in Asia, Africa, and Europe, and was held in his palace at
+Nice, a city of Bithynia. Its object was to refute and condemn, from the
+sacred writings, the heresy of Arius, a presbyter of Alexandria, who
+denied the Divinity of Jesus Christ. This took place in the year of our
+Lord 325. The members of that council decided that there were from
+eternity three Divine persons - Father, Son and Holy Spirit - as appears
+especially from the two creeds called the Nicene and Athanasian. In the
+Nicene creed we read: I believe in one God the Father, Almighty, Maker
+of heaven and earth, and in one Lord, Jesus Christ, the Son of God, the
+only begotten of the Father, born before all ages, God from God,
+consubstantial with the Father, who descended from the heavens and was
+incarnate by the Holy Spirit from the virgin Mary; and in the Holy
+Spirit, Lord and Vivifier, who proceeds from the Father and the Son, and
+who together with the Father and the Son is adored and glorified. In the
+Athanasian creed is the following: The Catholic faith is this, that we
+worship one God in a Trinity, and the Trinity in unity, neither
+confounding the Persons nor separating the substance. But as we are
+compelled by the Christian verity to confess each Person singly to be
+God and Lord, so are we forbidden by the Catholic religion to say three
+Gods or three Lords. That is, it is permitted men to confess, but not to
+say, three Gods and Lords. They may not say so because religion forbids
+it, but may confess it because the truth so dictates. This Athanasian
+creed was written out by one or more of those who were present,
+immediately after the holding of the Nicene Council, and was accepted as
+ecumenical or Catholic. This shows clearly that it was then decided that
+three Divine persons from eternity ought to be acknowledged, and that
+although each Person singly was by Himself God, still they ought not to
+be called three Gods and Lords, but one.
+
+<span class="margnote"><span id="633.">633.</span></span>
+
+That a belief in three Divine persons has been accepted since that time,
+and has also been confirmed and preached by all bishops, hierarchs,
+church rulers, and presbyters up to the present time, is known in the
+Christian world; and because a mental persuasion of the existence of
+three Gods has emanated therefrom, men have been unable to devise any
+other faith than one that could be applied to these three in their
+order; namely, this, that God the Father must be approached and be
+implored to impute His Son's righteousness, or to be merciful on account
+of His Son's passion on the cross, and to send the Holy Spirit to work
+out the mediate and final effects of salvation. \[2\] This faith is the
+offspring born from those two creeds; but when its swaddling clothes are
+stripped off, there comes to view not one but three, at first joined
+together, as it were, in an embrace, but afterward separated, for it is
+declared that their essence unites them, but their properties - which
+are creation, redemption, and operation (that is, imputation, imputed
+righteousness and the making it effectual) separate them. And for this
+reason, although out of three Gods they have made one, yet they have not
+made one Person out of three, from a fear that the idea of three Gods
+might be obliterated; for then, as stated in the creed, each Person
+singly can still be believed to be God; while if the three Persons were
+in consequence to become one, the whole house, built upon these three as
+its columns, would tumble into a heap. \[3\] That council introduced the
+doctrine of three Divine persons from eternity because they had not
+properly searched the Word, and could therefore find no other defense
+against the Arians. Afterwards they combined those three Persons, each
+one of whom is God by Himself, into one God, from a fear of being
+accused of a belief in three Gods and reproached for it by every
+reasonable religious person on the three continents. They taught a
+belief that applied to the three Gods in their order, because no other
+faith could issue from that principle; to which is to be added, that if
+one of the three were passed by, the third would not be sent, and thus
+every operation of Divine grace would be fruitless.
+
+<span class="margnote"><span id="634.">634.</span></span>
+
+But the truth must be told. When a belief in three Gods was introduced
+into Christian churches, which was done at the time of the Nicene
+Council, they banished every good of charity and every truth of faith,
+because these two are wholly inconsistent with a mental worship of three
+Gods and a simultaneous oral worship of one God; for the mind then
+denies what the mouth utters, and the mouth denies what the mind thinks;
+and the result is that there is neither a belief in three Gods nor a
+belief in one God. From this it is clear that since that time the
+Christian temple has not only cracked open but has fallen to ruins; and
+since that time the mouth of the abyss, from which ascends a smoke like
+that of a great furnace, has been opened, the sun and air have been
+darkened, and locusts have gone out therefrom upon the earth (Rev. 9:2,
+3). (See the explanation of these things in the Apocalypse Revealed.)
+And from that time also has the desolation foretold by Daniel commenced
+and increased (Matt. 24:15), and to that faith and the imputation
+thereof the eagles have gathered together (Matt. 24:28, "eagles" there
+meaning the lynx-eyed leaders of the church). It may be said that a
+council in which so many bishops and learned men sat together,
+established this faith by a unanimous vote; but what confidence can be
+placed in councils, when Roman Catholic councils have also by a
+unanimous vote established the vicarship of the pope, the invocation of
+saints, the worship of images and bones, the division of the holy
+eucharist, purgatory, indulgences, and the like? And what confidence can
+be placed in councils when the council of Dort has also by a unanimous
+vote established a detestable predestination, and set it forth as the
+palladium of religion? But, my reader, believe not in councils, but in
+the Holy Word; and go to the Lord, and you will be enlightened; for He
+is the Word, that is, the Divine Truth in the Word.
+
+<span class="margnote"><span id="635.">635.</span></span>
+
+Finally, this following arcanum shall be disclosed. In seven chapters of
+the Apocalypse the consummation of the present church is described in
+much the same way as the devastation of Egypt is described; for the two
+are pictured by like plagues, each one of which spiritually signifies
+some falsity, which extends the devastation of it even to destruction;
+and for this reason the present church, which is at this day destroyed,
+is called "Egypt," spiritually understood, (Apoc. 11:8). The plagues of
+Egypt were as follows: The waters were turned into blood, so that every
+fish died, and the river stank (Ex. 7). A like statement is made in the
+Apocalypse (8:8; 16:3); "blood" signifying Divine truth falsified, (see
+Apocalypse Revealed, n. 379, 404, 681, 687, 688); and the "fishes" which
+then died signifying the truths in the natural man, in like manner dead
+(n. 290, 405). Frogs were brought upon the land of Egypt (Ex. 8).
+Something is also said of frogs in the Apocalypse 16:13); "frogs"
+signifying reasonings from a lust for falsifying truths (see Apocalypse
+Revealed, n. 702). In Egypt noisome sores were brought upon both man and
+beast (Ex. 9). (The same in the Apocalypse 16:2); "sores" signifying
+interior evils and falsities destructive of good and truth in the church
+(see Apocalypse Revealed, n. 678). In Egypt there was hail mingled with
+fire (Ex. 9). (The same in the Apocalypse, 8:7; 16:21); "hail"
+signifying infernal falsity (see Apocalypse Revealed, n. 399, 714):
+Locusts were sent upon East (Ex. 10). (The same in the Apocalypse,
+9:1-11); "locusts" signifying falsities in outermosts, (see Apocalypse
+Revealed n. 424, 430). Great darkness was brought upon Egypt (Ex. 10).
+(The same in the Apocalypse, 8:12); "darkness" signifying falsities
+arising either from ignorance, or from falsities of religion, or from
+evils of life; (see Apocalypse Revealed, n. 110, 413, 695). Finally, the
+Egyptians perished in the Red Sea (Ex. 14). (But in the Apocalypse the
+dragon and the false prophet were cast into the lake of fire and
+brimstone, 19:20; 20:10); both "the Red Sea" and that "lake" signifying
+hell. Respecting Egypt and respecting the church, whose consummation and
+end are described in the Apocalypse, like statements are made, because
+"Egypt" means a church that was in its beginning pre-eminent; and for
+this reason, before this church had been devastated, Egypt is compared
+to the garden of Eden, and the garden of Jehovah, (Gen. 13:10; Ezek.
+31:8); and is also called "the corner-stone of the tribes," "the son of
+the wise, and of the kings of old," (Isa. 19:11, 13). More respecting
+Egypt in its primeval state and in its devastated state may be seen in
+the Apocalypse Revealed (n. 503).
+
+<span class="margnote"><span id="636.">636.</span></span>
+
+IV\. THE FAITH IMPUTATIVE OF CHRIST'S MERIT WAS UNKNOWN IN THE PRECEDING
+APOSTOLIC CHURCH, AND IS NOWHERE TAUGHT IN THE WORD. The church that
+preceded the Nicene Council is called the Apostolic church. It was
+evidently a widespread church, extending over the three parts of the
+globe, Asia, Africa and Europe, for the Emperor Constantine the Great
+was a Christian, and also a zealot in religion, and his dominion
+extended not only over many kingdoms of Europe that were afterward
+separated, but also over the neighboring countries outside of Europe. So
+as just said, he assembled the bishops from Asia, Africa and Europe, in
+his palace at Nice, a city of Bithynia, in order that he might banish
+from his empire the scandalous dogmas of Arius. This was done by the
+Lord's Divine Providence, because when the Divinity of the Lord is
+denied the Christian church dies, and becomes like a sepulchre adorned
+with the epitaph, Hic jacet. The church that existed before this time
+was called Apostolic; its distinguished writers were called the Fathers,
+and all true Christians held the relation of brethren. This church did
+not acknowledge three Divine persons, nor therefore a Son of God born
+from eternity, but only a Son of God born in time, as is evident from
+the creed, which by their church was called the Apostles' Creed, where
+the following words occur: "I believe in God the Father Almighty, Maker
+of heaven and earth; and in Jesus Christ His only Son our Lord, who was
+conceived of the Holy Spirit, born of the virgin Mary; I believe in the
+Holy Spirit, the holy Catholic church, the communion of the saints."
+From this it is clear that they acknowledged no other Son of God than
+the one conceived of the Holy Spirit and born of the virgin Mary, and by
+no means a Son of God born from eternity. This creed, like the two
+others, has been acknowledged as truly Catholic by the entire Christian
+church up to the present day.
+
+<span class="margnote"><span id="637.">637.</span></span>
+
+That in that primitive time all in the then Christian world acknowledged
+that the Lord Jesus Christ is God, to whom was given "all power in
+heaven and on earth," and "power over all flesh," according to His own
+express words (Matt. 28:18; John 17:2), and that they believed in Him,
+according to His command given from God the Father (John 3:15, 16, 36;
+6:40; 11:25, 26), is also clearly evident from the convoking of all the
+bishops by the Emperor Constantine the Great, in order that they might
+from the sacred writings refute and condemn Arius and his followers, who
+denied the Divinity of the Lord the Savior born of the virgin Mary. This
+indeed they did, but in trying to escape the wolf they came upon the
+lion, or, according to the proverb, wishing to avoid Charybdis they ran
+upon Scylla; which they did by inventing a Son of God from eternity, who
+descended and assumed a Human, believing that they had thus vindicated
+and reestablished the Lord's Divinity, not knowing that God Himself the
+Creator of the universe descended in order to become a Redeemer, and
+thus a Creator anew, according to the following plain declarations in
+the Old Testament: Isa. 25:9; 40:3, 5, 10, 11; 43:14; 44:6, 24; 47:4;
+48:17; 49:7, 26; 60:16; 63:16; Jer. 1. 34; Hos. 13:4; Ps. 19:14; to
+which add John 1:14; 19:15.
+
+<span class="margnote"><span id="638.">638.</span></span>
+
+That Apostolic church, since it worshiped the Lord God Jesus Christ, and
+at the same time God the Father in Him, may be likened to the garden of
+God, and Arius who then arose, to the serpent sent from hell, and the
+Nicene Council to Adam's wife, who offered the fruit to her husband and
+persuaded him to eat of it, after doing which they appeared to
+themselves to be naked, and covered their nakedness with fig-leaves.
+Their "nakedness" means their former innocence, and "fig-leaves" the
+truths of the natural man which were gradually falsified. That primitive
+church may also be likened to the dawn and morning and from that the day
+advanced to the tenth hour, and then a dense cloud intervened, under
+which the day advanced to evening, and afterward to night, in which the
+moon arose for some, by the dim light of which they saw something from
+the Word, while others went on so far into the nocturnal darkness that
+they saw no Divinity in the Lord's Humanity, although Paul says that, In
+Jesus Christ dwells all the fullness of Divinity bodily (Col. 2:9; and
+John, that, The Son of God sent into the world is the true God and
+eternal life (1 John 5:20, 21). The primitive or Apostolic church never
+could have divined that a church was to follow which would worship
+several Gods in heart, and one with the lips; which would separate
+charity from faith, and the forgiveness of sins from repentance and the
+pursuit of a new life; which would introduce the doctrine of man's utter
+impotence in spiritual things; and least of all, that an Arius would
+lift up his head, and when he was dead would rise again, and secretly
+rule even to the end.
+
+<span class="margnote"><span id="639.">639.</span></span>
+
+That no faith imputative of Christ's merit is taught in the Word, is
+very clear from the fact that this faith was unknown in the church until
+after the Nicene Council had introduced the doctrine of three Divine
+persons from eternity. And when this faith had been introduced and had
+pervaded the whole Christian world, every other faith was cast into the
+dark, so that whoever since that time reads the Word, and there sees
+anything about faith and imputation and the merit of Christ, naturally
+falls into that which he has believed to be the one only thing; like one
+who sees what is written on one page and there stops, not turning the
+leaf and seeing what is on the other page; or like one who persuades
+himself that a certain thing is true (although it is false), and
+confirms that only, and thereafter sees falsity as truth and truth as
+falsity, and sets his teeth and hisses at everyone opposing it, saying,
+"You have no intelligence." Thus the man's whole mind is in it, covered
+over with a callousness which rejects as heterodox everything that does
+not agree with his so-called orthodoxy; for his memory is like a tablet
+upon which is written this single ruling tenet in theology; and when
+anything else enters there is no place where it may be inserted, and he
+therefore casts it out as the mouth casts out froth. For example, if you
+say to a confirmed naturalist who believes that nature created herself,
+or that God came forth after nature, or that nature and God are one,
+that the very reverse is the truth, would he not look upon you as one
+deluded by the fables of the priest, or as a simpleton, or a dullard, or
+as demented? So it is with all things that are fixed in the mind by
+persuasion and confirmation; which finally appear like pictured tapestry
+fastened with many nails to a wall built of old stones.
+
+<span class="margnote"><span id="640.">640.</span></span>
+
+V. IMPUTATION OF CHRIST'S MERIT AND RIGHTEOUSNESS IS IMPOSSIBLE. In
+order to know that an imputation of the merit and righteousness of Jesus
+Christ is impossible, what His merit and righteousness are must be
+known. The merit of the Lord our Savior is redemption, the nature of
+which may be seen above in its proper chapter (n. 114-133), where it is
+described as the subjugation of the hells, the orderly arrangement of
+the heavens, and the subsequent establishment of a church, and thus as
+being a work purely Divine. It is also there shown that the Lord by
+means of redemption took to Himself the power to regenerate and save
+those who believe on Him and do His commandments; also that without this
+redemption no flesh could have been saved. As redemption therefore was a
+work purely Divine, and a work of the Lord alone, and constitutes His
+merit, it follows that His merit can no more be applied, ascribed, or
+imputed to any man than the creation and preservation of the universe.
+Moreover, redemption was, as it were, a new creation of the angelic
+heaven, and likewise of the church. \[2\] That the present church
+attributes that merit of the Lord the Redeemer to those who by grace
+attain to that faith, is evident from their dogmas, among which this is
+the chief. For it is affirmed by the hierarchs of that church and by
+their subordinates, both in the Roman Catholic and in the Reformed
+churches, that by the imputation of Christ's merit those who have
+attained to faith are not only reputed righteous and holy, but also are
+so; and that their sins are not sins in God's sight because they are
+forgiven, and they themselves are justified, that is, reconciled,
+renewed, regenerated, sanctified, and enrolled in heaven. That the
+entire Christian church today teaches these same dogmas is very evident
+from the Council of Trent, from the Augustan or Augsburg Confessions,
+and from the appended and accepted commentaries. \[3\] From the things
+said above when applied to that faith, what follows but that the
+possession of that faith is that merit and that righteousness of the
+Lord, consequently that its possessor is Christ in another person? For
+it is affirmed that Christ Himself is righteousness, and that that faith
+is righteousness, and that imputation (meaning thereby ascription and
+application), causes men not only to be reputed righteous and holy, but
+to be so in reality. To imputation, application, and ascription, add
+transcription only, and you will be a vicarious pope.
+
+<span class="margnote"><span id="641.">641.</span></span>
+
+Because, then, the Lord's merit and righteousness are purely Divine, and
+things purely Divine are such that if they were to be applied and
+ascribed to man he would instantly die and like a stick of wood thrown
+into the naked sun, would be so completely consumed that scarcely a
+particle of his ashes would be left; the Lord approaches angels and men
+with His Divine by means of light tempered and accommodated to the
+capacity and quality of each one, thus by means of what is brought down
+to man's level and adapted; and in the same way by means of heat. \[2\]
+In the spiritual world there is a sun, in the midst of which is the
+Lord; from that sun the Lord flows in by means of light and heat into
+the whole spiritual world, and into all who are there. All the light and
+all the heat of that world are from this source. From that sun the Lord
+also flows with the same light and the same heat into the souls and
+minds of men. That heat in its essence is the Lord's Divine love, and
+that light in its essence is His Divine wisdom. The Lord adapts that
+light and that heat to the capacity and quality of the recipient angel
+and man, doing this by means of the spiritual auras or atmospheres that
+convey and transfer them. The Divine Itself which immediately
+encompasses the Lord, constitutes that sun. That sun is far off from the
+angels, as the sun of the natural world is from men, in order that it
+may not come into naked and thus untempered contact with them; since
+otherwise they would be consumed like a stick of wood thrown into the
+naked sun, as said above. \[3\] All this makes clear that the Lord's
+merit and righteousness, being purely Divine, can in no possible way be
+transferred by imputation into any angel or man; and if even the least
+drop thereof, not so tempered as above stated, were to touch them, they
+would instantly writhe as if struggling with death, with feet contorted
+and eyes staring, and would become lifeless. In the Israelitish church
+this was known by their being taught that no man could see God and live.
+\[4\] The sun of the spiritual world, such as it was after Jehovah God
+had assumed the Human, and had added thereto redemption and a new
+righteousness, is described in these words in Isaiah: The light of the
+sun shall be sevenfold, as the light of seven days, in the day when
+Jehovah shall bind up the breach of His people (Isa. 30:26). This
+chapter from beginning to end treats of the Lord's coming. What would
+take place if the Lord were to come down and draw near to any wicked
+person, is also described in the following words in the Apocalypse: They
+hid themselves in the caves and in the rocks of the mountains, and said
+to the mountains and rocks, Hide us from the face of Him that sitteth on
+the throne, and from the anger of the Lamb (Rev. 6:15, 16). It is said,
+"the anger of the Lamb" because their terror and torment when the Lord
+draws near appear to them like wrath. \[5\] This may be still more
+evidently inferred from the fact, that if any impious person is admitted
+into heaven, where charity and faith in the Lord reign, darkness invades
+his eyes, giddiness and madness invade his mind, pain and torment his
+body, and he becomes like one dead. What then, if the Lord Himself, with
+His Divine merit, which is redemption, and His Divine righteousness,
+were to enter into man? The apostle John himself could not endure the
+presence of the Lord, for we read: That when he saw the Son of man in
+the midst of the seven lampstands, he fell at His feet as one dead
+(Apoc. 1:17).
+
+<span class="margnote"><span id="642.">642.</span></span>
+
+In the decrees of the Councils and in the articles of the Confessions to
+which the Reformed make oath, it is declared that God justifies the
+wicked man by means of the merit of Christ infused into him, when, in
+fact, not even the good of any angel can be communicated to a wicked
+person, still less conjoined to him, without being thrown back and
+rebounding like an elastic ball thrown against a wall, or swallowed up
+like a diamond sunk in a marsh; and indeed, if anything truly good was
+thrust upon him, it would be like a pearl fastened to a swine's snout.
+For who does not know that clemency cannot be introduced into
+unmercifulness, innocence into vindictiveness, love into hatred, or
+concord into discord, which would be like mixing together heaven and
+hell? The man who has not been born again, is in the spirit like a
+panther or an owl, and may be likened to a thorn or a nettle; while the
+man who has been born again is like a sheep or a dove, and may be
+likened to an olive tree or a vine. Reflect, I pray you, if you will,
+how a human panther can be converted into a human sheep, or an owl into
+a dove, or a thorn tree into an olive tree, or a nettle into a vine, by
+any imputation, ascription, or application of the Divine righteousness,
+which would rather damn than justify him. Before such a conversion could
+take place, must not the ferine nature of the panther and owl, or the
+noxious qualities of the thorn and nettle first be taken away, and what
+is truly human and harmless be implanted in their place? How this is
+effected the Lord also teaches in John (15:1-7).
+
+<span class="margnote"><span id="643.">643.</span></span>
+
+VI\. THERE IS AN IMPUTATION, BUT IT IS AN IMPUTATION OF GOOD AND EVIL,
+AND AT THE SAME TIME OF FAITH. From numerous passages in the Word, which
+in part have been already quoted, it is evident that there is an
+imputation of good and evil, which is the imputation meant in the word
+where it is mentioned. But that everyone may feel certain that there is
+no other imputation, some passages from the Word shall be offered also,
+as follows: The Son of man shall come, and then He shall render unto
+everyone according to his deeds (Matt. 16:27). They shall come forth,
+they that have done goods into the resurrection of life, and they that
+have done evils unto the resurrection of judgment (John 5:29). The book
+was opened, which is the book of life, and all were judged according to
+their works (Apoc. 20:12, 13). Behold, I come quickly, and My reward is
+with Me, to give to every man according to his work (Apoc. 22:12). I
+will punish him according to his ways, and will recompense him for his
+works (Hos. 4:9; Zech. 1:6; Jer. 25:14; 32:19). In the day of His wrath
+and righteous judgment, God will render to every man according to his
+works (Rom. 2:5, 6). We must all be made manifest before the
+judgment-seat of Christ, that each one may receive the things done
+through the body, according to what he hath done, whether good or evil
+(2 Cor. 5:10). \[2\] In the beginning of the church there was no other
+law of imputation, nor will there be any other at its end. That there
+was no other at the beginning of the church, is evident from Adam and
+his wife, in that they were condemned because they did evil in eating
+from the tree of the knowledge of good and evil (Gen. 2, 3); and that
+there will be no other at the end of the church, is evident from these
+words of the Lord: When the Son of man shall come in His glory, then
+shall He sit on the throne of His glory; and He shall say to the sheep
+on His right hand, Come ye blessed, inherit the kingdom prepared for you
+from the foundation of the world; for I was a hungered and ye gave Me to
+eat I was thirsty and ye gave Me to drink I was a sojourner and ye took
+Me in; I was naked and ye clothed Me; I was sick and ye visited Me I was
+in prison and ye came unto Me. But to the goats on His left, because
+they had not done good, He said, Depart from Me, ye cursed, into eternal
+fire, prepared for the devil and his angels (Matt. 25:31-41). From these
+passages anyone with his eyes open can see that there is an imputation
+of good and evil. \[3\] There is also an imputation of faith, because
+charity which pertains to good, and faith which pertains to truth,
+reside together in good works; and that otherwise works are not good,
+may be seen above (n. 373-377). Therefore James says: Was not Abraham
+our father justified by works, when he offered up his son upon the
+altar? Seest thou not how faith co-operated with his works, and by works
+faith was recognized as perfect? And the scripture was fulfilled which
+saith, Abraham believed God, and it was imputed unto him for
+righteousness (2:21-23).
+
+<span class="margnote"><span id="644.">644.</span></span>
+
+The rulers of the Christian churches and in consequence their
+subordinates, have understood by imputation in the Word the imputation
+of faith upon which were inscribed the righteousness and merit of
+Christ, which were thus ascribed to man, for the reason that for
+fourteen centuries, that is, since the time of the Nicene Council, they
+have not wished to know about any other faith. Therefore such faith
+alone is fixed in their memories and consequently in their minds, like a
+thing organized, which from that time has furnished a light like that
+which comes from a fire at night-time, from which light that faith has
+appeared like true theology itself, on which all other things hang in a
+linked series, and these would fall asunder if that head or pillar were
+removed. If therefore they were to think when they read the Word, of any
+other than this imputative faith, that light, together with their entire
+theology, would be extinguished, and a darkness would arise which would
+cause the whole Christian church to vanish. Therefore it is left to
+them, Like a stump of roots in the earth, the tree being cut down and
+destroyed, until the seven times shall be accomplished (Dan. 4:23). Who
+among the confirmed leaders of the present church does not, when that
+faith is attacked, close his ears as if with cotton against hearing
+anything opposed to it? But, my reader, open your ears, and read the
+Word, and you will have a clear perception of a faith and an imputation
+other than those which you have heretofore believed in.
+
+<span class="margnote"><span id="645.">645.</span></span>
+
+It is wonderful, that although the Word from beginning to end is full of
+testimonies and proofs that everyone's own good and evil is imputed to
+him, the dogmatists of the Christian religion have, nevertheless, so
+closed their ears as if with wax, and besmeared their eyes as if with
+salve, that they have neither heard nor seen, nor do they hear or see
+any other imputation than that of their own faith mentioned above. And
+yet that faith may be justly compared to the disease of the eye called
+gutta serena, (and in fact deserves to be so named), which disease is an
+absolute blindness of the eye, arising from an obstruction of the optic
+nerve, although the eye appears to retain its sight perfectly. In like
+manner those who adhere to that faith walk as if with open eyes, and
+seem to others to see all things, when yet they see nothing; for when
+that faith enters man, since he is then like a stock, he knows nothing
+about it, not even knowing whether that faith is in him, or whether
+there is anything in it. Afterwards with eyes apparently clear they
+behold that faith in the pains of travail and giving birth to those
+noble offsprings of justification, namely, forgiveness of sins,
+vivification, renewal, regeneration, and sanctification, and yet they
+have not seen and cannot see any sign of anyone of them.
+
+<span class="margnote"><span id="646.">646.</span></span>
+
+That good, which is charity, and evil, which is iniquity, are imputed
+after death, has been proven to me by all my experience relating to the
+lot of those who pass from this to the other world. Everyone, after he
+has waited there for some days, is examined to ascertain his character,
+that is, what he was in respect to religion in the former world. When
+this has been done, the examiners report the result to heaven, and the
+man is then transferred to his like, that is, to his own. Thus is
+imputation effected. That to all in heaven there is an imputation of
+good, and to all in hell an imputation of evil, was made clear to me
+from the arrangement of both by the Lord. The entire heaven is arranged
+in societies according to all the varieties of the love of good, and the
+entire hell according to all the varieties of the love of evil. The
+church on earth is arranged by the Lord in like manner, for it
+corresponds to heaven. Its religion is its good. Moreover, ask anyone
+you please who is endowed with religion and also with reason, belonging
+either to this quarter of the globe or one of the others, who he
+believes will go to heaven, and who to hell; and they will answer
+unanimously that those who do good will go to heaven, and those who do
+evil to hell. Again, does not everyone know that every true man loves a
+man, an assembly of many men, a state, or a kingdom, because of their
+goodness; and not only men, but even beasts and inanimate things, such
+as houses, possessions, fields, gardens, trees, forests, lands, and
+finally metals and stones, because of their goodness and use? Goodness
+and use are one. Why then should not the Lord love man and the church
+because of their goodness?
+
+<span class="margnote"><span id="647.">647.</span></span>
+
+VII\. THE FAITH AND IMPUTATION OF THE NEW CHURCH CAN BY NO MEANS EXIST
+TOGETHER WITH THE FAITH AND IMPUTATION OF THE FORMER CHURCH; AND IF THEY
+ARE TOGETHER, SUCH A COLLISION AND CONFLICT RESULT THAT EVERYTHING
+PERTAINING TO THE CHURCH IN MAN PERISHES. The faith and imputation of
+the New Church cannot exist together with the faith and imputation of
+the former or still-existing church because they do not agree in
+one-third part, not even in one-tenth part; for the faith of the former
+church teaches that three Divine persons have existed from eternity,
+each one of whom is singly or by Himself God, also three Creators. But
+the faith of the New Church is that there has been but one Divine
+Person, thus one God, from eternity, and that beside Him there is no
+God. Thus the faith of the former church has taught a Divine Trinity
+divided into three Persons, while the faith of the New Church teaches a
+Divine Trinity united in one Person. \[2\] The faith of the former
+church has been a faith in a God invisible, inaccessible, and incapable
+of conjunction with man; and its idea of God has been like its idea of
+spirit, which is like that of ether or air. But the faith of the New
+Church is a faith in a God who is visible, accessible, and capable of
+conjunction with man, in whom, like the soul in the body, is God
+invisible, inaccessible, and incapable of conjunction; and its idea of
+this God is that He is a Man, because the one God who was from eternity
+became Man in time. \[3\] The faith of the former church attributes all
+power to the invisible God, and takes it from the visible; for it
+teaches that God the Father imputes faith, and through it bestows
+eternal life, and that the visible God merely intercedes; while they
+both give (or according to the Greek church, God the Father gives) to
+the Holy Spirit, who is by Himself the third God in order, all power to
+work out the effects of that faith. But the faith of the New Church
+attributes to the visible God, in whom is the invisible, the omnipotence
+to impute and also to work out the effects of salvation. \[4\] The faith
+of the former church is primarily a faith in God the Creator, and not at
+the same time a faith in Him as Redeemer and Savior; while the faith of
+the New Church is a faith in one God, who is at once Creator, Redeemer
+and Savior. \[5\] The faith of the former church is that repentance,
+forgiveness of sins, renewal, regeneration, sanctification and salvation
+follow of themselves faith given and imputed, with nothing pertaining to
+man mingled or joined with these. But the faith of the New Church
+teaches that man co-operates in repentance, reformation and
+regeneration, and thus in the forgiveness of sins. \[6\] The faith of
+the former church teaches the Imputation of Christ's merit, which
+imputation is embraced in the faith bestowed; while the faith of the New
+Church teaches the imputation of good and evil, and also of faith, and
+that this imputation is in accordance with Sacred Scripture, while the
+other is contrary to it. \[7\] The former church teaches that faith,
+which includes the merit of Christ, is given when man is like a stock or
+a stone; and it also teaches man's utter impotence in spiritual things;
+but the New Church teaches a wholly different faith, which is not a
+faith in the merit of Christ, but in Jesus Christ Himself, God, Redeemer
+and Savior, and a freedom of choice that both fits man to receive and
+also to co-operate. \[8\] The former church adds charity to its faith as
+an appendage, but not as anything saving, and thus it constitutes its
+religion; but the New Church conjoins faith in the Lord and charity
+toward the neighbor as two inseparable things, and thus constitutes its
+religion There are also many other differences.
+
+<span class="margnote"><span id="648.">648.</span></span>
+
+From this brief review of the points of discordance or disagreement
+between them, it is clear that the faith and imputation of the New
+Church can by no means exist together with the faith and imputation of
+the former or still existing church; and with such a discord and
+disagreement between the faith and imputation of the two churches, they
+are totally heterogeneous; and consequently if they were to exist
+together in man's mind, such a collision and conflict would result that
+everything pertaining to the church would perish, and in spiritual
+things man would fall into a delirium or into a swoon, so that he would
+not know what the church is, or whether there is a church; neither would
+he know anything about God, faith, or charity. \[2\] Because the faith
+of the former church excludes all light derived from reason, it may be
+likened to an owl, while the faith of the New Church may be likened to a
+dove, which flies by day and sees by the light of heaven; and their
+coming together in one mind would be like the meeting of an owl and dove
+in one nest, where the owl would lay her eggs and the dove hers, and
+after incubation the young birds would be hatched, and the owl would
+then tear the young of the dove to pieces and give them for food to her
+own young, being a voracious bird. \[3\] As the faith of the former
+church is described in the Apocalypse (chap. 12) by a dragon, and that
+of the New Church by a woman encompassed by the sun, upon whose head was
+a crown of twelve stars, it may be inferred from the comparison what the
+state of a man's mind would be if the two were to be together in the
+same abode; namely, the dragon would stand near to the woman when she
+was about to bring forth, with the intention of devouring her offspring,
+and when she had fled in to the desert would follow her, and cast out
+water like a flu after her, that she might be swallowed up.
+
+<span class="margnote"><span id="649.">649.</span></span>
+
+The result would be the same should anyone embrace the faith of the New
+Church while retaining the faith of the former church respecting the
+imputation of the Lord's merit and righteousness; since from this
+doctrine as a root all the dogmas of the former church have sprung up as
+offshoots; and in that case it would be like man's extricating himself
+from five of the dragon's horns and becoming entangled in the other
+five; or like one's escaping from a wolf and falling upon a tiger; or
+like one's getting out of a dry ditch and falling into one with water in
+it, where he would be drowned. For in that case the man would easily
+return to all things of his former faith, and what these are has been
+shown above; and he would then acquire the damnable idea that he might
+impute and attach to himself the essentially Divine things that belong
+to the Lord, which are redemption and righteousness, and which may be
+adored but not so appropriated; for if a man were to impute and attach
+these to himself he would be consumed like one thrown into the naked
+sun, from the light and heat of which, nevertheless, he has bodily
+vision and life. That the Lord's merit is redemption, and that His
+redemption and His righteousness are the two Divine things that cannot
+be conjoined to man has been shown above. Let everyone take heed,
+therefore, not to transcribe the imputation of the former church upon
+that of the new, from which would spring baneful results, which would be
+obstacles to his salvation.
+
+<span class="margnote"><span id="650.">650.</span></span>
+
+VIII\. THE LORD IMPUTES GOOD TO EVERY MAN, BUT HELL IMPUTES EVIL TO
+EVERY MAN. That the Lord imputes to man good and not evil, while the
+devil (meaning hell), imputes evil and not good to him, is a new thing
+in the church; and it is new for the reason that in the Word it is
+frequently said that God is angry, takes vengeance, hates, damns,
+punishes, casts into hell, and tempts, all of which pertain to evil, and
+therefore are evils. But it has been shown in the chapter on the Sacred
+Scriptures that the sense of the letter of the Word is composed of such
+things as are called appearances and correspondences, in order that
+there may be a conjunction of the external church with its internals,
+thus of the world with heaven. It is also there shown that when such
+things in the Word are read these very appearances of truth, while they
+are passing from man to heaven, are changed into genuine truths, which
+are that the Lord is never angry, never takes vengeance, never hates,
+damns, punishes, casts into hell, or tempts, consequently does evil to
+man. This transmutation and changing in the spiritual world I have
+frequently observed.
+
+------------------------------------------------------------------------
+
+[Next: 651-700](tcr14)

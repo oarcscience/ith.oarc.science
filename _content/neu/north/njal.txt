@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>File Moved (Burnt Njal)</TITLE>
-<META HTTP-EQUIV="Refresh" CONTENT="2;URL=../ice/njal/index.htm">
+<META HTTP-EQUIV="Refresh" CONTENT="2;URL=../ice/njal/index">
 </HEAD>
 <BODY>
 <P>
@@ -10,7 +10,7 @@ file automatically, or if it does not, click on the link below:</P>
 
 
 <P ALIGN="CENTER">
-<A HREF="https://ith.oarc.science/neu/ice/njal/index.htm">https://ith.oarc.science/neu/ice/njal/index.htm</A>
+<A HREF="https://ith.oarc.science/neu/ice/njal/index">https://ith.oarc.science/neu/ice/njal/index.htm</A>
 </P>
 </BODY>
 </HTML>

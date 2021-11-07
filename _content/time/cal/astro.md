@@ -1,0 +1,94 @@
+---
+layout: seclanding
+title: "Plantary Positions"
+---
+[![](../../cdshop/ithlogo.png)](../../index)
+
+------------------------------------------------------------------------
+
+<span class="p-small"> </span>
+
+<table width="75%" data-bgcolor="white">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><span class="p-small2"> </span>
+<a href="../index">Sacred Time Index</a>  <a href="../../astro/index">Astrology</a>  <a href="index">Sacred Calendars</a>  <a href="../../pag/index">Wicca &amp; Neo-Paganism</a>  <a href="../../bos/index">Internet Book of Shadows</a><br />
+<a href="pom">Phase of the Moon</a></td>
+</tr>
+</tbody>
+</table>
+
+# Planetary Positions
+
+This page gives the geocentric (earth-centered) positions of the Sun,
+Moon and the planets. A list of astrological conjunctions is attached.
+The right ascension is correct to within a couple of minutes. Some of
+the declinations have reversed signs; this is a known bug (however these
+are not used in conventional astrology). The position of Pluto will be
+off by a bit more than the other planets, but accurate to within a
+degree or two. The algorithm does not take into account interplanetary
+gravitational interactions; it uses the current orbital characteristics
+of each planet and interpolates from a known set of values. Hence, the
+further back or forward in time you set the date to, the less accurate
+the positions will be; they will be more accurate the closer they are to
+1 January 1980. This algorithm does not take into account the precession
+of the equinox.
+
+This page defaults to the current local time, but you can also set other
+values for the date and time using the [form at the bottom of this
+page](#a_datetimeform). The entered time must be Greenwich Mean Time.
+Note that you can set a value B.C.E. by using negative numbers in the
+year field. Dates prior to 15 October 1582 are considered be Julian,
+after that, Gregorian. Since not all countries (e.g. Russia) changed
+their calendar on exactly that date, you may need to adjust historical
+dates accordingly.
+
+The 'sign' reported assumes that Aries coincides with the vernal equinox
+and that each of the zodiacal signs occupy exactly one-twelfth of the
+sky. The 'events' are triggered if the two planets are within 15 degrees
+of the exact angle. These assumptions will not correspond exactly to
+some astrological systems, and the planets may or may not be in these
+exact constellations (in the strict astronomical sense).
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+<span class="p-small2">Enter a date and time (GMT)  
+\[i.e., The time displayed below is offset by your current timezone, so
+it will not match your local time (unless you live in the prime meridian
+time zone). If you enter a new value, you need to adjust for daylight
+savings time (if applicable) and your timezone.\] </span>
+
+<span id="a_datetimeform"></span>
+
+<span class="p-small2">year</span>
+
+<span class="p-small2">month</span>
+
+<span class="p-small2">day</span>
+
+ 
+
+ 
+
+<span class="p-small2">hour</span>
+
+<span class="p-small2">minute</span>
+
+<span class="p-small2">sec</span>
+
+<span class="p-small2">msec</span>
+
+  
+<span class="p-small2">[Reset to Current Local Time](astro)</span>
+
+------------------------------------------------------------------------
+
+<span class="p-small2"> PLANETARY POSITIONS JAVASCRIPT PROGRAM  
+Copyright © 2006 John Bruno Hare, All Rights Reserved This code may not
+be copied, reused or published for any reason without express permission
+of the copyright holder. </span>

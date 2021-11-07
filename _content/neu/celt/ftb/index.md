@@ -1,0 +1,75 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Legends and
+Sagas](../../index)  [Celtic](../index) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+
+------------------------------------------------------------------------
+
+<table width="75%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td width="50%" data-valign="TOP"><img src="img/00200.jpg" /></td>
+<td width="50%" data-valign="CENTER"><h1 id="folk-tales-of-brittany" data-align="CENTER">Folk Tales of Brittany</h1>
+<h2 id="by-elsie-masson" data-align="CENTER">by Elsie Masson</h2>
+<h4 id="section" data-align="CENTER">[1929]</h4></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+[Contents](#contents)    [Start Reading](ftb00)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftb.txt.gz)
+
+------------------------------------------------------------------------
+
+|                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
+
+This selection of folk-tales from Brittany by Elsie Masson, vividly
+illustrated by pen and ink drawings, is an enjoyable read. The usual
+folklore themes with Celtic influence are present and accounted for;
+humble peasants, magic livestock, enchanted castles, evil husbands,
+brave children, star-crossed lovers, and tricky fairies. Particularly
+the latter. For some reason the Breton fairies seem to have a more
+hostile, darker edge, than elsewhere in the Celtic region...
+
+This book was true find. I had ordered a copy of [Legends and Romances
+of Brittany](../lrb/index), by Lewis Spence, the only readily available
+Enlish language source on this topic in the public domain that I could
+locate. The same day that the Spence book arrived, this one showed up at
+a local used bookstore--not the first time this kind of serendipity has
+occurred.
+
+--John Bruno Hare, September 1st, 2004.
+
+------------------------------------------------------------------------
+
+<span id="contents"></span> [Title Page](ftb00)  
+[Foreword](ftb01)  
+[Contents](ftb02)  
+[Illustrations](ftb03)  
+[The Castle of Comorre](ftb04)  
+[The Basin of Gold and The Diamond Lance](ftb05)  
+[Lady Yolanda's Thimble](ftb06)  
+[The Witch of Lok Island](ftb07)  
+[Little White-Thorn and the Talking Bird](ftb08)  
+[Princess Ahez and the Lost City](ftb09)  
+[The Changeling](ftb10)  
+[The Foster Brother](ftb11)  
+[The Hunchback and the Elves](ftb12)  
+[The Four Gifts](ftb13)  
+[The Magic Rocks and the Beggar](ftb14)  
+[The Country Bumpkin and the Hobgoblin](ftb15)  
+[The Wasp, the Winged Needle and the Spider](ftb16)  
+[Yannik, the Fairy Child](ftb17)  
+[The Hazel Scepter](ftb18)  
