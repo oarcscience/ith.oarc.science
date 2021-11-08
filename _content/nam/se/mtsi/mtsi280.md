@@ -1,0 +1,116 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Native
+American](../../index)  [Southeast](../index)  [Index](index) 
+[Previous](mtsi279)  [Next](mtsi281) 
+
+------------------------------------------------------------------------
+
+<span id="page_243">p. 243</span>
+
+### 15. THE HUNTER AND HIS DOGS (25)
+
+While a certain man was lying sick, at the point of death, his wife was
+stolen from him without his knowledge. He had many Dogs, and an old one
+among them came in and said to him, "We think you had better go
+hunting." "I can't do anything," he answered. "Still, you must go," the
+Dog said to him. "If you can get into the canoe you can go." "I can't
+carry my gun and bed," he answered, but the Dog replied, "We ourselves
+will take them." "If that is so, go ahead," he said, and the Dog went
+out and told the others. Then the Dogs all came in and sat about. They
+seized the bed in their mouths and dragged it out. Two of them took the
+gun in their mouths. Then the man started to crawl off, raised himself
+by leaning against the wall of the house and went along until he came to
+the canoe. The canoe was already full of things and the Dogs stood about
+as be got in. Then they untied it and pushed it off and when it was
+afloat they jumped in and went with him. After it had floated along of
+itself for some time it grounded at a river bend.
+
+Then the Dogs jumped ashore, took the painter in their mouths and pulled
+it up and tied it. Then they went up the bank. Presently they came back.
+"Now go up the hill," they said to him. "When you reach the camping
+place you must not stop. Go on past the fire and when you get tired come
+back. When you have gotten back return without stopping. If you get
+tired on the way and before you get to the top come back again. And when
+you have gotten back you must go up once more without stopping. You must
+try to reach the top and if you get tired turn back again, and when you
+get back turn round and try it over. You must try as hard as you can.
+When you finally get to the top and have gotten back without stopping
+take your gun and go off hunting."
+
+Then the man rose and started up the bank; though he could hardly
+proceed from weakness he got to the top. They had said to him, "Keep on
+to the fire (or camp)," so he went there. He moved a short distance
+toward the hill beyond, got tired and came back. Immediately he started
+up again. He went a little farther, got tired, and turned back. This
+time he came down a little faster, and after he had gotten back and set
+out once more he had nearly reached the top when he became tired and
+turned around. He went back. He came down on a jog trot, set out again
+and went up faster. This time he got to the top. He turned back, came
+down fast, and, without stopping, took his gun and went into the woods
+to hunt. Before he had gone far he killed a deer and the Dogs ate it.
+They had said to him, "All of the first one you kill shall be ours," so
+they ate this. "Half of the second one you kill shall be ours," they
+said, and when he killed another they took half of it,
+
+<span id="page_244">p. 244</span>
+
+After that he hunted about and killed many deer. That night the old Dog
+came to the place where he was lying and talked to him, saying, "Your
+wife and the one who stole her when you were lying in bed are at a house
+standing in the field and I think we will go and kill them, if you
+agree. Your first wife was a good woman but you sent her away, though
+she was not of the whipping kind. <span id="fr_80"></span>[1](#fn_79) We
+will all go there. This other one who is of the whipping kind we want to
+kill tonight," he said, "and if you agree we will do so." So they yelped
+and started off.
+
+Before they had gone far they uttered a long howl and were then quiet,
+but for some time, from the place where he was lying, he heard them
+howling in the distance. Some time later they came back howling with
+their mouths covered with blood. "We have done it," they said. "When you
+have plenty of meat we will start off." So he went about hunting until
+he had gotten enough. Then they said, "Now get ready," so he put into
+the boat the deer meat he had prepared, and they got in and started off.
+
+As they went along they said to him, "Let us go to the house where your
+first wife lives. She will not say anything against it. When we get
+there you must say, 'I want some boiled chicken,' and after she has
+killed and cooked it but before it is done you must say, 'Perhaps that
+is enough.' If you are told that it is not done you must answer, 'I want
+it nevertheless.' When she puts it into a dish and gives it to you, we
+will be near. You must give it to us. We will eat first. Afterwards you
+must eat. And if they tell you that your former wife and her husband
+were killed by wolves, you must say, 'It had to be so.' We ourselves
+will die, and if one says to you, 'They are dead with colic because you
+fed them too much hot food' you must reply, 'It had to be so.' Keep this
+a secret. If you tell anyone of our doings, you will die."
+
+So they started off and reached the place. "I want boiled chicken," he
+said. So they killed a chicken and cooked it. When the water had just
+begun to boil, he said, "That is perhaps enough. I am very anxious to
+have it." It was put into a dish for him but he gave it to the dogs.
+When the woman said to him, "Why do you do that?" he answered, "I want
+them to eat it at the same time as myself." They began eating, devoured
+all, and went out. Afterwards, while the others were eating, he was told
+that wolves had killed his former wife and her husband. "It had to be
+so," he replied. Now when that woman went out and walked around outside
+she saw the dogs lying scattered about dead and said to her former
+husband, "They have died of colic because you fed them that hot stuff."
+He stood by and answered, "It had to be so."
+
+<span id="page_245">p. 245</span>
+
+As they had said to him "You must not tell what happened" he did not say
+anything about it but he wanted to tell very badly and finally did so.
+After he had told it, and as they had warned him, he died.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_79"></span>[244:1](mtsi280.htm#fr_80) That is, she was not
+in [the](errata.htm#2) habit of whipping the dogs.
+
+------------------------------------------------------------------------
+
+[Next: 16. Adventure With a Tie-Snake](mtsi281)

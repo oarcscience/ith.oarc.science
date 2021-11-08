@@ -1,0 +1,113 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Index](index)  [Previous](mgr14)  [Next](mgr16) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+
+------------------------------------------------------------------------
+
+*Myths of Greece and Rome*, by Jane Harrison, \[1928\], at Intangible
+Textual Heritage
+
+------------------------------------------------------------------------
+
+### DIONYSOS
+
+Dionysos had absorbed into his personality two non-Hellenic
+divinities--(1) a god of wine, orgy, and ecstasy from Thrace, (2) a
+Cretan mystery god, Zagreus, who is substantially one with the Egyptian
+god of immortality, Osiris.
+
+As to his origin, though his name means, undoubtedly, "young Zeus,"
+Dionysos is essentially the son of his mother, Semele; later he is
+affiliated to Zeus by a rebirth.
+
+<span id="page_67">p. 67</span>
+
+<span class="contnote">\[paragraph continues\]</span> Semele is just the
+Thracian form of the earth-goddess. "Zemlya" is Slavonic for "earth." We
+have the word in Nova Zembla (New Earth or Land). The whole worship of
+Dionysos is matriarchal, of the mother as well as of the son, the mother
+sometimes appearing as nurse. So Sophocles:
+
+"Footless, sacred, shadowy thicket, where a myriad berries grow,  
+ Where no heat of the sun may enter, neither wind of the winter blow,  
+ Where the Reveller Dionysos with his Nursing Nymphs will go."
+
+The Bacchantes are the mothers; they tend the young of wild things, and
+they have magical power to make the whole world break into blossom.
+
+"And one a young fawn held, and one a wild  
+ Wolf cub, and fed them with white milk, and smiled  
+ In love, young mothers with a mother's breast  
+ And babes at home forgotten!"
+
+At the great ritual of the mothers all Creation stirs anew.
+
+                 "And all the mountains felt,  
+And worshipped with them; and the wild things knelt  
+And ramped and gloried, and the wilderness  
+Was filled with moving voices and dim stress."
+
+No wonder Dionysos and his mother did not find easy access to a
+patriarchal Olympus!
+
+The worship of Dionysos has one characteristic that distinguishes him
+from the other gods, and is of special interest in helping us to
+understand the making of a god. Dionysos is always accompanied by a
+worshipping band, a *thiasos*. His worshipping band are the Satyrs, his
+mother's are the Mænads. None of the other gods have a *thiasos*. The
+reason is clear, once the psychology
+
+<span id="page_68">p. 68</span>
+
+of the band is realized. Dionysos is the god of ecstasy, but it is
+ecstasy of the group, not the individual. Euripides said of the Bacchic
+initiate: "His soul is congregationalized." We have seen, notably in the
+case of Poseidon, that all the Olympians are *projections* of the
+desires, imaginations, of the worshipper; but only in the case of
+Dionysos do we catch the god at the moment when the ecstasy of the group
+projects him. This is no fancy. Plato preserves for us an Orphic text:
+"Many are the wand-bearers, few are the Bacchoi"; that is, many perform
+the rite of Bacchus, few become, or, as we should say, *project*, the
+god himself.
+
+By becoming one with the god he had projected, the worshipper of
+Dionysos attained immortality. That is the doctrine of each and every
+mystery religion. No one sought to become Zeus or Athene or Apollo. That
+would have seemed folly and insolence. "Strive not thou to become a
+god," says Pindar; "the things of mortals best become mortality."
+
+It is probable that all Greek gods were originally accompanied by a
+*thiasos*, and were *projected* by their worshippers. But most of the
+Olympians have long passed this stage. Their worship is not an ecstasy;
+it is a sober service of sacrifice, prayer, and praise. God and man are
+eternally sundered.
+
+Another trait marks Dionysos off from the Olympians. They are wholly
+human; he keeps about him some vestiges of plant and animal shape. He is
+tree-god (*dendrîtes*), and at will he can change himself back into
+plant or animal form. When the Bacchantes in extreme peril call upon
+Dionysos for vengeance, his ancient incarnations loom in upon their
+maddened minds:
+
+"Appear, appear, whatso thy shape or name,  
+ O Mountain Bull, Snake of the Hundred Heads,  
+        Lion of the Burning Flame!  
+      O God, Beast, Mystery, come!"
+
+<span id="page_69">p. 69</span>
+
+<span class="contnote">\[paragraph continues\]</span> The mystery gods
+represent the supreme golden moment of Greek mythology. They are caught,
+fettered for an instant in lovely human shapes; but they are
+life-spirits barely held; they shift and change. Dionysos is a human
+youth, lovely with curled hair, but in a moment he is a wild bull and a
+burning flame. The beauty and the thrill of it!
+
+------------------------------------------------------------------------
+
+[Next: Eros](mgr16)

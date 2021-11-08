@@ -1,0 +1,175 @@
+[Intangible Textual Heritage](../../../index)  [Native
+American](../../index)  [Native California](../index)  [Index](index) 
+[Previous](scc15)  [Next](scc17) 
+
+------------------------------------------------------------------------
+
+# 14.--GASHOWU YOKUTS. COYOTE, THE HAWK, AND THE CONDOR
+
+There was a woman whom no one was able to marry, except finally Coyote.
+He overcame her. She was wachwach, a handsome species of hawk. She lived
+alone. The wolf and Coyote and their families lived in one place with
+other people. Many men went out to hunt deer but never found any. The
+wildcat
+
+{p. 206}
+
+and the weasel and others went. The magpie was "beniti." He could see
+from inside his house and know everything. He saw
+
+ 
+
+that the hawk-woman had supernatural power. She was able to kill a deer
+and immediately eat it entirely, leaving only the skin. Then the wolf
+and Coyote found the woman. She gave them an abundance of acorn mush.
+She also cooked dried deer meat for them and gave it to them to take
+home. She said to them: "Tell no one, but when you want more for your
+children, come and get it." The wolf and Coyote arrived at night. Their
+poor little children had to eat the meat they brought slowly, so that no
+one would hear them. Nevertheless the magpie knew it. Then the people
+also could smell the meat. Knowing that the two brothers had meat, they
+watched at night. Then they saw them return and the old woman get up,
+take the meat. cook it, and all of them eat. Then the watchers reported
+to the others: "They are killing deer but give none of the meat away."
+The eagle was the chief. The dove was his messenger (winatum). Thinking
+he would ask advice of the magpie, the eagle sent the dove to him. The
+magpie only laughed at the messenger. "Yes, Coyote and the wolf have
+found a supernatural woman. She lives beyond this hill. She has more
+dried meat than she can use. She keeps the deer inside the hill under
+ground. That is where she gets the meat." Then all the people went to
+that place, to the woman, so that it became necessary for her to give
+them meat. When Coyote and the wolf arrived there in the evening, they
+found all the people there already. The weasel, the hawk called
+wakhwukh, and others had dressed themselves finely in order to marry
+her, but she would not have it. Finally all of them said: "Let us go
+home." They went, but Coyote lay there, apparently sick with fever and
+chills, and unable to walk. The woman said: "You go too." Coyote told
+her: "I am sick. I cannot. Perhaps later on I will be able." Then the
+woman made a fire inside the house. Coyote thought how he might enter
+it. He, too, had supernatural power. Then he wanted the wind to blow the
+house to pieces. He said: "Pu!" and a wind storm came. It began to tear
+the thatching from the house. The woman ran about trying to mend it but
+could not. Then Coyote said: "Give me the binding and I will tie it."
+She did
+
+{p. 207}
+
+not like to touch him, but to save her house she handed it to him. Now
+it was dark and rained. Coyote said: "I cannot sleep here. Let me sleep
+inside in the corner by the door." But she would not let him. He said:
+"I will die. If you wish me to freeze to death let me lie here." Then
+she allowed him to come in, and he lay near the door, shivering. She
+knew what he wanted. He was thinking: "I want to sleep with her." Then
+she said: "No, you cannot. You are no good." Coyote laughed. "How does
+she know what I think?" he thought. "I heard it," she said. Coyote lay
+there and looked over towards her. "What do you want now?" she asked.
+Then Coyote began to think of sexual intercourse with her. She did not
+like that. She was stronger than he and overcame him. He could not do
+anything to her. He went to sleep where he lay. Then at last the woman
+began to think of him. At once Coyote knew it in his sleep. He woke up
+and said: "You want mine! I have a good one!" She too was desirous now
+and let him lie with her. But though she allowed him to embrace her she
+would not let him come nearer. She wanted once more to try to overcome
+him. She went out as if to urinate, took a rattles snake, put it into
+herself, and returned. Then she spread herself and invited him. He knew
+what she had done. Also going out to urinate, he by his supernatural
+power obtained a stick of hard wood (takha) from the cast. Putting it on
+himself, he returned to the woman. He approached the stick, the
+rattlesnake bit it, lost its teeth, and was harmless. Coyote said: "Ah!
+Now throw yours away and I will throw mine." She did so and he married
+her.
+
+Coyote had one son from this woman, wech, the condor, who was to become
+a great gambler. At night they put the baby into water. After three days
+he could walk. Soon he was able to gamble. Then he was a man. Coyote was
+rich, constantly making beads from bone and other materials, and
+encouraged his son to gamble. Then the boy went north. Then he saw a
+large owl, hihina, and wishing to kill him, aimed at him. The owl, who
+was a doctor, was angry and flew up into a hollow tree. There he began
+to sing:
+
+Hu hu hu <sup>1</sup> witcailac <sup>2</sup> min <sup>3</sup> put-onun
+
+4
+
+Hu hu hu <sup>1</sup>, condor becomes <sup>2</sup> your <sup>3</sup> son
+<sup>4</sup>.
+
+{p. 208}
+
+As he sang this, the young man who had been so handsome began to have
+feathers all over his body. His female relatives who were with him tried
+to hold him, but they could not, and he turned into a condor. They said
+to Coyote: "Kill the owl before he changes him completely!" But Coyote
+only cried and did nothing. Now the young man Was entirely a condor. He
+shook himself, rose, and flew off. The women followed, but he flew away
+from them. Coyote returned. His wife knew what had happened. Then she
+took a rattlesnake once more. This time he did not know it, was bitten,
+and died.
+
+Now the condor lived above and came down to earth to kill people for
+food. He thought of his mother, went to her, and brought her up with
+him. He tried to make her, too, eat people, but she would not do so. He
+brought two little boys and a little girl. These he kept as pets. He
+called them his dogs. As he was about to go off again he told his
+mother: "Feed them well. When I return I will eat them." When he was
+gone the woman said to the children: ''He will kill us all. He has
+nearly exterminated the people now. When he has finished them he will go
+hither up in the sky. Then he will come down and eat us. When he comes
+back you must shoot him." She gave the two boys bows and arrows. Then
+the condor came back from the earth below and went to drink. He drank
+half a day. The two boys shot at him, one from each side. For half a day
+they shot as fast as they could, beginning as soon as he started to
+drink. The little girl kept dragging the arrows back to them and they
+shot them again and again. The condor never gave notice, but continued
+to drink. Now the half day was nearly over. The woman had made a hole.
+She put the children in, went in herself, and covered the hole. Then the
+condor stopped drinking. Now he began to feel something. Leaving the
+dead bodies he had brought with him, he started upward. His mother said:
+"If he flies straight, he will reach the place above, and it will be the
+end of us. But if he flies to the side and zigzags and falls, he will be
+killed." He flew straight up. He was already nearly out of sight. Then
+suddenly he shot to one side, zigzagged, dropped, struck, and was dead.
+They burned him. Then his eyes burst and flew out and were lost in the
+brush. If they had been able
+
+{p. 209}
+
+to find the eyes and put them back in the fire there would have been no
+condors in the world.
+
+Then the woman and the little girl went down from the sky on a rope of
+down feathers, going through the hole in the sky through which the
+condor used to pass. The two boys went southward in the sky until they
+came to where the sky and the earth meet. There they descended to the
+earth. Then they came to people without mouths, who neither talked nor
+ate. They killed deer, roasted them, smelled of the meat, and threw it
+out-doors. In the same way they only smelled of their acorn mush. The
+two boys came to them, entered the house, took hold of the meat that was
+cooking, and began to eat. The people there made a protesting gesture,
+meaning. "Do not. It will come out from you," again indicating by a
+gesture. Neverthless {*sic*} the boys ate. Then they asked the chief:
+"Have you a tongue inside?" He shook his head. "Have you teeth?" Again
+he shook his head. Then they offered to try to cut open a mouth for one
+of them so that he would be like themselves and could eat. It was agreed
+and the two boys took obsidian and cut a mouth for one of those people.
+Soon the man could eat and talk. Then he said:
+
+T-ipînii <sup>1</sup> panîii <sup>2</sup> tcicîii <sup>3</sup> nah'èii
+<sup>4</sup> lukînii <sup>5</sup> bidîkii <sup>6</sup>.
+
+Supernatural-ones <sup>1</sup> arrived <sup>2</sup>, cut <sup>3</sup>,
+ate <sup>4</sup>, belly filled <sup>5</sup>, defecated <sup>6</sup>,
+
+He spoke thus because he could not talk yet correctly. If he had spoken
+right he would have said:
+
+T-ipni panac tcicîni nah'ac lokònoc
+
+Then this man cut mouths for others, and they cut still others, mid so
+they did to each otheruntil all could eat and talk. The two boys
+returned home.
+
+------------------------------------------------------------------------
+
+[Next: 15.--Truhohi Yokuts. The Beginning Of The World.](scc17)

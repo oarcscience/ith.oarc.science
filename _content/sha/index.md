@@ -1,0 +1,78 @@
+---
+layout: seclanding
+description: "Shamanism at Intangible Textual Heritage"
+keywords: "Shamanism Shaman Aboriginal Siberia Koryak Chuckhee Ainu Tungus Yughahir Eskimo Kamchatka Myths Legends Folklore Transvestite Drum Drumming Malaysia Sufi"
+title: "Intangible Textual Heritage: Shamanism"
+categories: ' <BR> <A HREF="../nel/index">Paleolithic</A>&nbsp; <A HREF="../pag/index">Neopaganism</A>&nbsp; <A HREF="../nam/index">Native American</A>&nbsp; <A HREF="../asia/index">Traditional Asian</A><BR>'
+pathh1: "sis/img/ainubear.jpg"
+alttext1: "Bear Feast: Public domain image"
+titleh1: "Shamanism"
+---
+[*About the Photo...*](#aboutphoto)
+
+------------------------------------------------------------------------
+
+This section has texts about Shamanism and Animism. These are
+traditional belief systems which consider the entire universe to be
+alive and interconnected. Shamanism in practice is used to heal and
+enlighten, using ceremonials which can include rhythmic music, mind
+altering drugs and mythic journeys into the subconscious. There are also
+numerous descriptions of Shamanism and related topics in the [Native
+American](../nam/index), the [Traditional Asian](../asia/index),
+[Australian](../aus/index), [Pacific](../pac/index), and
+[African](../afr/index) sections.
+
+For instance:
+
+<span class="c_e"> <span class="c_t">[Sacred Formulas of the
+Cherokee](../nam/cher/sfoc/index)</span>   by <span class="c_a">James
+Mooney</span> \[<span class="c_d">1891</span>\] </span>  
+<span class="c_e"> <span class="c_t">[Fetichism in West
+Africa](../afr/fiwa/index)</span>  
+by Rev. <span class="c_a">Robert Hamill Nassau</span> \[<span
+class="c_d">1904</span>\] </span>
+
+------------------------------------------------------------------------
+
+<span class="c_e"> <span class="c_t">[Shamanism in
+Siberia](sis/index)</span>  
+from Aboriginal Siberia, by <span class="c_a">M. A. Czaplicka</span>.
+\[<span class="c_d">1914</span>\]   <span class="c_b">A comprehensive
+review of the ethographic literature concerning Shamanism in
+Sibera.</span> </span>  
+
+<span class="c_e"> <span class="c_t">[Shaman, Saiva and
+Sufi](sss/index)</span>   by <span class="c_a">R.O. Winstedt</span>.
+\[<span class="c_d">1925</span>\]   <span class="c_b">An ethographic
+account of spiritual practices in Malaysia at the start of the 20th
+century, which included Shamanism, Animism, Hindu and Islamic
+influences.</span> </span>
+
+<span class="c_e"> <span class="c_t">[A Journey in Southern
+Siberia](../asia/jss/index)</span>   by <span class="c_a">Jeremiah
+Curtin</span> \[<span class="c_d">1909</span>\]   <span class="c_b">The
+mythology and folklore of the Buriat Mongols of Siberia.</span> </span>
+
+<span class="c_e"> <span class="c_t">[Animism](anim/index)</span>   by
+<span class="c_a">G.W. Gilmore</span> \[<span class="c_d">1919</span>\]
+  <span class="c_b">Animism is the concept that the entire universe is
+alive; this belief is central to Shamanistic spirituality.</span>
+</span>
+
+<span class="c_e"> <span class="c_t">[Aino
+Folk-Tales](../shi/aft/index)</span>   by <span class="c_a">Basil Hall
+Chamberlain</span> \[<span class="c_d">1888</span>\]   <span
+class="c_b">A collection of folktales of the Ainu, a shamanistic ethnic
+minority of Japan.</span> </span>
+
+------------------------------------------------------------------------
+
+<span id="aboutphoto"></span>
+
+*About the photo:* Ainu Bear-Festival. The matting wall is hung with
+various implements and fetishes used at the festival. The men are eating
+the flesh of the slain bear. They are supposed to be the guests of the
+bear. See also [an episode from the Kalevala](../neu/kveng/kvrune46) for
+a curious episode with a bear who gets invited to a feast....Perhaps the
+book titled 'To Serve Bear' should have been a giveaway. (photo from
+Czaplicka)

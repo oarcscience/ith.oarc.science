@@ -1,0 +1,212 @@
+<div class="filenav">
+
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[Index](index)  [Previous](taa13)  [Next](taa15) 
+
+</div>
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
+\[1911\], at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+### XI
+
+1\. O doves that haunt the *arák* and *bán* trees, have pity! Do not
+double my woes by your lamentation!
+
+2\. Have pity! Do not reveal, by wailing and weeping, my hidden desires
+and my secret sorrows!
+
+3\. I respond to her, at eve and morn, with the plaintive cry of a
+longing man and the moan of an impassioned lover.
+
+4\. The spirits faced one another in the thicket of *ghaḍá* trees and
+bent their branches towards me, and it (the bending) annihilated me;
+
+5\. And they brought me divers sorts of tormenting desire and passion
+and untried affliction.
+
+6\. Who will give me sure promise of Jam‘ and al-Muḥaṣṣab of Miná? Who
+of Dhát al-Athl? Who of Na‘mán?
+
+7\. They encompass my heart moment after moment, for the sake of love
+and anguish, and kiss my pillars,
+
+8\. Even as the best of mankind encompassed the Ka‘ba, which the
+evidence of Reason proclaims to be imperfect,
+
+9\. And kissed stones therein, although he was a Náṭiq (prophet). <span
+id="fr_20"></span>[1](#fn_20) And what is the rank of the Temple in
+comparison with the dignity of Man?
+
+<span id="page_67">p. 67</span>
+
+10\. How often did they vow and swear that they would not change, but
+one dyed with henna does not keep oaths.
+
+11\. And one of the most wonderful things is a veiled gazelle, who
+points with red finger-tip and winks with eyelids,
+
+12\. A gazelle whose pasture is between the breast-bones and the bowels.
+O marvel! a garden amidst fires!
+
+13\. My heart has become capable of every form: it is a pasture for
+gazelles and a convent for Christian monks,
+
+14\. And a temple for idols and the pilgrim's Ka‘ba and the tables of
+the Tora and the book of the Koran.
+
+15\. I follow the religion of Love: whatever way Love's camels take,
+that is my religion and my faith.
+
+16\. We have a pattern in Bishr, the lover of Hind and her sister, and
+in Qays and Lubná, and in Mayya and Ghaylán.
+
+#### COMMENTARY
+
+1\. 'O doves,' i.e. the influences of holiness and purity.
+
+3\. 'I respond to her,' i.e. I repeat to her what she says to me, as God
+said to the soul when He created her, 'Who am I?' and she answered, 'Who
+am I?' referring to her qualities, whereupon He caused her to dwell four
+thousand years in the sea of despair and indigence and abasement until
+she said to Him, 'Thou art my Lord.'
+
+4\. 'Faced one another,' because love entails the union of two
+opposites.
+
+'In the thicket of *ghaḍá* trees,' i.e. the fires of love.
+
+'Branches,' i.e. flames.
+
+'Annihilated me,' in order that He alone might exist, not I, through
+jealousy that the lover should have any existence in himself apart from
+his beloved.
+
+6\. 'Jam‘,' i.e. union with the loved ones in the station of proximity,
+which is al-Muzdalifa.
+
+'Al-Muḥaṣṣab,' the place where the thoughts which prevent lovers from
+attaining their object of desire are cast out.
+
+'Dhát al-Athl,' referring to the principle (\#\#\#), for it is
+
+<span id="page_68">p. 68</span>
+
+the principle in love that thou shouldst be the very essence of thy
+Beloved and shouldst disappear in Him from thyself.
+
+'Na‘mán,' the place of Divine and holy bliss
+
+7\. 'For the sake of love and anguish,' i.e. in order to inspire me with
+passion.
+
+'And kiss my pillars' (properly, kiss over the *lithám* or veil covering
+the mouth), i.e. he is veiled and unable to behold them except through a
+medium (\#\#\#). The 'pillars' are the four elements on which the human
+constitution is based. <span id="fr_21"></span>[1](#fn_21)
+
+10\. 'One dyed with henna': he refers to sensual influences (\#\#\#),
+such as descended on the soul when God addressed it and said, '*Am not I
+your Lord*?' (Kor. vii, 171), and received from it a promise and
+covenant. Then it did not faithfully keep the station of unification
+(\#\#\#), but followed other gods. No one was exempt from this
+polytheism, for every one said, 'I did' and 'I said', at the time when
+he forgot to contemplate the Divine Agent and Speaker within him.
+
+11\. 'A veiled gazelle,' i.e. a Divine subtlety (\#\#\#) veiled by a
+sensual state (\#\#\#), in reference to the unknown spiritual feelings
+(\#\#\#) of gnostics, who cannot explain their feelings to other men;
+they can only indicate them symbolically to those who have begun to
+experience the like.
+
+'With red finger-tip': he means the same thing as he meant by 'one dyed
+with henna' in the last verse.
+
+'And winks with eyelids,' i.e. the speculative proofs concerning the
+principles of gnostics are valid only for those who have already been
+imbued with the rudiments of this experience. Gnostics, though they
+resemble the vulgar outwardly, are Divines (\#\#\#) inwardly.
+
+12\. 'Whose pasture,' etc., as ‘Alí said, striking his breast, 'Here are
+sciences in plenty, could I but find people to carry them (in their
+minds).'
+
+<span id="page_69">p. 69</span>
+
+'A garden amidst fires,' i.e. manifold sciences which, strange to say,
+are not consumed by the flames of love in his breast. The reason is,
+that these sciences are produced by the fires of seeking and longing,
+and therefore, like the salamander, are not destroyed by them.
+
+13\. 'My heart has become capable of every form,' as another has said,
+'The heart (\#\#\#) is so called from its changing (\#\#\#),' for it
+varies according to the various influences by which it is affected in
+consequence of the variety of its states of feeling (\#\#\#); and the
+variety of its feelings is due to the variety of the Divine
+manifestations that appear to its inmost ground (\#\#\#). The religious
+law gives to this phenomenon the name of 'transformation' (\#\#\#).
+
+'A pasture for gazelles,' i.e. for the objects of his love.
+
+'A convent for Christian monks': inasmuch as he makes the loved ones to
+be monks, he calls the heart a convent.
+
+14\. 'A temple for idols,' i.e. for the Divine Realities which men seek
+and for whose sake they worship God.
+
+'The pilgrim's Ka‘ba,' because his heart is encompassed by exalted
+spirits.
+
+'The tables of the Tora,' i.e. his heart is a table on which are
+inscribed the Mosaic sciences that have accrued to him.
+
+'The book of the Koran,' because his heart has received an inheritance
+of the perfect Muḥammadan knowledge.
+
+15\. 'I follow the religion of Love,' in reference to the verse '*Follow
+me, then God will love you*' (Kor. iii, 29).
+
+'Whatever way Love's camels take,' etc., i.e. 'I accept willingly and
+gladly whatever burden He lays upon me. No religion is more sublime than
+a religion based on love and longing for Him whom I worship and in whom
+I have faith'. This is a peculiar prerogative of Moslems, for the
+station of perfect love is appropriated to Muḥammad beyond any other
+prophet, since God took him as His beloved (\#\#\#).
+
+16\. He says, 'Love, *quâ* love, is one and the same reality to those
+Arab lovers and to me, but the objects of our love
+
+<span id="page_70">p. 70</span>
+
+are different, for they loved a phenomenon, whereas I love the
+Essential.' 'We have a pattern in them,' because God only afflicted them
+with love for human beings like themselves in order that He might show,
+by means of them, the falseness of those who pretend to love Him and yet
+feel no such transport and rapture in loving Him as deprived those
+enamoured men of their reason and made them unconscious of themselves.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_20"></span>[66:1](taa14.htm#fr_20) In the Ismá‘ílí system
+Muḥammad, regarded as an incarnation of Universal Reason, is the Náṭiq
+of the sixth prophetic cycle. See Professor Browne's *Literary History
+of Persia*, i, 408 seq.
+
+<span id="fn_21"></span>[68:1](taa14.htm#fr_21) The author leaves the
+next two verses unexplained. 'The best of mankind' is Muḥammad.
+
+<div class="filenav">
+
+------------------------------------------------------------------------
+
+[Next: XII](taa15)
+
+</div>

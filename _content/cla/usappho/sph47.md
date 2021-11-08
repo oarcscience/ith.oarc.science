@@ -1,0 +1,21 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Index](index)  [Previous](sph46)  [Next](sph48) 
+
+------------------------------------------------------------------------
+
+# <span id="BM46">46</span>
+
+Ἕγω δ᾽ ἐπὶ μαλθάκαν τύλαν σπολέω
+μέλεα. [\[transcription\]](xlatall.htm#68)
+
+But upon a soft cushion I dispose my limbs
+
+From Herodian.
+
+This is a good example of the choice of words which combine meaning and
+sound poetically.
+
+------------------------------------------------------------------------
+
+[Next: 47: And there the bowl of ambrosia was mixed](sph48)

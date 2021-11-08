@@ -1,0 +1,248 @@
+[Index](index)
+
+------------------------------------------------------------------------
+
+# The Secrets of the Self: Page Index
+
+### [Title Page](iq00)
+
+[unnumbered page](iq00.htm#page__000)  
+[unnumbered page](iq00.htm#page__001)  
+[unnumbered page](iq00.htm#page__002)  
+[unnumbered page](iq00.htm#page__003)  
+
+### [Contents](iq01)
+
+[page vi](iq01.htm#page_vi)  
+
+### [Introduction](iq02)
+
+[page vii](iq02.htm#page_vii)  
+[page viii](iq02.htm#page_viii)  
+[page ix](iq02.htm#page_ix)  
+[page x](iq02.htm#page_x)  
+[page xi](iq02.htm#page_xi)  
+[page xii](iq02.htm#page_xii)  
+[page xiii](iq02.htm#page_xiii)  
+[page xiv](iq02.htm#page_xiv)  
+[page xv](iq02.htm#page_xv)  
+[page xvi](iq02.htm#page_xvi)  
+[page xvii](iq02.htm#page_xvii)  
+[page xviii](iq02.htm#page_xviii)  
+[page xix](iq02.htm#page_xix)  
+[page xx](iq02.htm#page_xx)  
+[page xxi](iq02.htm#page_xxi)  
+[page xxii](iq02.htm#page_xxii)  
+[page xxiii](iq02.htm#page_xxiii)  
+[page xxiv](iq02.htm#page_xxiv)  
+[page xxv](iq02.htm#page_xxv)  
+[page xxvi](iq02.htm#page_xxvi)  
+[page xxvii](iq02.htm#page_xxvii)  
+[page xxviii](iq02.htm#page_xxviii)  
+[page xxix](iq02.htm#page_xxix)  
+[page xxx](iq02.htm#page_xxx)  
+[page xxxi](iq02.htm#page_xxxi)  
+
+### [Prologue](iq03)
+
+[page 1](iq03.htm#page_1)  
+[page 2](iq03.htm#page_2)  
+[page 3](iq03.htm#page_3)  
+[page 4](iq03.htm#page_4)  
+[page 5](iq03.htm#page_5)  
+[page 6](iq03.htm#page_6)  
+[page 7](iq03.htm#page_7)  
+[page 8](iq03.htm#page_8)  
+[page 9](iq03.htm#page_9)  
+[page 10](iq03.htm#page_10)  
+[page 11](iq03.htm#page_11)  
+[page 12](iq03.htm#page_12)  
+[page 13](iq03.htm#page_13)  
+[page 14](iq03.htm#page_14)  
+[page 15](iq03.htm#page_15)  
+
+### [I. The System of the Universe Originates in the Self](iq04)
+
+[page 16](iq04.htm#page_16)  
+[page 17](iq04.htm#page_17)  
+[page 18](iq04.htm#page_18)  
+[page 19](iq04.htm#page_19)  
+[page 20](iq04.htm#page_20)  
+[page 21](iq04.htm#page_21)  
+[page 22](iq04.htm#page_22)  
+[page 23](iq04.htm#page_23)  
+
+### [II. The Life of the Self Comes From Forming Desires](iq05)
+
+[page 24](iq05.htm#page_24)  
+[page 25](iq05.htm#page_25)  
+[page 26](iq05.htm#page_26)  
+[page 27](iq05.htm#page_27)  
+
+### [III. The Self is Strengthened by Love](iq06)
+
+[page 28](iq06.htm#page_28)  
+[page 29](iq06.htm#page_29)  
+[page 30](iq06.htm#page_30)  
+[page 31](iq06.htm#page_31)  
+[page 32](iq06.htm#page_32)  
+[page 33](iq06.htm#page_33)  
+[page 34](iq06.htm#page_34)  
+[page 35](iq06.htm#page_35)  
+[page 36](iq06.htm#page_36)  
+[page 37](iq06.htm#page_37)  
+
+### [IV. The Self is Weakened by Asking](iq07)
+
+[page 38](iq07.htm#page_38)  
+[page 39](iq07.htm#page_39)  
+[page 40](iq07.htm#page_40)  
+[page 41](iq07.htm#page_41)  
+[page 42](iq07.htm#page_42)  
+
+### [V. Strengthened by Love it Gains Dominion Over the Forces of the Universe](iq08)
+
+[page 43](iq08.htm#page_43)  
+[page 44](iq08.htm#page_44)  
+[page 45](iq08.htm#page_45)  
+[page 46](iq08.htm#page_46)  
+[page 47](iq08.htm#page_47)  
+
+### [VI. Negation of the Self](iq09)
+
+[page 48](iq09.htm#page_48)  
+[page 49](iq09.htm#page_49)  
+[page 50](iq09.htm#page_50)  
+[page 51](iq09.htm#page_51)  
+[page 52](iq09.htm#page_52)  
+[page 53](iq09.htm#page_53)  
+[page 54](iq09.htm#page_54)  
+[page 55](iq09.htm#page_55)  
+
+### [VII. We Must be on Guard Against Platonism](iq10)
+
+[page 56](iq10.htm#page_56)  
+[page 57](iq10.htm#page_57)  
+[page 58](iq10.htm#page_58)  
+[page 59](iq10.htm#page_59)  
+
+### [VIII. The True Nature of Poetry and the Reform of Islamic Literature](iq11)
+
+[page 60](iq11.htm#page_60)  
+[page 61](iq11.htm#page_61)  
+[page 62](iq11.htm#page_62)  
+[page 63](iq11.htm#page_63)  
+[page 64](iq11.htm#page_64)  
+[page 65](iq11.htm#page_65)  
+[page 66](iq11.htm#page_66)  
+[page 67](iq11.htm#page_67)  
+[page 68](iq11.htm#page_68)  
+[page 69](iq11.htm#page_69)  
+[page 70](iq11.htm#page_70)  
+[page 71](iq11.htm#page_71)  
+
+### [IX. The Three States in the Education of the Self](iq12)
+
+[page 72](iq12.htm#page_72)  
+[page 73](iq12.htm#page_73)  
+[page 74](iq12.htm#page_74)  
+[page 75](iq12.htm#page_75)  
+[page 76](iq12.htm#page_76)  
+[page 77](iq12.htm#page_77)  
+[page 78](iq12.htm#page_78)  
+[page 79](iq12.htm#page_79)  
+[page 80](iq12.htm#page_80)  
+[page 81](iq12.htm#page_81)  
+[page 82](iq12.htm#page_82)  
+[page 83](iq12.htm#page_83)  
+[page 84](iq12.htm#page_84)  
+
+### [X. Inner Meanings of the Names of Ali](iq13)
+
+[page 85](iq13.htm#page_85)  
+[page 86](iq13.htm#page_86)  
+[page 87](iq13.htm#page_87)  
+[page 88](iq13.htm#page_88)  
+[page 89](iq13.htm#page_89)  
+[page 90](iq13.htm#page_90)  
+[page 91](iq13.htm#page_91)  
+[page 92](iq13.htm#page_92)  
+[page 93](iq13.htm#page_93)  
+[page 94](iq13.htm#page_94)  
+
+### [XI. The Young Man of Merv and Saint Ali Hujwírí](iq14)
+
+[page 95](iq14.htm#page_95)  
+[page 96](iq14.htm#page_96)  
+[page 97](iq14.htm#page_97)  
+[page 98](iq14.htm#page_98)  
+[page 99](iq14.htm#page_99)  
+
+### [XII. The Bird that was Faint with Thirst](iq15)
+
+[page 100](iq15.htm#page_100)  
+[page 101](iq15.htm#page_101)  
+[page 102](iq15.htm#page_102)  
+[page 103](iq15.htm#page_103)  
+
+### [XIII. Story of the Diamond and the Coal](iq16)
+
+[page 104](iq16.htm#page_104)  
+[page 105](iq16.htm#page_105)  
+[page 106](iq16.htm#page_106)  
+[page 107](iq16.htm#page_107)  
+
+### [XIV. The Sheikh and the Brahmin, and the Ganges and the Himalaya](iq17)
+
+[page 108](iq17.htm#page_108)  
+[page 109](iq17.htm#page_109)  
+[page 110](iq17.htm#page_110)  
+[page 111](iq17.htm#page_111)  
+[page 112](iq17.htm#page_112)  
+[page 113](iq17.htm#page_113)  
+[page 114](iq17.htm#page_114)  
+[page 115](iq17.htm#page_115)  
+
+### [XV. On Jihad](iq18)
+
+[page 116](iq18.htm#page_116)  
+[page 117](iq18.htm#page_117)  
+[page 118](iq18.htm#page_118)  
+[page 119](iq18.htm#page_119)  
+[page 120](iq18.htm#page_120)  
+[page 121](iq18.htm#page_121)  
+
+### [XVI. Precepts of Bábá Sahrá’í](iq19)
+
+[page 122](iq19.htm#page_122)  
+[page 123](iq19.htm#page_123)  
+[page 124](iq19.htm#page_124)  
+[page 125](iq19.htm#page_125)  
+[page 126](iq19.htm#page_126)  
+[page 127](iq19.htm#page_127)  
+[page 128](iq19.htm#page_128)  
+[page 129](iq19.htm#page_129)  
+[page 130](iq19.htm#page_130)  
+[page 131](iq19.htm#page_131)  
+[page 132](iq19.htm#page_132)  
+[page 133](iq19.htm#page_133)  
+
+### [XVII. Time is a Sword](iq20)
+
+[page 134](iq20.htm#page_134)  
+[page 135](iq20.htm#page_135)  
+[page 136](iq20.htm#page_136)  
+[page 137](iq20.htm#page_137)  
+[page 138](iq20.htm#page_138)  
+[page 139](iq20.htm#page_139)  
+[page 140](iq20.htm#page_140)  
+
+### [XVIII. An Invocation](iq21)
+
+[page 141](iq21.htm#page_141)  
+[page 142](iq21.htm#page_142)  
+[page 143](iq21.htm#page_143)  
+[page 144](iq21.htm#page_144)  
+[page 145](iq21.htm#page_145)  
+[page 146](iq21.htm#page_146)  
+[page 147](iq21.htm#page_147)  

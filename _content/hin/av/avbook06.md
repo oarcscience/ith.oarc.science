@@ -1,0 +1,182 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[Index](index)   
+[Book 5](avbook05)  [Book 7](avbook07)
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
+
+------------------------------------------------------------------------
+
+# The Hymns of the Atharvaveda
+
+# Book VI
+
+### tr. by Ralph T.H. Griffith
+
+#### \[1895-6\]
+
+------------------------------------------------------------------------
+
+[Hymn 1: In praise of Savitar](av06001)  
+[Hymn 2: In praise of Indra](av06002)  
+[Hymn 3: A prayer to various deities for protection and
+prosperity](av06003)  
+[Hymn 4: A hymn to various deities for protection](av06004)  
+[Hymn 5: A prayer to Agni and Indra for the well being of a princely
+patron](av06005)  
+[Hymn 6: A prayer to Brāhmanaspati for protection from wicked
+men](av06006)  
+[Hymn 7: A prayer to Soma and other gods for help and
+protection](av06007)  
+[Hymn 8: A man's love-charm](av06008)  
+[Hymn 9: A man's love-charm](av06009)  
+[Hymn 10: A thanksgiving for life, hearing, and sight](av06010)  
+[Hymn 11: An epithalamian charm to ensure the birth of a boy](av06011)  
+[Hymn 12: A charm against venomous serpents](av06012)  
+[Hymn 13: Homage to death](av06013)  
+[Hymn 14: A charm against consumption](av06014)  
+[Hymn 15: A charm for power and preeminence](av06015)  
+[Hymn 16: A medical charm](av06016)  
+[Hymn 17: A charm to ensure conception](av06017)  
+[Hymn 18: A charm to banish jealousy](av06018)  
+[Hymn 19: A prayer for purification](av06019)  
+[Hymn 20: A charm against fever](av06020)  
+[Hymn 21: A charm to strengthen hair and promote its growth](av06021)  
+[Hymn 22: To the Maruts or Storm-Gods](av06022)  
+[Hymn 23: To the Waters](av06023)  
+[Hymn 24: To the Rivers](av06024)  
+[Hymn 25: A charm to remove pustules or scrofulous swellings
+(apachitas)](av06025)  
+[Hymn 26: To Affliction](av06026)  
+[Hymn 27: A charm to avert misfortune foreshown by the coming of a
+dove](av06027)  
+[Hymn 28: A charm to avert misfortune foreshown by the coming of a
+dove](av06028)  
+[Hymn 29: A charm to avert misfortune foreshown by the coming of a dove
+and an owl](av06029)  
+[Hymn 30: A charm to promote the growth of hair](av06030)  
+[Hymn 31: To Sūrya the Sun-God](av06031)  
+[Hymn 32: A charm against fiends and goblins](av06032)  
+[Hymn 33: A prayer to Indra for riches](av06033)  
+[Hymn 34: To Agni for protection from enemies](av06034)  
+[Hymn 35: To Agni Vaisvānara](av06035)  
+[Hymn 36: In praise of Agni Vaisvānara](av06036)  
+[Hymn 37: A charm to divert Imprecation personified](av06037)  
+[Hymn 38: A prayer for surpassing strength and energy](av06038)  
+[Hymn 39: A priest's prayer for power and glory](av06039)  
+[Hymn 40: A prayer for peace and security](av06040)  
+[Hymn 41: A prayer for protection, long life, and various
+blessings](av06041)  
+[Hymn 42: A charm to reconcile estranged friends](av06042)  
+[Hymn 43: The same](av06043)  
+[Hymn 44: A charm to remove disease](av06044)  
+[Hymn 45: A prayer for preservation from mental sin and evil
+promptings](av06045)  
+[Hymn 46: A charm against evil dreams](av06046)  
+[Hymn 47: To accompany the three daily libations](av06047)  
+[Hymn 48: Formulas to be used at the three daily libations](av06048)  
+[Hymn 49: In praise of Agni](av06049)  
+[Hymn 50: A charm for the destruction of vermin](av06050)  
+[Hymn 51: A prayer for purification and forgiveness of sins](av06051)  
+[Hymn 52: A charm against noxious reptiles and insects](av06052)  
+[Hymn 53: A prayer for recovery and preservation of health and
+security](av06053)  
+[Hymn 54: A benediction on a newly elected King](av06054)  
+[Hymn 55: A prayer for general protection and prosperity](av06055)  
+[Hymn 56: A charm against snakes](av06056)  
+[Hymn 57: A charm for a wound or bruise](av06057)  
+[Hymn 58: A priest's prayer for power and glory](av06058)  
+[Hymn 59: A charm to protect cattle and men](av06059)  
+[Hymn 60: The wooing of a bride](av06060)  
+[Hymn 61: A prayer for prosperity and greatness](av06061)  
+[Hymn 62: A prayer for purification and riches](av06062)  
+[Hymn 63: The symbolical liberation of a sacrificial victim](av06063)  
+[Hymn 64: To promote unanimity in an assembly](av06064)  
+[Hymn 65: A sacrificial charm against enemies](av06065)  
+[Hymn 66: A charm for the destruction and plunder of enemies](av06066)  
+[Hymn 67: A charm for the destruction and plunder of enemies](av06067)  
+[Hymn 68: A charm to accompany the shaving of the beard](av06068)  
+[Hymn 69: A priest's prayer for power and glory](av06069)  
+[Hymn 70: A benediction on cow and calf](av06070)  
+[Hymn 71: A priest's benediction after meat](av06071)  
+[Hymn 72: A charm to restore or increase virile power](av06072)  
+[Hymn 73: A King's charm to conciliate his discontented
+kinsmen](av06073)  
+[Hymn 74: A King's charm to secure the fidelity of his
+people](av06074)  
+[Hymn 75: A charm to effect the removal of an enemy](av06075)  
+[Hymn 76: A benediction on a new-born Kshatriya child](av06076)  
+[Hymn 77: A charm to bring the cattle home](av06077)  
+[Hymn 78: A nuptial benediction](av06078)  
+[Hymn 79: A prayer for seasonable rain and prosperity](av06079)  
+[Hymn 80: A prayer for help and protection](av06080)  
+[Hymn 81: A charm to facilitate child-birth](av06081)  
+[Hymn 82: A charm to win a bride](av06082)  
+[Hymn 83: A charm against sores and pustules (apachitas)](av06083)  
+[Hymn 84: A charm to accompany the symbolical loosing of sacrificial
+victims](av06084)  
+[Hymn 85: A charm against Consumption](av06085)  
+[Hymn 86: A glorification of a newly consecrated King](av06086)  
+[Hymn 87: A benediction addressed to a newly elected King](av06087)  
+[Hymn 88: A benediction addressed to a newly elected King](av06088)  
+[Hymn 89: A man's love charm](av06089)  
+[Hymn 90: A charm to cure a poisoned man](av06090)  
+[Hymn 91: A charm against disease](av06091)  
+[Hymn 92: A charm to strengthen and inspirit a war-horse](av06092)  
+[Hymn 93: A prayer for protection from poison](av06093)  
+[Hymn 94: A charm to reconcile a King's discontented people](av06094)  
+[Hymn 95: A charm to remove disease](av06095)  
+[Hymn 96: A prayer for deliverance from sin and sorrow](av06096)  
+[Hymn 97: A prayer for the success and prosperity of a King](av06097)  
+[Hymn 98: Praise of Indra](av06098)  
+[Hymn 99: A prayer for protection in battle](av06099)  
+[Hymn 100: A charm against poison](av06100)  
+[Hymn 101: A charm to promote virile vigour](av06101)  
+[Hymn 102: A man's love charm](av06102)  
+[Hymn 103: A charm to check the approach of a hostile army](av06103)  
+[Hymn 104: The same](av06104)  
+[Hymn 105: A charm to cure cough](av06105)  
+[Hymn 106: A charm to protect a house from fire](av06106)  
+[Hymn 107: A charm to protect men and cattle](av06107)  
+[Hymn 108: A prayer for wisdom](av06108)  
+[Hymn 109: A charm to heal punctured wounds](av06109)  
+[Hymn 110: A benediction on a new-born child](av06110)  
+[Hymn 111: A charm for insanity](av06111)  
+[Hymn 112: A health-charm for man, woman, and son](av06112)  
+[Hymn 113: A charm to banish the fiend Grāhi](av06113)  
+[Hymn 114: A prayer for pardon of faults and errors in
+sacrificing](av06114)  
+[Hymn 115: A prayer for forgiveness of sins](av06115)  
+[Hymn 116: A prayer for pardon of sin against mother, father, son, or
+brother](av06116)  
+[Hymn 117: A prayer for freedom from debt](av06117)  
+[Hymn 118: A prayer for pardon of cheating at play](av06118)  
+[Hymn 119: A prayer for release from debts incurred without intention of
+payment](av06119)  
+[Hymn 120: A prayer for pardon of sins and felicity
+hereafter](av06120)  
+[Hymn 121: A prayer for happiness in heaven](av06121)  
+[Hymn 122: A prayer for happiness in heaven](av06122)  
+[Hymn 123: A prayer for happiness in heaven](av06123)  
+[Hymn 124: An Omen from the sky](av06124)  
+[Hymn 125: Glorification of a war-chariot](av06125)  
+[Hymn 126: Glorification of the war drum](av06126)  
+[Hymn 127: A charm to banish various diseases](av06127)  
+[Hymn 128: A charm for fair weather](av06128)  
+[Hymn 129: A charm for success and happiness](av06129)  
+[Hymn 130: A woman's love-charm](av06130)  
+[Hymn 131: A woman's love-charm](av06131)  
+[Hymn 132: The same](av06132)  
+[Hymn 133: A glorification of the sacred girdle](av06133)  
+[Hymn 134: A priest's prayer for power to punish wrong-doers](av06134)  
+[Hymn 135: A priest's fulmination against an enemy](av06135)  
+[Hymn 136: A charm to promote the growth of hair](av06136)  
+[Hymn 137: A charm to promote the growth of hair](av06137)  
+[Hymn 138: A woman's imprecation on her unfaithful lover](av06138)  
+[Hymn 139: A woman's love-charm](av06139)  
+[Hymn 140: A blessing on a child's first two teeth](av06140)  
+[Hymn 141: A blessing on cattle](av06141)  
+[Hymn 142: A blessing on cattle](av06142)  

@@ -1,0 +1,68 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[Index](index)  [Previous](pdh77)  [Next](pdh79) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+
+------------------------------------------------------------------------
+
+*Poems from the Divan of Hafiz*, by Getrude Lowthian Bell, \[1897\], at
+Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+## XLII
+
+*Stanza 1*.—Khizr. See Note to Stanza 3 of Poem XVIII.
+
+*Stanza 3*.—Zohra is the planet Venus, the musician of the heavens, and
+the protector of all musicians and singers upon the earth. Zohra played
+a part in very ancient mythology. The Mahommadans borrowed and adapted
+the Magian legends concerning her, and their account runs as follows:
+Once upon a time the angels fell to marvelling over the wickedness of
+man and the case with which he was led astray, notwithstanding the
+warnings sent down to him through the prophets. But God, hearing their
+words, determined to expose them also to temptation, that they might
+learn how easy it was to fall. Therefore he appointed two of them, whose
+names were Harut and Marut, to go down to the earth as judges over man,
+and he taught them a secret word by the power of which every evening,
+when their work of judgment was done, they could return to heaven. For
+some time the two angels accomplished their duties faithfully. But at
+length a woman called Zohra, more beautiful than any other woman upon
+earth, came before their judgment-seat demanding redress against her
+husband, and the two angels conceived a violent passion for her. On the
+following day, when she returned with the same petition, they drew her
+aside and declared their love to her. She replied that she would satisfy
+their desires if they would do three things: destroy her husband,
+worship the gods she worshipped, and drink wine. Murderers and idolaters
+the angels could not agree to become, but they consented to drink wine,
+"not knowing," says the Persian commentator of the Mesnavi of Jelaleddin
+Rumi, "that wine was the source of sin and the mother of shame." Then
+said Zohra: "Every night, by the power of a divine word, ye return to
+heaven. Teach me also that word." The angels confided to her the secret
+of God, and as soon as she had heard the word she pronounced it in her
+turn and rose up into heaven, where God changed her form and turned her
+into a star. The angels attempted to follow her to heaven, but they were
+refused admittance. On the intercession of a very pious man, however,
+they were allowed to choose whether they would be punished in this world
+or the next; they chose the former, and now suffer punishment in the
+land of Babel—whither, if any man have a mind to learn magic, he may go
+and learn it of them, for they are masters of all magic arts. Tradition
+says that Mahommad, whenever he looked upon the planet Venus, was wont
+to exclaim: "God curse Zohra! for it was she who led the two angels
+Harut and Marut into sin."
+
+The same story, says Rosenzweig, is to be found in the Talmud, where the
+two angels are called Asa and Asail. The Talmud relates that the angels,
+after their sin, were carried into a great mountain and suspended by
+chains over an abyss. It was they who taught Solomon wisdom.
+
+*Stanza 4*.—For the superstition concerning the origin of precious
+stones, see Note to Stanza 3 of poem XXXIII.
+
+------------------------------------------------------------------------
+
+[Next: XLIII](pdh79)

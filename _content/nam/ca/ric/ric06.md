@@ -1,0 +1,152 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Native
+American](../../index)  [California](../index)  [Index](index) 
+[Previous](ric05)  [Next](ric07) 
+
+------------------------------------------------------------------------
+
+## MYTHOLOGY AND BELIEFS.
+
+In mythology a deep-going difference between the three culture areas
+again appears. The Northwestern mythologies are characterized primarily
+by a very deeply impressed conception of a previous, now vanished, race,
+who by first living the life and
+
+<span id="page_343">p. 343</span>
+
+performing the actions of mankind were the producers of all human
+institutions and arts as well as of some of the phenomena of nature.
+Second in importance in the Northwest are myths dealing with
+culture-heroes more or less of the trickster type familiar from so many
+other parts of North America.
+
+In Central California there is always a true creation of the world, of
+mankind, and of its institutions. The conception of the creator is often
+quite lofty, and tricky exploits or defeats are usually not connected
+with him. Often there is an antithesis between this beneficent and truly
+divine creator and a second character, usually the Coyote, who in part
+coöperates with the creator but in part thwarts him, being responsible
+for the death of mankind and other imperfections in the world-scheme. In
+the northern half of the Central region the creator is generally
+anthropomorphic, if not, he is merged into one personage with the more
+or less tricky Coyote. In the southern half of the region the creators
+seem always to be animals with the dignified and wise eagle as the
+chief. The myths of the Central region not directly concerned with
+creation are mostly stories of adventure, of much the same type as
+European folk and fairy tales. They do not explain the origin of
+phenomena except in a casual, isolated way, and but rarely are of
+ceremonial import.
+
+In Southern California there is no creation. The various animate and
+inanimate existences in the world are born from heaven and earth as the
+first parents. Sometimes heaven and earth are regarded as the first
+concrete existences, who were, however, preceded by a series of psychic
+beings grouped in pairs. The bulk of the Southern origin myth consists
+of a history of mankind, at first as a single tribe and later centered
+in the tribe which tells the story. In the successive experiences of
+this body of people, which are accompanied by more or less journeying,
+the world is gradually brought to its present stage, and all the
+institutions of mankind, particularly of the narrating tribe but also of
+others, are developed. The people are under the leadership of one or two
+great leaders, at least one of whom always dies or departs after his
+beneficent directions. The thoroughly Southwestern and Pueblo character
+of this long origin myth is obvious. It is usually followed to a greater
+or less extent by migration
+
+<span id="page_344">p. 344</span>
+
+legends recounting the wandering and conflicts of different tribes or
+clans. The remaining myths are in plot essentially not very different
+from the adventure stories of the Central region, but both much longer
+and more elaborate, and at the same time distinctively ritualistic in
+that they form the basis or framework of the singing ceremonies that
+have been described. As these ceremonies themselves are nothing but
+myths, there is neither need nor room for traditionary accounts
+explaining the origin of the ceremonies.
+
+An identification of myth and ceremony that is in many ways similar to
+that prevalent in Southern California is characteristic also of the
+Northwestern region, where the formulae which constitute the essential
+religious elements, as well as being the direct means, of most
+supernatural accomplishment, are nothing but myths. The Northwestern
+formula is a myth, rarely a direct prayer, and practically every more
+serious myth is either in whole or in part also a formula. In purpose,
+however, as well as in rendering, the spoken myth-formulae of the
+Northwest and the sung myth-ceremonies of the South are different, the
+former having always a definite practical result in view, whereas the
+latter have no aim other than their own recital.
+
+Thus the mythology of Southern California resembles that of the
+Southwest rather than that of the remainder of the state. That of the
+Northwestern region shows affinities to the North Pacific Coast in its
+prevalence of the culture-hero and trickster over the creator. The most
+marked special characteristic of the Northwestern mythology, other than
+its practical use of myths for religious purposes in the shape of
+formulas, is its strong and definite, though inconsistently carried out,
+idea of the previous race which is parallel to but distinct from
+mankind, and which is the originator, not by any act of creation but by
+merely living its life, of everything human except mankind itself, the
+origin of which is never accounted for. This idea of a previous
+supernatural race analogous to mankind crops out to some extent in
+almost all North American mythologies, and particularly in other parts
+of California; but it seems nowhere to be so deep-seated and so freely
+expressed as in this region. The members of this vanished race are
+almost always strictly human, in Northwestern
+
+<span id="page_345">p. 345</span>
+
+California, and not animals or personifications. They are nothing but
+men, living the life of the Indians, transposed into a mythic
+supernatural age, and by the fact of their mere existence regarded as
+the originators of the present condition of the world. They therefore
+leave no room for a creator, and but little for the culture hero, whose
+exploits, when not of purely personal significance, consequently consist
+mainly of the destruction of evil beings.
+
+If the mythology of Northwestern California in spite of its partial
+northern affinities accordingly has a dominant character all its own,
+the same is also true of the larger, more representative Central region.
+A true creator, and a full and consistent attempt at an account of the
+creation, are found nowhere else in North America, or at least only
+sporadically and carried out with an apparently much less degree of
+thoroughness. The remainder of the Central Californian mythology however
+scarcely presents any unique qualities, even some of the specific
+myth-episodes, such as the favorite one of the bear and deer children,
+being found over considerable territories outside of California. Even
+the important characteristic of the presence of creation-myths is in a
+measure a negative one, for from a world view some approach to such a
+myth may be expected among most peoples, whether primitive or civilized,
+and it is primarily only in America that special bents of mind and of
+religious thought have supplanted the idea of creation by the culture
+hero, the tribal history, and other conceptions. We are therefore not
+far from right if we regard the unique development of creation myths
+over the greater part of California as merely a part of a general
+tendency of the California Indians towards simplicity and lack of
+strongly marked peculiar and American qualities in any one direction, a
+tendency which has already been emphasized in other aspects of their
+religion, and which must be said to characterize their whole life and
+culture.
+
+Ideas to the world and the existence of the dead vary from tribe to
+tribe but present nothing specially distinctive. The world is usually
+regarded as surrounded by water, sometimes as floating upon it. It is
+often secured by four or five pillars, ropes, or other supports. Beyond
+where earth and sky meet there is
+
+<span id="page_346">p. 346</span>
+
+often another land. The dead sometimes go below, sometimes above,
+sometimes across the ocean to the west, and sometimes to more or less
+distant parts of this earth. The entrance to the world of the dead is
+pointed out by some tribes. People who have temporarily died have been
+there and returned to describe it. Dances constitute the principal
+occupation of the dead. No ideas of future rewards and punishments based
+on conduct in this life have yet been found. If such ideas exist they
+must be very scantily developed. As in other parts of the world, there
+are occasional ideas of transmigration of souls into animals, but these
+conceptions are nowhere systematically worked out or of an religious
+importance.
+
+------------------------------------------------------------------------
+
+[Next: Special Characteristics of Different Tribes](ric07)

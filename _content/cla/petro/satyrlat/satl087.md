@@ -1,0 +1,32 @@
+[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
+[Petronius](../index)  [Index (English)](../satyr/index)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXVII) 
+[Previous](satl086)  [Next](satl088) 
+
+------------------------------------------------------------------------
+
+\[LXXXVII\] Cum ob hanc offensam praeclusissem mihi aditum quem feceram,
+&lt;mox tamen&gt; iterum ad licentiam redii. Interpositis enim paucis
+diebus, cum similis casus nos in eandem fortunam rettulisset, ut
+intellexi stertere patrem, rogare coepi ephebum ut reverteretur in
+gratiam mecum, id est ut pateretur satis fieri sibi, et cetera quae
+libido distenta dictat. At ille plane iratus nihil aliud dicebat nisi
+hoc: "Aut dormi, aut ego iam dicam patri". Nihil est tam arduum, quod
+non improbitas extorqueat. Dum dicit: "Patrem excitabo ", irrepsi tamen
+et male repugnanti gaudium extorsi. At ille non indelectatus nequitia
+mea, postquam diu questus est deceptum se et derisum traductumque inter
+condiscipulos, quibus iactasset censum meum: "Videris tamen, inquit, non
+ero tui similis. Si quid vis, fac iterum". Ego vero deposita omni
+offensa cum puero in gratiam redii, ususque beneficio eius in somnum
+delapsus sum. Sed non fuit contentus iteratione ephebus plenae
+maturitatis et annis ad patiendum gestientibus. Itaque excitavit me
+sopitum et: "Numquid vis?" inquit. Et non plane iam molestum erat munus.
+Vtcunque igitur inter anhelitus sudoresque tritus, quod voluerat
+accepit, rursusque in somnum decidi gaudio lassus. Interposita minus
+hora pungere me manu coepit et dicere: "Quare non facimus?" Tum ego
+toties excitatus plane vehementer excandui et reddidi illi voces suas:
+"Aut dormi, aut ego iam patri dicam". &lt;. . .&gt;
+
+------------------------------------------------------------------------
+
+[Next: LXXXVIII](satl088)

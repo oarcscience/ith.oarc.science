@@ -1,0 +1,72 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[Index](index)  [Previous](leg00)  [Next](leg02) 
+
+------------------------------------------------------------------------
+
+<span id="page_vi">p. vi</span>
+
+# PREFACE
+
+THE welcome which has been accorded to the volumes of this Series, and
+the fact that some of them have passed into second and third editions,
+suggest that these little books have been found useful by beginners in
+Egyptology and others. Hitherto the object of them has been to supply
+information about the Religion, Magic, Language, and History of the
+ancient Egyptians, and to provide editions of the original texts from
+which such information was derived. There are, however, many branches of
+Egyptology which need treatment in a similar manner in this Series, and
+it has been suggested in many quarters that the time has now arrived
+when the publication of a series of groups of texts illustrating
+EGYPTIAN LITERATURE in general might well be begun. Seeing that nothing
+is known about the authors of Egyptian works, not even their names, it
+is impossible to write a History of Egyptian Literature in the ordinary
+sense of the word. The only thing to be done is to print the actual
+works in the best and most complete form possible, with translations,
+and then to put them in the hands of the reader and leave them to his
+judgment.
+
+<span id="page_vi">p. vi</span>
+
+With this object in view, it has been decided to publish in the Series
+several volumes which shall be devoted to the reproduction in
+hieroglyphic type of the best and most typical examples of the various
+kinds of EGYPTIAN LITERATURE, with English translations, on a much
+larger scale than was possible in my "First Steps in Egyptian" or in my
+"Egyptian Reading Book." These volumes are intended to serve a double
+purpose, i.e., to supply the beginner in Egyptian with new material and
+a series of reading books, and to provide the general reader with
+translations of Egyptian works in a handy form.
+
+The Egyptian texts, whether the originals be written in hieroglyphic or
+hieratic characters, are here printed in hieroglyphic type, and are
+arranged with English translations, page for page. They are printed as
+they are written in the original documents, i.e., the words are not
+divided. The beginner will find the practice of dividing the words for
+himself most useful in acquiring facility of reading and understanding
+the language. The translations are as literal as can reasonably be
+expected, and, as a whole, I believe that they mean what the original
+writers intended to say. In the case of passages where the text is
+corrupt, and readings are mixed, or where very rare words occur, or
+where words are omitted, the renderings given claim to be nothing more
+than suggestions as to their meanings. It must be remembered that the
+exact meanings of many Egyptian words have still to be
+
+<span id="page_vii">p. vii</span>
+
+ascertained, and that the ancient Egyptian scribes were as much puzzled
+as we are by some of the texts which they copied, and that owing to
+carelessness, ignorance, or weariness, or all three, they made blunders
+which the modern student is unable to correct. In the Introduction will
+be found brief descriptions of the contents of the Egyptian texts, in
+which their general bearing and importance are indicated, and references
+given to authoritative editions of texts and translations.
+
+E. A. WALLIS BUDGE.
+
+BRITISH MUSEUM,  
+       *November* 17,1911.
+
+------------------------------------------------------------------------
+
+[Next: Contents](leg02)

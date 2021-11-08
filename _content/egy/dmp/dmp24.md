@@ -1,0 +1,140 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
+[Index](index)  [Previous](dmp23)  [Next](dmp25) 
+
+------------------------------------------------------------------------
+
+<span id="page_134">p. 134</span> <span id="page_135">p. 135</span>
+
+### COL. XXI.
+
+\(1\) The vessel-inquiry of Osiris. (2) 'Hail to him! Osiris, King of
+the Underworld, lord of burial, whose head is in This, and his feet in
+Thebes, he who giveth answer (?) in Abydos, (3) whose .... is (in?)
+Pashalom, he who is under the *nubs* tree in Meroë, who is on the
+mountain of Poranos, who is on my house to eternity, (4) the house of
+Netbeou for ever, he whose countenance is as the resemblance (?) of the
+face of a hawk of linen, mighty one whose tail is the tail of a serpent,
+(5) whose back is the back of a crocodile (?), whose hand is a man's,
+who is girded (?) with this girdle of bandage, in whose hand is this
+wand of command, (6) hail to him Iaho, Sabaho, Atonai, Mistemu, Iauiu;
+hail to him, Michael, Sabael, (7) hail to him, Anubis in the nome of the
+dog-faces, he to whom this earth belongs, who carries a wound (?) on one
+foot, (8) hide the darkness in the midst, bring in the light for me,
+come in to me, tell me the answer to that about which I am inquiring
+here to-day.'--Nine times, (9) until the god come and the light appear.
+You must do it in the manner of the remainder as above again; the boy's
+face being to the East and your own face to the West; you call down into
+his head.
+
+<span id="page_136">p. 136</span> <span id="page_137">p. 137</span>
+
+\(10\) \[The method\] of the scarab of the cup of wine, to make a woman
+love a man. You take a fish-faced(?) scarab, this scarab bring small and
+having no horn, it wearing three plates (11) on the front of its head;
+you find its face thin (?) outwards--or again that which bears two
+horns--. You take it at the rising of the sun; you bind (?) yourself
+with a cloth on the upper part of your back, (12) and bind (?) yourself
+on (?) your face with a strip of palm-fibre, the scarab being on the
+front (?) of your hand; and you address it before the sun when it is
+about to rise, seven times. When you have finished, you drown it (13) in
+some milk of a black cow; you approach (?) its head with a hoop (?) of
+olive wood; you leave it till evening in the milk. When evening comes,
+you (14) take it out, you spread its under part with sand, and put a
+circular strip of cloth under it upon the sand, unto four days; you do
+frankincense-burning before it. When the four days have passed, and it
+is dry, (15) you take it before you (lit. your feet), there being a
+cloth spread under it. You divide it down its middle with a bronze
+knife; you take (?) its right half, and your nails of your right hand
+and foot; (16) you cook them on a new potsherd with vine wood, you pound
+them with nine apple-pips together with your urine or your sweat free
+from oil (17) of the bath; you make it into a ball and put it in the
+wine, and speak over it seven times, and you make the woman drink it;
+and you take its other half, the left one, together with your nails of
+your left hand (18) and foot also, and bind them in a strip of fine
+linen, with myrrh and saffron, and bind them to your
+
+<span id="page_138">p. 138</span> <span id="page_139">p. 139</span>
+
+left arm, and lie with the woman with them bound upon you. (19) If you
+wish to do it again without its being drowned, then you do it again on
+the third of the lunar month. You do it in this manner that is above for
+it again. You pronounce its invocation to it before the Sun in the
+morning, you cook (it), (20) you divide it, you do it according to that
+which is above again in everything. \[The invocation\] which you
+pronounce to it before the Sun in the morning: 'Thou art this scarab of
+real lapis-lazuli; I have taken thee out of the door of my temple; thou
+carriest (?) (21)... of bronze to thy nose (?), that can eat (?) the
+herbage that is trampled (?), the field-plants (?) that are injured for
+the great images of the men of Egypt. I dispatch thee to N. born of N.
+(22) to strike her from her heart to her belly (*bis*), to her entrails
+(*bis*), to her womb; for she it is who hath wept (?) before the Sun in
+the morning, she saying to the Sun, "Come not forth," to the Moon, "Rise
+not," to the water, "Come not to the men of Egypt," to the fields, "Grow
+not green," and to the great trees of the men of Egypt, "Flourish not."
+(24) I dispatch thee to N. born of N. to injure her from her heart unto
+her belly (*bis*), unto her entrails (*bis*), unto her womb, and she
+shall put herself on the road (?) after N. born of N. at every time
+(?).'
+
+\(25\) \[The spell\] that you pronounce to it, while it is in the milk:
+'Woe(?), great (*bis*), woe(?), my(?) great, woe (?) his (?) Nun, woe
+(?) his (?) love. O scarab (*bis*), thou art the eye of Phre, the heart
+(?) (26) of Osiris, the open-hand (?) of Shu, thou approachest in this
+condition in which Osiris thy father went, on account of N. born of N.
+until fire is put to her heart and the flame (27) to
+
+<span id="page_140">p. 140</span> <span id="page_141">p. 141</span>
+
+her flesh, until she shall follow (?) N. born of N., unto every place in
+which he is.' \[The spell\] which you utter to it when you cook it: 'O
+my beautiful child, the youth of oil-eating (?), (28) thou who didst
+cast semen and who dost cast semen among all the gods, whom he that is
+little (and?) he that is great found among the two great enneads in the
+East of Egypt, (29) who cometh forth as a black scarab on a stem of
+papyrus-reed; I know thy name, I know thy ... "the work of two stars" is
+thy name. (30) I cast forth fury upon thee to-day: Nephalam, Balla,
+Balkha (?), Iophphe; for every burning, every heat, every fire that thou
+makest (31) to-day, thou shalt make them in the heart, the lungs, the
+liver (?), the spleen, the womb, the great viscera, the little viscera,
+the ribs, the flesh, the bones, in every limb, (32) in the skin of N.
+born of N. until she follow (?) N. born of N. to every place in which he
+is.'
+
+\[The spell\] that you pronounce to it in the wine: 'O scarab (*bis*),
+thou art the scarab (33) of real lapis-lazuli. thou art the eye of Phre,
+thou art the eye of Atum, the open-hand (?) of Shu, the heart (?) of
+Osiris, thou art that black bull, the first, that came forth from Nun,
+(34) the beauty of Isis being with thee; thou art Raks, Raparaks, the
+blood of this wild boar (?) which they brought from the land of Syria
+unto Egypt .......
+
+<span id="page_142">p. 142</span> <span id="page_143">p. 143</span>
+
+to the wine, (35) I send thee; wilt thou go on my errand? Wilt thou do
+it? Thou sayest, "Send me to the thirsty, that his thirst may be
+quenched, and to the canal that it may be dried up, and to the sand of
+the *snyt* that it may be scattered without (36) wind, and to the
+papyrus of Buto that the blade may be applied to it, while Horus is
+saved for (?) Isis, catastrophes grow great for the Egyptians, so that
+not a man or woman is left in their midst." I (37) send thee; do like
+unto these; I send thee down to the heart of N. born of N. and do thou
+make fire in her body, flame in her entrails, put the madness to her
+heart, (38) the fever (?) to her flesh; let her make the pursuit of the
+"Shoulder"-constellation after the "Hippopotamus"-constellation; let her
+make (39) the movements of the sunshine after the shadow, she following
+after N. born of N. to every place in which he is, she loving him, she
+being mad for him, she not knowing the place of the earth in which (40)
+she is. Take away her sleep by night; give her lamentation and anxiety
+by day; let her not eat, let her not drink, let her not sleep, let her
+not eat under (41) the shade of her house until she follow (?) him to
+every place in which he is, her heart forgetting, her eye flying, her
+glance turned (?), she not knowing the place (42) of the earth in which
+she is, until she see him, her eye after his eye, her heart after his
+heart, her hand after his hand, she giving to him every ..... Let fly
+(?) the tip of her feet (43) after his heels in the street at all times
+without fail at any time. Quick (*bis*), hasten (*bis*).'
+
+------------------------------------------------------------------------
+
+[Next: Col. XXII](dmp25)

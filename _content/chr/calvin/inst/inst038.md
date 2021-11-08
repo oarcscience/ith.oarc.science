@@ -1,0 +1,428 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index) 
+[Previous](inst037)  [Next](inst039) 
+
+------------------------------------------------------------------------
+
+*Institutes of the Christian Religion*, by John Calvin, tr. Henry
+Beveridge \[1845\], at Intangible Textual Heritage
+
+------------------------------------------------------------------------
+
+<span id="iv.ii.v"></span>
+
+### <span id="iv.ii.v-p0.1"></span>CHAPTER 4.
+
+<span id="iv.ii.v-p1"></span>HOW GOD WORKS IN THE HEARTS OF MEN.
+
+<span id="iv.ii.v-p2"></span>The leading points discussed in this
+chapter are, I. Whether in bad actions anything is to be attributed to
+God; if anything, how much. Also, what is to be attributed to the devil
+and to man, sec. 1–5. II. In indifferent matters, how much is to be
+attributed to God, and how much is left to man, sec. 6. III. Two
+objections refuted, sec. 7, 8.
+
+<span id="iv.ii.v-p3"></span>*Sections.*
+
+<span id="iv.ii.v-p4"></span>1. Connection of this chapter with the
+preceding. Augustine’s similitude of a good and bad rider. Question
+answered in respect to the devil.
+
+<span id="iv.ii.v-p5"></span>2. Question answered in respect to God and
+man. Example from the history of Job. The works of God distinguished
+from the works of Satan and wicked men. 1. By the design or end of
+acting. How Satan acts in the reprobate. 2. How God acts in them.
+
+<span id="iv.ii.v-p6"></span>3. Old Objection, that the agency of God in
+such cases is referable to prescience or permission, not actual
+operation. Answer, showing that God blinds and hardens the reprobate,
+and this in two ways; 1. By deserting them; 2. By delivering them over
+to Satan.
+
+<span id="iv.ii.v-p7"></span>4. Striking passages of Scripture, proving
+that God acts in both ways, and disposing of the objection with regard
+to prescience. Confirmation from Augustine.
+
+<span id="iv.ii.v-p8"></span>5. A modification of the former answer,
+proving that God employs Satan to instigate the reprobate, but, at the
+same time, is free from all taint.
+
+<span id="iv.ii.v-p9"></span>6. How God works in the hearts of men in
+indifferent matters. Our will in such matters not so free as to be
+exempt from the overruling providence of God. This confirmed by various
+examples.
+
+<span id="iv.ii.v-p10"></span>7. Objection, that these examples do not
+form the rule. An answer, fortified by the testimony of universal
+experience, by Scripture, and a passage of Augustine.
+
+<span id="iv.ii.v-p11"></span>8. Some, in arguing against the error of
+free will, draw an argument from the event. How this is to be
+understood.
+
+<span id="iv.ii.v-p12"></span>
+
+<span id="iv.ii.v-p13"></span>1. That man is so enslaved by the yoke of
+sin, that he cannot of his own nature aim at good either in wish or
+actual pursuit, has, I think, been sufficiently proved. Moreover, a
+distinction has been drawn between compulsion and necessity, making it
+clear that man, though he sins necessarily, nevertheless sins
+voluntarily. But since, from his being brought into bondage to the
+devil, it would seem that he is actuated more by the devil’s will than
+his own, it is necessary, first, to explain what the agency of each is,
+and then solve the question,17  <span id="fr_166"></span>[167](#fn_166)
+Whether in bad actions anything is to be attributed to God, Scripture
+intimating that there is some way in which he interferes? Augustine (in
+<span id="iv.ii.v-p14.1"></span>[Psalm
+31](../../../bib/kjv/psa031.htm#000)<span id="iv.ii.v-p14.1"></span> and
+33) compares the human will to a horse preparing to start, and God and
+the devil to riders. “If God mounts, he, like a temperate and skilful
+rider, guides it calmly, urges it when too slow, reins it in when too
+fast, curbs its forwardness and over-action, checks its bad temper, and
+keeps it on the proper course; but if the devil has seized the saddle,
+like an ignorant and rash rider, he hurries it over broken ground,
+drives it into ditches, dashes it over precipices, spurs it into
+obstinacy or fury.” With this simile, since a better does not occur, we
+shall for the present be contented. When it is said, then, that the will
+of the natural man is subject to the power of the devil, and is actuated
+by him, the meaning is not that the wills while reluctant and resisting,
+is forced to submit (as masters oblige unwilling slaves to execute their
+orders), but that, fascinated by the impostures of Satan, it necessarily
+yields to his guidance, and does him homage. Those whom the Lord favours
+not with the direction of his Spirit, he, by a righteous judgment,
+consigns to the agency of Satan. Wherefore, the Apostle says, that “the
+god of this world has blinded the minds of them which believe not, lest
+the light of the glorious gospel of Christ, who is the image of God,
+should shine into them.” And, in another passage, he describes the devil
+as “the spirit that now worketh in the children of disobedience,” (<span
+id="iv.ii.v-p14.2"></span>[Eph.
+2:2](../../../bib/kjv/eph002.htm#002)<span id="iv.ii.v-p14.2"></span>).
+The blinding of the wicked, and all the iniquities consequent upon it,
+are called the works of Satan; works the cause of which is not to be
+Sought in anything external to the will of man, in which the root of the
+evil lies, and in which the foundation of Satan’s kingdom, in other
+words, sin, is fixed.
+
+<span id="iv.ii.v-p15"></span>2. The nature of the divine agency in such
+cases is very different. For the purpose of illustration, let us refer
+to the calamities brought upon holy Job by the Chaldeans. They having
+slain his shepherds, carry off his flocks. The wickedness of their deed
+is manifest,17  <span id="fr_167"></span>[168](#fn_167) as is also the
+hand of Satan, who, as the history informs us, was the instigator of the
+whole. Job, however, recognises it as the work of God, saying, that what
+the Chaldeans had plundered, “the Lord” had “taken away.” How can we
+attribute the same work to God, to Satan, and to man, without either
+excusing Satan by the interference of God, or making God the author of
+the crime? This is easily done, if we look first to the end, and then to
+the mode of acting. The Lord designs to exercise the patience of his
+servant by adversity; Satan’s plan is to drive him to despair; while the
+Chaldeans are bent on making unlawful gain by plunder. Such diversity of
+purpose makes a wide distinction in the act. In the mode there is not
+less difference. The Lord permits Satan to afflict his servant; and the
+Chaldeans, who had been chosen as the ministers to execute the deed, he
+hands over to the impulses of Satan, who, pricking on the already
+depraved Chaldeans with his poisoned darts, instigates them to commit
+the crime. They rush furiously on to the unrighteous deed, and become
+its guilty perpetrators. Here Satan is properly said to act in the
+reprobate, over whom he exercises his sway, which is that of wickedness.
+God also is said to act in his own way; because even Satan when he is
+the instrument of divine wrath, is completely under the command of God,
+who turns him as he will in the execution of his just judgments. I say
+nothing here of the universal agency of God, which, as it sustains all
+the creatures, also gives them all their power of acting. I am now
+speaking only of that special agency which is apparent in every act. We
+thus see that there is no inconsistency in attributing the same act to
+God, to Satan, and to man, while, from the difference in the end and
+mode of action, the spotless righteousness of God shines forth at the
+same time that the iniquity of Satan and of man is manifested in all its
+deformity.
+
+<span id="iv.ii.v-p17"></span>3. Ancient writers sometimes manifest a
+superstitious dread of making a simple confession of the truth in this
+matter, from a fear of furnishing impiety with a handle for speaking
+irreverently of the works of God. While I embrace such soberness with
+all my heart, I cannot see the least danger in simply holding what
+Scripture delivers. when Augustine was not always free from this
+superstition, as when he says, that blinding and hardening have respect
+not to the operation of God, but to prescience (Lib. de Predestina. et
+Gratia). But this subtilty is repudiated by many passages of Scriptures
+which clearly show that the divine interference amounts to something
+more than prescience. And Augustine himself, in his book against
+Julian,17  <span id="fr_168"></span>[169](#fn_168) contends at length
+that sins are manifestations not merely of divine permission or
+patience, but also of divine power, that thus former sins may be
+punished. In like manner, what is said of permission is too weak to
+stand. God is very often said to blind and harden the reprobate, to turn
+their hearts, to incline and impel them, as I have elsewhere fully
+explained (Book 1 c. 18). The extent of this agency can never be
+explained by having recourse to prescience or permission. We, therefore,
+hold that there are two methods in which God may so act. When his light
+is taken away, nothing remains but blindness and darkness: when his
+Spirit is taken away, our hearts become hard as stones: when his
+guidance is withdrawn, we immediately turn from the right path: and
+hence he is properly said to incline, harden, and blind those whom he
+deprives of the faculty of seeing, obeying, and rightly executing. The
+second method, which comes much nearer to the exact meaning of the
+words, is when executing his judgments by Satan as the minister of his
+anger, God both directs men’s counsels, and excites their wills, and
+regulates their efforts as he pleases. Thus when Moses relates that
+Simon, king of the Amorites, did not give the Israelites a passage,
+because the Lord “had hardened his spirit, and made his heart
+obstinate,” he immediately adds the purpose which God had in view—viz.
+that he might deliver him into their hand (<span
+id="iv.ii.v-p18.1"></span>[Deut.
+2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p18.1"></span>).
+As God had resolved to destroy him, the hardening of his heart was the
+divine preparation for his ruin.
+
+<span id="iv.ii.v-p19"></span>4. In accordance with the former methods
+it seems to be said,17  <span id="fr_169"></span>[170](#fn_169) “The law
+shall perish from the priests and counsel from the ancients.” “He
+poureth contempt upon princes, and causeth them to wander in the
+wilderness, where there is no way.” Again “O Lord, why hast thou made us
+to err from thy ways, and hardened our heart from thy fear?” These
+passages rather indicate what men become when God deserts them, than
+what the nature of his agency is when he works in them. But there are
+other passages which go farther, such as those concerning the hardening
+of Pharaoh: “I will harden his heart, that he shall not let the people
+go.” The same thing is afterwards repeated in stronger terms. Did he
+harden his heart by not softening it? This is, indeed, true; but he did
+something more: he gave it in charge to Satan to confirm him in his
+obstinacy. Hence he had previously said, “I am sure he will not let you
+go.” The people come out of Egypt, and the inhabitants of a hostile
+region come forth against them. How were they instigated? Moses
+certainly declares of Sihon, that it was the Lord who “had hardened his
+spirit, and made his heart obstinate,” (<span
+id="iv.ii.v-p20.5"></span>[Deut.
+2:30](../../../bib/kjv/deu002.htm#030)<span id="iv.ii.v-p20.5"></span>).
+The Psalmists relating the same history says, “He turned their hearts to
+hate his people,” (<span id="iv.ii.v-p20.6"></span>[Psalm
+105:25](../../../bib/kjv/psa105.htm#025)<span
+id="iv.ii.v-p20.6"></span>). You cannot now say that they stumbled
+merely because they were deprived of divine counsel. For if they are
+*hardened* and *turned*, they are purposely bent to the very end in
+view. Moreover, whenever God saw it meet to punish the people for their
+transgression, in what way did he accomplish his purpose by the
+reprobate? In such a way as shows that the efficacy of the action was in
+him, and that they were only ministers. At one time he declares, “that
+he will lift an ensign to the nations from far, and will hiss unto them
+from the end of the earth;” at another, that he will take a net to
+ensnare them; and at another, that he will be like a hammer to strike
+them. But he specially declared that he was not inactive among theme
+when he called Sennacherib an axe, which was formed and destined to be
+wielded by his own hand.17  <span id="fr_170"></span>[171](#fn_170)
+Augustine is not far from the mark when he states the matter thus, That
+men sin, is attributable to themselves: that in sinning they produce
+this or that result, is owing to the mighty power of God, who divides
+the darkness as he pleases (August. de Prædest. Sanct).
+
+<span id="iv.ii.v-p22"></span>5. Moreover, that the ministry of Satan is
+employed to instigate the reprobate, whenever the Lord, in the course of
+his providence, has any purpose to accomplish in them, will sufficiently
+appear from a single passage. It is repeatedly said in the First Book of
+Samuel, that an evil spirit from the Lord came upon Saul, and troubled
+him (<span id="iv.ii.v-p22.1"></span>[1 Sam.
+16:14](../../../bib/kjv/sa1016.htm#014)<span id="iv.ii.v-p22.1"></span>;
+18:10; 19:9). It were impious to apply this to the Holy Spirit. An
+impure spirit must therefore be called a spirit from the Lord, because
+completely subservient to his purpose, being more an instrument in
+acting than a proper agent. We should also add what Paul says, “God
+shall send them strong delusion, that they should believe a lie: that
+they all might be damned who believed not the truth,” (<span
+id="iv.ii.v-p22.2"></span>[2 Thess.
+2:11](../../../bib/kjv/th2002.htm#011),
+[12](../../../bib/kjv/th2002.htm#012)<span id="iv.ii.v-p22.2"></span>).
+But in the same transaction there is always a wide difference between
+what the Lord does, and what Satan and the ungodly design to do. The
+wicked instruments which he has under his hand and can turn as he
+pleases, he makes subservient to his own justice. They, as they are
+wicked, give effect to the iniquity conceived in their wicked minds.
+Every thing necessary to vindicate the majesty of God from calumny, and
+cut off any subterfuge on the part of the ungodly, has already been
+expounded in the Chapters on Providence (Book 1 Chapter 16–18). Here I
+only meant to show, in a few words, how Satan reigns in the reprobate,
+and how God works in both.
+
+<span id="iv.ii.v-p23"></span>6. In those actions, which in themselves
+are neither good nor bad, and concern the corporeal rather than the
+spiritual life, the liberty which man possesses, although we have above
+touched upon it (*supra*, Chap. 2 sect. 13–17), has not yet been
+explained. Some have conceded a free choice to man in such actions;
+more, I suppose, because they were unwilling to debate a matter of no
+great moment, than because they wished positively to assert what they
+were prepared to concede. While I admit that those who hold that man has
+no ability in himself to do righteousness, hold what is most necessary
+to be known for salvation, I think it ought not to be overlooked that we
+owe it to the special grace of God, whenever, on the one hand, we choose
+what is for our advantage, and whenever our will inclines in that
+direction; and on the other, whenever with heart and soul we shun what
+would otherwise do us harm. And the interference of Divine Providence
+goes to the extent not only of making events turn out as was foreseen to
+be expedient, but of giving the wills of men the same direction. If we
+look at the administration of human affairs with the eye of sense, we
+will have no doubt that, so far, they are placed at man’s disposal; but
+if we lend an ear to the many passages of Scripture which proclaim that
+even in these matters the minds of men are ruled by God, they will
+compel us to place human choice in subordination to his special
+influence. Who gave the Israelites such favour in the eyes of the
+Egyptians, that they lent them all their most valuable commodities?
+(<span id="iv.ii.v-p23.1"></span>[Exod.
+11:3](../../../bib/kjv/exo011.htm#003)<span id="iv.ii.v-p23.1"></span>).
+They never would have been so inclined of their own accord. Their
+inclinations, therefore, were more overruled by God than regulated by
+themselves. And surely, had not Jacob been persuaded that God inspires
+men with divers affections as seemeth to him good, he would not have
+said of his son Joseph (whom he thought to be some heathen Egyptian),
+“God Almighty give you mercy before the man,” (<span
+id="iv.ii.v-p23.2"></span>[Gen.
+43:14](../../../bib/kjv/gen043.htm#014)<span
+id="iv.ii.v-p23.2"></span>). In like manner, the whole Church confesses
+that when the Lord was pleased to pity his people, he made them also to
+be pitied of all them that carried them captives (<span
+id="iv.ii.v-p23.3"></span>[Ps.
+106:46](../../../bib/kjv/psa106.htm#046)<span
+id="iv.ii.v-p23.3"></span>). In like manner, when his anger was kindled
+against Saul, so that he prepared himself for battle, the cause is
+stated to have been, that a spirit from God fell upon him (<span
+id="iv.ii.v-p23.4"></span>[1 Sam.
+11:6](../../../bib/kjv/sa1011.htm#006)<span id="iv.ii.v-p23.4"></span>).
+who dissuaded Absalom from adopting the counsel of Ahithophel, which was
+wont to be regarded as an oracle? (<span id="iv.ii.v-p23.5"></span>[2
+Sam. 17:14](../../../bib/kjv/sa2017.htm#014)<span
+id="iv.ii.v-p23.5"></span>). Who disposed Rehoboam to adopt the counsel
+of the young men? (<span id="iv.ii.v-p23.6"></span>[1 Kings
+12:10](../../../bib/kjv/kg1012.htm#010)<span
+id="iv.ii.v-p23.6"></span>). Who caused the approach of the Israelites
+to strike terror into nations formerly distinguished for valour? Even
+the harlot Rahab recognised the hand of the Lord. Who, on the other
+hand, filled the hearts of the Israelites with fear and dread (<span
+id="iv.ii.v-p23.7"></span>[Lev.
+26:36](../../../bib/kjv/lev026.htm#036)<span
+id="iv.ii.v-p23.7"></span>), but He who threatened in the Law that he
+would give them a nn “trembling heart”? (<span
+id="iv.ii.v-p23.8"></span>[Deut.
+28:65](../../../bib/kjv/deu028.htm#065)<span
+id="iv.ii.v-p23.8"></span>).
+
+<span id="iv.ii.v-p24"></span>7. It may be objected, that these are
+special examples which cannot be regarded as a general rule. They are
+sufficient, at all events, to prove the point for which I contend—viz.
+that whenever God is pleased to make way for his providence, he even in
+external matters so turns and bends the wills of men, that whatever the
+freedom of their choice may be, it is still subject to the disposal of
+God. That your mind depends more on the agency of God than the freedom
+of your own choice, daily experience teaches. Your judgment often fails,
+and in matters of no great difficulty, your courage flags; at other
+times, in matters of the greatest obscurity, the mode of explicating
+them at once suggests itself, while in matters of moment and danger,
+your mind rises superior to every difficulty.17  <span
+id="fr_171"></span>[172](#fn_171) In this way, I interpret the words of
+Solomon, “The hearing ear, and the seeing eye, the Lord hath made even
+both of them,” (<span id="iv.ii.v-p25.1"></span>[Prov.
+20:12](../../../bib/kjv/pro020.htm#012)<span
+id="iv.ii.v-p25.1"></span>). For they seem to me to refer not to their
+creation, but to peculiar grace in the use of them, when he says, “The
+king’s heart is in the hand of the Lord as the rivers of water; he
+turneth it whithersoever he will,” (<span
+id="iv.ii.v-p25.2"></span>[Prov.
+21:1](../../../bib/kjv/pro021.htm#001)<span id="iv.ii.v-p25.2"></span>),
+he comprehends the whole race under one particular class. If any will is
+free from subjection, it must be that of one possessed of regal power,
+and in a manner exercising dominion over other wills. But if it is under
+the hand of God, ours surely cannot be exempt from it. On this subject
+there is an admirable sentiment of Augustine, “Scripture, if it be
+carefully examined, will show not only that the good wills of men are
+made good by God out of evil, and when so made, are directed to good
+acts, even to eternal life, but those which retain the elements of the
+world are in the power of God, to turn them whither he pleases, and when
+he pleases, either to perform acts of kindness, or by a hidden, indeed,
+but, at the same time, most just judgment to inflict punishment,”
+(August. De Gratia et Lib. Arb. ad Valent. cap. 20).
+
+<span id="iv.ii.v-p26"></span>8. Let the reader here remember, that the
+power of the human will is not to be estimated by the event, as some
+unskilful persons are absurdly wont to do. They think it an elegant and
+ingenious proof of the bondage of the human will, that even the greatest
+monarchs are sometimes thwarted in their wishes. But the ability of
+which we speak must be considered as within the man, not measured by
+outward success. In discussing the subject of free will, the question is
+not, whether external obstacles will permit a man to execute what he has
+internally resolved, but whether, in any matter whatever, he has a free
+power of judging and of willing. If men possess both of these, Attilius
+Regulus, shut up in a barrel studded with sharp nails, will have a will
+no less free than Augustus Caesar ruling with imperial sway over a large
+portion of the globe.17  <span id="fr_172"></span>[173](#fn_172)
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_166"></span>[167](inst038.htm#fr_166) <span
+id="iv.ii.v-p13.1"></span>
+
+<span id="iv.ii.v-p14"></span>73 173 The French adds, “dont on doute
+communement;” on which doubts are commonly entertained.
+
+<span id="fn_167"></span>[168](inst038.htm#fr_167) <span
+id="iv.ii.v-p15.1"></span>
+
+<span id="iv.ii.v-p16"></span>74 174 The French adds, “Car quand nous
+voyons des voleurs, qui ont commis quelque meurtre ou larrecin, nous ne
+doutons point de leur imputer la faute, et de les condamner.”—For when
+we see robbers who have committed some murder or robbery, we hesitate
+not to impute the blame to them, and condemn them.
+
+<span id="fn_168"></span>[169](inst038.htm#fr_168) <span
+id="iv.ii.v-p17.1"></span>
+
+<span id="iv.ii.v-p18"></span>75 175 The French adds, “se retractant de
+l’autre sentence;” retracting the other sentiment.
+
+<span id="fn_169"></span>[170](inst038.htm#fr_169) <span
+id="iv.ii.v-p19.1"></span>
+
+<span id="iv.ii.v-p20"></span>76 176 <span
+id="iv.ii.v-p20.1"></span>[Ezek.
+7:26](../../../bib/kjv/eze007.htm#026)<span id="iv.ii.v-p20.1"></span>;
+<span id="iv.ii.v-p20.2"></span>[Psalm
+107:40](../../../bib/kjv/psa107.htm#040)<span
+id="iv.ii.v-p20.2"></span>; <span id="iv.ii.v-p20.3"></span>[Job
+12:20](../../../bib/kjv/job012.htm#020),
+[24](../../../bib/kjv/job012.htm#024)<span id="iv.ii.v-p20.3"></span>;
+Isiah 63:17; <span id="iv.ii.v-p20.4"></span>[Exod.
+4:21](../../../bib/kjv/exo004.htm#021)<span id="iv.ii.v-p20.4"></span>;
+7:3; 10:1; 3:19.
+
+<span id="fn_170"></span>[171](inst038.htm#fr_170) <span
+id="iv.ii.v-p20.7"></span>
+
+<span id="iv.ii.v-p21"></span>77 177 <span
+id="iv.ii.v-p21.1"></span>[Isa.
+5:26](../../../bib/kjv/isa005.htm#026)<span id="iv.ii.v-p21.1"></span>;
+7:18; <span id="iv.ii.v-p21.2"></span>[Ezek.
+12:13](../../../bib/kjv/eze012.htm#013)<span id="iv.ii.v-p21.2"></span>;
+17:20; <span id="iv.ii.v-p21.3"></span>[Jer.
+2](../../../bib/kjv/jer002.htm#000)<span id="iv.ii.v-p21.3"></span>:.23;
+<span id="iv.ii.v-p21.4"></span>[Isa.
+10:15](../../../bib/kjv/isa010.htm#015)<span id="iv.ii.v-p21.4"></span>.
+
+<span id="fn_171"></span>[172](inst038.htm#fr_171) <span
+id="iv.ii.v-p24.1"></span>
+
+<span id="iv.ii.v-p25"></span>78 178 The French adds, “D’où procede cela
+sinon que Dieu besongne tant d’une part que d’autre?”—Whence this, but
+that God interferes thus far in either case?
+
+<span id="fn_172"></span>[173](inst038.htm#fr_172) <span
+id="iv.ii.v-p26.1"></span>
+
+<span id="iv.ii.v-p27"></span>79 179 The French is simply, “Car si cela
+pouvoit etre en l’homme, il ne seroit par moins libre enfermé en un
+prison que dominant par toute la terre.” If that could be in man, he
+would be no less free shut up in a prison than ruling all the earth.
+
+------------------------------------------------------------------------
+
+[Next: CHAPTER 5. - THE ARGUMENTS USUALLY ALLEGED IN SUPPORT OF FREE
+WILL REFUTED.](inst039)
