@@ -1,0 +1,385 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
+Bibles](../eb)  [Index](index)  [Previous](eph)  [Next](col) 
+
+------------------------------------------------------------------------
+
+### Darby Bible: Philippians
+
+<span id="an_1:1">1:1</span> Paul and Timotheus, bondmen of Jesus
+Christ, to all the saints in Christ Jesus who are in Philippi, with
+\[the\] overseers and ministers;
+
+<span id="an_1:2">1:2</span> grace to you, and peace from God our Father
+and \[the\] Lord Jesus Christ.
+
+<span id="an_1:3">1:3</span> I thank my God for my whole remembrance of
+you,
+
+<span id="an_1:4">1:4</span> constantly in my every supplication, making
+the supplication for you all with joy,
+
+<span id="an_1:5">1:5</span> because of your fellowship with the gospel,
+from the first day until now;
+
+<span id="an_1:6">1:6</span> having confidence of this very thing, that
+he who has begun in you a good work will complete it unto Jesus Christ's
+day:
+
+<span id="an_1:7">1:7</span> as it is righteous for me to think this as
+to you all, because ye have \*me\* in your hearts, and that both in my
+bonds and in the defence and confirmation of the glad tidings ye are all
+participators in my grace.
+
+<span id="an_1:8">1:8</span> For God is my witness how I long after you
+all in \[the\] bowels of Christ Jesus.
+
+<span id="an_1:9">1:9</span> And this I pray, that your love may abound
+yet more and more in full knowledge and all intelligence,
+
+<span id="an_1:10">1:10</span> that ye may judge of and approve the
+things that are more excellent, in order that ye may be pure and without
+offence for Christ's day,
+
+<span id="an_1:11">1:11</span> being complete as regards the fruit of
+righteousness, which \[is\] by Jesus Christ, to God's glory and praise.
+
+<span id="an_1:12">1:12</span> But I would have you know, brethren, that
+the circumstances in which I am have turned out rather to the
+furtherance of the glad tidings,
+
+<span id="an_1:13">1:13</span> so that my bonds have become manifest
+\[as being\] in Christ in all the praetorium and to all others;
+
+<span id="an_1:14">1:14</span> and that the most of the brethren,
+trusting in \[the\] Lord through my bonds, dare more abundantly to speak
+the word of God fearlessly.
+
+<span id="an_1:15">1:15</span> Some indeed also for envy and strife, but
+some also for good will, preach the Christ.
+
+<span id="an_1:16">1:16</span> These indeed out of love, knowing that I
+am set for the defence of the glad tidings;
+
+<span id="an_1:17">1:17</span> but those out of contention, announce the
+Christ, not purely, supposing to arouse tribulation for my bonds.
+
+<span id="an_1:18">1:18</span> What is it then? at any rate, in every
+way, whether in pretext or in truth, Christ is announced; and in this I
+rejoice, yea, also I will rejoice;
+
+<span id="an_1:19">1:19</span> for I know that this shall turn out for
+me to salvation, through your supplication and \[the\] supply of the
+Spirit of Jesus Christ;
+
+<span id="an_1:20">1:20</span> according to my earnest expectation and
+hope, that in nothing I shall be ashamed, but in all boldness, as
+always, now also Christ shall be magnified in my body whether by life or
+by death.
+
+<span id="an_1:21">1:21</span> For for me to live \[is\] Christ, and to
+die gain;
+
+<span id="an_1:22">1:22</span> but if to live in flesh \[is my lot\],
+this is for me worth the while: and what I shall choose I cannot tell.
+
+<span id="an_1:23">1:23</span> But I am pressed by both, having the
+desire for departure and being with Christ, \[for\] \[it is\] very much
+better,
+
+<span id="an_1:24">1:24</span> but remaining in the flesh \[is\] more
+necessary for your sakes;
+
+<span id="an_1:25">1:25</span> and having confidence of this, I know
+that I shall remain and abide along with you all, for your progress and
+joy in faith;
+
+<span id="an_1:26">1:26</span> that your boasting may abound in Christ
+Jesus through me by my presence again with you.
+
+<span id="an_1:27">1:27</span> Only conduct yourselves worthily of the
+glad tidings of the Christ, in order that whether coming and seeing you,
+or absent, I may hear of what concerns you, that ye stand firm in one
+spirit, with one soul, labouring together in the same conflict with the
+faith of the glad tidings;
+
+<span id="an_1:28">1:28</span> and not frightened in anything by the
+opposers, which is to them a demonstration of destruction, but of your
+salvation, and that from God;
+
+<span id="an_1:29">1:29</span> because to you has been given, as regards
+Christ, not only the believing on him but the suffering for him also,
+
+<span id="an_1:30">1:30</span> having the same conflict which ye have
+seen in me, and now hear of in me.
+
+<span id="an_2:1">2:1</span> If then \[there be\] any comfort in Christ,
+if any consolation of love, if any fellowship of \[the\] Spirit, if any
+bowels and compassions,
+
+<span id="an_2:2">2:2</span> fulfil my joy, that ye may think the same
+thing, having the same love, joined in soul, thinking one thing;
+
+<span id="an_2:3">2:3</span> \[let\] nothing \[be\] in the spirit of
+strife or vain glory, but, in lowliness of mind, each esteeming the
+other as more excellent than themselves;
+
+<span id="an_2:4">2:4</span> regarding not each his own \[qualities\],
+but each those of others also.
+
+<span id="an_2:5">2:5</span> For let this mind be in you which \[was\]
+also in Christ Jesus;
+
+<span id="an_2:6">2:6</span> who, subsisting in the form of God, did not
+esteem it an object of rapine to be on an equality with God;
+
+<span id="an_2:7">2:7</span> but emptied himself, taking a bondman's
+form, taking his place in \[the\] likeness of men;
+
+<span id="an_2:8">2:8</span> and having been found in figure as a man,
+humbled himself, becoming obedient even unto death, and \[that the\]
+death of \[the\] cross.
+
+<span id="an_2:9">2:9</span> Wherefore also God highly exalted him, and
+granted him a name, that which is above every name,
+
+<span id="an_2:10">2:10</span> that at the name of Jesus every knee
+should bow, of heavenly and earthly and infernal \[beings\],
+
+<span id="an_2:11">2:11</span> and every tongue confess that Jesus
+Christ \[is\] Lord to God \[the\] Father's glory.
+
+<span id="an_2:12">2:12</span> So that, my beloved, even as ye have
+always obeyed, not as in my presence only, but now much rather in my
+absence, work out your own salvation with fear and trembling,
+
+<span id="an_2:13">2:13</span> for it is God who works in you both the
+willing and the working according to \[his\] good pleasure.
+
+<span id="an_2:14">2:14</span> Do all things without murmurings and
+reasonings,
+
+<span id="an_2:15">2:15</span> that ye may be harmless and simple,
+irreproachable children of God in the midst of a crooked and perverted
+generation; among whom ye appear as lights in \[the\] world,
+
+<span id="an_2:16">2:16</span> holding forth \[the\] word of life, so as
+to be a boast for me in Christ's day, that I have not run in vain nor
+laboured in vain.
+
+<span id="an_2:17">2:17</span> But if also I am poured out as a libation
+on the sacrifice and ministration of your faith, I rejoice, and rejoice
+in common with you all.
+
+<span id="an_2:18">2:18</span> In like manner do \*ye\* also rejoice,
+and rejoice with me.
+
+<span id="an_2:19">2:19</span> But I hope in \[the\] Lord Jesus to send
+Timotheus to you shortly, that \*I\* also may be refreshed, knowing how
+ye get on.
+
+<span id="an_2:20">2:20</span> For I have no one like-minded who will
+care with genuine feeling how ye get on.
+
+<span id="an_2:21">2:21</span> For all seek their own things, not the
+things of Jesus Christ.
+
+<span id="an_2:22">2:22</span> But ye know the proof of him, that, as a
+child a father, he has served with me in the work of the glad tidings.
+
+<span id="an_2:23">2:23</span> Him therefore I hope to send immediately,
+as soon as I shall see how it goes with me:
+
+<span id="an_2:24">2:24</span> but I trust in \[the\] Lord that I myself
+also shall soon come;
+
+<span id="an_2:25">2:25</span> but I have thought it necessary to send
+to you Epaphroditus, my brother and fellow-workman and fellow-soldier,
+but your messenger and minister to my need,
+
+<span id="an_2:26">2:26</span> since he had a longing desire after you
+all, and was distressed because ye had heard that he was sick;
+
+<span id="an_2:27">2:27</span> for he was also sick close to death, but
+God had mercy on him, and not indeed on him alone, but also on me, that
+I might not have sorrow upon sorrow.
+
+<span id="an_2:28">2:28</span> I have sent him therefore the more
+diligently, that seeing him ye might again rejoice, and that \*I\* might
+be the less sorrowful.
+
+<span id="an_2:29">2:29</span> Receive him therefore in \[the\] Lord
+with all joy, and hold such in honour;
+
+<span id="an_2:30">2:30</span> because for the sake of the work he drew
+near even to death, venturing his life that he might fill up what lacked
+in your ministration toward me.
+
+<span id="an_3:1">3:1</span> For the rest, my brethren, rejoice in
+\[the\] Lord: to write the same things to you, to me \[is\] not irksome,
+and for you safe.
+
+<span id="an_3:2">3:2</span> See to dogs, see to evil workmen, see to
+the concision.
+
+<span id="an_3:3">3:3</span> For \*we\* are the circumcision, who
+worship by \[the\] Spirit of God, and boast in Christ Jesus, and do not
+trust in flesh.
+
+<span id="an_3:4">3:4</span> Though \*I\* have \[my\] trust even in
+flesh; if any other think to trust in flesh, \*I\* rather:
+
+<span id="an_3:5">3:5</span> as to circumcision, \[I received it\] the
+eighth day; of \[the\] race of Israel, of \[the\] tribe of Benjamin,
+Hebrew of Hebrews; as to \[the\] law, a Pharisee;
+
+<span id="an_3:6">3:6</span> as to zeal, persecuting the assembly; as to
+righteousness which \[is\] in \[the\] law, found blameless;
+
+<span id="an_3:7">3:7</span> but what things were gain to me these I
+counted, on account of Christ, loss.
+
+<span id="an_3:8">3:8</span> But surely I count also all things to be
+loss on account of the excellency of the knowledge of Christ Jesus my
+Lord, on account of whom I have suffered the loss of all, and count them
+to be filth, that I may gain Christ;
+
+<span id="an_3:9">3:9</span> and that I may be found in him, not having
+my righteousness, which \[would be\] on the principle of law, but that
+which is by faith of Christ, the righteousness which \[is\] of God
+through faith,
+
+<span id="an_3:10">3:10</span> to know him, and the power of his
+resurrection, and the fellowship of his sufferings, being conformed to
+his death,
+
+<span id="an_3:11">3:11</span> if any way I arrive at the resurrection
+from among \[the\] dead.
+
+<span id="an_3:12">3:12</span> Not that I have already obtained \[the
+prize\], or am already perfected; but I pursue, if also I may get
+possession \[of it\], seeing that also I have been taken possession of
+by Christ \[Jesus\].
+
+<span id="an_3:13">3:13</span> Brethren, \*I\* do not count to have got
+possession myself; but one thing -- forgetting the things behind, and
+stretching out to the things before,
+
+<span id="an_3:14">3:14</span> I pursue, \[looking\] towards \[the\]
+goal, for the prize of the calling on high of God in Christ Jesus.
+
+<span id="an_3:15">3:15</span> As many therefore as \[are\] perfect, let
+us be thus minded; and if ye are any otherwise minded, this also God
+shall reveal to you.
+
+<span id="an_3:16">3:16</span> But whereto we have attained, \[let us\]
+walk in the same steps.
+
+<span id="an_3:17">3:17</span> Be imitators \[all\] together of me,
+brethren, and fix your eyes on those walking thus as you have us for a
+model;
+
+<span id="an_3:18">3:18</span> (for many walk of whom I have told you
+often, and now tell you even weeping, that they \[are\] the enemies of
+the cross of Christ:
+
+<span id="an_3:19">3:19</span> whose end \[is\] destruction, whose god
+\[is\] the belly, and \[their\] glory in their shame, who mind earthly
+things:)
+
+<span id="an_3:20">3:20</span> for \*our\* commonwealth has its
+existence in \[the\] heavens, from which also we await the Lord Jesus
+Christ \[as\] Saviour,
+
+<span id="an_3:21">3:21</span> who shall transform our body of
+humiliation into conformity to his body of glory, according to the
+working of \[the\] power which he has even to subdue all things to
+himself.
+
+<span id="an_4:1">4:1</span> So that, my brethren, beloved and longed
+for, my joy and crown, thus stand fast in \[the\] Lord, beloved.
+
+<span id="an_4:2">4:2</span> I exhort Euodia, and exhort Syntyche, to be
+of the same mind in \[the\] Lord;
+
+<span id="an_4:3">4:3</span> yea, I ask thee also, true yokefellow,
+assist them, who have contended along with me in the glad tidings, with
+Clement also, and my other fellow-labourers, whose names \[are\] in
+\[the\] book of life.
+
+<span id="an_4:4">4:4</span> Rejoice in \[the\] Lord always: again I
+will say, Rejoice.
+
+<span id="an_4:5">4:5</span> Let your gentleness be known of all men.
+The Lord \[is\] near.
+
+<span id="an_4:6">4:6</span> Be careful about nothing; but in
+everything, by prayer and supplication with thanksgiving, let your
+requests be made known to God;
+
+<span id="an_4:7">4:7</span> and the peace of God, which surpasses every
+understanding, shall guard your hearts and your thoughts by Christ
+Jesus.
+
+<span id="an_4:8">4:8</span> For the rest, brethren, whatsoever things
+\[are\] true, whatsoever things \[are\] noble, whatsoever things \[are\]
+just, whatsoever things \[are\] pure, whatsoever things \[are\] amiable,
+whatsoever things \[are\] of good report; if \[there be\] any virtue and
+if any praise, think on these things.
+
+<span id="an_4:9">4:9</span> What ye have both learned, and received,
+and heard, and seen in me, these things do; and the God of peace shall
+be with you.
+
+<span id="an_4:10">4:10</span> But I rejoiced in \[the\] Lord greatly,
+that now however at length ye have revived your thinking of me, though
+surely ye did also think \[of me\], but lacked opportunity.
+
+<span id="an_4:11">4:11</span> Not that I speak as regards privation,
+for as to me \*I\* have learnt in those circumstances in which I am, to
+be satisfied in myself.
+
+<span id="an_4:12">4:12</span> I know both how to be abased and I know
+how to abound. In everything and in all things I am initiated both to be
+full and to be hungry, both to abound and to suffer privation.
+
+<span id="an_4:13">4:13</span> I have strength for all things in him
+that gives me power.
+
+<span id="an_4:14">4:14</span> But ye have done well in taking part in
+my affliction.
+
+<span id="an_4:15">4:15</span> And know also \*ye\*, O Philippians, that
+in \[the\] beginning of the gospel, when I came out of Macedonia, no
+assembly communicated \[anything\] to me in \[the\] way of giving and
+receiving save \*ye\* alone;
+
+<span id="an_4:16">4:16</span> for also in Thessalonica once and even
+twice ye sent to me for my need.
+
+<span id="an_4:17">4:17</span> Not that I seek gift, but I seek fruit
+abounding to your account.
+
+<span id="an_4:18">4:18</span> But I have all things in full supply and
+abound; I am full, having received of Epaphroditus the things \[sent\]
+from you, an odour of sweet savour, an acceptable sacrifice, agreeable
+to God.
+
+<span id="an_4:19">4:19</span> But my God shall abundantly supply all
+your need according to his riches in glory in Christ Jesus.
+
+<span id="an_4:20">4:20</span> But to our God and Father \[be\] glory to
+the ages of ages. Amen.
+
+<span id="an_4:21">4:21</span> Salute every saint in Christ Jesus. The
+brethren who \[are\] with me salute you.
+
+<span id="an_4:22">4:22</span> All the saints salute you, and specially
+those of the household of Caesar.
+
+<span id="an_4:23">4:23</span> The grace of the Lord Jesus Christ \[be\]
+with your spirit. Amen.
+
+------------------------------------------------------------------------
+
+[Next: Colossians](col)

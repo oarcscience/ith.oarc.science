@@ -1,0 +1,240 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[Index](index)  [Previous](zan44)  [Next](zan46) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+### CHAPTER III.
+
+     Man is the eye of things.—Euryph, "de Vit. Hum."
+
+     ...There is, therefore, a certain ecstatical or transporting  
+     power, which, if at any time it shall be excited or stirred up by  
+     an ardent desire and most strong imagination, is able to conduct  
+     the spirit of the more outward even to some absent and  
+     far-distant object.—Von Helmont.
+
+The rooms that Mejnour occupied consisted of two chambers communicating
+with each other, and a third in which he slept. All these rooms were
+placed in the huge square tower that beetled over the dark and
+bush-grown precipice. The first chamber which Glyndon entered was empty.
+With a noiseless step he passed on, and opened the door that admitted
+into the inner one. He drew back at the threshold, overpowered by a
+strong fragrance which filled the chamber: a kind of mist thickened the
+air rather than obscured it, for this vapour was not dark, but resembled
+a snow-cloud moving slowly, and in heavy undulations, wave upon wave
+regularly over the space. A mortal cold struck to the Englishman's
+heart, and his blood froze. He stood rooted to the spot; and as his eyes
+strained involuntarily through the vapour, he fancied (for he could not
+be sure that it was not the trick of his imagination) that he saw dim,
+spectre-like, but gigantic forms floating through the mist; or was it
+not rather the mist itself that formed its vapours fantastically into
+those moving, impalpable, and bodiless apparitions? A great painter of
+antiquity is said, in a picture of Hades, to have represented the
+monsters that glide through the ghostly River of the Dead, so artfully,
+that the eye perceived at once that the river itself was but a spectre,
+and the bloodless things that tenanted it had no life, their forms
+blending with the dead waters till, as the eye continued to gaze, it
+ceased to discern them from the preternatural element they were supposed
+to inhabit. Such were the moving outlines that coiled and floated
+through the mist; but before Glyndon had even drawn breath in this
+atmosphere—for his life itself seemed arrested or changed into a kind of
+horrid trance—he felt his hand seized, and he was led from that room
+into the outer one. He heard the door close,—his blood rushed again
+through his veins, and he saw Mejnour by his side. Strong convulsions
+then suddenly seized his whole frame,—he fell to the ground insensible.
+When he recovered, he found himself in the open air in a rude balcony of
+stone that jutted from the chamber, the stars shining serenely over the
+dark abyss below, and resting calmly upon the face of the mystic, who
+stood beside him with folded arms.
+
+"Young man," said Mejnour, "judge by what you have just felt, how
+dangerous it is to seek knowledge until prepared to receive it. Another
+moment in the air of that chamber and you had been a corpse."
+
+"Then of what nature was the knowledge that you, once mortal like
+myself, could safely have sought in that icy atmosphere, which it was
+death for me to breathe? Mejnour," continued Glyndon, and his wild
+desire, sharpened by the very danger he had passed, once more animated
+and nerved him, "I am prepared at least for the first steps. I come to
+you as of old the pupil to the Hierophant, and demand the initiation."
+
+Mejnour passed his hand over the young man's heart,—it beat loud,
+regularly, and boldly. He looked at him with something almost like
+admiration in his passionless and frigid features, and muttered, half to
+himself, "Surely, in so much courage the true disciple is found at
+last." Then, speaking aloud, he added, "Be it so; man's first initiation
+is in TRANCE. In dreams commences all human knowledge; in dreams hovers
+over measureless space the first faint bridge between spirit and
+spirit,—this world and the worlds beyond! Look steadfastly on yonder
+star!"
+
+Glyndon obeyed, and Mejnour retired into the chamber, from which there
+then slowly emerged a vapour, somewhat paler and of fainter odour than
+that which had nearly produced so fatal an effect on his frame. This, on
+the contrary, as it coiled around him, and then melted in thin spires
+into the air, breathed a refreshing and healthful fragrance. He still
+kept his eyes on the star, and the star seemed gradually to fix and
+command his gaze. A sort of languor next seized his frame, but without,
+as he thought, communicating itself to the mind; and as this crept over
+him, he felt his temples sprinkled with some volatile and fiery essence.
+At the same moment a slight tremor shook his limbs and thrilled through
+his veins. The languor increased, still he kept his gaze upon the star,
+and now its luminous circumference seemed to expand and dilate. It
+became gradually softer and clearer in its light; spreading wider and
+broader, it diffused all space,—all space seemed swallowed up in it. And
+at last, in the midst of a silver shining atmosphere, he felt as if
+something burst within his brain,—as if a strong chain were broken; and
+at that moment a sense of heavenly liberty, of unutterable delight, of
+freedom from the body, of birdlike lightness, seemed to float him into
+the space itself. "Whom, now upon earth, dost thou wish to see?"
+whispered the voice of Mejnour. "Viola and Zanoni!" answered Glyndon, in
+his heart; but he felt that his lips moved not.
+
+Suddenly at that thought,—through this space, in which nothing save one
+mellow translucent light had been discernible,—a swift succession of
+shadowy landscapes seemed to roll: trees, mountains, cities, seas,
+glided along like the changes of a phantasmagoria; and at last, settled
+and stationary, he saw a cave by the gradual marge of an ocean
+shore,—myrtles and orange-trees clothing the gentle banks. On a height,
+at a distance, gleamed the white but shattered relics of some ruined
+heathen edifice; and the moon, in calm splendour, shining over all,
+literally bathed with its light two forms without the cave, at whose
+feet the blue waters crept, and he thought that he even heard them
+murmur. He recognised both the figures. Zanoni was seated on a fragment
+of stone; Viola, half-reclining by his side, was looking into his face,
+which was bent down to her, and in her countenance was the expression of
+that perfect happiness which belongs to perfect love. "Wouldst thou hear
+them speak?" whispered Mejnour; and again, without sound, Glyndon inly
+answered, "Yes!" Their voices then came to his ear, but in tones that
+seemed to him strange; so subdued were they, and sounding, as it were,
+so far off, that they were as voices heard in the visions of some holier
+men from a distant sphere.
+
+"And how is it," said Viola, "that thou canst find pleasure in listening
+to the ignorant?"
+
+"Because the heart is never ignorant; because the mysteries of the
+feelings are as full of wonder as those of the intellect. If at times
+thou canst not comprehend the language of my thoughts, at times also I
+hear sweet enigmas in that of thy emotions."
+
+"Ah, say not so!" said Viola, winding her arm tenderly round his neck,
+and under that heavenly light her face seemed lovelier for its blushes.
+"For the enigmas are but love's common language, and love should solve
+them. Till I knew thee,—till I lived with thee; till I learned to watch
+for thy footstep when absent: yet even in absence to see thee
+everywhere!—I dreamed not how strong and all-pervading is the connection
+between nature and the human soul!...
+
+"And yet," she continued, "I am now assured of what I at first
+believed,—that the feelings which attracted me towards thee at first
+were not those of love. I know THAT, by comparing the present with the
+past,—it was a sentiment then wholly of the mind or the spirit! I could
+not hear thee now say, 'Viola, be happy with another!'"
+
+"And I could not now tell thee so! Ah, Viola, never be weary of assuring
+me that thou art happy!"
+
+"Happy while thou art so. Yet at times, Zanoni, thou art so sad!"
+
+"Because human life is so short; because we must part at last; because
+yon moon shines on when the nightingale sings to it no more! A little
+while, and thine eyes will grow dim, and thy beauty haggard, and these
+locks that I toy with now will be grey and loveless."
+
+"And thou, cruel one!" said Viola, touchingly, "I shall never see the
+signs of age in thee! But shall we not grow old together, and our eyes
+be accustomed to a change which the heart shall not share!"
+
+Zanoni sighed. He turned away, and seemed to commune with himself.
+
+Glyndon's attention grew yet more earnest.
+
+"But were it so," muttered Zanoni; and then looking steadfastly at
+Viola, he said, with a half-smile, "Hast thou no curiosity to learn more
+of the lover thou once couldst believe the agent of the Evil One?"
+
+"None; all that one wishes to know of the beloved one, I know—THAT THOU
+LOVEST ME!"
+
+"I have told thee that my life is apart from others. Wouldst thou not
+seek to share it?"
+
+"I share it now!"
+
+"But were it possible to be thus young and fair forever, till the world
+blazes round us as one funeral pyre!"
+
+"We shall be so, when we leave the world!"
+
+Zanoni was mute for some moments, and at length he said,—
+
+"Canst thou recall those brilliant and aerial dreams which once visited
+thee, when thou didst fancy that thou wert preordained to some fate
+aloof and afar from the common children of the earth?"
+
+"Zanoni, the fate is found."
+
+"And hast thou no terror of the future?"
+
+"The future! I forget it! Time past and present and to come reposes in
+thy smile. Ah, Zanoni, play not with the foolish credulities of my
+youth! I have been better and humbler since thy presence has dispelled
+the mist of the air. The future!—well, when I have cause to dread it, I
+will look up to heaven, and remember who guides our fate!"
+
+As she lifted her eyes above, a dark cloud swept suddenly over the
+scene. It wrapped the orange-trees, the azure ocean, the dense sands;
+but still the last images that it veiled from the charmed eyes of
+Glyndon were the forms of Viola and Zanoni. The face of the one rapt,
+serene, and radiant; the face of the other, dark, thoughtful, and locked
+in more than its usual rigidness of melancholy beauty and profound
+repose.
+
+"Rouse thyself," said Mejnour; "thy ordeal has commenced! There are
+pretenders to the solemn science who could have shown thee the absent,
+and prated to thee, in their charlatanic jargon, of the secret
+electricities and the magnetic fluid of whose true properties they know
+but the germs and elements. I will lend thee the books of those glorious
+dupes, and thou wilt find, in the dark ages, how many erring steps have
+stumbled upon the threshold of the mighty learning, and fancied they had
+pierced the temple. Hermes and Albert and Paracelsus, I knew ye all;
+but, noble as ye were, ye were fated to be deceived. Ye had not souls of
+faith, and daring fitted for the destinies at which ye aimed! Yet
+Paracelsus—modest Paracelsus—had an arrogance that soared higher than
+all our knowledge. Ho, ho!—he thought he could make a race of men from
+chemistry; he arrogated to himself the Divine gift,—the breath of life.
+(Paracelsus, 'De Nat. Rer.,' lib. i.)
+
+"He would have made men, and, after all, confessed that they could be
+but pygmies! My art is to make men above mankind. But you are impatient
+of my digressions. Forgive me. All these men (they were great dreamers,
+as you desire to be) were intimate friends of mine. But they are dead
+and rotten. They talked of spirits,—but they dreaded to be in other
+company than that of men. Like orators whom I have heard, when I stood
+by the Pnyx of Athens, blazing with words like comets in the assembly,
+and extinguishing their ardour like holiday rockets when they were in
+the field. Ho, ho! Demosthenes, my hero-coward, how nimble were thy
+heels at Chaeronea! And thou art impatient still! Boy, I could tell thee
+such truths of the past as would make thee the luminary of schools. But
+thou lustest only for the shadows of the future. Thou shalt have thy
+wish. But the mind must be first exercised and trained. Go to thy room,
+and sleep; fast austerely, read no books; meditate, imagine, dream,
+bewilder thyself if thou wilt. Thought shapes out its own chaos at last.
+Before midnight, seek me again!"
+
+------------------------------------------------------------------------
+
+[Next: Chapter IV](zan46)

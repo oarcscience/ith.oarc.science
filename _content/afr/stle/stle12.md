@@ -1,0 +1,536 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle11) 
+[Next](stle13) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_138">p. 138</span> <span id="page_139">p. 139</span>
+
+### CHAPTER VIII:
+
+### The Memphite Theology is the Basis of all Important Doctrines in Greek Philosophy.
+
+*History and Description:*
+
+The Memphite Theology is an inscription on a stone, now kept in the
+British Museum. It contains the theological, cosmological and
+philosophical views of the Egyptians. It has already been referred to in
+my treatment of Plato's doctrines; but it must be repeated here to show
+its full importance as the basis of the entire field of Greek
+philosophy. It is dated 700 B.C., and bears the name of an Egyptian
+Pharaoh who stated that he had copied an inscription of his ancestors.
+This statement is verified by language and typical arrangement of the
+text, and therefore assigns the original date of the Memphite Theology
+to a very early period of Egyptian history, i.e., the time when the
+first Dynasties had made their new capital at Memphis: the city of the
+God Ptah, i.e., between 4000 and 3500 B.C. (Intellectual Adventure of
+Man by Frankfort, p. 55).
+
+*The Text:*
+
+This consists of three supplementary parts, each of which will be
+treated separately: both as regards its teachings and the identity in
+Greek philosophy.
+
+Part I presents the Gods of Chaos. Part II presents the Gods of Order
+and arrangement in creation; and Part III presents the Primate of the
+Gods, or the God of Gods, through whose (Logos) creation was
+accomplished.
+
+In Part I pre-creation or chaos is represented as follows:—
+
+A. *Text of Part I:*
+
+The Primate of the Gods Ptah, conceived in his heart, everything that
+exists and by His utterance created them all. He
+
+<span id="page_140">p. 140</span>
+
+is first to emerge from the primeval waters of Nun in the form of a
+Primeval Hill. Closely following the Hill, the God Atom also emerges
+from the waters and sits upon Ptah (the Hill). There remain in the
+waters four pairs of male and female gods (the Ogdoad, or unity of
+Eight-Gods), bearing the following names:—
+
+<div style="margin-left: 32px">
+
+\(1\) Nun and Naunet, i.e., the Primeval waters and the counter heaven.
+
+\(2\) Huh and Hauhet, i.e., the boundless and its opposite:
+
+\(3\) Kuk and Kauket, i.e., darkness and its opposite; and
+
+\(4\) Amun, i.e., (Amon) and Amaunet, i.e., the hidden and its opposite.
+
+</div>
+
+(Egyptian Religion by Frankfort, p. 20; 23. Intellectual Adventure of
+Ancient Man by Frankfort, p. 21).
+
+B. *The Philosophy of Part I:*
+
+\(1\) Ptah has the following attributes: (a) The Primate of the Gods,
+i.e., The God of Gods (b) The *Logos*. Thought and creative utterance
+and power (Egyptian Religion by Frankfort, p. 23). (c) The God of Order
+and form (d) The Divine Artificer and Potter (Fire Philosophy by
+Swinburne Clymer; Jamblichus; Ancient Egypt by John Kendrick, Bk. I, p.
+318; 339).
+
+It must be noted that while the Sun God Atom sits upon Ptah the Primeval
+Hill He accomplishes the work of creation. But the Memphite Theology
+dates back to 4000 B.C., when it is believed the Greeks were unknown
+(Frankfort's Intellectual Adventure of Man, p. 5; 53; 55. The Book of
+the Dead, p. 17).
+
+This arrangement in the Memphite Theology could only mean that the
+ingredients of the Primeval Chaos contained ten principles: four pairs
+of opposite principles, together with two other gods: Ptah representing
+Mind, Thought, and creative Utterance; while Atom joins himself to Ptah
+and acts as Demiurge and executes the work of creation. From such an
+
+<span id="page_141">p. 141</span>
+
+arrangement in the cosmos we are in position to infer the following
+philosophies:—
+
+<div style="margin-left: 32px">
+
+\(a\) Water is the source of all things.
+
+\(b\) Creation was accomplished by the unity of two creative principles:
+Ptah and Atom, i.e., the unity of Mind (nous) with Logos (creative
+Utterance).
+
+\(c\) Atom was the Demiurge or Intermediate God in creation. He was also
+Sun God or Fire God.
+
+\(d\) Opposite Principles control the life of the universe.
+
+\(e\) The elements in creation were Fire (Atom), Water (Nun), Earth
+(Ptah or Ta-tjenen) and Air.
+
+</div>
+
+Part I of the Memphite Theology is the correct Source of these
+philosophies: but strangely the Greeks have claimed them as their
+production, although without any right whatever.
+
+C. *Individual Greek Philosophers to whom portions of the philosophy of
+the Memphite Theology has been assigned:*
+
+Of these doctrines, "water as the source of all things" has been
+assigned to Thales (Zeller: Hist. of Phil. p. 38); that of the
+"Boundless or Unlimited", has been assigned to Anaximander (Zeller:
+Hist. of Phil. p. 40); while that of "Air as the basis of life" has been
+assigned to Anaximenes (Zeller: Hist. of Phil. p. 42). Furthermore, the
+doctrine "that Fire underlies the life of the universe", has been
+assigned not only to Pythagoras, who spoke of the functions of the
+central and peripheral Fires; but also to Heraclitus who spoke of the
+transmutation of Fire into the other elements, and their transmutation
+back into Fire. Also Democritus who spoke of Fire Atoms, as filling
+space as the Mind or Soul of the World; and Plato who spoke of a
+World-Soul, which is composed of Fire Atoms. (Wm. Turner's Hist. of
+Phil. p. 42; 5; Zeller's Hist. of Phil. p. 53; 149; Plato's Timaeus,
+30A; B. D. Alexander's Hist. of Phil., p. 40).
+
+Likewise the doctrine of opposites has been assigned not only to
+Pythagoras, who spoke of the elements of the unit as odd and even; but
+also to (a) Heraclitus who spoke of "the
+
+<span id="page_142">p. 142</span>
+
+unity of warring opposites"; (b) Parmenides who spoke of the distinction
+between Being and Not-Being; (c) Socrates, who spoke of things as being
+generated from their opposites; and
+
+\(d\) Plato who spoke of Ideas and Noumena as real and perfect; but
+phenomena as unreal and imperfect. (The Phaedrus of Plato 250;
+Parmenides 132D; Aristotle Metaphysics I, 6; 987b, 9; Plato Phaedo 70E;
+Zeller's Hist. of Phil. p. 51; 61, 68; The Timaeus, p. 28).
+
+Furthermore, the doctrines of the Nous (or Mind) or an Intelligent
+Agency as responsible for creation, has been assigned not only to
+Anaxagoras, but also to Socrates who spoke of the existence of useful
+things as the work of an Intelligence: To Plato who spoke of a
+World-Soul or Mind, as the cause of life and knowledge in the universe
+and to Democritus, who attached a similar meaning. (Zeller's Hist. of
+Phil. p. 80; p. 85; Wm. Turner's Hist. of Phil. p. 82; p. 109). The
+doctrine of the Logos has been assigned to Heraclitus who spoke of Fire
+as the Logos or creative principle in nature; while the doctrine of the
+Demiurge, or an Intermediate God who created the world, has been
+assigned to Plato (Wm. Turner's Hist. of Phil. p. 55, p. 108).
+
+A. *Text of Part II*
+
+The Gods of Order and arrangement in the cosmos are represented by nine
+gods, in one God-head, called the Ennead. Here Atum (Atom), the source
+of the Ogdoad, is also retained as the source of the Gods of Order and
+arrangement. Atum (Atom) names four pairs of parts of his own body, and
+thus creates eight Gods, who together with himself become nine. These
+Eight Gods are the created Gods, the first creatures of this world; and
+Atum (Atom), the Creator God, the Demiurge, of whom Plato spoke. The
+Gods whom Atum (Atom) projected from his body were
+
+<div style="margin-left: 32px">
+
+  (i) Shu (Air)
+
+ (ii) Tefnut (Moisture)
+
+\(iii\) Geb (Earth) and
+
+ (iv) Nut (Sky);
+
+</div>
+
+<span id="page_143">p. 143</span>
+
+who are said to have given birth to four other Gods:
+
+<div style="margin-left: 32px">
+
+   (v) Osiris (the God of omnipotence and omniscience)
+
+  (vi) Isis (wife of Osiris, Female Principle)
+
+ (vii) Seth (the opposite of good)
+
+\(viii\) Nephthys (Female Principle in the Unseen World).
+
+</div>
+
+(Plutarch: Isis et Osiris, 355A; 364C; 371B; Frankfurt; Intellectual
+Adventure of Ancient Man, p. 66–67).
+
+B. *The Philosophy of Part II*.
+
+As we read the text of Part II, we find that the Sun God Atum (Atom) who
+was present in the Chaos was also present at the development of orderly
+arrangement in the cosmos. At this stage Atum (Atom) assumes the role of
+creator of all Gods except Ptah, the God of Gods. He next proceeds to
+accomplish this special type of creation in the following manner: He
+commands Eight Gods to proceed from His own body according to the names
+of those eight parts.
+
+The result of this creation presents us with what has been called (a)
+the "Ennead" or the unity of "nine Gods in one Godhead" (b) the doctrine
+of the Demiurge as in Part I, (c) the doctrine of the created Gods and
+(d) the doctrine of the Unmoved Mover; also (e) the doctrine of
+opposites and (f) Omnipotence and Omniscience. Of these doctrines, that
+of the "Ennead" will be dealt with elsewhere, and since the doctrine of
+the Demiurge has already been treated, together with (c) the created
+Gods, I shall now discuss the doctrine of the Unmoved Mover, as based
+upon the same act of creation. According to the Memphite Theology of the
+Egyptians, Atum created Eight Gods who proceeded from eight parts of His
+own body. He was seated upon Ptah the Hill and was unmoved. In this act
+of creation Atum (Atom) became the Unmoved Mover. In spite of the
+Memphite Theology being the direct source of these doctrines, yet Plato
+has been given credit for the doctrine of the created Gods; while
+Aristotle has received credit for that of the "Unmoved Mover". Certainly
+the world has never been more misled.
+
+<span id="page_144">p. 144</span>
+
+Here it must be made quite clear, that the doctrine of a Demiurge in
+creation includes two other doctrines: that of the created Gods and that
+of the Unmoved Mover.
+
+It was the function of the Demiurge to create the universe; and in doing
+so, his first act was the creation of the Gods, who accordingly became
+the first creatures.
+
+But the manner in which the Demiurge created the Gods was the process of
+projecting them from His own body.
+
+This method of creation clearly makes the Demiurge the Unmoved Mover.
+
+However the history of Greek philosophy has assigned the authorship of
+the doctrines of the Demiurge and the created Gods to Plato, and the
+authorship of the doctrine of the Unmoved Mover to Aristotle.
+
+But this so-called Platonic doctrine is one, made up of three
+inseparable parts (a) the Demiurge (b) the function of the Demiurge and
+(c) the method of the function: a unity which contradicts Aristotle's
+authorship of what is really only an inference from the supposed
+original doctrine of Plato.
+
+(The Myth of Creation in Plato Timaeus; Wm. Turner; Hist. of Phil., p.
+109–110; Zeller's Hist. of Phil. p. 192; Wm. Turner's Hist. of Phil. p.
+142).
+
+The doctrine of opposites has already been discussed, however, in Part I
+of the Memphite Theology. One of the pairs of created Gods, Osiris and
+Isis was used to represent the male and female principles of nature. In
+addition to this, Osiris had other qualities attached to Him, which
+might be understood from the following derivatives (a) osh meaning many,
+and (b) iri meaning *to do* and also (c) meaning an Eye. Consequently
+Osiris came to mean not only many eyed or omniscient, but also
+omnipotent or all powerful. Here again, as in all instances already
+mentioned, in spite of the fact that the Memphite Theology is the source
+of Greek philosophy, yet the doctrines of "an Intelligent Cause", a Nous
+as responsible for the life and conduct of the world, has been assigned
+to Anaxagoras,
+
+<span id="page_145">p. 145</span>
+
+<span class="contnote">\[paragraph continues\]</span> Socrates and also
+Plato, whose World Soul, consisted of fire atoms, like the World Soul of
+Democritus. (Plato Timaeus 30, 35. Xenophon Memorabilia I, 4, 2; Wm.
+Turner's Hist. of Phil. 63).
+
+A. *Text of Part III*
+
+In this third part of the Memphite Theology, the Primate of the Gods is
+represented as Ptah: Thought, Logos and Creative Power, which are
+exercised over all creatures. He transmits power and spirit to all Gods,
+and controls the lives of all things, animals and men through His
+thought and commands. In other words it is in Him that all things live
+move and have their eternal being.
+
+B. *The Philosophy of Part III*
+
+From Part III we infer the following doctrines:—(a) all things were
+created by the thought and command of Ptah, the God of Gods. (b) Through
+the thought and command of Ptah, we all live, move and have our eternal
+Being. (c) Ptah is Creator and Preserver as has already been pointed out
+elsewhere; Ptah's powers were transmitted by magical means to Atum who
+performed the work of creation. (Intellectual Adventures of Man by
+Frankfort, p. 52–60).
+
+#### II. Memphite Theology is the Source of Modern Scientific Knowledge.
+
+<div style="margin-left: 32px">
+
+A. The Ennead and the Nebular Hypothesis.
+
+B. The identity between the Sun God Atom, and the atom of science.
+
+</div>
+
+A. *The Ennead and the Nebular Hypothesis coincide*.
+
+Just as the Memphite Theology is the source of Greek philosophy or
+primitive science, so it is also the basis of modern scientific belief.
+The Gods of Order and arrangement in the cosmos are represented by nine
+Gods in the Godhead, called the Ennead. Atum, (Atom), the Sun God, i.e.,
+Fire God, creates eight other Gods, by naming four pairs of parts of his
+own body, from which they came forth. Here the names
+
+<span id="page_146">p. 146</span>
+
+of the created Gods were given as Shu and Tefnut (Air and Moisture), Geb
+and Nut (Earth and Sky); and two other pairs of opposites: Osiris and
+Isis; and Seth and Nephthys, who are supposed to be the first creatures
+of this world (Frankfort's Intellectual Adventures of Man, p. 54).
+
+Now if we compare this Egyptian cosmology with the Nebular hypothesis of
+Laplace, we would find very striking similarities in the two contexts.
+According to the Nebular hypothesis our present solar system was once a
+molten gaseous nebula. This nebula rotated at an enormous speed, and as
+the mass cooled down it also contracted and developed greater speed. The
+result was a bulging at the equator and a gradual breaking off of
+gaseous rings, which formed themselves into planets. These planets in
+turn threw off gaseous rings, which formed themselves into smaller
+bodies, until at last, the sun was left as the remnant of the original
+parent Nebula. From this context it is clear that the original parent
+nebula was fire or the Sun, and that by throwing off parts of itself, it
+created some planets, which in turn threw off parts of themselves and
+created others. According to the context of the Memphite Theology, the
+creator God was the Sun God or fire God Atum (Atom), who named four
+pairs of parts of his own body, from which Gods came forth.
+
+But Atum (Atom) together with the Eight Created Gods composed the Ennead
+or Godhead of nine: a very striking similarity with modern science which
+teaches that there are nine major planets. We may now summarise these
+similarities:—(a) The creator God in both the Egyptian and Modern
+Cosmologies is the Sun or Fire. (b) The creator God in both cosmologies
+creates Gods from parts of Himself. (c) The number of Gods are nine and
+correspond with the nine major planets. These similarities make it
+evident that Laplace obtained his hypothesis from the Memphite Theology
+or other Egyptian sources.
+
+Of course the Memphite Theology, according to Frankfort in his
+Intellectual Adventure of Ancient Man, p. 54 does not
+
+<span id="page_147">p. 147</span>
+
+mention the creation of planets. Nevertheless, since it was the method
+of the Egyptian to conceal the truth by the use of myths, parables
+magical principles (primitive scientific method), number philosophy and
+hieroglyphics, we can easily see what methods might be involved before
+we could arrive at a better translation of the Memphite Theology.
+
+At any rate, the entire setting of the Memphite Theology is
+astronomical, and what could be more natural, than to expect an
+astronomical interpretation? It seems well within reason, to regard the
+Ennead as the heliocentric system of history. Atom the sun God, creating
+eight other Gods or planets from his own body, as the Unmoved Mover a
+teaching which has been falsely attributed to Aristotle.
+
+B. *The identity between the Egyptian Sun God Atum (Atom) and the atom
+of Modern Science:*
+
+There are two things which I desire to point out in connexion with the
+relationship between Atum (Atom) the Egyptian Sun God and the atom of
+modern science. These things are (i) the similarity of attributes and
+(ii) the similarity of names. (i) The Egyptian God Atum (Atom) means
+self-created; everything and nothing; a combination of positive and
+negative principles:—all-inclusiveness and emptiness; a Demiurge,
+possessing creative powers; the Creator Sun. (p. 53, Frankfort's
+Intellectual Adventure of Ancient Man; p. 182, Frankfort's Kingship and
+the Gods).
+
+Atum (Atom) also means "the all and the not yet Being"; (p. 168
+Frankfort's Kingship of the Gods). As a God Atum (Atom) represents the
+principles of opposites. The atom, as the substratum of matter,
+according to Greek philosophy, is defined by Democritus as "movement of
+that which is" (To on) within "that which is not" (*To mē on*). It
+therefore represents the principle of opposites, and shows the identity
+between the Egyptian Sun God and the substratum of matter. Furthermore,
+the atom is defined as "the full and void; being and not-being (Zeller's
+Hist. of Phil., p. 38) and these definitions
+
+<span id="page_148">p. 148</span>
+
+coincide with the everything and nothing, and the "all-inclusiveness"
+and emptiness of the Egyptian Sun God.
+
+\(ii\) *The similarity of names shared by the Egyptian Sun God and the
+atom of science:*
+
+Now, with reference to the similarity of these two names, the first
+thing we should bear in mind is the fact that they both possess
+identical attributes, as has been already pointed out in section i; and
+consequently we are compelled to conclude that the atom of science is
+the identical name of the Egyptian Sun God: the most ancient of Gods
+except Ptah, who was present with Atom at creation. The second thing we
+should bear in mind is the fact that the name of the God Atom (sometimes
+spelt Atum) belongs to the cosmology of the Memphite Theology, whose
+date goes back to 4000 B.C. when the Greeks were not even known.
+Consequently we are compelled to conclude that the Greeks obtained both
+the original name and the attributes of the Sun God Atom from the
+Egyptians.
+
+Furthermore, the Greeks were unacquainted with the Egyptian language,
+during the period of the so-called Greek philosophy, dating from the
+sixth century B.C. and as a consequence transliterated Egyptian words
+into Greek without regard to their [Coptic](errata.htm#12) derivatives.
+The following Homeric stories verify the practice of the Greeks in the
+transliteration of Egyptian words and the plagiarism of their legends.
+(a) According to Homer, Proteus was a Maritime Divinity feeding his
+phocae on the coast of Egypt. He was endowed with the gift of prophecy
+which was exercised only upon compulsion. Proteus, however was an
+Egyptian Pharaoh who succeeded to the throne on the death of Pheron, the
+son of Sesostris. Proteus was also worshipped at Memphis. The Greeks did
+not only transliterate the name of this Egyptian King, but also
+plagiarized on the legend. (Herodotus II, 112).
+
+\(b\) Likewise the story of Io the Argive Princess, who was changed into
+a heifer, and after long wanderings, reached
+
+<span id="page_149">p. 149</span>
+
+<span class="contnote">\[paragraph continues\]</span> Egypt, where she
+gave birth to a God, and where she herself was worshipped as the Goddess
+Isis, points clearly to the introduction of the worship of Isis or
+Athor, under the symbol of the heifer, at an early period into Argos.
+Here it must be pointed out that Io is the Coptic name for Moon, and the
+same word was preserved as the dialect of Argos, without any affinity
+with any Greek root. It was a habit of the Greeks to Hellenize Egyptian
+words by transliterating them and adding them to the Greek vocabulary.
+
+\(c\) This practice of borrowing words from nearby nations continued
+until New Testament times. In Acts of Apostles of the Greek Testament,
+Chapter 13th and verse 1, the word Niger (i.e., black man) in the name
+Simeon the Negro is a Roman or Latin word (niger, nigra, nigrum) meaning
+black. Simeon, of course, was an Egyptian Professor attached to the
+Church at Rome.
+
+The atom of science is really the name of the Egyptian Sun God that has
+come down to modern times, through the so-called Greek philosophy, and
+carries identical attributes, with the Sun God. (Diodorus I, 29; John
+Kendrick's Ancient Egypt, vol. II 5–52; Eust. ad Dionys: Perieg: V).
+
+N.B.
+
+It must be remembered that what we erroneously call Greek philosophy,
+was the beginning of science or the investigation of nature; and
+consequently we cannot separate modern science from Greek philosophy.
+
+#### III. Memphite Theology Opens Great Possibilities for Modern Scientific Research.
+
+A. *Greek Concept of the Atom; erroneous*.
+
+The Greeks derived the meaning of the atom from (i) (*alpha*) i.e. a
+negative prefix meaning not; and (ii) (*temnein*) i.e. the present
+infinitive active of (*temno*) to cut. The two derivatives together
+meaning "that which cannot be cut". For centuries the world has been
+misled by this misconception
+
+<span id="page_150">p. 150</span>
+
+of the Greeks: a fact which no doubt, had impeded the progress of atomic
+research by Western scholars, who had believed in the so-called Greek
+origin of philosophy or primitive science.
+
+Today, however, the Greek conception of the atom is no longer tenable,
+since modern science has successfully split the atom.
+
+B. *Great scientific secrets in the Memphite Theology, yet to be
+discovered*.
+
+I believe that the time has come, within which man will be able to
+unlock most of the secrets of nature hitherto hidden and unknown. I have
+shown that the Nebular Hypothesis of modern times coincides with the
+teachings of the Memphite Theology, in which the Sun God Atom is said to
+have created eight other Gods, which together with himself constitute
+the Ennead of the Egyptians, which correspond to the nine major planets
+of modern scientific teaching.
+
+We also know that out of Cosmic Chaos there arose from the primeval
+waters a pair of Gods i.e. the Primeval Hill and Atom the Sun God, and
+that through the contact of Atom with the Hill, He received power to
+create the other eight major planets. This seems to imply that
+
+\(i\) Atomic energy originates from water and earth, since water
+H<sup>2</sup>O, and uranium, an indispensable ingredient in atomic
+energy, is found in the bowels of the earth. Note that both Atom and the
+Hill came out of the primeval Waters.
+
+\(ii\) Four pairs of Gods, representing positive and negative principles
+still remain in water, in the form of male and female frogs and snakes,
+and constitute four fifths of the secrets of creation, which man has yet
+to fathom.
+
+\(iii\) Successful scientific research in the principles and secrets of
+nature lies in the study of the Memphite Theology, whose symbology
+requires the key of magical principles for its interpretation. With this
+approach our men of science should be able to unlock the doors of the
+secrets of nature and become the custodians of unlimited knowledge.
+
+<span id="page_151">p. 151</span>
+
+This is the legacy of the African Continent to the nations of the world.
+She has laid the cultural foundations of modern progress and therefore
+she and her people deserve the honour and praise which for centuries
+have been falsely given to the Greeks. And likewise, it is the purpose
+of this book to make this revelation the beginning of a universal
+reformation in race relations, which I believe would be the beginning of
+the solution of the problem of universal unrest.
+
+------------------------------------------------------------------------
+
+[Next: Social Reformation through the New Philosophy of African
+Redemption](stle13)

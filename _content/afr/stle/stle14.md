@@ -1,0 +1,648 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle13) 
+[Next](stle15) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_163">p. 163</span>
+
+### APPENDIX
+
+<span class="smallcaps">The purpose</span> of this appendix is to
+present a brief analysis and summary of the arguments, conclusions and
+inferences which relate to the subject matter which has already been
+treated. It is also hoped that it will serve the secondary purpose of
+simplification.
+
+<span class="smallcaps">Argument</span> I. *Greek philosophy was stolen
+Egyptian philosophy*.
+
+Because history tells us that (i) The teachings of the Egyptian Mystery
+System travelled from Egypt to the island Samos, and from Samos to
+Croton and Elea in Italy, and lastly from Italy to Athens in Greece
+through the medium of Pythagoras and the Eleatic and late Ionic
+philosophers. Accordingly, Egypt was the true source of the Mystery
+teachings and therefore any claim to such origin by the ancient Greeks
+is not only erroneous but must have been based upon dishonest motives.
+
+\(ii\) History also represents the early life and education of Greek
+philosophers as a blank and their chronology as a matter of speculation.
+Consequently it has given the world the opinion that the Greek
+philosophers, with the exception of the three Athenians, might never
+have existed and might never have taught the doctrines alleged to them.
+In other words History represents the Pre-Socratic philosophers as
+questionable in existence and under those circumstances they could
+neither produce philosophy nor claim its authorship, except by
+questionable and dishonest methods.
+
+\(iii\) The compilation of Greek philosophy appears to have been the
+idea of Aristotle, but the work of the alumni of his school. The
+movement was unauthorized by the Greek Government which always hated and
+persecuted philosophy, because it was Egyptian and foreign. The
+organization, control and operation of the Mysteries gave the Egyptians
+the right of ownership to philosophy, and therefore any claims by the
+ancient Greeks to philosophy must be considered as illegal and
+dishonest.
+
+<span class="smallcaps">Argument</span> II. *So-called Greek philosophy
+was alien to the Greeks*.
+
+Because (i) the period of Greek philosophy (Thales to Aristotle) was a
+period of internal wars among the city states themselves and external
+wars with their common enemy, the Persians. The Greeks were victims of
+perpetual internal strife and perpetual fear of annihilation
+
+<span id="page_164">p. 164</span>
+
+by their common enemy. They had no time which they could devote to the
+study of nature, for this required the riches and wealth of the leisure
+classes: but they were too poor to engage in such a pursuit. This is one
+of the reasons why the Greek philosophers were so few and why the Greeks
+were unacquainted with philosophy.
+
+\(ii\) The Greeks did not possess the native ability essential to the
+development of philosophy. The death of Aristotle, who had inherited a
+vast quantity of books from the library of Alexandria through his
+friendship with Alexander the Great, was also followed by the death of
+Greek philosophy which soon degenerated into a system of borrowed ideas
+known as eclecticism. This system contained nothing new in spite of the
+great treasure of knowledge which they had obtained through Alexander's
+friendship with Aristotle and his conquest of Egypt.
+
+\(iii\) The Greeks rejected and persecuted philosophy owing to the fact
+that it came from an outside and foreign source and contained strange
+ideas with which they were unacquainted. This prejudice led to the
+policy of persecution. Hence Anaxagoras was indicted and escaped from
+prison and fled to Ionia in exile. Socrates was executed; Plato fled to
+Megara to the rescue of Euclid; and Aristotle was indicted and escaped
+into exile. This policy of the Greeks would be meaningless, if it did
+not indicate that philosophy was alien to Greek mentality.
+
+<span class="smallcaps">Argument</span> III. *Greek philosophy was the
+offspring of the Egyptian Mystery System*.
+
+Because complete identity had been found to exist between the Egyptian
+Mystery System and Greek philosophy with the only exception of age in
+relation of parent to child. The Egyptian Mystery System antedated that
+of Greece by many thousands of years. The following are the
+circumstances and conditions of identity:—
+
+\(i\) Complete agreement between the Egyptian, theory of salvation and
+the purpose of Greek philosophy, i.e., to make man become Godlike by
+virtue and educational disciplines.
+
+\(ii\) Complete agreement of the conditions of initiation into both
+systems, i.e., preparation (in gradual stages of virtue) before every
+initiation.
+
+\(iii\) Complete agreement in tenets and practice.
+
+\(iv\) History tells us that the remains of the Ancient Grand Temple of
+Luxor have been traced to the banks of the Nile in the ancient city of
+Thebes, a short distance from Danderah, now called upper Egypt. It also
+tells us that this Grand Temple was constructed by Pharaoh Amenothis III
+who began it, and Rameses II who completed it. At the
+
+<span id="page_165">p. 165</span>
+
+time of Greek philosophy, the Mystery System of Egypt was the only such
+system in the ancient world, and therefore its Grand Lodge was the only
+such Grand Lodge in existence. It was the seat of government, having
+organized the ancient world into a universal or catholic brotherhood
+with jurisdiction over all minor lodges and schools wherever they were.
+And whether we call it the Mysteries or Greek philosophy or Free
+Masonry, the system was one and all branches came out of that one and
+were subordinate to it.
+
+\(v\) The identity between the Egyptian Mysteries and Greek philosophy
+is also established by the fact that when the Roman Emperors Theodosius
+and Justinian issued their edicts closing down the Egyptian Mysteries,
+the effect was the same upon the philosophical schools in Greece, for
+they had to be closed. Things which are affected equally by the same
+cause are themselves equal.
+
+<span class="smallcaps">Argument</span> IV. *The Egyptians educated the
+Greeks*.
+
+Because History supports the following facts:—
+
+\(i\) *The effects of the Persian conquest upon Egypt*
+
+\(a\) Removed immigration restrictions against the Greeks.
+
+\(b\) Opened up Egypt to Greek research and (c) encouraged students from
+Ionia and elsewhere to visit Egypt for the purpose of their education.
+
+\(ii\) *The effects of the conquest of Alexander the Great upon Egypt*
+
+\(a\) It was the custom of ancient armies when invading countries to
+search for treasures in libraries and temples. Accordingly it is
+believed that Alexander and his friends who accompanied him ransacked
+the Library of Alexandria and other libraries and helped themselves with
+books. It is also believed that this was how Aristotle got the vast
+quantity of books alleged to his authorship and how he acquired
+exaggerated fame.
+
+\(b\) The Library of Alexandria was taken over by the Alumni of
+Aristotle's school and converted into a research centre and University,
+for the education of the Greeks who were compelled to use Egyptian
+Professors, on account of linguistic difficulties and other reasons.
+
+\(c\) Apart from the looting of libraries and the conversion of the
+Library of Alexandria into a University for their education, the Greeks
+had another way of adopting the culture of the Egyptians. The Ptolemies
+used to commandeer useful information from the Egyptian High Priests,
+and we are told that Ptolemy I Soter commanded the High Priest Manetho
+to write a history of religion and philosophy of the Egyptians and this
+was done and the volumes became the chief text books in the University
+of Alexandria.
+
+<span id="page_166">p. 166</span>
+
+\(iii\) *The Egyptians were the first to civilize the Greeks*
+
+History tells us that the Greeks received the influence of civilization
+from three sources: colonizers first from Egypt, colonizers secondly
+from Phoenicia and colonizers thirdly from Thrace. It also tells us that
+these colonies were under the government of wise men who subdued the
+ferocity of the ignorant populace, not only by means of civil
+institutions, but also by the strong chain of religion and the fear of
+the Gods. Those colonizers were Cecrops from Egypt, Cadmus from
+Phoenicia and Orpheus from Thrace.
+
+<span class="smallcaps">Argument</span> V. *The doctrines of Greek
+philosophers are the doctrines of the Egyptian Mystery System*.
+
+The proof of this proposition is really one of the main purposes of this
+book and hence chapters five and six have been devoted to this purpose.
+The Egyptian teachings were expressed in symbols of various types and
+therefore their origin can be established by reference to the particular
+symbol in question. In these chapters therefore mention has been made
+not only of the names of Greek philosophers and the doctrines which have
+been ascribed to them; but also the necessary references to the
+particular types of symbology, in proof of their Egyptian origin. These
+have been given in the Summary of Conclusions as follow:—
+
+1\. *The early Ionic philosophers* have been credited with the doctrines
+that (a) all things originated from water (b) all things originated from
+the boundless or primitive chaos and (c) all things originated from air.
+But these doctrines could not have been those of the Ionic philosophers;
+since we find the same ideas expressed in the first chapter of Genesis,
+where we are told that at the beginning the world was in a state of
+chaos, without form and void (boundless); and how the spirit of God
+(air) moved upon the waters and separated them from dry land and earth
+from sky; and how step by step, living things came out of the waters and
+how finally, through the breath of life (air) man came into existence.
+Genesis is the first book of the Pentateuch whose date has been placed
+to the Eighth Century B.C.: a time when the early Ionic philosophers did
+not even exist and who therefore could not have been the authors of
+these doctrines. Similarly, the authorship of Genesis has been ascribed
+to Moses, who Philo tells us was an Egyptian Priest, a Hierogrammat, and
+learned in all the wisdom of the Egyptians. But the age in which Moses
+lived must be associated with the Exodus of the Israelites which he
+conducted in the 21st Egyptian Dynasty: 1100 B.C. in the reign of
+Bocchoris. But the creation story of Genesis coincides with the creation
+
+<span id="page_167">p. 167</span>
+
+story of the Memphite Theology of the Egyptians, which takes us back to
+between 4 and 5 thousand B.C. This means that the doctrines of the early
+Ionians arose neither at their time (the fifth century B.C.), nor at the
+time of Pentateuch (the eighth century B.C.), nor yet at the time of
+Moses (the eleventh century B.C.), but at the time of the Memphite
+Theology ([between](errata.htm#18) 4 and 5 thousand B.C.) and therefore
+definitely point to Egyptian origin.
+
+2\. The Eleatic philosophers have been named as (i) Zenophanes who was a
+satirist (ii) Zeno whose treatment of space and time led to a reductio
+ad absurdum and (iii) Parmenides who alone deserves notice. He has been
+credited with the definitions of Being and non-Being, which he expressed
+as 'that which is' and 'that which is not'. In other words, nature or
+reality consists of two properties, i.e., a positive and a negative. But
+Parmenides introduced no new doctrine, when he defined the principle of
+opposites. This principle was used by Pythagoras in his theory of
+numbers; by Socrates in his proof of the immortality of the Soul; by
+Plato in his Theory of Ideas and the distinction between phenomena and
+noumena; and by Aristotle in his definition of the attributes of Being.
+In all these instances it has been shown that the doctrine of opposites
+originated from the Egyptian Mystery System, in connection with which
+Gods were represented as male and female, and temples carried double
+pillars in front of them to indicate positive and negative principles of
+nature.
+
+3\. *The late Ionic philosophers* have been named as (i) Heracleitus who
+taught that the world was produced by fire, through a process of
+transmutation; and that since all things originate from Fire, then Fire
+is the Logos.
+
+\(ii\) Anaxagoras, who taught that Mind or Nous is the source of life in
+the Universe and
+
+\(iii\) Democritus, who taught that atoms underlie all material things;
+that life and death are merely changes brought about by variation in the
+mixture of atoms, which do not die because they are immortal. Now,
+taking these doctrines in the order in which they come, their Egyptian
+origin has been fully established.
+
+\(a\) The doctrine of Fire has been traced to the Egyptians, whose
+Mystery System was a Fire Philosophy and who worshipped the God of Fire
+in their pyramids. The word pyramid is a Greek word, whose derivative
+pyr means fire. This doctrine takes us back to the pyramid age in Egypt
+33 hundred B.C. when, of course, the Greeks were unknown.
+
+\(b\) It must be noted that the doctrine of the Logos has been
+identified by Heracleitus with the doctrine of Fire. This is as it
+should be,
+
+<span id="page_168">p. 168</span>
+
+because (c) in the doctrine of the created Gods which has been ascribed
+to Plato, Atom the Sun God or Fire performs the function of Demiurge in
+creating the Gods.
+
+\(d\) Similarly in the doctrine of the Unmoved Mover ascribed to
+Aristotle, the Fire God Atom while unmoved and sitting upon the Primeval
+Hill, creates the Gods by commanding them to proceed from various parts
+of His own body. In this way Atom also became the Unmoved Mover. This
+makes it clear that the Logos of Heracleitus is identical with the
+Demiurge of Plato and the Unmoved Mover of Aristotle. The function of
+Atom as Demiurge and the method of His creation are found in the
+Memphite Theology of the Egyptians. Here
+
+I would like to suggest that students who are interested in tracing the
+influence of Egyptian philosophy upon Christian thought, should read
+this portion of my book together with the first chapter of St. John's
+gospel. The problem of permanence and change is also traced in the
+Creation story of the Memphite Theology in which eternal matter is
+represented by chaos, and change by the gradual formation of order.
+
+\(e\) The doctrine of Mind or Nous, has been ascribed not only to
+Anaxagoras, but also to Democritus who spoke of it as being composed of
+fire atoms distributed throughout the universe and Socrates who has been
+credited with the teleological premise: that whatsoever exists for a
+useful purpose is the work of an Intelligence. This doctrine has been
+traced to the Egyptian Mystery System, in which the God Osiris was
+represented by an Open Eye; signifying not only omniscience, but also
+omnipotence. All Masonic lodges carry this symbol with the same meaning
+today.
+
+\(f\) The doctrine of the atom has been ascribed to Democritus, who does
+not define but describes its properties. It is the basis of life; it is
+immortal and does not die; and when many of them are mixed in certain
+ways the result is a radical change. These properties coincide with the
+properties of Atom the Sun God and the Demiurge in creation, who created
+other Gods from various parts of himself. He was the basis of life and
+giver of life. But Atom the Sun God occurs in the creation story of the
+Memphite Theology and shows the Egyptian origin of the atom.
+
+4\. *The system of Pythagoras* seems to have been so comprehensive that
+nearly all subsequent philosophers have copied ideas from his teachings.
+Interpreting nature in the form of mathematics, Pythagoras is credited
+with teaching the following doctrines:
+
+\(a\) *The properties of Number* include opposite elements: odd and
+even, finite and infinite, and positive and negative. This principle of
+
+<span id="page_169">p. 169</span>
+
+opposites was copied by and used in the teachings of Heracleitus,
+[Parmenides](errata.htm#19), Democritus, Socrates, Plato and Aristotle.
+
+\(b\) *The doctrine of Harmony*, defined as the union of opposites. This
+idea was copied by and used in the teachings of Heracleitus, Socrates,
+Plato and Aristotle.
+
+\(c\) *Fire* (*central and peripheral*) was taught to be the basis of
+creation. This doctrine was also used by and in the teachings of
+Heracleitus, Anaxagoras, Democritus, Socrates and Plato.
+
+\(d\) *The immortality of the soul and The Summum Bonum*. This was
+taught by Pythagoras in the form of a transmigration of the soul. It was
+also taught by Socrates as the purpose of philosophy through which, the
+soul feeding upon the truth congenial to its divine nature, was enabled
+to escape the wheel of rebirth and to attain the final consummation of
+unity with God. All the doctrines of Pythagoras have been shown to
+originate from the Egyptian Mystery System. Number possesses opposite
+elements and the principle of opposites belongs to the Egyptian Mystery
+System in which it was represented by male and female Gods. Harmony
+being a blending of opposites, needs no further reference, and Fire
+likewise takes us back to the Egyptian Mystery System which was a Fire
+Philosophy and its Initiates Fire worshippers. Finally, the purpose of
+philosophy was the salvation of the soul. This was accomplished by
+methods of purification offered by the Egyptian Mysteries, which lifted
+man from the mortal to the immortal level. This was the Summum Bonum,
+The Greatest Good.
+
+5\. *Socrates* (A) *His life and* (B) *His doctrines* (C) *His
+indictment, condemnation and death* (D) *His farewell conversations*.
+
+A. *In his life* he voluntarily adopted secrecy and poverty, in order
+that he might avoid the temptation of riches and be enabled to cultivate
+the virtues required by the Mysteries.
+
+B. *All his doctrines* likewise associate him with the Egyptian
+Mysteries.
+
+\(i\) His doctrine of the Mind or Nous as Intelligence which underlies
+creation, was represented in Egyptian temples, just as in modern Masonic
+temples, by the "Open Eye of Osiris", indicating omniscience and
+omnipotence.
+
+\(ii\) His doctrine of self knowledge: "Man know thyself" was copied
+directly or indirectly from among the inscriptions which appeared on the
+outside of the Mystery temples in Egypt.
+
+\(iii\) His doctrines of Opposites and Harmony were a testimony of the
+custom of the Mysteries to demonstrate the principle of opposites in
+nature by pairs of male and female Gods and also by double pillars in
+front of temples.
+
+<span id="page_170">p. 170</span>
+
+\(iv\) His doctrines of Immortality, Salvation of the Soul and The
+Summum Bonum were a summary of the theory of salvation as was taught by
+the Mysteries. Socrates himself explained it. The purpose of philosophy
+was the salvation of the soul by a process of purification which lifted
+man from the mortal level and raised him to the immortal. This was an
+attainment, this was the Summum Bonum or Greatest Good.
+
+C. His indictment, condemnation and death are circumstances which also
+show his association with the Mysteries. He was indicted for the
+introduction of foreign Gods and the corruption of Athenian Youth and
+was condemned and put to death. The foreign Gods were the Gods of the
+Mysteries and his submission to martyrdom was due on the one hand to the
+prejudice of the Athenian authorities, while on the other hand, to his
+virtue of courage, required by the Mysteries.
+
+D. His farewell conversations also show his membership with the great
+Egyptian Order. There are two accounts of these conversations: one by
+Crito and the other by Phaedo. Crito describes the brotherly behaviour
+of a band of faithful friends and Neophytes who visited him daily while
+he was in prison awaiting his execution. The purpose of these visits was
+to secure the escape of a brother; but their efforts were in vain, for
+he refused to yield to their entreaties. Phaedo mentions that the theme
+of the other conversation was the immortality of the soul in which
+Socrates endeavoured to give them some proofs by his application of the
+principles of opposites. We are also told that towards the end of the
+conversations, and just before he drank the poison, Socrates requested
+Crito to pay for him a certain debt which he owed. These conversations
+reveal the following facts:—
+
+\(a\) The brotherly love of the visiting Neophytes in their attempt to
+secure the escape of their brother Socrates.
+
+\(b\) A final class was conducted by Socrates on the doctrine of
+immortality: the central doctrine of the Egyptian Mysteries and
+
+\(c\) A final request of Socrates to have a debt paid for him and
+
+\(d\) These conversations constitute the earliest specimen of Masonic
+literature. All four of which facts point to membership in the Egyptian
+Mystery System. It was a Universal Brotherhood and required the
+cultivation of brotherly love. Its central teaching was the immortality
+of the soul, and it also required all Initiates to practice the virtues
+of justice and honesty and therefore to pay their debts.
+
+E. It is believed that Socrates did not commit his teachings to
+writings. This was also in obedience to the secrecy of the Mysteries.
+
+6\. *Plato*
+
+\(A\) His early life and education as in the case of all other
+philosophers
+
+<span id="page_171">p. 171</span>
+
+are unknown to history, which represents him as fleeing from Athens
+after the death of Socrates and after twelve years during which time he
+visited Euclid at Megara, the Pythagoreans in Italy, Dionysius in Sicily
+and the Mystery System in Egypt, he returned to Athens and opened an
+Academy, where he taught for 20 years.
+
+\(B\) His doctrines which are scattered over a wide area of literature
+consisting of 36 dialogues are disputed by modern scholarship. The
+pupils of Socrates especially Plato are supposed to have published his
+teachings, and it is not known how much of this vast literature belongs
+to Plato and how much to Socrates. The doctrines of Plato have all been
+traced to Egyptian origin.
+
+\(i\) The Theory of Ideas, which he illustrated by reference to the
+phenomena of nature, is a distinction between the Ideas or noumena and
+their copies the phenomena; and between the real and unreal, by the
+application of the principle of opposites, which was manifested by the
+Egyptian Mystery System by male and female Gods and pairs of pillars
+carried in front of Egyptian temples.
+
+\(ii\) The doctrine of the Mind or Nous has also been traced to the
+"Open Eye" used in Egyptian temples and modern Masonic lodges to
+symbolize the omniscience and omnipotence of the Egyptian God Osiris.
+
+\(iii\) The doctrine of the Demiurge and created Gods have also been
+traced to Atom the Sun God in the creation story of the Memphite
+Theology of the Egyptians.
+
+\(iv\) The doctrine of the Summum Bonum or Greatest Good has been shown
+to be identical with the theory of salvation of the Egyptian Mystery
+System. The salvation of the soul was the purpose of philosophy, whose
+methods of purification lifted the individual from the level of a mortal
+and advanced him to the level of a God. This goal was the Summum Bonum
+or Greatest Good.
+
+\(v\) The doctrine of the Ideal State whose attributes have been
+compared with the attributes of the soul and justice which are contained
+in the allegory of the charioteer and winged steeds, points to Egyptian
+origin because the allegory has been traced to the Judgment Drama of the
+Egyptian Book of the Dead.
+
+\(vi\) The doctrines of virtue and wisdom have been shown to have
+originated from the Egyptian Mystery System which required ten virtues
+in order to subjugate the ten bodily impediments.
+
+7\. *Aristotle*
+
+1\. *The life of Aristotle is one of discrepancies and doubts*.
+
+\(i\) While like other philosophers, history does not know any thing
+about his early life and education, yet it tells the strange story that
+he
+
+<span id="page_172">p. 172</span>
+
+spent 20 years as a pupil under Plato, that he never went to Egypt and
+that Alexander the Great gave him the money to secure the vast number of
+books which are attached to his name. But history also tells us that
+Plato was a philosopher and that Aristotle was a scientist and
+consequently we are forced to ask the question: why should a man like
+Aristotle waste 20 years of his life under a Teacher who was incompetent
+to teach him? These circumstances have led to the suspicion that
+Aristotle must have spent the greater part of those 20 years in
+advancing his education in Egypt and in accompanying Alexander the Great
+on his invasion of Egypt, when he got the opportunity to ransack the
+library at Alexandria and carry off all the books which he wanted. The
+story of history does not make much sense; but unfortunately throws a
+cloud of darkness over the life of Aristotle.
+
+\(ii\) Another discrepancy is to be found in connection with three lists
+of books said to belong to him, but which differ in source, in date and
+in quantity, (a) His own list which must receive the date in which he
+lived: the 4th century B.C. This contains the smallest number of books.
+(b) A list from Hermippus of Alexandria two centuries later, i.e., 200
+B.C. containing 400 books and (c) A list from Arabian sources, compiled
+at Alexandria, three centuries later, i.e., 1st century A.D. containing
+a thousand books. One is forced to ask the questions: Did Aristotle
+write a thousand books in his life time? How has his small list
+increased after his death to 400 after the lapse of two centuries, and
+to one thousand after the lapse of five centuries? These circumstances
+make the authorship of Aristotle very doubtful, for it is incredible
+that a single individual could write a thousand books on the various
+fields of science in a single life time.
+
+2\. *The doctrines of Aristotle have all been shown to originate from
+the Egyptian Mystery System*
+
+\(i\) The doctrine of Being in the metaphysical realm has been explained
+as the relation between potentiality and actuality, which acts according
+to the principle of opposites. The Egyptians were the first scientists
+to discover the principle of duality in nature and therefore represented
+it by male and female Gods and by pairs of pillars in front of their
+temples. This is the source of this doctrine.
+
+\(ii\) In the proof of the existence of God, Aristotle used two
+doctrines, (a) Teleology, showing purpose and design in nature as the
+work of an Intelligence and (b) the Unmoved Mover. Both doctrines have
+been traced to the creation story of the Memphite Theology of the
+Egyptians where it is shown that creation moved from chaos to order and
+indicated the work of an Intelligence; and also where Atom the Demiurge
+and Logos while sitting unmoved upon the
+
+<span id="page_173">p. 173</span>
+
+<span class="contnote">\[paragraph continues\]</span> Primeval Hill
+projected eight Gods from various parts of His body and thus became the
+Unmoved Mover.
+
+\(iii\) The doctrine of the origin of the world, according to Aristotle,
+states that the world is eternal because matter, motion and time are
+eternal. This same view was expressed by Democritus in 400 B.C. in the
+dictum ex nihillo nihil fit (out of nothing, nothing comes), indicating
+that matter is permanent and eternal. The same view has been traced to
+the creation story of the Memphite Theology of the Egyptians in which
+chaos or primitive matter is represented by the Primeval Ocean Nun out
+of which arose the Primeval Hill. These are supposed to have always been
+in existence.
+
+\(iv\) The doctrines of the attributes of nature, according to
+Aristotle, states that nature consists of motion and rest and that the
+motion moves from the less perfect to the more perfect by a definite
+law. I suppose the law of evolution. This teaching however did not
+originate from Aristotle for the problem of motion and rest permanence
+and change were not only investigated by the Eleatic and later Ionic
+philosophers, but by the Egyptians in whose creation story, the Memphite
+Theology, nature is shown to move from chaos by gradual steps to order.
+Certainly the doctrine of the attributes of nature came from the
+Egyptians.
+
+\(v\) The doctrine of the soul, according to Aristotle, states that the
+soul is a radical principle of life which is identical with the body,
+and possesses five attributes, being sensitive, rational, nutritive,
+appetitive and locomotive. Other philosophers have defined the soul (a)
+as material and composed of fire atoms (b) as a harmony of the body
+through the blending of opposites, and (c) as the breath of life in the
+creation story of Genesis. The true source of Aristotle's doctrine of
+the soul has however been traced to the philosophy of the soul found in
+the Egyptian Book of the Dead. There we find the soul explained as a
+unity of nine inseparable souls in one just like the Ennead a God Head
+of Nine in One, with necessary bodies. In this Egyptian philosophy, the
+attributes of the soul of the physical body have been found to coincide
+with those described by Aristotle, and it therefore shows the Egyptian
+source of Aristotle's doctrine, which relates to a small fragment of the
+Egyptian philosophy of the soul.
+
+<span class="smallcaps">Argument</span> VI. *The Education of the
+Egyptian Priests and the Curriculum of the Mystery System show that
+Egypt was the source of Higher Education in the ancient world, not
+Greece*.
+
+The first idea that we get from chapter seven is the fact that the
+Institution of Holy Orders originated from the Egyptian Mystery
+
+<span id="page_174">p. 174</span>
+
+<span class="contnote">\[paragraph continues\]</span> System, where
+African Priests were organized into various Orders and trained according
+to their rank. This made the priesthood the custodians of learning until
+the dawn of the modern age and pointed to Africans as the first
+professors in Higher Education. The second idea that we get is that the
+Seven Liberal Arts also originated from the Egyptian Mystery System,
+because these subjects formed the basis of the education of the Priests,
+who in addition, had to be versed in the 42 Books of Hermes and to
+specialize in Magic, Hieroglyphics, secret language and mathematical
+symbolism. The third idea that we get is that the Curriculum of the
+Egyptian Mystery System was coextensive with the needs of the highest
+civilization of the ancient world. Its text books consisted of:—
+
+\(i\) The 42 Books of Hermes.
+
+\(ii\) The therapeutic use of the Seven Liberal Arts, for the cure of
+man's soul.
+
+\(iii\) The applied Sciences and Arts as revealed by the monuments such
+as sculpture, painting, drawing, architecture, engineering.
+
+\(iv\) The social Sciences appropriate for trade and commerce, such as
+geography, economics and ship-building.
+
+<span class="smallcaps">Argument</span> VII. The Memphite Theology
+contains the theology, philosophy and cosmology of the Egyptians and is
+therefore an authoritative source of doctrinal origin.
+
+Chapter VIII attempts to show that the Memphite Theology of the
+Egyptians is the source of (i) Greek philosophy by showing that the
+separate doctrines of philosophers are portions of the teachings
+contained in it and also the source of (ii) modern scientific hypotheses
+by showing that (a) the Nebular Hypothesis and (b) the assumption that
+there are nine major planets of the solar system have originated from
+Atom the Egyptian Sun God or Fire God who has been shown to be identical
+with the atom of modern science. It is because of this great revelation,
+i.e., the identity of Atom the Sun God of the Egyptians with the atom of
+modern science that I have recommended the Memphite Theology as a new
+field of scientific research, and magic the scientific method of the
+Mysteries as the key to its interpretation. My second reason is the fact
+that the Memphite Theology is the first Heliocentric theory of the
+universe, and my third reason is the fact that the history of philosophy
+is the history of science.
+
+IX\. *The New Philosophy of African Redemption*
+
+Chapter IX deals with the New Philosophy of African Redemption, the aim
+of which is mental and social redemption, by converting the world to the
+New Philosophy that the Black people of North Africa
+
+<span id="page_175">p. 175</span>
+
+gave philosophy to the world, but not the Greeks; and by refusing not
+only to worship Greek intellect, because it is a process of
+miseducation, but also refusing to submit any longer to missionary
+policy. The New Philosophy of African Redemption is a necessary escape
+of the Black people from their social plight caused by a false tradition
+concerning them which has been set in motion by (a) Alexander the Great
+(b) Aristotle and his school and (c) Emperors Theodosius and Justinian
+whose edicts abolished the Egyptian Mysteries: the Greatest Educational
+and Ecclesiastical System that the world has ever known and established
+Christianity as its perpetual rival.
+
+------------------------------------------------------------------------
+
+[Next: Notes](stle15)

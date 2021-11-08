@@ -1,0 +1,738 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[Index](index)  [Previous](fpg01) 
+
+------------------------------------------------------------------------
+
+<span id="page_23">p. 23</span>
+
+# Folk-Lore Of The Pennsylvania Germans.
+
+### PART II.
+
+### Journal of American Folk-Lore 2:4 pp. 23-35 \[1889\]
+
+As before stated, <span id="fr_8"></span>[1](#fn_8) nearly all the food
+required for home consumption was the product of the farm, and in the
+endeavor to vary the monotony of dishes some curious combinations
+resulted.
+
+Among the common people in the rural districts table etiquette was
+unknown, and even common decency was frequently disregarded. The various
+members of the household congregated at the table with the servants and
+hired laborers, each helping himself and totally oblivious of the
+presence of his neighbor.
+
+The chief dish, whether a roast, fowl, or *shnits un knep*, was common
+property, and each, after helping himself, would break his bread into
+small pieces, and sop them in the gravy on the central dish, generally
+by means of a fork, though sometimes even with the fingers.
+
+Shnits un knep was prepared by first making small dough balls, or
+dumplings, of flour, and adding thereto a sufficient quantity of sliced,
+dried unpared apples, and a piece of meat. These, being deposited in a
+kettle, were covered with water and thoroughly boiled and then served in
+a large, deep plate.
+
+Saur kraut is now less extensively used. It is prepared by cutting the
+cabbage into slaw, which is then packed and stamped with salt in a tall
+wooden vessel termed a *shten'ner*. When filled, and the brine has
+formed, the mass is kept submerged by means of a piece of board and a
+heavy stone. The usual accompaniment to saur kraut was mashed potatoes,
+while apple-butter was eaten with the bread in the belief that the
+acidity of the former helped to neutralize the grease of the cabbage and
+meat and prevented liability to nausea from over-indulgence.
+
+The present writer has frequently been told of families who invariably
+had one of the children to press down the cabbage with the bare feet, as
+the kraut was, by this method, not so bruised as when stamped with a
+heavy wooden pestle.
+
+Hot boiled corn meal mush was often used at supper, and served in one
+large dish. Milk was poured over it, and each helped himself directly
+therefrom with his own spoon. At such times quarrels among the children
+frequently resulted on account of encroachments upon the recognized
+portion or space of a less rapid neighbor.
+
+Rye bread--*shwarts bröd* (black bread)--was generally used, wheaten
+bread--*wais bröd* (white bread)--being considered a luxury, and served
+only on Sunday or during the visit of friends.
+
+<span id="page_24">p. 24</span>
+
+The corn mills <span id="fr_9"></span>[1](#fn_9) used by the earliest
+settlers were but a slight improvement upon that of the aborigines, and
+the early erection of grist mills was considered with as much interest
+as the construction of houses of worship.
+
+The presence of visitors--generally on Sunday after church
+service--sometimes necessitated the opening of the parlor or best room,
+which under ordinary circumstances would remain with closed shutters and
+locked doors from one year's end to the other. There are many families
+even at the present day, both in the rural districts and in the towns,
+who never enter the parlor except upon similar occasions.
+
+The following signs are believed to foretell the coming of visitors:--
+
+If any one drop a fork at the table the visitor will be a man; if a
+knife, it signifies a woman (Fayette County).
+
+If a cock crows some one is coming; if two hens get to fighting the
+visitors will be women (Eastern Pennsylvania).
+
+If any one helps himself to food of which he still has some remaining
+upon his plate the visitor will be hungry.
+
+When the cat washes her face it signifies that visitors are coming. This
+is also a sign of clearing weather.
+
+There are certain days in the year for which special articles of food
+are prepared in accordance with time-honored customs. One of these is
+Shrove-Tuesday <span id="fr_10"></span>[2](#fn_10)--*Fās nacht*--when
+peculiarly shaped doughnuts are eaten. The custom appears to have
+originated in
+
+<span id="page_25">p. 25</span>
+
+\[paragraph continues\] England, where the eating of "pancakes" was an
+old one. A correspondent in the "Gentleman's Magazine" <span
+id="fr_11"></span>[1](#fn_11) respecting this practice says, "as the
+Romish religion has given way . . . yet the custom of ringing the great
+bell in our antient parish churches, at least in some of them, yet
+remains, and obtains in and about London the name of Pancake-bell;
+perhaps because, after the confession, it was customary for the several
+persons to dine on *pancakes* or *fritters*. Latter churches, indeed,
+have rejected that custom of ringing the bell on Shrove-Tuesday; but the
+usage of dining on *pancakes* or *fritters*, and such-like provision,
+still continues."
+
+Dances were held on Shrove-Tuesday "for a good yield of flax for that
+year," or, in other words, the host's crop of flax would be tall in
+proportion to the height to which the dancers raised their feet from the
+floor.
+
+The Easter breakfast usually consisted of eggs. Children received
+presents of dyed eggs, which they carried around to their friends,
+receiving others in exchange therefor. Sometimes to rabbits,--or
+hares,--made of canton flannel and stuffed with cotton or saw-dust, were
+given as presents. Children were told that the *Osh'ter hâs* laid these
+eggs in the nests which were previously arranged somewhere about the
+house, a practice similar to hanging up a stocking on Christmas
+Eve. <span id="fr_12"></span>[2](#fn_12)
+
+In the rural districts even at this day, pastry, cakes, and preserves
+are served at almost every meal, and if anything remains over it is
+served again and again at subsequent meals until it is consumed or unfit
+for use.
+
+Unusual quantities of pastry are prepared at various seasons, such as
+when an extra number of laborers are subsisted, during the harvest
+season, at "apple-butter boilings," quiltings, corn-huskings, and in
+case there is a funeral.
+
+Saturday was the cleaning-up day of the week, and although the custom of
+washing pavements was common, and still is so, the writer does not
+remember to have observed as much importance attached to this practice
+as stated by a writer in the "Gentleman's Magazine" <span
+id="fr_13"></span>[3](#fn_13) in the following words: "There is also
+another custom peculiar to the city of Philadelphia, and nearly allied
+to the former
+
+<span id="page_26">p. 26</span>
+
+\[paragraph continues\] \[white washing\]. I mean, that of *washing the
+pavement* before the doors every Saturday evening. I at first took this
+to be a regulation of the police; but, on further inquiry, I find it is
+a religious rite, preparatory to the Sabbath, and is, I believe, the
+only religious rite in which the numerous sectaries of this city
+perfectly agree. The ceremony begins about sunset, and continues till
+about ten or eleven at night. It is very difficult for a stranger to
+walk the streets on those evenings; he runs a continual risk of having a
+bucket of dirty water thrown against his legs: but a Philadelphian born
+is so much accustomed to the danger that he avoids it with surprising
+dexterity. It is from this circumstance that a Philadelphian may be
+known anywhere by his gait."
+
+In connection with the preceding may be mentioned the almost universal
+custom of white-washing. Fences, out-buildings, cellars, and in the
+houses of many the rooms, are white-washed at the approach of
+spring,--the period of house cleaning,--both for the purpose of
+cleanliness and appearance. In the publication just quoted <span
+id="fr_14"></span>[1](#fn_14) a writer makes mention of a custom which
+does not appear to be recognized at the present time. He says: "When a
+young couple are about to enter into the matrimonial state, a
+never-failing article in the marriage treaty is, that the lady shall
+have and enjoy the free and unmolested exercise of the right of
+*white-washing*, with all its ceremonials, privileges, and
+appurtenances. A young woman would forego the most advantageous
+connection, and even disappoint the warmest wish of her heart, rather
+than resign the invaluable right. There is no season of the year in
+which the lady may not claim her privilege, if she pleases; but the
+latter end of May is most generally fixed upon for the purpose." A
+lengthy and amusing description follows, noting the removal from the
+house of every article of furniture and ornament, when white-wash is
+spread over the walls, with a brush, and windows and floors scrubbed.
+
+As before stated, it is customary for the bride to receive from her
+parents or guardian a wedding outfit,--*haus shtai'er*,--consisting of
+household linen and other articles necessary to assist in furnishing a
+house. A case has just been decided in one of the courts in Pennsylvania
+in which the husband had brought suit against his wife's guardian in
+default of the latter furnishing the usual gift. The plaintiff was
+awarded the sum of one hundred and twenty-five dollars.
+
+Professional medical services were seldom demanded, as ordinary
+complaints were treated by the administration of infusions and
+decoctions of plants and roots collected and preserved for such purpose.
+
+Lying-in women were generally attended by an old woman of alleged
+
+<span id="page_27">p. 27</span>
+
+skill and experience; and numerous instances are known where no such
+assistance was at hand at the critical period and the patient
+successfully passed through it alone.
+
+Infants were disposed of by putting them into a cumbersome cradle,
+almost smothered in feather beds, and removed only when occasion
+demanded.
+
+Children were permitted to nurse at their mother's breast for a longer
+period than is now customary. One instance is known to the writer in
+which a boy of seven years of age daily earned this privilege by
+splitting the amount of kindling wood necessary for his mother's
+use. <span id="fr_15"></span>[1](#fn_15)
+
+The following superstitions relate to children:--
+
+The child will have the colic if the empty cradle is rocked.
+
+If any one step across a child it will cease to grow. <span
+id="fr_16"></span>[2](#fn_16)
+
+A cat, when left alone with an infant, will strangle it by sucking its
+breath.
+
+If a child be permitted to see its image in a mirror before it is one
+year of age it will become proud.
+
+In western counties the saying is that the child will be unlucky if
+allowed to see itself in a mirror before it is nine months old.
+
+A child will receive lofty thoughts if a louse is placed upon its head
+and it is carried to the upper story of the house, before it is nine
+days old (Fayette County).
+
+A more common practice is to put a silver spoon within a child's hand,
+and then carry the child to the attic. This must be done before the
+ninth day has passed. In some of the eastern counties the Bible is used
+instead of a spoon, and there are some persons who believe it of
+sufficient value to the child to merely mount a chair with it, or
+anything higher than the floor of the room in which it was born.
+
+To pare an infant's finger-nails may cause it to become a thief in after
+years.
+
+<span id="page_28">p. 28</span>
+
+The following superstitions pertain to children's complaints and the
+methods of treatment.
+
+Slabbering is cured by passing a live fish through the child's
+mouth. <span id="fr_17"></span>[1](#fn_17) This practice still obtains
+in Berks County.
+
+To cure pleurisy, pass the child beneath a table to an assistant. <span
+id="fr_18"></span>[2](#fn_18)
+
+It is necessary to state, in this connection, that pleurisy is believed
+to be caused by the attachment of the liver to the ribs; the cure being
+to break this adhesion by stretching the body. The disease is commonly
+known as liver grown--*â<sup>n</sup>'gewâk'sa*, lit., grown fast.
+
+A fretful baby is believed to long for something for which the mother
+herself had an ungratified desire previous to the infant's birth, The
+only remedy is to ascertain what this is, and to give the infant a taste
+of it.
+
+Incontinence of urine is cured by whipping the afflicted one with a
+*hud'l lum'ba*. This is a cloth used to remove ashes from the oven
+previous to depositing the bread for baking.
+
+When the patient reaches the age of adolescence the alleged relief is
+obtained by urinating into a newly made grave, the corpse must be of the
+opposite sex to that of the experimenter. <span
+id="fr_19"></span>[3](#fn_19)
+
+Blisters on the tongue (Stomatitis) are caused by telling fibs. When
+they show no disposition to leave, the following process is adopted:
+three small sticks are cut from a tree, each about the length of a
+finger and as thick as a pencil. These are inserted into the mouth and
+buried in a dunghill; the next day the operation is repeated, as well as
+on the third day, after which the three sets of sticks are allowed to
+remain in the manure, and as they decay the complaint will disappear.
+
+The following procedure for the cure of bronchitis is still practised in
+Berks County. Make a gimlet hole in the door frame at the exact height
+of the top of the patient's head, into which insert a small tuft of his
+hair and close the hole with a peg of wood, then cut off the projecting
+portion of the peg. As the patient grows in height beyond the peg, so
+will the disease be outgrown.
+
+To cure whooping-cough, administer milk stolen from a neighbor's cow.
+
+<span id="page_29">p. 29</span>
+
+A common remedy for croup is to administer a mixture of goose-grease and
+molasses, to induce emesis.
+
+One less frequently adopted for the same complaint is to make a poultice
+of grated poke-root and vinegar and apply to the feet.
+
+In Lehigh County the emetic for this purpose is prepared by boiling
+three (or five) onions until soft, and mixing the juice therefrom with
+honey.
+
+In Fayette County an emetic for croup is made by mixing urine and
+goose-grease and administering internally, and also rubbing some of the
+mixture over the breast and throat.
+
+For diphtheria a poultice consisting of the fresh excrement of a hog is
+worn about the neck for one night (Fayette County).
+
+A Lehigh County remedy for ordinary sore throat is made by boiling
+either three or five onions, pressing out the juice, and mixing it with
+strong sage tea; this is sweetened with brown sugar. Sometimes a small
+lump of butter is added while the decoction is still hot.
+
+A common practice for the same complaint is to turn a stocking wrong
+side out and wear it tied around the throat at night.
+
+For ordinary febrile complaints strawberry leaf tea is administered to
+produce diaphoresis. Elder-blossom tea is also given in fevers, and
+especially to hasten the eruption in measles and scarlatina.
+
+For measles, both mare's milk and a tea made of sheep cherries (*gen. et
+sp.?*) are given (Mr. Brown, Fayette County).
+
+To cure mumps, the swollen parts must be rubbed against such portion of
+a hog-trough as has been worn smooth by that animal.
+
+A decoction of dog-wood bark is given as a purgative to adults as well
+as to children. The same remedy, if properly prepared, is also taken to
+produce emesis. The belief pertaining to these properties and the
+special preparation of the bark is as follows: When the remedy is to act
+as an *emetic*, the bark is scraped from the branches from *below
+upward* when the sap is rising in the spring. This is put into boiling
+water and a strong decoction made, which, if taken internally, will
+readily produce the desired effect. If, however, a *purgative* is
+wanted, the bark must be scraped *downward*, in autumn, when the sap is
+believed *to run downward*. The scrapings must be put into a vessel of
+cold water and boiled for a considerable period of time. If sufficient
+be taken of the decoction, purging results.
+
+That the desired effect is generally attained by adults may appear
+singular, but it may readily be attributed to the will and conduct of
+the patient himself. The decoction, if taken as an emetic, is readily
+gotten rid of at the first indication of nausea, but when the purpose is
+to purge, the patient, with some effort on his part, retains the
+obnoxious mixture until it has passed beyond the control of the stomach
+into the intestines, when the desired result follows.
+
+<span id="page_30">p. 30</span>
+
+Household remedies, usually resorted to for the ailments of adults, will
+be treated of later.
+
+Several curious customs relating to death and burial are worthy of
+mention. A death was announced by tolling the church bell, the number of
+strokes corresponding to the age in years of the deceased. After a short
+interval the taps of the bell denoted the number of days that would
+elapse before the funeral.
+
+Immediately upon the death of a member of any household, the women of
+the neighborhood congregated and prepared for the funeral dinner. This
+was done to feed the friends and relatives who came from a distance.
+Pastry, cakes, fowl, and hams in great quantity were prepared, and
+previous to the departure of the funeral a lunch was handed round,
+followed by hot coffee, and frequently the bottle of whiskey. If it was
+known to the lovers of ardent spirits that the latter was to be had,
+there was frequently an unusual number of attendants at the funeral, and
+some of the mourners consequently failed to accompany the remains of the
+departed, preferring to await the return to the house of the funeral
+cortege.
+
+The regular dinner was then served, after which each one returned to his
+respective home With reference to the burial custom of the Moravians at
+Bethlehem, Mr. Rupp says: "The Corpse House, where, on the death of a
+member of the society, the corpse is deposited for three days, is worthy
+of a notice. When a death occurs, a part of the choir ascend the church
+cupola or steeple, where a requiem or funeral hymn is played for the
+departed, and the melancholy notes as they fall on the ear in a calm
+morning are peculiarly solemn and impressive. The body on the third day
+is removed from the corpse house, the mourners place themselves around
+it, and after several strains of solemn music, the procession forms a
+line of march to the grave, preceded by the band, still playing, which
+is continued some time after the coffin is deposited." <span
+id="fr_20"></span>[1](#fn_20)
+
+Coffins were made of walnut or stained wood. Hearses were rarely used,
+the coffin being placed upon the floor of a large wagon with chairs
+around it for the chief mourners, the children generally sitting upon
+the coffin itself.
+
+The eyes of the corpse were closed by placing copper cents upon them,
+and a small piece of linen with embroidered edges, called a *shwēs duch*
+(sweat cloth), covered the entire face until the day of the funeral,
+when both the coppers and the cloth were deposited inside the coffin and
+buried with the body.
+
+Upon the death of any inmate of a house the mirrors are turned round so
+as to face the wall, otherwise the first person to see his image in any
+one of them will be sure to die within a year.
+
+<span id="page_31">p. 31</span>
+
+If any one wear crêpe when not in mourning, his or her death is sure to
+follow. <span id="fr_21"></span>[1](#fn_21)
+
+The chirping in the house of a cricket, or the clicking of a deathwatch,
+foretell the death of one of the inmates. When horses in pasture are
+seen running and playing, it is a sign that a funeral will soon be seen.
+
+That a dog howling at night should be a presage of death is a
+superstition of almost world-wide belief, and is abundantly observed in
+classic literature. <span id="fr_22"></span>[2](#fn_22)
+
+A white Christmas makes a full graveyard. <span
+id="fr_23"></span>[3](#fn_23)
+
+When apple-trees bloom out of season it is an omen of death to some one
+connected with the household.
+
+If any one suffering from corns takes a small piece of cotton, rubs it
+over the offenders and hides it, unobserved, with a body about to be
+buried, the corns will leave him.
+
+If the hand of a corpse be rubbed over a goitre the afflicted may be
+certain of recovery.
+
+Under-garments cut out on Friday are sure to be used for a corpse.
+
+It is unlucky to undertake a journey on Friday.
+
+A piece of work begun on Friday will not be finished by the cutter;
+death is sure to follow.
+
+The custom of casting stones on the graves of suicides, those who had
+met with a violent death, or bodies buried in canny places or in
+unconsecrated ground, was extensively practised until a very recent
+period, if, indeed, it does not still survive. Any passer-by who
+neglected to throw a stone upon such a grave was in imminent danger of
+meeting with the spirit of the departed, and the consequences were
+believed to be most unfortunate.
+
+Many of the more ignorant and superstitious classes firmly believe that
+nightmare, ghostly manifestations, and similar evidences of uncanny
+doings are often the direct doings of witches. Nightmare can sometimes
+be caught, <span id="fr_24"></span>[4](#fn_24) as is illustrated by the
+following instance. A hostler in the service of the writer's father
+frequently suffered from nightmare, and to secure the intruder he
+procured a small phial which he placed within easy reach of his bed.
+After two or
+
+<span id="page_32">p. 32</span>
+
+three nights the nightmare was caught and bottled, and destroyed by
+burning. This was stated to have been the spirit of a black cat, under
+control of a witch with whom the hostler had had a previous
+misunderstanding.
+
+When one awakes in the morning feeling very tired, the witches have been
+riding him all night.
+
+Witches are supposed to acquire influence over any one by becoming
+possessed of anything belonging to the intended victim, such as a hair,
+a piece of wearing apparel, or a pin. The influence acquired by the
+witch is greater if such an article be voluntarily or unconsciously
+handed to her by the person asked for it.
+
+A witch can be disabled by securing a hair of her head, wrapping it in a
+piece of paper, and placing it against a tree as a target into which a
+silver bullet is to be fired from a gun.
+
+The following instance was said to have occurred many years ago in
+northern Lehigh County. A vicious black sow was frequently encountered
+by people on the highway, but no one knew to whom the animal belonged.
+One day, as the sow became too aggressive in pursuit of its victim, the
+person thus annoyed picked up a heavy piece of wood and threw it,
+breaking one of the animal's legs.
+
+It was learned subsequently that a witch living in that neighborhood had
+broken her leg at the same day and hour, and it was firmly believed that
+the witch and the animal--which was never encountered afterwards--were
+one and the same.
+
+Among the German settlers no trial of witches, by ordeal or otherwise,
+was practised, and the following was probably instituted by the English
+colonists, with whom this process was in vogue in other portions of the
+early settlements. The following appears in the "Gentleman's Magazine"
+(January, 1731, i. p. 29): "From Burlington, in Pennsylvania, 't is
+advised that the owners of several cattle, believing them to be
+bewitched, caused some suspected men and women to be taken up, and
+trials to be made for detecting 'em. About three hundred people
+assembled near the governor's house, and a pair of scales being erected,
+the suspected persons were each weighed against a large Bible, but all
+of them outweighing it: the accused were then tied head and feet
+together, and put into a river, on supposition that if they swam they
+must be guilty. This they offered to undergo in case the accuser should
+be served in the like manner; which being done, they all swam very
+buoyant, and cleared the accused."
+
+The following is the only instance with which the writer has become
+acquainted where the power of transforming human beings has been
+accredited to witches. Although the circumstances are said to have
+occurred during the early part of the present century,
+
+<span id="page_33">p. 33</span>
+
+they are still mentioned as inexplicable and supernatural by the present
+residents. The story, in brief, is as follows: Near Trexlertown, Lehigh
+County, dwelt a farmer named Weiler. His wife and three daughters had by
+some means or other incurred the enmity of a witch who lived but a short
+distance away, when the latter, it is supposed, took her revenge in the
+following manner. Whenever visitors came to the Weiler residence, the
+girls, without any premonition whatever, would suddenly be changed into
+snakes, and after crawling back and forth along the top ridge of the
+wainscoting for several minutes they were restored to their natural
+form. These curious transformations occurred quite frequently, and the
+circumstance soon attained widespread notoriety. About the end of the
+third month the spell was broken and everything went on as before.
+
+Of the many ghost stories still related, and generally believed, a great
+portion appear to relate to boundary lines, and corner stones marking
+land limits, about which there had been altercations during the life of
+the principals. In some of these the luminous outline of a human form
+will be seen, in others only the voice is heard, while in others, still,
+fiery balls are observed flying through the air and following the true
+boundary lines.
+
+It is related that a miserly fellow formerly lived near Tulpehocken,
+Berks County, who during his lifetime had been suspected of removing the
+"line stones," marking the boundaries of his land, so as to encroach
+upon that of his neighbors.
+
+Shortly after the death of this individual vague rumors were spread
+respecting ghostly visitations about the old house and along the borders
+of the farm. People gathered each evening after sunset to watch for the
+luminous ghost as it flitted from one corner of the lot to another,
+apparently searching for something, but upon the nearer approach of one
+of the bolder visitors he saw that it carried a stone, frequently
+uttering the words,
+
+Wu sol ich den shte<sup>n</sup> hi<sup>n</sup> du<sup>n</sup>? (Where
+shall I put this stone?) The remainder of the party observing no harm
+done to the first one to approach gradually came up so as to be as close
+as was deemed safe. A half-witted fellow who was in the party finally
+approached the apparition, and upon hearing the words uttered
+immediately responded, *Wai, du ferdam'ter nar, du 'n hi<sup>n</sup> wu
+d'n grikt hosht*. (Why you d-----d fool, put it where you got it.)
+Whereupon the stone was seen to drop and the apparition was not observed
+again.
+
+It was believed by the superstitious neighbors that the miser's soul
+could not rest in peace until directed by a mortal what to do, hence the
+immediate effect upon the response of the yokel.
+
+Many years ago there lived in that portion of Northampton County--known
+as the Settlement, *In'sha land* (Indian land)--two
+
+<span id="page_34">p. 34</span>
+
+men of selfish nature, and whose farms unfortunately joined. Strife was
+kept up on account of one of them attempting to remove the corner stones
+which had been placed to mark the limits of the farms as well as the
+dividing line. Matters grew worse and worse, and the decisions of the
+courts failed to produce either harmony or a satisfactory adjustment of
+affairs, when it was announced by the gossips that the farmers had
+decided to fight out their differences with "fire and brimstone in the
+hereafter."
+
+Death put an end to their earthly dissensions, but the report spread
+that at certain times during the night could be heard the clanking of
+chains and the swift passage of fiery balls to and fro along the
+dividing line of the farms. Occasionally the balls of fire would come in
+contact, when there would be heard hissing sounds, and innumerable
+sparks of fire would dart out in all directions while the balls
+ascended, as if in conflict, and finally return toward the ground to
+continue their course up and down the old line of dispute.
+
+The superstitious ones were, naturally, the only ones who were favored
+with these fiery demonstrations of conflict, and after a few years of
+fear and speculation as to the nature of the visions their curiosity
+subsided and the alleged occurrences ceased.
+
+Many years ago there dwelt in the northern portion of Northampton County
+a man named Kern, who was close and exacting in all transactions with
+his neighbors. He became very much disliked, and was shunned as much as
+possible by those with whom he chanced to come in contact. "Old Kern,"
+as he was usually designated, died, and but a short time elapsed before
+rumors of uncanny things began to be heard. Mrs. Kern was alarmed
+previous to her husband's death by having crows come to the kitchen
+window at night, and pecking against the panes of glass. This statement,
+originating in the house and coupled with subsequent reports, lent new
+interest and firm belief in the impression that "Old Kern" had been
+called to the nether regions, or that the Devil had requested his
+presence elsewhere.
+
+The statements made by neighbors were, that every night there was heard
+the sound of heavy footsteps going up and down stairs, mysterious
+knockings were frequently detected, but the most annoying of all was the
+opening and closing of doors, as if by some unseen hands; and no matter
+how securely the latches had been fastened, the doors still persisted in
+swinging open the moment the watchers had gotten back into bed.
+
+Difficulty was experienced in retaining friends to sleep in the house as
+company for the relict of "Old Kern." Acquaintances were sent for who
+remained one or two nights, but could not be induced to tarry in the
+house a longer period. Finally, several young
+
+<span id="page_35">p. 35</span>
+
+men, brothers, <span id="fr_25"></span>[1](#fn_25) were induced to come
+into the house, both as a favor to Mrs. Kern and for the purpose chiefly
+of ascertaining the cause of the mysterious manifestations. They sat up,
+for nights at a time, or remained awake in the bed, which was so placed
+as to permit them to observe any trickery or connivance with outside
+parties, but in each instance of door-opening, window-rappings, etc.,
+they failed to detect anything which would serve as a clue toward a
+solution of the disturbances.
+
+This state of things continued for a long time. No one would take
+possession of the house after Mrs. Kern was compelled to vacate it for
+her own peace of mind, and the writer is unable to learn how long these
+visitations and rappings were continued.
+
+Old or deserted lime-kilns are generally accredited as being the abode
+of ghosts, usually the spirits of "murdered peddlers," or those who are
+known to have met with a violent death upon the highway. Such localities
+are avoided by pedestrians after nightfall.
+
+Still another form of unearthly visitors is found in marshy ground and
+damp wood, for example the will-o'-the-wisp. This is called a
+*drach*--dragon--and is supposed to follow the timid. Numerous instances
+of narrow escapes are related.
+
+W. J. Hoffman, M. D.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_8"></span>[23:1](fpg02.htm#fr_8) *Journal of American
+Folk-Lore*, vol. i. p. 125 et seq.
+
+<span id="fn_9"></span>[24:1](fpg02.htm#fr_9) One of the earliest forms
+of home-made mills was observed in a private collection in Nazareth, Pa.
+It had been found in Monroe County, on the northern side of the Blue
+Mountains, and consisted of grayish, compact sandstone. In shape it
+resembled a truncated pyramid with rounded corners, measuring about two
+and a half feet high, two feet across the top and a little less than
+three feet in diameter at the base. A circular opening extended from the
+middle of the top surface to within eight inches of the base; the
+opening being about six inches in diameter but rapidly narrowing to four
+inches a short distance from the top, when it again expanded and formed
+a rounded bottom, the whole cavity resembling an urn in contour. From
+the bottom of this an opening of two inches in diameter communicated
+with a square cavity in the base, opening on one side, from which the
+meal could be removed as it accumulated in grinding.
+
+The "grinder" or pestle consisted of a cylindrical stone which closely
+fitted into the top orifice, its weight crushing the grains as they
+passed beneath it. The upper extremity of the pestle was squared,
+probably for the attachment of a long piece of wood with which to turn
+it. Twelve years later--in 1885--the writer saw a similar relic used as
+a carriage stepping-stone in the yard of a gentleman residing near
+Liberty, Southwestern Virginia, a region which was early penetrated by
+German colonists, descendants of whom are still to be found in that
+vicinity.
+
+<span id="fn_10"></span>[24:2](fpg02.htm#fr_10) *Shrive* is an old Saxon
+word (of which Shrove is a corruption), and signifies confession. Hence
+*Shrove-Tuesday* signifies Confession-Tuesday. *Gentleman's Magazine*,
+1790, p. 495.
+
+<span id="fn_11"></span>[25:1](fpg02.htm#fr_11) 1790, p. 495.
+
+<span id="fn_12"></span>[25:2](fpg02.htm#fr_12) The-belief that the hare
+lays the Easter-eggs is a singular one, and an explanation is offered by
+a writer in the *Folk-Lore Journal* (London, i. 1883, p. 123), as
+follows: "Originally the hare seems to have been a bird which the
+ancient Teutonic goddess Ostara (the Anglo-Saxon Eàstre or Eostre, as
+Bede calls her) transformed into a quadruped. For this reason the hare,
+in grateful recollection of its former quality as a bird and swift
+messenger of the Spring-Goddess, is able to lay eggs on her festival at
+Easter-time."
+
+<span id="fn_13"></span>[25:3](fpg02.htm#fr_13) 1821, p. 401
+
+<span id="fn_14"></span>[26:1](fpg02.htm#fr_14) Gentleman's Magazine,
+pt. I. 1821, pp. 399, 400.
+
+<span id="fn_15"></span>[27:1](fpg02.htm#fr_15) A parallel instance of
+an amusing character is given by Dr. Fredrich Krause in his *Sitte und
+Brauch der Südslaven* (Wien, 1885, p. 544, 545), where, in treating of
+the Southern Slavs he says: Jede Mutter nährt ihr Kind allein, und zwar
+reiht sie ihm so lange die Brust, bis sie ein zweites Kind gebärt. Das
+letzte Kind einer Mutter säugt oft viele Jahre au der Mutterbrust. Vor
+einigen sechzehn Jahren sah ich, wie ein sechsjähriger, ausgewachsener
+Junge noch säugte. Es war im Kaptol bei Požega. Das Bürschlein war
+Schweinetreiber. Früh Morgens wurden die Schweine aus der Hürde
+herausgelassen. Grunzend und einander herumstossend liefen sic im
+Gehöfte herum. Da rief jenes Burschlein: 'Majo, dader sise!'
+(Mütterchen, gib mir die Brust!) Darauf setzte sich seine Mutter, eine
+ältliche Bäuerin, auf die Thürschwelle, und der Junge nahm sein
+Frühstück ein."
+
+<span id="fn_16"></span>[27:2](fpg02.htm#fr_16) The Magyar superstition
+is, furthermore, that the danger may be averted by stepping over the
+child again in the opposite direction. *Folk-Lore Journal* (London), i.
+1883, p. 355.
+
+<span id="fn_17"></span>[28:1](fpg02.htm#fr_17) According to a
+correspondent of *Notes and Queries*, London, 5th ser. vol. ix. p. 64, a
+fish was thrust into the throat of a child suffering from
+whooping-cough. This occurred near Philadelphia, in 1875.
+
+<span id="fn_18"></span>[28:2](fpg02.htm#fr_18) In Lochee, Scotland, the
+child is passed under the belly of a donkey to cure whooping-cough.
+*Folk-Lore Journal* (London), i. 1883, p. 30.
+
+<span id="fn_19"></span>[28:3](fpg02.htm#fr_19) An instance of the last
+named method occurred at Washington, D. C., two years ago, though with
+unknown result, as the patient was startled at the unexpected appearance
+of the funeral and fell into the grave, when, after her extrication
+therefrom, she ran away.
+
+<span id="fn_20"></span>[30:1](fpg02.htm#fr_20) *History of Northampton,
+Lehigh . . . Counties*, Harrisburg, 1845, p. 81.
+
+<span id="fn_21"></span>[31:1](fpg02.htm#fr_21) The same belief is
+entertained by the Magyars. *Folk-Lore Journal*, London, i. 1883, p.
+356.
+
+<span id="fn_22"></span>[31:2](fpg02.htm#fr_22) Among many of our Indian
+tribes the red fox is looked upon as being endowed with impressions of
+future calamity.
+
+<span id="fn_23"></span>[31:3](fpg02.htm#fr_23) In the northern
+countries of England and the borders, the same idea occurs as "a green
+yule makes a fat kirk-yard." *Notes on the Folk-Lore of the Northern
+Counties*, etc. (Folk-Lore Soc. Pub.), Lond., 1879, p. 75.
+
+<span id="fn_24"></span>[31:4](fpg02.htm#fr_24) The German nightmare is
+caught by stopping up the hole through which it entered.
+
+<span id="fn_25"></span>[35:1](fpg02.htm#fr_25) One of whom is a
+prominent physician in Pennsylvania, and who gave me the details of the
+story.

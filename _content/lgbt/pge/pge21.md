@@ -1,0 +1,108 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge20) 
+[Next](pge22) 
+
+------------------------------------------------------------------------
+
+### XIX.
+
+Sexual inversion among Greek women offers more difficulties than we met
+with in the study of paiderastia. This is due, not to the absence of the
+phenomenon, but to the fact that feminine homosexual passions were never
+worked into the social system, never became educational and military
+agents. The Greeks accepted the fact that certain females are
+congenitally indifferent to the male sex, and appetitive of their own
+sex. This appears from the myth of Aristophanes in Plato's *Symposium*,
+which expresses in comic form their theory of sexual differentiation.
+There were originally human beings of three sexes: men, the offspring of
+the sun; women, the offspring of the earth; hermaphrodites, the
+offspring of the moon. They were round with two faces, four hands, four
+feet, and two sets of reproductive organs apiece. In the case of the
+third (hermaphroditic or lunar) sex, one set of reproductive organs was
+male, the other female. Zeus, on account of the insolence and vigour of
+these primitive human creatures, sliced them into halves. Since that
+time the halves of each sort have always striven to unite with their
+corresponding halves, and have found some satisfaction in carnal
+congress--males with males, females with females, and (in the case of
+the lunar or hermaphroditic creatures) males and females with one
+another. Philosophically, then, the homosexual passion of female for
+
+<span id="page_71">p. 71</span>
+
+female, and of male for male, was placed upon exactly the same footing
+as the heterosexual passion of each sex for its opposite. Greek logic
+admitted the homosexual female to equal rights with the homosexual male,
+and both to the same natural freedom as heterosexual individuals of
+either species.
+
+Although this was the position assumed by philosophers, Lesbian passion,
+as the Greeks called it, never obtained the same social sanction as
+boy-love. It is significant that Greek mythology offers no legends of
+the goddesses parallel to those which consecrated paiderastia among the
+male deities. Again, we have no recorded example, so far as I can
+remember, of noble friendships between women rising into political and
+historical prominence. There are no female analogies to Harmodius and
+Aristogeiton, Cratinus and Aristodemus. It is true that Sappho and the
+Lesbian poetesses gave this female passion an eminent place in Greek
+literature. But the Æolian women did not found a glorious tradition
+corresponding to that of the Dorian men. If homosexual love between
+females assumed the form of an institution at one moment in Æolia, this
+failed to strike roots deep into the subsoil of the nation. Later
+Greeks, while tolerating, regarded it rather as an eccentricity of
+nature, or a vice, than as an honourable and socially useful emotion.
+The condition of women in ancient Hellas sufficiently accounts for the
+result. There was no opportunity in the harem or the zenana of raising
+homosexual passion to the same moral and spiritual efficiency as it
+obtained in the camp, the palæstra, and the schools of the philosophers.
+Consequently, while the Greeks utilised and ennobled boy-love, they left
+Lesbian love to follow the same course of degeneracy as it pursues in
+modern times.
+
+In order to see how similar the type of Lesbian love in ancient Greece
+was to the form which it assumed in modern Europe, we have only to
+compare Lucian's Dialogues with Parisian tales by Catulle Mendès or Guy
+de Maupassant. The woman who seduces the girl she loves, is, in the
+girl's phrase, "over-masculine," "androgynous." The Megilla of Lucian
+insists upon being called Megillos. The girl is a weaker vessel, pliant,
+submissive to the virago's sexual energy, selected from the class of
+meretricious *ingénues*.
+
+There is an important passage in the *Amores* of Lucian which proves
+that the Greeks felt an abhorrence of sexual inversion among women
+similar to that which moderns feel for its manifestation among men.
+Charicles, who supports the cause of normal heterosexual passion, argues
+after this wise:
+
+<span id="page_72">p. 72</span>
+
+"If you concede homosexual love to males, you must in justice grant the
+same to females; you will have to sanction carnal intercourse between
+them; monstrous instruments of lust will have to be permitted, in order
+that their sexual congress may be carried out; that obscene vocable,
+tribad, which so rarely offends our ears--I blush to utter it--will
+become rampant, and Philænis will spread androgynous orgies throughout
+our harems."
+
+What these monstrous instruments of lust were may be gathered from the
+sixth mime of Herodas, where one of them is described in detail.
+Philænis may, perhaps, be the poetess of an obscene book on sensual
+refinements, to whom [Athenæus](errata.htm#7) alludes (*Deinosophistæ*,
+viii, 335). It is also possible that Philænis had become the common
+designation of a Lesbian lover, a tribad. In the later periods of Greek
+literature, as I have elsewhere shown, certain fixed masks of Attic
+comedy (corresponding to the masks of the Italian *Commedia dell’ Arte*)
+created types of character under conventional names--so that, for
+example, Cerdo became a cobbler, Myrtalë a common whore, and possibly
+Philænis a Lesbian invert.
+
+The upshot of this parenthetic, al investigation is to demonstrate that,
+while the love of Males for males in Greece obtained moralisation, and
+reached the high position of a recognised social function, the love of
+female for female remained undeveloped and unhonoured, on the same level
+as both forms of homosexual passion in the, modern European world are.
+
+------------------------------------------------------------------------
+
+[Next: XX. Greek love did not exist at
+Rome--Christianity--Chivalry](pge22)

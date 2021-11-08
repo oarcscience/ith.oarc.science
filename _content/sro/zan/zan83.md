@@ -1,0 +1,358 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[Index](index)  [Previous](zan82)  [Next](zan84) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+### CHAPTER XV.
+
+     Il ne veulent plus perdre un moment d'une nuit si precieuse.  
+     Lacretelle, tom. xii.
+
+     (They would not lose another moment of so precious a night.)
+
+It was late that night, and Rene-Francois Dumas, President of the
+Revolutionary Tribunal, had re-entered his cabinet, on his return from
+the Jacobin Club. With him were two men who might be said to represent,
+the one the moral, the other the physical force of the Reign of Terror:
+Fouquier-Tinville, the Public Accuser, and Francois Henriot, the General
+of the Parisian National Guard. This formidable triumvirate were
+assembled to debate on the proceedings of the next day; and the three
+sister-witches over their hellish caldron were scarcely animated by a
+more fiend-like spirit, or engaged in more execrable designs, than these
+three heroes of the Revolution in their premeditated massacre of the
+morrow.
+
+Dumas was but little altered in appearance since, in the earlier part of
+this narrative, he was presented to the reader, except that his manner
+was somewhat more short and severe, and his eye yet more restless. But
+he seemed almost a superior being by the side of his associates. Rene
+Dumas, born of respectable parents, and well educated, despite his
+ferocity, was not without a certain refinement, which perhaps rendered
+him the more acceptable to the precise and formal Robespierre. (Dumas
+was a beau in his way. His gala-dress was a BLOOD-RED COAT, with the
+finest ruffles.) But Henriot had been a lackey, a thief, a spy of the
+police; he had drunk the blood of Madame de Lamballe, and had risen to
+his present rank for no quality but his ruffianism; and
+Fouquier-Tinville, the son of a provincial agriculturist, and afterwards
+a clerk at the Bureau of the Police, was little less base in his
+manners, and yet more, from a certain loathsome buffoonery, revolting in
+his speech,—bull-headed, with black, sleek hair, with a narrow and livid
+forehead, with small eyes, that twinkled with a sinister malice;
+strongly and coarsely built, he looked what he was, the audacious bully
+of a lawless and relentless Bar.
+
+Dumas trimmed the candles, and bent over the list of the victims for the
+morrow.
+
+"It is a long catalogue," said the president; "eighty trials for one
+day! And Robespierre's orders to despatch the whole fournee are
+unequivocal."
+
+"Pooh!" said Fouquier, with a coarse, loud laugh; "we must try them en
+masse. I know how to deal with our jury. 'Je pense, citoyens, que vous
+etes convaincus du crime des accuses?' (I think, citizens, that you are
+convinced of the crime of the accused.) Ha! ha!—the longer the list, the
+shorter the work."
+
+"Oh, yes," growled out Henriot, with an oath,—as usual, half-drunk, and
+lolling on his chair, with his spurred heels on the table,—"little
+Tinville is the man for despatch."
+
+"Citizen Henriot," said Dumas, gravely, "permit me to request thee to
+select another footstool; and for the rest, let me warn thee that
+to-morrow is a critical and important day; one that will decide the fate
+of France."
+
+"A fig for little France! Vive le Vertueux Robespierre, la Colonne de la
+Republique! (Long life to the virtuous Robespierre, the pillar of the
+Republic!) Plague on this talking; it is dry work. Hast thou no eau de
+vie in that little cupboard?"
+
+Dumas and Fouquier exchanged looks of disgust. Dumas shrugged his
+shoulders, and replied,—
+
+"It is to guard thee against eau de vie, Citizen General Henriot, that I
+have requested thee to meet me here. Listen if thou canst!"
+
+"Oh, talk away! thy metier is to talk, mine to fight and to drink."
+
+"To-morrow, I tell thee then, the populace will be abroad; all factions
+will be astir. It is probable enough that they will even seek to arrest
+our tumbrils on their way to the guillotine. Have thy men armed and
+ready; keep the streets clear; cut down without mercy whomsoever may
+obstruct the ways."
+
+"I understand," said Henriot, striking his sword so loudly that Dumas
+half-started at the clank,—"Black Henriot is no 'Indulgent.'"
+
+"Look to it, then, citizen,—look to it! And hark thee," he added, with a
+grave and sombre brow, "if thou wouldst keep thine own head on thy
+shoulders, beware of the eau de vie."
+
+"My own head!—sacre mille tonnerres! Dost thou threaten the general of
+the Parisian army?"
+
+Dumas, like Robespierre, a precise atrabilious, and arrogant man, was
+about to retort, when the craftier Tinville laid his hand on his arm,
+and, turning to the general, said, "My dear Henriot, thy dauntless
+republicanism, which is too ready to give offence, must learn to take a
+reprimand from the representative of Republican Law. Seriously, mon
+cher, thou must be sober for the next three or four days; after the
+crisis is over, thou and I will drink a bottle together. Come, Dumas
+relax thine austerity, and shake hands with our friend. No quarrels
+amongst ourselves!"
+
+Dumas hesitated, and extended his hand, which the ruffian clasped; and,
+maudlin tears succeeding his ferocity, he half-sobbed, half-hiccoughed
+forth his protestations of civism and his promises of sobriety.
+
+"Well, we depend on thee, mon general," said Dumas; "and now, since we
+shall all have need of vigour for to-morrow, go home and sleep soundly."
+
+"Yes, I forgive thee, Dumas,—I forgive thee. I am not vindictive,—I! but
+still, if a man threatens me; if a man insults me—" and, with the quick
+changes of intoxication, again his eyes gleamed fire through their foul
+tears. With some difficulty Fouquier succeeded at last in soothing the
+brute, and leading him from the chamber. But still, as some wild beast
+disappointed of a prey, he growled and snarled as his heavy tread
+descended the stairs. A tall trooper, mounted, was leading Henriot's
+horse to and fro the streets; and as the general waited at the porch
+till his attendant turned, a stranger stationed by the wall accosted
+him:
+
+"General Henriot, I have desired to speak with thee. Next to
+Robespierre, thou art, or shouldst be, the most powerful man in France."
+
+"Hem!—yes, I ought to be. What then?—every man has not his deserts!"
+
+"Hist!" said the stranger; "thy pay is scarcely suitable to thy rank and
+thy wants."
+
+"That is true."
+
+"Even in a revolution, a man takes care of his fortunes!"
+
+"Diable! speak out, citizen."
+
+"I have a thousand pieces of gold with me,—they are thine, if thou wilt
+grant me one small favour."
+
+"Citizen, I grant it!" said Henriot, waving his hand majestically. "Is
+it to denounce some rascal who has offended thee?"
+
+"No; it is simply this: write these words to President Dumas, 'Admit the
+bearer to thy presence; and, if thou canst, grant him the request he
+will make to thee, it will be an inestimable obligation to Francois
+Henriot.'" The stranger, as he spoke, placed pencil and tablets in the
+shaking hands of the soldier.
+
+"And where is the gold?"
+
+"Here."
+
+With some difficulty, Henriot scrawled the words dictated to him,
+clutched the gold, mounted his horse, and was gone.
+
+Meanwhile Fouquier, when he had closed the door upon Henriot, said
+sharply, "How canst thou be so mad as to incense that brigand? Knowest
+thou not that our laws are nothing without the physical force of the
+National Guard, and that he is their leader?"
+
+"I know this, that Robespierre must have been mad to place that drunkard
+at their head; and mark my words, Fouquier, if the struggle come, it is
+that man's incapacity and cowardice that will destroy us. Yes, thou
+mayst live thyself to accuse thy beloved Robespierre, and to perish in
+his fall."
+
+"For all that, we must keep well with Henriot till we can find the
+occasion to seize and behead him. To be safe, we must fawn on those who
+are still in power; and fawn the more, the more we would depose them. Do
+not think this Henriot, when he wakes to-morrow, will forget thy
+threats. He is the most revengeful of human beings. Thou must send and
+soothe him in the morning!"
+
+"Right," said Dumas, convinced. "I was too hasty; and now I think we
+have nothing further to do, since we have arranged to make short work
+with our fournee of to-morrow. I see in the list a knave I have long
+marked out, though his crime once procured me a legacy,—Nicot, the
+Hebertist."
+
+"And young Andre Chenier, the poet? Ah, I forgot; we be headed HIM
+to-day! Revolutionary virtue is at its acme. His own brother abandoned
+him." (His brother is said, indeed, to have contributed to the
+condemnation of this virtuous and illustrious person. He was heard to
+cry aloud, "Si mon frere est coupable, qu'il perisse" (If my brother be
+culpable, let him die). This brother, Marie-Joseph, also a poet, and the
+author of "Charles IX.," so celebrated in the earlier days of the
+Revolution, enjoyed, of course, according to the wonted justice of the
+world, a triumphant career, and was proclaimed in the Champ de Mars "le
+premier de poetes Francais," a title due to his murdered brother.)
+
+"There is a foreigner,—an Italian woman in the list; but I can find no
+charge made out against her."
+
+"All the same we must execute her for the sake of the round number;
+eighty sounds better than seventy-nine!"
+
+Here a huissier brought a paper on which was written the request of
+Henriot.
+
+"Ah! this is fortunate," said Tinville, to whom Dumas chucked the
+scroll,—"grant the prayer by all means; so at least that it does not
+lessen our bead-roll. But I will do Henriot the justice to say that he
+never asks to let off, but to put on. Good-night! I am worn out—my
+escort waits below. Only on such an occasion would I venture forth in
+the streets at night." (During the latter part of the Reign of Terror,
+Fouquier rarely stirred out at night, and never without an escort. In
+the Reign of Terror those most terrified were its kings.) And Fouquier,
+with a long yawn, quitted the room.
+
+"Admit the bearer!" said Dumas, who, withered and dried, as lawyers in
+practice mostly are, seemed to require as little sleep as his
+parchments.
+
+The stranger entered.
+
+"Rene-Francois Dumas," said he, seating himself opposite to the
+president, and markedly adopting the plural, as if in contempt of the
+revolutionary jargon, "amidst the excitement and occupations of your
+later life, I know not if you can remember that we have met before?"
+
+The judge scanned the features of his visitor, and a pale blush settled
+on his sallow cheeks, "Yes, citizen, I remember!"
+
+"And you recall the words I then uttered! You spoke tenderly and
+philanthropically of your horror of capital executions; you exulted in
+the approaching Revolution as the termination of all sanguinary
+punishments; you quoted reverently the saying of Maximilien Robespierre,
+the rising statesman, 'The executioner is the invention of the tyrant:'
+and I replied, that while you spoke, a foreboding seized me that we
+should meet again when your ideas of death and the philosophy of
+revolutions might be changed! Was I right, Citizen Rene-Francois Dumas,
+President of the Revolutionary Tribunal?"
+
+"Pooh!" said Dumas, with some confusion on his brazen brow, "I spoke
+then as men speak who have not acted. Revolutions are not made with
+rose-water! But truce to the gossip of the long-ago. I remember, also,
+that thou didst then save the life of my relation, and it will please
+thee to learn that his intended murderer will be guillotined to-morrow."
+
+"That concerns yourself,—your justice or your revenge. Permit me the
+egotism to remind you that you then promised that if ever a day should
+come when you could serve me, your life—yes, the phrase was, 'your
+heart's blood'—was at my bidding. Think not, austere judge, that I come
+to ask a boon that can affect yourself,—I come but to ask a day's
+respite for another!"
+
+"Citizen, it is impossible! I have the order of Robespierre that not one
+less than the total on my list must undergo their trial for to-morrow.
+As for the verdict, that rests with the jury!"
+
+"I do not ask you to diminish the catalogue. Listen still! In your
+death-roll there is the name of an Italian woman whose youth, whose
+beauty, and whose freedom not only from every crime, but every tangible
+charge, will excite only compassion, and not terror. Even YOU would
+tremble to pronounce her sentence. It will be dangerous on a day when
+the populace will be excited, when your tumbrils may be arrested, to
+expose youth and innocence and beauty to the pity and courage of a
+revolted crowd."
+
+Dumas looked up and shrunk from the eye of the stranger.
+
+"I do not deny, citizen, that there is reason in what thou urgest. But
+my orders are positive."
+
+"Positive only as to the number of the victims. I offer you a substitute
+for this one. I offer you the head of a man who knows all of the very
+conspiracy which now threatens Robespierre and yourself, and compared
+with one clew to which, you would think even eighty ordinary lives a
+cheap purchase."
+
+"That alters the case," said Dumas, eagerly; "if thou canst do this, on
+my own responsibility I will postpone the trial of the Italian. Now name
+the proxy!"
+
+"You behold him!"
+
+"Thou!" exclaimed Dumas, while a fear he could not conceal betrayed
+itself through his surprise. "Thou!—and thou comest to me alone at
+night, to offer thyself to justice. Ha!—this is a snare. Tremble,
+fool!—thou art in my power, and I can have BOTH!"
+
+"You can," said the stranger, with a calm smile of disdain; "but my life
+is valueless without my revelations. Sit still, I command you,—hear me!"
+and the light in those dauntless eyes spell-bound and awed the judge.
+"You will remove me to the Conciergerie,—you will fix my trial, under
+the name of Zanoni, amidst your fournee of to-morrow. If I do not
+satisfy you by my speech, you hold the woman I die to save as your
+hostage. It is but the reprieve for her of a single day that I demand.
+The day following the morrow I shall be dust, and you may wreak your
+vengeance on the life that remains. Tush! judge and condemner of
+thousands, do you hesitate,—do you imagine that the man who voluntarily
+offers himself to death will be daunted into uttering one syllable at
+your Bar against his will? Have you not had experience enough of the
+inflexibility of pride and courage? President, I place before you the
+ink and implements! Write to the jailer a reprieve of one day for the
+woman whose life can avail you nothing, and I will bear the order to my
+own prison: I, who can now tell this much as an earnest of what I can
+communicate,—while I speak, your own name, judge, is in a list of death.
+I can tell you by whose hand it is written down; I can tell you in what
+quarter to look for danger; I can tell you from what cloud, in this
+lurid atmosphere, hangs the storm that shall burst on Robespierre and
+his reign!"
+
+Dumas grew pale; and his eyes vainly sought to escape the magnetic gaze
+that overpowered and mastered him. Mechanically, and as if under an
+agency not his own, he wrote while the stranger dictated.
+
+"Well," he said then, forcing a smile to his lips, "I promised I would
+serve you; see, I am faithful to my word. I suppose that you are one of
+those fools of feeling,—those professors of anti-revolutionary virtue,
+of whom I have seen not a few before my Bar. Faugh! it sickens me to see
+those who make a merit of incivism, and perish to save some bad patriot,
+because it is a son, or a father, or a wife, or a daughter, who is
+saved."
+
+"I AM one of those fools of feeling," said the stranger, rising. "You
+have divined aright."
+
+"And wilt thou not, in return for my mercy, utter to-night the
+revelations thou wouldst proclaim to-morrow? Come; and perhaps thou
+too—nay, the woman also—may receive, not reprieve, but pardon."
+
+"Before your tribunal, and there alone! Nor will I deceive you,
+president. My information may avail you not; and even while I show the
+cloud, the bolt may fall."
+
+"Tush! prophet, look to thyself! Go, madman, go. I know too well the
+contumacious obstinacy of the class to which I suspect thou belongest,
+to waste further words. Diable! but ye grow so accustomed to look on
+death, that ye forget the respect ye owe to it. Since thou offerest me
+thy head, I accept it. To-morrow thou mayst repent; it will be too
+late."
+
+"Ay, too late, president!" echoed the calm visitor.
+
+"But, remember, it is not pardon, it is but a day's reprieve, I have
+promised to this woman. According as thou dost satisfy me to-morrow, she
+lives or dies. I am frank, citizen; thy ghost shall not haunt me for
+want of faith."
+
+"It is but a day that I have asked; the rest I leave to justice and to
+Heaven. Your huissiers wait below."
+
+------------------------------------------------------------------------
+
+[Next: Chapter XVI](zan84)

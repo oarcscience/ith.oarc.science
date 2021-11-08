@@ -1,0 +1,260 @@
+[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[Index](index)  [Previous](ttg18)  [Next](ttg20) 
+
+------------------------------------------------------------------------
+
+# EIGHTEENTH GOBLIN
+
+The Boy whom his Parents, the King, and the Giant  
+conspired to Kill.  
+Why did he laugh at the moment of death?
+
+Then the king went to the sissoo tree, put the goblin on his shoulder as
+before, and started in silence. And the goblin on his shoulder saw that
+he was silent and said: "O King, why are you so obstinate? Go home.
+Spend the night in rest. You ought not to take me to that rascally monk.
+But if you insist, then I will tell you another story. Listen."
+
+ 
+
+There is a city called Brilliant-peak. There lived a glorious king named
+Moon, who delighted the eyes of his subjects. Wise men said that he was
+brave, generous, and the very home of beauty. But in spite of all his
+wealth, he was very sad at heart. For he found no wife worthy of him.
+
+One day this king went with soldiers on horseback into a great wood, to
+hunt there and forget his sorrow. There he split open many boars with
+his arrows as the sun splits the black darkness, and made fierce lions
+into cushions for his arrows, and slew mountainous monsters with his
+terrible darts.
+
+As he hunted, he spurred his horse and beat him terribly. And the horse
+was so hurt by the spur and the whip that he could not tell rough from
+smooth. He dashed off quicker than the wind, and in a moment carried the
+king into another forest a hundred miles away.
+
+There the king lost his way, and as he wandered about wearily, he saw a
+great lake. He stopped there, unsaddled his horse, let him bathe and
+drink, and found him some grass in the shade of the trees. Then he
+bathed and drank himself, and when he had rested, he looked all about
+him.
+
+And he saw a hermit's daughter of marvellous beauty under an ashoka tree
+with another girl. She had no ornaments but flowers. She was charming
+even in a dress of bark. She was particularly attractive because of her
+thick masses of hair arranged in a girlish way.
+
+And the king fell in love with her and thought: "Who is she? Is she a
+goddess come to bathe in these waters? Or Gauri, separated from her
+husband Shiva, leading a hard life to win him again? Or the lovely moon,
+taking a human form, and trying to be attractive in the daytime? I will
+go to her and find out."
+
+So he drew near to her. And when she saw him coming, she was astonished
+at his beauty and dropped her hands, which had been weaving a garland of
+flowers. And she thought: "Who can he be in this forest? Some fairy
+perhaps. Blessed are my eyes this day."
+
+So she rose, modestly looking another way, and started to go away,
+though her limbs failed her. Then the king approached and said:
+"Beautiful maiden, I have come a long distance, and you never saw me
+before. I ask only to look at you, and you should welcome me. Is this
+hermit manners, to run away?"
+
+Then her clever friend made the king sit down and treated him as an
+honoured guest. And the king respectfully asked her: "My good girl, what
+happy family does your friend adorn? What are the syllables of her name,
+which must be a delight to the ear? Or why at her age does she torture a
+body as delicate as a flower with a hermit's life in a lonely wood?"
+
+And the friend answered: "Your Majesty, she is the daughter of the
+hermit Kanva and the heavenly nymph Menaka. She grew up here in the
+hermitage, and her name is Lotus-bloom. With her father's permission she
+came here to the lake to bathe. And her father's hermitage is not far
+from here."
+
+Then the king was delighted. He mounted his horse and rode to the
+hermitage of holy Kanva, to ask for the girl. And he entered the
+hermitage in modest garb, leaving his horse outside. Then he was
+surrounded by hermits with hoary crowns and bark garments like the
+trees, and saw the sage Kanva radiant and cool like the moon. And he
+drew near and fell at his feet.
+
+And the wise hermit greeted him and let him rest, then said: "My son
+Moon, I will tell you something to your advantage. Listen. I know what
+fear of death there is in mortal creatures. Why then do you uselessly
+kill the wild beasts? Warriors were made by the Creator to protect the
+timid. Therefore protect your subjects in righteousness, and root out
+evil. As Happiness flees before you, strive to overtake her with all
+your means, elephants and horses and things. Enjoy your kingship. Be
+generous. Become glorious. Abandon this vice of hunting, this sport of
+Death. For slayer and slain are equally deceived. Why spend your time in
+such an evil pursuit?"
+
+The sensible king was pleased and said: "Holy sir, I am instructed. And
+great is my gratitude for this instruction. From now on I hunt no more.
+Let the wild animals live without fear."
+
+Then the hermit said: "I am pleased with your protection of the animals.
+Choose any boon you will."
+
+Then the quick-witted king said: "Holy sir, if you are kindly disposed,
+give me your daughter Lotus-bloom."
+
+So the hermit gave him his daughter, the child of the nymph, who then
+came up after her bath. So they were married, and the king wore cheerful
+garments, and Lotus-bloom was adorned by the hermits' wives. And the
+weeping hermits accompanied them in procession to the edge of the
+hermitage. Then the king took his wife Lotus-bloom, mounted his horse,
+and started for his city.
+
+At last the sun, seeing the king tired with his long journeying, sank
+wearily behind the western mountain. And fawn-eyed night appeared, clad
+in the garment of darkness, like a woman going to meet her lover. And
+the king saw an ashvattha tree on the shore of a pond in a spot covered
+with grass and twigs, and he decided to spend the night there.
+
+So he dismounted, fed and watered his horse, brought water from the
+pond, and rested with his beloved. And they passed the night there.
+
+In the morning he arose, performed his devotions, and prepared to set
+out with his wife to rejoin his soldiers. Then, like a cloud black as
+soot with tawny lightning-hair, there appeared a great giant. He wore a
+chaplet of human entrails, a cord of human hair, he was chewing the head
+of a man, and drinking blood from a skull.
+
+The giant laughed aloud, spit fire in his wrath, and showed his dreadful
+fangs. And he scolded the king and said: "Scoundrel! I am a giant named
+Flame-face. This tree is my home; even the gods do not dare to trespass
+here. But you and your wife have trespassed and enjoyed yourselves. Now
+swallow your own impudence, you rascal! You are lovesick, so I will
+split open your heart and eat it, and I will drink your blood."
+
+The king was frightened when he saw that the giant was invincible, and
+his wife was trembling, so he said respectfully: "I trespassed
+ignorantly. Forgive me. I am your guest, seeking protection in your
+hermitage. And I will give you a human sacrifice, so that you will be
+satisfied. Be merciful then and forget your anger."
+
+Then the giant forgot his anger, and thought: "Very well. Why not?" And
+he said: "O King, I want a noble, intelligent Brahman boy seven years
+old, who shall give himself up of his own accord for your sake. And when
+he is killed, his mother must hold his hands tightly to the ground, and
+his father must hold his feet, and you must cut off his head with your
+own sword. If you do this within seven days, then I will forgive the
+insult you have offered me. If not, I will kill you and all your
+people."
+
+And the king was so frightened that he consented. Then the giant 
+disappeared.
+
+Then King Moon mounted his horse with his wife Lotus-bloom and rode away
+sad at heart, seeking for his soldiers. And he thought: "Alas! I was
+bewildered by hunting and by love, and I find myself ruined. Where can I
+find such a sacrifice for the giant? Well, I will go to my own city now,
+and see what happens."
+
+So he continued his search, and found his soldiers and his city
+Brilliant-peak. There his subjects were delighted because he had found a
+wife worthy of him, and they made a great feast. But it was a day of
+despondency and dreadful agony for the king.
+
+On the next day he told his counsellors the whole story. And one
+counsellor named Wise said: "Your Majesty, do not despair. I will find a
+victim for the sacrifice. The world is a strange place."
+
+Thus the counsellor comforted the king, and made a statue of a boy out
+of gold. And he sent the statue about the land, with constant beating of
+drums and this proclamation: "We want a noble Brahman boy seven years
+old who will offer himself as a sacrifice to a giant with the permission
+of his parents. And when he is killed, his mother must hold his hands,
+and his father must hold his feet. And as a reward, the king will give
+his parents a hundred villages and this statue of gold and gems."
+
+Now there was a Brahman boy on a farm, who was only seven years old, but
+wonderfully brave. He was of great beauty, and even in childhood he was
+always thinking about others. He said to the heralds: "Gentlemen, I will
+give you my body. Wait a moment. I will hurry back after telling my
+parents."
+
+So they told the boy to go. And he went into the house, bowed before his
+parents, and said: "Mother! Father! I am going to give this wretched
+body of mine in order to win lasting happiness. Pray permit me. And I
+will take the king's gift, this statue of myself made of gold and gems,
+and give it to you together with the hundred villages. Thus I will pay
+my debt to you, and do some real good. And you will never be poor again,
+and will have plenty more sons."
+
+But his parents immediately said: "Son, what are you saying? Have you
+the rheumatism? Or are you possessed by a devil? If not, why do you talk
+nonsense? Who would sacrifice his child for money? And what child would
+give his body?"
+
+But the boy said: "I am not mad. Listen. My words are full of sense. The
+body is the seat of unnameable impurities, it is loathsome and full of
+pain. It perishes in no long time at best. If some good can be done with
+the worthless thing, that is a great advantage in this weary life, so
+wise men say. And what good is there except helping others? If anyone
+can serve his parents so easily, then how lightly should the body be
+esteemed!"
+
+Thus the boy, with his bold words and his firm purpose, persuaded his
+grieving parents. And he went and got from the king's men the golden
+statue and the hundred villages, and gave them to his parents.
+
+So the boy with his parents followed the king's men to the city
+Brilliant-peak. And the king looked upon the brave boy as a magic jewel
+for his own preservation, and rejoiced greatly. He adorned the boy with
+garlands and perfumes, put him on an elephant, and took him with his
+parents to the home of the giant.
+
+There the priest traced a magic circle beside the tree, and reverently
+lit the holy fire. Then the horrible giant Flame-face appeared, mumbling
+words of his own. He staggered, for he was drunk with blood, and snorted
+and yawned. His eyes flashed fire and his shadow made the whole world
+dark.
+
+And the king said respectfully: "Great being, here is the human
+sacrifice you asked for, and this is the seventh day since I promised
+it. Be merciful. Accept this sacrifice."
+
+And the giant licked his chops, and looked the boy over, who was to be
+the sacrifice. Then the noble boy thought: "I have done some good with
+this body of mine. May I never rest in heaven or in eternal salvation,
+but may I have many lives in which to do some good with my body." And
+the air was filled with the chariots of gods who rained down flowers.
+
+Then the boy was laid before the giant. His mother held his hands, and
+his father held his feet. When the king drew his sword and was ready to
+strike, the boy laughed so heartily that all of them, even the giant,
+forgot what they were doing, looked at the boy's face, and bowed low
+before him.
+
+When the goblin had told this strange story, he asked the king: "O King,
+why did the boy laugh at the moment of death? I have a great curiosity
+about this point. If you know and will not tell, then your head will fly
+into a hundred  pieces."
+
+And the king said: "Listen. I will tell you why the boy laughed. When
+danger comes to any weak creature, he cries for life to his mother and
+father. If they are not there, he begs protection from the king, whom
+heaven made his protector. Failing the king, he cries to a god. Some one
+of these should be his protector. But in the case of this boy everything
+was contrary. His parents held his hands and feet because they wanted
+money. And the king was ready to kill him with his own hand, to save his
+own life. And the giant, who is a kind of a god, had come there
+especially to eat him.  So the boy thought: They are ridiculously fooled
+about their bodies, which are fragile, worthless, the seat of pain and
+suffering. The bodies of the greatest gods perish. And such creatures as
+these imagine that their bodies will endure!' So when he saw their
+strange madness, and felt that his own wishes were fulfilled, the
+Brahman boy laughed in astonishment and delight."
+
+Then the goblin slipped from the king's shoulder and went back to his
+home. And the king followed with determination. The heart of a good man
+is like the heart of the ocean. It cannot be shaken.
+
+------------------------------------------------------------------------
+
+[Next: Nineteenth Goblin: The Man, his Wife, and her Lover, who all died
+for Love. Which was the most foolish?](ttg20)

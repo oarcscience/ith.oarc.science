@@ -1,0 +1,448 @@
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch69) 
+[Next](pch71) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+#### § 9. Mithraism and Christianity.
+
+Of course, we are told that the Mithraic rites and mysteries were
+borrowed and imitated from Christianity. <span
+id="fr_1613"></span>[8](#fn_1613) English scholars of good standing are
+still found to say that the Mithraic and other mysteries "furnish a
+strange and hardly accidental parody of the most sacred mysteries of
+Christianity." <span id="fr_1614"></span>[9](#fn_1614) The refutation of
+this notion, as has been pointed out by M. Havet, <span
+id="fr_1615"></span>[10](#fn_1615) lies in the language of those
+Christian fathers who spoke of Mithraism. Three of them, as we have
+seen, speak of the Mithraic resemblances to Christian
+
+<span id="page_316">p. 316</span>
+
+rites as being the work of devils. Now, if the Mithraists *had* simply
+imitated the historic Christians, the obvious course for the latter
+would be simply to say so. But Justin Martyr expressly argues that the
+demons *anticipated* the Christian mysteries and prepared parodies of
+them beforehand. "When I hear," he says, <span
+id="fr_1616"></span>[1](#fn_1616) "that Perseus was begotten of a
+virgin, I understand that the deceiving serpent counterfeited also
+this." Nobody now pretends that the Perseus myth, or the Pagan virgin
+myth in general, is later than Christianity. Justin Martyr, indeed, is
+perhaps the most foolish of the Christian fathers; but what he says
+about the anticipatory action of the demon or demons plainly underlies
+the argumentation also of Tertullian and Julius Firmicus. <span
+id="fr_1617"></span>[2](#fn_1617)
+
+When, again, Justin asserts <span id="fr_1618"></span>[3](#fn_1618) that
+the Mithraists in their initiation *imitate* not only Daniel's utterance
+"that a stone without hands was cut out of a great mountain," but "the
+whole of \[Isaiah's\] words" (Isa. xxxiii, 13-19), he merely helps us to
+realise how much older than Christianity is that particular element of
+Christian symbolism which connects alike Jesus and Peter with the mystic
+Rock. That Mazdeism or Mithraism borrowed this symbol from Judaism,
+where it is either an excrescence or a totemistic survival, <span
+id="fr_1619"></span>[4](#fn_1619) is as unlikely as it is likely that
+the Hebrews borrowed it from Babylonia or Persia. <span
+id="fr_1620"></span>[5](#fn_1620) In Polynesian mythology, where (as
+also in the rites of human sacrifice) there are so many close
+coincidences with Asiatic ideas, it was told that the God Taaroa
+"embraced a rock, the imagined foundation of all things, which
+afterwards brought forth the earth and sea." <span
+id="fr_1621"></span>[6](#fn_1621) Here again we are in touch with the
+Græcised but probably Semitic myth of the rock-born Agdestis, son of
+Jupiter. <span id="fr_1622"></span>[7](#fn_1622) Even the remarkable
+parallel between the myth of Moses striking the rock for water and a
+scene on one of the Mithraic monuments suggests rather a common source
+for both myths than a Persian borrowing from the Bible. In the monument,
+
+<span id="page_317">p. 317</span>
+
+<span class="contnote">\[paragraph continues\]</span> Mithra shoots an
+arrow at a rock, and water gushes forth where the arrow strikes. As the
+story of the babe Moses is found long before in that of Sargon, <span
+id="fr_1623"></span>[1](#fn_1623) so probably does the rock-story come
+from Central Asia. <span id="fr_1624"></span>[2](#fn_1624)
+
+The passage in Isaiah, which strongly suggests the Mithraic initiation,
+seems to have been tampered with by the Jewish scribes; and corruption
+is similarly suspected in the passage Gen. xlix, 24, where "the
+Shepherd, the Stone of Israel," points to some credence latterly thrust
+out of Judaism. Above all, the so-called Song of Moses <span
+id="fr_1625"></span>[3](#fn_1625) (in which both Israel and his enemies
+figure as putting their faith in a divine "Rock," and the hostile "Rock"
+is associated with a wine-sacrament) points to the presence of such a
+God-symbol in Hebrew religion long before our era. There is a clear
+Mazdean element, finally, in the allusion to the mystic stone in
+Zechariah, <span id="fr_1626"></span>[4](#fn_1626) the "seven eyes"
+being certainly connected with the Seven Amesha-Spentas, of whom Mithra
+on one view, and Ormazd on another, was chief. <span
+id="fr_1627"></span>[5](#fn_1627) And when we find in the epistles <span
+id="fr_1628"></span>[6](#fn_1628) phrases as to Jesus being a "living
+stone" and a "spiritual rock," and read in the gospels <span
+id="fr_1629"></span>[7](#fn_1629) how Jesus said, "Thou art Peter, and
+upon this rock I will build my church," we turn from the latter
+utterance, so obviously unhistorical, back to the Mithraic rite, and see
+in the mystic rock of Mithra, the rock from which the God comes—be it
+the earth or the cloud—the probable source alike of the Roman legend and
+the doctrine of the pseudo-Petrine and Pauline epistles.
+
+The Mithraic mysteries, then, of the burial and resurrection of the
+Lord, the Mediator and Saviour; burial in a rock tomb and resurrection
+from that tomb; the sacrament of bread and water, the marking on the
+forehead with a mystic mark—all these were in
+
+<span id="page_318">p. 318</span>
+
+practice, like the Egyptian search for the lost corpse of Osiris, and
+the representation of his entombment and resurrection, before the
+publication of the Christian Gospel of a Lord who was buried in a rock
+tomb, and rose from that tomb on the day of the sun, or of the Christian
+mystery of Divine communion, with bread and water or bread and wine,
+which last were before employed also in the mysteries of Dionysos,
+Sun-God and Wine-God, doubtless as representing his body and
+blood. <span id="fr_1630"></span>[1](#fn_1630) But even the eucharist of
+bread-and-wine, as well as a bread-and-meat banquet, was inferribly
+present in the Mithraic cultus, <span id="fr_1631"></span>[2](#fn_1631)
+for the Zoroastrian Hom or Haoma, identical with the Vedic Soma, <span
+id="fr_1632"></span>[3](#fn_1632) was a species of liquor, and figured
+largely in the old cult as *in itself a sacred thing*, and ultimately as
+a deity = the Moon = a king. <span id="fr_1633"></span>[4](#fn_1633)
+Indeed, this deification of a drink is held to be the true origin of the
+God Dionysos, <span id="fr_1634"></span>[5](#fn_1634) even as Agni is a
+deification of the sacrificial fire. And whereas the Mazdean lore
+associated the Haoma-Tree with the Tree of Life in Paradise, <span
+id="fr_1635"></span>[6](#fn_1635) so do we find the Catholic theologians
+making that predication concerning the Christian Eucharist. <span
+id="fr_1636"></span>[7](#fn_1636) The "cup" of Mithra had in itself a
+mystical significance: in the monuments we see drinking from it the
+sacred serpent, the symbol of wisdom and healing. <span
+id="fr_1637"></span>[8](#fn_1637) Again, as there is record of an actual
+eating of a lamb in early Christian mysteries <span
+id="fr_1638"></span>[9](#fn_1638)—a detail still partly preserved in the
+Italian usage of blessing both a lamb and the baked figure of a lamb at
+the Easter season, <span id="fr_1639"></span>[10](#fn_1639) but
+officially superseded by the wafer of the Mass—so in the old Persian
+cult the sacrificed flesh was mixed with bread and baked in a round cake
+called *Myazd* or *Myazda*, <span id="fr_1640"></span>[11](#fn_1640) and
+sacramentally eaten by the worshippers.
+
+Nor was this all. Firmicus <span id="fr_1641"></span>[12](#fn_1641)
+informs us that the devil, in order to leave nothing undone for the
+destruction of souls, had beforehand resorted to deceptive imitations of
+the cross of Christ. Not only did they in Phrygia fix the image of a
+young man to a tree <span id="fr_1642"></span>[13](#fn_1642) in the
+
+<span id="page_319">p. 319</span>
+
+worship of the Mother of the Gods, and in other cults imitate the
+crucifixion <span id="fr_1643"></span>[1](#fn_1643) in similar ways, but
+in one mystery in particular the Pagans were wont to consecrate a tree
+and, towards midnight, to slay a ram at the foot of it. This cult may or
+may not have been the Mithraic, <span id="fr_1644"></span>[2](#fn_1644)
+but there is a strong presumption that Mithraism included such a rite.
+We have seen <span id="fr_1645"></span>[3](#fn_1645) that a ram-lamb was
+sacrificed in the Mithraic mysteries; and not only are there sacred
+trees on all the typical Mithraic monuments, but the God himself is
+represented as either re-born of or placed within a tree—here directly
+assimilating to Osiris and Dionysos and Adonis, <span
+id="fr_1646"></span>[4](#fn_1646) and pointing to the origins of the
+Christian Holy-Cross myth. The Christian assimilation of Mithraism is,
+however, still more clearly seen in the familiar Christian symbol in
+which Christ is represented as a lamb or ram, carrying by one forefoot a
+cross. We know from Porphyry <span id="fr_1647"></span>[5](#fn_1647)
+that in the mysteries "a place near the equinoctial circle was assigned
+to Mithra as an appropriate seat; and on this account he bears the sword
+of the Ram \[Aries\], which is a sign of Mars \[Ares\]." <span
+id="fr_1648"></span>[6](#fn_1648) The sword of the Ram, we may take it,
+was simply figured as the cross, since a sword is a cross. <span
+id="fr_1649"></span>[7](#fn_1649) Again, as we have seen, Porphyry
+
+<span id="page_320">p. 320</span>
+
+explains <span id="fr_1650"></span>[1](#fn_1650) that "Mithra is the
+Bull Demiurgos and lord of generation." Here then would be, as we have
+already seen, a symbolical slaying, in which the deity is sacrificed by
+the deity; <span id="fr_1651"></span>[2](#fn_1651) and we may fairly
+infer that the symbolic ram in turn would be sacrificed by the
+Mithraists on the same principle. Now, it appears to be, as we have
+said, the historic fact that among the early Christians a ram or lamb
+was sacrificed in the Paschal mystery. It is disputed between Greeks and
+Latins whether at one time the slain lamb was offered on the altar,
+together with the mystical body of Christ; but it is admitted by
+Catholic writers—and this, by the way, is the origin of a certain
+dispute about singing the *Agnus Dei* in church—that in the old *Ordo
+Romanus* a lamb was consecrated, slain, and eaten, on Easter Day, by way
+of a religious rite. <span id="fr_1652"></span>[3](#fn_1652) Of this
+lamb, too, the blood was received in a cup. <span
+id="fr_1653"></span>[4](#fn_1653) Everything thus goes to show not only
+that the Lamb in the early Christian cultus was a God-symbol from remote
+antiquity, but that it was regarded in exactly the same way as the
+symbolical lamb in the Mithraic cult. <span
+id="fr_1654"></span>[5](#fn_1654) In the Apocalypse, one of the earliest
+quasi-Christian documents, and one that exhibits to us the stage in
+which Jesuism and the Lamb-God-symbol were still held parts of Judaism,
+the Gentile differentiation being repudiated, <span
+id="fr_1655"></span>[6](#fn_1655) we have the Slain Lamb-God described
+as having seven horns and seven eyes, "which are the seven spirits of
+God, sent forth unto all the earth," and as holding in his right hand
+seven stars <span id="fr_1656"></span>[7](#fn_1656)—that is to say, the
+seven planetary Mazdean "Amshaspands" or Amesha-Spentas, before
+mentioned, of which Mithra was the chief and as it were the embodiment.
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_1613"></span>[315:8](pch70.htm#fr_1613) So Sainte-Croix,
+*Recherches*, ii, 147; and Beugnot, *Hist. de la Destr. du Paganisme*,
+i, 157, 158.
+
+<span id="fn_1614"></span>[315:9](pch70.htm#fr_1614) G. H. Rendall, *The
+Emperor Julian* 1879, Introd. p. 15. Cp. Elton, *Origins of English
+History*, 2nd ed. 1890, p. 337.
+
+<span id="fn_1615"></span>[315:10](pch70.htm#fr_1615) *Le Christianisme
+et ses Origines*, iv. 133.
+
+<span id="fn_1616"></span>[316:1](pch70.htm#fr_1616) *Dial. with
+Trypho*, c. 70.
+
+<span id="fn_1617"></span>[316:2](pch70.htm#fr_1617) Paul, as M. Havet
+remarks, would be in the way of knowing the cults of Cilicia. Tarsus,
+indeed, was a Mithraic centre. (Preller, *Röm. Mythol.* p. 758; Cumont,
+i, 19, 240.) This connects with the vogue of the cult among the Cilician
+pirates (below, p. 325). In Asia Minor and Syria it seems to have been
+confined to the seaports they frequented. It is highly probable that it
+is Mithra who was represented by several of the figures identified with
+Apollo and other deities in the *Lares and Penates* of Messrs. Barker
+and Ainsworth (1853), which deals with antiquities discovered at Tarsus,
+and with the cults of Cilicia, without once mentioning Mithra or
+Mithraism. Cp. Creuzer, *Symbolik*, 3te Ausg. i, 342. We know that on
+the coins of Kanerki, an Indo-Scythian king of the first century of our
+era, the same aureoled figure is alternately represented as Helios and
+Mithra. Windischmann, p. 60, citing Lassen, Indische Alterthumskunde,
+ii, 837.
+
+<span id="fn_1618"></span>[316:3](pch70.htm#fr_1618) Last cit.
+
+<span id="fn_1619"></span>[316:4](pch70.htm#fr_1619) Cp. Jevons,
+*Introd. to Hist. of Religion*, ch. 11.
+
+<span id="fn_1620"></span>[316:5](pch70.htm#fr_1620) Cp. Cumont, i,
+165-6; Haug, *Essays*, p. 5. Haug rightly suggests that both Jews and
+Persians may have drawn from a central source.
+
+<span id="fn_1621"></span>[316:6](pch70.htm#fr_1621) Ellis, *Polynesian
+Researches*, 2nd ed. i, 324-5.
+
+<span id="fn_1622"></span>[316:7](pch70.htm#fr_1622) Arnobius, *Adv.
+Gentes*, v, 5. 8 That found at Neuenheim. See Cumont, i, 165.
+
+<span id="fn_1623"></span>[317:1](pch70.htm#fr_1623) Jastrow, *Religion
+of Babylonia and Assyria*, p. 562; Maspero, *Hist. ancienne des peuples
+de l’orient*, 4e édit. D. 157; Sayce, Hibbert Lectures, pp. 26-6.
+
+<span id="fn_1624"></span>[317:2](pch70.htm#fr_1624) Prof. Cumont is
+satisfied that the rock is here, as in Vedic mythology, the symbol of
+the cloud, which the Sun-God transfixes with his spear or shaft. Oh this
+view, the shooting at the rock may be simply a myth-duplicate of the
+stabbing of the bull. See above, p. 300, *note*. It is certain that the
+sky was very commonly conceived in the ancient East as solid. Cp. Yasna,
+xxx, 5, *b*, as trans. by Mills (*Zendav*. iii, p. 31), and by Haug from
+the Pahlavi (*Essays*, 3rd ed. p. 346). So also among the Tongans
+(Mariner, *Tonga Islands*, ii, 99). There is something to be said also
+for Dr. Jevons’s theory that rude rock-altars came to be regarded as
+Gods through being drenched with the blood of sacrifices which the Gods
+were supposed to enter the stone to consume (though it is not clear that
+he had the "Rock of Israel" in view). But this theory takes a stronger
+form in the argument of Mr. Grant Allen (*Evolution of the Idea of God*,
+ch. v) that the altar-stone was originally a tomb-stone, erected over an
+ancestor, and that he was the spirit identified with the stone. That all
+altars, and all temples, are evolved from grave-stones and grave mounds
+is well proved by Mr. Spencer, *Principles of Sociology*, §§ 137-9. On
+this basis, myths of the origination of men and Gods from rocks become
+newly intelligible. See Mr. Allen again (p. 248, *sq*., and p. 389) for
+the suggestion that the divine "corner-stone" may signify a victim slain
+as foundation-spirit.
+
+<span id="fn_1625"></span>[317:3](pch70.htm#fr_1625) Deut. xxxii.
+
+<span id="fn_1626"></span>[317:4](pch70.htm#fr_1626) Zech. iii, 9. Cp.
+Dan. ii, 34.
+
+<span id="fn_1627"></span>[317:5](pch70.htm#fr_1627) Windischmann, p.
+62; Seel, p. 215; Darmesteter, *Ormazd et Ahriman*, p. 38.
+
+<span id="fn_1628"></span>[317:6](pch70.htm#fr_1628) 1 Peter ii, 4, 5; 1
+Cor. x, 4. In the first case the Greek word is *lithos;* in the second
+*petra*.
+
+<span id="fn_1629"></span>[317:7](pch70.htm#fr_1629) Matt. xvi, 18.
+
+<span id="fn_1630"></span>[318:1](pch70.htm#fr_1630) Cp. Frazer, *Golden
+Bough*, 2nd ed. i, 359; ii, 366.
+
+<span id="fn_1631"></span>[318:2](pch70.htm#fr_1631) Cp. Cumont, i, 146,
+197, 320.
+
+<span id="fn_1632"></span>[318:3](pch70.htm#fr_1632) Spiegel, *Avesta*,
+i, 8, citing Windischmann, *Ueber den Somakultus der Arier;* Max Müller,
+*Physical Religion*, p. 101; *Psychological Religion*, p. 65.
+
+<span id="fn_1633"></span>[318:4](pch70.htm#fr_1633) Max Müller, as
+cited, and in *Psych. Rel.* pp. 121, 139-140, 147. Cp. in the
+Zendavesta, Yasna iii, iv, vii, viii, ix. In Yasna ix, Haoma becomes
+house-lord, clan-lord, tribe-lord, and chieftain of the land. Cp. Mills
+on Yasna ix (S. B. E. xxxi, 230) as to the antiquity of the idea; and
+see Spencer, *Principles of Sociology*, vol. i, ch. 23, as to its
+causation. Mr. Spencer makes a striking suggestion in this connection as
+to the origin of the idea of the tree of knowledge in Genesis.
+
+<span id="fn_1634"></span>[318:5](pch70.htm#fr_1634) Roscher,
+*Ausführliches Lexikon*, 3045; Max Müller, *Anthropological Religion*,
+p. 355. As above noted, p. 53, Miss Harrison has newly proved the point,
+tracing a number of the obscurer epithets of Dionysos to names of grains
+used to make beer.
+
+<span id="fn_1635"></span>[318:6](pch70.htm#fr_1635) Cp. Bundahish
+xviii, 2, 3; xxvii, 4; xxx. 25 (*S. B. E.* vol. v); Yasna I (*S. B. E.*
+xxxi); and Mrs. Philpot's monograph, *The Sacred Tree*, 1897, pp. 13,
+123, 130-1.
+
+<span id="fn_1636"></span>[318:7](pch70.htm#fr_1636) Fischer,
+*Heidenthum and Offenbarung*, p. 150.
+
+<span id="fn_1637"></span>[318:8](pch70.htm#fr_1637) Creuzer, *Das
+Mithrēum von Neuenheim*, p. 37.
+
+<span id="fn_1638"></span>[318:9](pch70.htm#fr_1638) Below, [p.
+320](#page_320).
+
+<span id="fn_1639"></span>[318:10](pch70.htm#fr_1639) See refs. on [p.
+143](pch33.htm#page_143).
+
+<span id="fn_1640"></span>[318:11](pch70.htm#fr_1640) Haug, *Essays on
+the Parsis*, 3rd ed. pp. 112, 139, 368.
+
+<span id="fn_1641"></span>[318:12](pch70.htm#fr_1641) *De Errore*,
+xxviii.
+
+<span id="fn_1642"></span>[318:13](pch70.htm#fr_1642) See Julian (*In
+deorum matrem*, c. 5) on the tree of Attis, which was "cut down at the
+moment when the sun arrives at the extreme point of the equinoctial
+arc."
+
+<span id="fn_1643"></span>[319:1](pch70.htm#fr_1643) Horos, it should be
+remembered, was by the Valentinian Gnostics called "The Cross" and the
+Redeemer (Tertullian, *Contra Valentin.* c. 9). Suggestions of the
+crucifix appear in the Mazdean monuments. See the development from the
+winged figure, in Lajard's "Atlas"; and compare the plates in Bryant, i,
+294; R. K. Porter, *Travels in Georgia*, etc., 1821-2, i, 668; ii, 154;
+and Texier, *Descrip. de l’Arménie*, etc., pl. 111—the two latter
+reproduced by Justi, *Geschichte des alten Persiens*, pp. 52, 69. See
+there also, p. 13. the tomb of Midas, covered with ornamentation of
+crosses. That the "crown of thorns" is a variation on a nimbus has long
+been surmised. Mithra, of course, had a nimbus, and this appears from
+the monuments (Cumont, ii, 336) to be the kind of crown given in the
+mysteries to the initiate. In the older Persian form of the cult, again,
+the Sun-God rode "with his hands lifted up towards immortality" or
+heaven (*Mihir Yasht*, xxxi; in Darmesteter, ii, 152). He would further
+be associated with some form of the cross which stood for the
+four-spoked sun-wheel, as in the myth of Ixion. See Böttger's
+*Sonnencult der Indogermanen*, 1891, p. 160, citing E. Rapp's essay,
+*Das Labarum and der Sonnencultus;* and compare the Assyrian sculpture
+of the Sun-God with the solar-wheel in presence as his symbol.
+
+<span id="fn_1644"></span>[319:2](pch70.htm#fr_1644) This tree-cult is
+assumed by Dr. Frazer (*Golden Bough*, 2nd ed. ii, 132, note) to have
+been that of Attis, in which the tree figured so prominently; but that
+is one of the points at which the cults were likely to converge, both
+being associated with that of the Magna Mater. Firmicus, in the chapter
+cited, seems in separate passages to point to *two* tree cults,
+mentioning the ram in the second reference only and the *simulacrum
+juvenis* in the first. See above ([p. 306](pch68.htm#page_306)) as to
+Dr. Frazer's similar ascription to the Attisian cult of the rock-tomb,
+which presumptively belongs to the Mithraic.
+
+<span id="fn_1645"></span>[319:3](pch70.htm#fr_1645) Above, [p.
+301](pch67.htm#page_301).
+
+<span id="fn_1646"></span>[319:4](pch70.htm#fr_1646) On the Adonis myth
+see Frazer, *Golden Bough*, 2nd ed. ii, 115 *sq*. And see in Guigniaut's
+edition of Creuzer (figure 139 b, vol. iv) the representation of Osiris
+as the Sun-God emerging from a tree. Dionysos was similarly figured. Cp.
+Frazer, ii, 160, and refs.
+
+<span id="fn_1647"></span>[319:5](pch70.htm#fr_1647) *De Antro*, xxiv.
+
+<span id="fn_1648"></span>[319:6](pch70.htm#fr_1648) The later Persians
+specially celebrated the entrance of the sun into Aries as the "new day"
+(Nùrùz). "The public Nùrùz \[as distinguished from that of the nobles\]
+falls on the first day of the month Ferwardin \[March\], which happens
+as the sun enters the first point of Aries; and when it arrives at this
+first point it is the Spring. They say that Almighty God on this day
+created the world, and that all the seven planets revolved towards the
+ascending nodes of their orbit, and all these ascending nodes were is
+the first degree of Aries, on which day it is firmly believed that they
+enter on their march and circle. He also created on this day Adam (on
+whom be peace!)—on this account likewise they call it Nùrùz." *Berhan-ĭ
+Katteā*, cited by Wait, *Antiquities*, p. 187. The Nùrùz of the
+courtiers was six days later (another parallel to the Christian system);
+and "the Khosrùs every year, from the public Nùrùz to that of the
+courtiers, which was a space of six days, were in the constant habit of
+relieving the poor, of liberating the prisoners, of granting pardon to
+the malefactors, and of entirely devoting themselves to mirth and
+gladness" (*ib*. p. 190).
+
+<span id="fn_1649"></span>[319:7](pch70.htm#fr_1649) Note, on this, the
+astronomical "crossing" of lines at the "first point of Aries" (see
+<span id="page_320">p. 320</span> English or Chambers’ Encyclopædia,
+art. *Zodiac*); and see it imaged in the old figure in Brown's ed. of
+Aratos.
+
+<span id="fn_1650"></span>[320:1](pch70.htm#fr_1650) Last cit.
+
+<span id="fn_1651"></span>[320:2](pch70.htm#fr_1651) Firmicus tells (vi)
+that the people of Crete destroyed a bull to represent the destruction
+of Dionysos; and in the Egyptian slaying of the ram for Amun the ram was
+mourned for by the worshippers, and was *put on the image of Amun*, an
+image of "Herakles" (presumably = Khonsu) being then placed beside it
+(Herodotus, ii, 42). "We may conjecture," says Dr. Frazer (*Golden
+Bough*, 2nd ed. ii, 167), "that wherever a God is described as the eater
+of a particular animal, the animal in question was originally nothing
+but the God himself." Cp. Lang, *Myth, Ritual, and Religion*, 2nd ed.
+ii, 251-4.
+
+<span id="fn_1652"></span>[320:3](pch70.htm#fr_1652) Bingham, *Christian
+Antiquities*, B. xv, c. 2, § 3; Hatch, Hibbert Lectures, p. 300.
+
+<span id="fn_1653"></span>[320:4](pch70.htm#fr_1653) Casalius, *De
+Veterib. Christ. Ritib.* ii, 4, cited by Dupuis.
+
+<span id="fn_1654"></span>[320:5](pch70.htm#fr_1654) A sacramental
+quality attached to the lamb also in the worship of Apollo, whose oracle
+at Larissa was given by a priestess who once a month tasted of the blood
+of a sacrificed lamb, and so became possessed by the God. Pausanias, ii,
+24.
+
+<span id="fn_1655"></span>[320:6](pch70.htm#fr_1655) See above, [p.
+142](pch33.htm#page_142).
+
+<span id="fn_1656"></span>[320:7](pch70.htm#fr_1656) *Rev*. i, 16; v, 6;
+iii, 1; v, 6; etc.
+
+------------------------------------------------------------------------
+
+[Next: § 10. Further Christian Parallels](pch71)

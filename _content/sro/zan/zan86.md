@@ -1,0 +1,110 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[Index](index)  [Previous](zan85)  [Next](zan87) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+### NOTE.
+
+The curiosity which Zanoni has excited among those who think it worth
+while to dive into the subtler meanings they believe it intended to
+convey, may excuse me in adding a few words, not in explanation of its
+mysteries, but upon the principles which permit them. Zanoni is not, as
+some have supposed, an allegory; but beneath the narrative it relates,
+TYPICAL meanings are concealed. It is to be regarded in two characters,
+distinct yet harmonious,—1st, that of the simple and objective fiction,
+in which (once granting the license of the author to select a subject
+which is, or appears to be, preternatural) the reader judges the writer
+by the usual canons,—namely, by the consistency of his characters under
+such admitted circumstances, the interest of his story, and the
+coherence of his plot; of the work regarded in this view, it is not my
+intention to say anything, whether in exposition of the design, or in
+defence of the execution. No typical meanings (which, in plain terms are
+but moral suggestions, more or less numerous, more or less subtle) can
+afford just excuse to a writer of fiction, for the errors he should
+avoid in the most ordinary novel. We have no right to expect the most
+ingenious reader to search for the inner meaning, if the obvious course
+of the narrative be tedious and displeasing. It is, on the contrary, in
+proportion as we are satisfied with the objective sense of a work of
+imagination, that we are inclined to search into its depths for the more
+secret intentions of the author. Were we not so divinely charmed with
+"Faust," and "Hamlet," and "Prometheus," so ardently carried on by the
+interest of the story told to the common understanding, we should
+trouble ourselves little with the types in each which all of us can
+detect,—none of us can elucidate; none elucidate, for the essence of
+type is mystery. We behold the figure, we cannot lift the veil. The
+author himself is not called upon to explain what he designed. An
+allegory is a personation of distinct and definite things,—virtues or
+qualities,—and the key can be given easily; but a writer who conveys
+typical meanings, may express them in myriads. He cannot disentangle all
+the hues which commingle into the light he seeks to cast upon truth; and
+therefore the great masters of this enchanted soil,—Fairyland of
+Fairyland, Poetry imbedded beneath Poetry,—wisely leave to each mind to
+guess at such truths as best please or instruct it. To have asked Goethe
+to explain the "Faust" would have entailed as complex and puzzling an
+answer as to have asked Mephistopheles to explain what is beneath the
+earth we tread on. The stores beneath may differ for every passenger;
+each step may require a new description; and what is treasure to the
+geologist may be rubbish to the miner. Six worlds may lie under a sod,
+but to the common eye they are but six layers of stone.
+
+Art in itself, if not necessarily typical, is essentially a suggester of
+something subtler than that which it embodies to the sense. What Pliny
+tells us of a great painter of old, is true of most great painters;
+"their works express something beyond the works,"—"more felt than
+understood." This belongs to the concentration of intellect which high
+art demands, and which, of all the arts, sculpture best illustrates.
+Take Thorwaldsen's Statue of Mercury,—it is but a single figure, yet it
+tells to those conversant with mythology a whole legend. The god has
+removed the pipe from his lips, because he has already lulled to sleep
+the Argus, whom you do not see. He is pressing his heel against his
+sword, because the moment is come when he may slay his victim. Apply the
+principle of this noble concentration of art to the moral writer: he,
+too, gives to your eye but a single figure; yet each attitude, each
+expression, may refer to events and truths you must have the learning to
+remember, the acuteness to penetrate, or the imagination to conjecture.
+But to a classical judge of sculpture, would not the exquisite pleasure
+of discovering the all not told in Thorwaldsen's masterpiece be
+destroyed if the artist had engraved in detail his meaning at the base
+of the statue? Is it not the same with the typical sense which the
+artist in words conveys? The pleasure of divining art in each is the
+noble exercise of all by whom art is worthily regarded.
+
+We of the humbler race not unreasonably shelter ourselves under the
+authority of the masters, on whom the world's judgment is pronounced;
+and great names are cited, not with the arrogance of equals, but with
+the humility of inferiors.
+
+The author of Zanoni gives, then, no key to mysteries, be they trivial
+or important, which may be found in the secret chambers by those who
+lift the tapestry from the wall; but out of the many solutions of the
+main enigma—if enigma, indeed, there be—which have been sent to him, he
+ventures to select the one which he subjoins, from the ingenuity and
+thought which it displays, and from respect for the distinguished writer
+(one of the most eminent our time has produced) who deemed him worthy of
+an honour he is proud to display. He leaves it to the reader to agree
+with, or dissent from the explanation. "A hundred men," says the old
+Platonist, "may read the book by the help of the same lamp, yet all may
+differ on the text, for the lamp only lights the characters,—the mind
+must divine the meaning." The object of a parable is not that of a
+problem; it does not seek to convince, but to suggest. It takes the
+thought below the surface of the understanding to the deeper
+intelligence which the world rarely tasks. It is not sunlight on the
+water; it is a hymn chanted to the nymph who hearkens and awakes below.
+
+....
+
+------------------------------------------------------------------------
+
+[Next: “Zanoni Explained.”](zan87)

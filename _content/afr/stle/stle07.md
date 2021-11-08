@@ -1,0 +1,533 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle06) 
+[Next](stle08) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+<span id="page_27">p. 27</span>
+
+### CHAPTER III:
+
+### Greek Philosophy Was the Offspring of The Egyptian Mystery System.
+
+#### 1. The Egyptian Theory of Salvation Became the Purpose of Greek Philosophy.
+
+<span class="smallcaps">The</span> earliest theory of salvation is the
+Egyptian theory. The Egyptian Mystery System had as its most important
+object, the deification of man, and taught that the soul of man if
+liberated from its bodily fetters, could enable him to become godlike
+and see the Gods in this life and attain the beatific vision and hold
+communion with the Immortals (Ancient Mysteries, C. H. Vail, P. 25).
+
+Plotinus defines this experience as the liberation of the mind from its
+finite consciousness, when it becomes one and is identified with the
+Infinite. This liberation was not only freedom of the soul from bodily
+impediments, but also from the wheel of reincarnation or rebirth. It
+involved a process of disciplines or purification both for the body and
+the soul. Since the Mystery System offered the salvation of the soul it
+also placed great emphasis upon its immortality. The Egyptian Mystery
+System, like the modern University, was the centre of organized culture,
+and candidates entered it as the leading source of ancient culture.
+According to Pietschmann, the Egyptian Mysteries had three grades of
+students (1) The Mortals i.e., probationary students who were being
+instructed, but who had not yet experienced the inner vision. (2) The
+Intelligences, i.e., those who had attained the inner vision, and had
+received mind or nous and (3) The Creators or Sons of Light, who had
+become identified with or united with the Light (i.e., true spiritual
+consciousness). W. Marsham Adams, in the "Book of the Master", has
+described those grades as the equivalents of Initiation,
+
+<span id="page_28">p. 28</span>
+
+Illumination and Perfection. For years they underwent disciplinary
+intellectual exercises, and bodily asceticism with intervals of tests
+and ordeals to determine their fitness to proceed to the more serious,
+solemn and awful process of actual Initiation.
+
+Their education consisted not only in the cultivation of the ten
+virtues, which were made a condition to eternal happiness, but also of
+the seven Liberal Arts which were intended to liberate the soul. There
+was also admission to the Greater Mysteries, where an esoteric
+philosophy was taught to those who had demonstrated their proficiency.
+(Ancient Mysteries C. H. Vail P. 24–25). Grammar, Rhetoric, and Logic
+were disciplines of moral nature by means of which the irrational
+tendencies of a human being were purged away, and he was trained to
+become a living witness of the Divine Logos. Geometry and Arithmetic
+were sciences of transcendental space and numeration, the comprehension
+of which provided the key not only to the problems of one's being; but
+also to those physical ones, which are so baffling today, owing to our
+use of the inductive methods. Astronomy dealt with the knowledge and
+distribution of latent forces in man, and the destiny of individuals,
+laces and nations. Music (or Harmony) meant the living practice of
+philosophy i.e., the adjustment of human life into harmony with God,
+until the personal soul became identified with God, when it would hear
+and participate in the music of the spheres. It was therapeutic, and was
+used by the Egyptian Priests in the cure of diseases. Such was the
+Egyptian theory of salvation, through which the individual was trained
+to become godlike while on earth, and at the same time qualified for
+everlasting happiness. This was accomplished through the efforts of the
+individual, through the cultivation of the Arts and Sciences on the one
+hand, and a life of virtue on the other. There was no mediator between
+man and his salvation, as we find in the Christian theory. Reference
+will again be made to these subjects, as part of the Curriculum of the
+Egyptian Mystery System.
+
+<span id="page_29">p. 29</span>
+
+Now that we have outlined the Egyptian theory of salvation and its
+purpose, let us examine Greek philosophy and its purpose in order to
+discover whether there is an agreement between the two systems, or not.
+
+#### 2. Circumstances of identity between the Egyptian and Greek Systems.
+
+A. *The Indictment and Prosecution of Greek Philosophers*.
+
+The indictment and prosecution of Greek philosophers is a circumstance
+which is familiar to us all. Several philosophers, one after another,
+were indicted by the Athenian Government, on the common charge of
+introducing strange divinities. Anaxagoras, Socrates, and Aristotle
+received similar indictments for a similar offence. The most famous of
+these was that against Socrates which reads as follows. "Socrates
+commits a crime by not believing in the Gods of the city, and by
+introducing other new divinities. He also commits a crime by corrupting
+the youth". Now, in order to find out what these new divinities were, we
+must go back to the popular opinion which Aristophanes (423 B.C.) in the
+Clouds, aroused against him. It runs as follows: "Socrates is an
+evildoer, who busies himself with investigating things beneath the earth
+and in the sky, and who makes the worse appear the better reason, and
+who teaches others these same things (Plato's Apology C. 1–10;
+Aristophanes' Frogs, 1071; Apology 18 B.C., 19 C. Apology 24 B).
+
+It is clear then that Socrates offended the Athenian government simply
+because he pursued the study of astronomy and probably that of geology;
+and that the other philosophers were persecuted for the same reason. But
+the study of science was a required condition to membership in the
+Egyptian Mystery System, and its purpose was the liberation of the Soul
+from the ten bodily fetters, and if the Greek philosophers studied the
+sciences, then they were fulfilling a required condition to membership
+in the Egyptian Mystery System
+
+<span id="page_30">p. 30</span>
+
+and its purpose; either through direct contact with Egypt or its schools
+or lodges outside its territory.
+
+B. *A Life of Virtue was a Condition Required by the Egyptian Mysteries
+as Elsewhere Mentioned*.
+
+The virtues were not mere abstractions or ethical sentiments, but were
+positive valours and virility of the soul. Temperance meant complete
+control of the passional nature. Fortitude meant such courage as would
+not allow adversity to turn us away from our goal. Prudence meant the
+deep insight that befits the faculty of Seership. Justice meant the
+unswerving righteousness of thought and action.
+
+Furthermore, when we compare the two ethical systems, we discover that
+the greater includes the less, and that it also suggests the origin of
+the latter. In the Egyptian Mysteries the Neophyte was required to
+manifest the following soul attributes:—
+
+\(1\) Control of thought and (2) Control of action, the combination of
+which, Plato called *Justice* (i.e., the unswerving righteousness of
+thought and action). (3) Steadfastness of purpose, which was equivalent
+to *Fortitude*. (4) Identity with spiritual life or the higher ideals,
+which was equivalent to *Temperance* an attribute attained when the
+individual had gained conquest over the passional nature. (5) Evidence
+of having a mission in life and (6) Evidence of a call to spiritual
+Orders or the Priesthood in the Mysteries: the combination of which was
+equivalent to *Prudence* or a deep insight and graveness that befitted
+the faculty of Seership.
+
+Other requirements in the ethical system of the Egyptian Mysteries
+were:—
+
+\(7\) Freedom from resentment, when under the experience of persecution
+and wrong. This was known as courage. (8) Confidence in the power of the
+master (as Teacher), and (9) Confidence in one's own ability to learn;
+both attributes being known as Fidelity. (10) Readiness or preparedness
+for initiation. There has always been this principle of the Ancient
+
+<span id="page_31">p. 31</span>
+
+<span class="contnote">\[paragraph continues\]</span> Mysteries of
+Egypt: "When the pupil is ready, then the master will appear". This was
+equivalent to a condition of efficiency at all times for less than this
+pointed to a weakness. It is now quite clear that Plato drew the four
+Cardinal virtues from the Egyptian ten; also that Greek philosophy is
+the offspring of the Egyptian Mystery System.
+
+C. (i) *There was a Grand Lodge in Egypt which had associated Schools
+and Lodges in the ancient world*.
+
+There were mystery schools, or what we would commonly call lodges in
+Greece and other lands, outside of Egypt, whose work was carried on
+according to the Osiriaca, the Grand Lodge of Egypt. Such schools have
+frequently been referred to as private or philosophic mysteries, and
+their founders were Initiates of the Egyptian Mysteries; the Ionian
+temple at Didyma; the lodge of Euclid at Megara; the lodge of Pythagoras
+at Crotona; and the Orphic temple at Delphi, with the schools of Plato
+and Aristotle. Consequently we make a mistake when we suppose that the
+so-called Greek philosophers formulated new doctrines of their own; for
+their philosophy had been handed down by the great Egyptian Hierophants
+through the Mysteries. (Ancient Mysteries C. H. Vail P. 59). In addition
+to the control of the mysteries, the Grand Lodge permitted an exchange
+of visits between the various lodges, in order to ensure the progress of
+the brethren in the secret science.
+
+We are told in the Timaeus of Plato, that aspirants for mystical wisdom
+visited Egypt for initiation and were told by the priests of Sais, "that
+you Greeks are but children" in the Secret Doctrine, but were admitted
+to information enabling them to promote their spiritual advancement.
+Likewise, we are told by Jamblichus of a correspondence between Anebo
+and Porphyry, dealing with the fraternal relations, existing between the
+various schools or lodges of instructions in different lands, how their
+members visited, greeted and assisted one another in the secret science,
+the more advanced being obliged to afford assistance and instruction to
+their brethren
+
+<span id="page_32">p. 32</span>
+
+in the inferior Orders. (Jamblichus: correspondence between Anebo and
+Porphyry) (Plato's Timaeus) (W. L. Wilmshurst on meaning of Masonry).
+
+Having stated that the Grand Lodge of ancient mysteries was situated in
+Egypt, with jurisdiction over all lodges and schools of the ancient
+world, it now remains to show that such a Grand Lodge, did actually and
+physically exist. In doing so, two things are necessary: first, a
+description of the Egyptian temple, of which our modern mystery lodges
+(called by different names) are copies, and second, a description of the
+actual remains of the Grand and Sublime Lodge of Ancient Egypt.
+
+C. (ii) *A description of the Egyptian temple*.
+
+Here I quote two authorities on the Egyptian temple, the first, C. H.
+Vail, on Ancient Mysteries P. 159 who says "that the Egyptian temples
+were surrounded with pillars recording the number of the constellations
+and the signs of the Zodiac or the cycles of the planets. And each
+temple was supposed to be a microcosm or a symbol of the temple of the
+Universe or of the starry vault called temple". The next authority is
+Max Muller, who in his Egyptian Mythology P. 187–193, has described
+Egyptian temples as follows:—
+
+"Egyptian temples were made of stone, the outer courts of mud bricks.
+Wide roads led to the temples for the convenience of processions, while
+the immediate entrance was lined with statues, consisting of sphinxes
+and other animals. The front wall formed two high tower like buildings,
+called pylons, before which stood two granite obelisks. Immediately
+behind the pylons came a large court where the congregation assembled
+and watched the sacrifices. Immediately next to the hall of the
+congregation, came the hall of priests, and immediately following the
+hall of the priests came the final chamber, called the Adytum, i.e., the
+Holy of Holies, which was entered only by the high Priest. This was the
+place of the shrine and the abode of the God. Each temple was a
+reproduction
+
+<span id="page_33">p. 33</span>
+
+of the world. The ceilings were painted to represent the sky and the
+stars, while the floor was green and blue like the meadows. Ceremonial
+cleanliness was at all times imperative, and the people before entering
+the temple must carefully purify themselves in a nearby stream. In later
+times, this became a ceremony of sprinkling with holy water before
+entrance into the temple".
+
+It is clear from the foregoing description that not only the modern
+masonic lodges, are copies of the Egyptian temple, but also the ancient
+ones, for there is complete identity in their internal decoration. But
+the minor or lower lodges including those outside of Egypt, must have
+had a governing body, and so now, I proceed to quote C. H. Vail, who in
+his Ancient Mysteries, pages 182 and 183, describes fully the location
+and remains of the famous Grand Lodge of Luxor, as follows:—
+
+C. (iii) *The location of the Masonic Grand Lodge of Antiquity*.
+
+"At a short distance from Danderah, now called Upper Egypt, is the most
+extraordinary group of architectural ruins presented in any part of the
+world, known as the Temples of the ancient city of Thebes. Thebes in its
+prime occupied a large area on both sides of the Nile. This city was the
+centre of a great commercial nation of Upper Egypt ages before Memphis
+was the capital of the second nation in Lower Egypt; and however grand
+the architectural monuments of the latter may have been those of the
+former surpassed them. The portrayal by pencil or brush can convey but a
+faint idea of the perfected city. As the city stands today, it is like a
+city of giants, who after a long conflict have been destroyed, leaving
+the ruins of their various temples, as the only proof of their existence
+
+"The Temple of Luxor (it was in this temple that the Grand Lodge of
+Initiates always met), stands on a raised platform of brickwork covering
+more than two thousand feet in length and one thousand feet in breadth
+(note the oblong shape, which became the pattern for all lodges and
+churches in the
+
+<span id="page_34">p. 34</span>
+
+ancient world). It is the one that interests the members of all Ancient
+Orders, especially so, all the members of those Orders that worshipped
+at the Shrine of the Secret Fire, more than perhaps any other, and
+stands on the eastern bank of the Nile. It is in a very ruined state;
+but records say the stupendous scale of its proportions almost takes
+away the sense of its incompleteness. Up to about a quarter of a century
+ago, the greater part of its columns in the interior and outer walls had
+been removed, after falling, for use elsewhere. This temple was founded
+by the Pharaoh Amenothis III, who constructed the southern part,
+including the heavy colonnade overlooking the river; but destruction
+unfortunately conceals this fact. The chief entrance to the Temple
+looked to the east; while the Holy Chambers at the upper end of the
+plain approached the Nile. As mighty as the Temple of Luxor was, it was
+exceeded in magnitude and grandeur by that of Carnak. The distance
+between these two great structures was a mile and a half. Along this
+avenue was a double row of Sphinxes, placed twelve feet apart, and the
+width of the avenue was sixty feet. When in perfect state this avenue
+presented the most extraordinary entrance that the world has ever seen.
+If we had the power to picture from the field of imagination the grand
+processions of Neophytes constantly passing through and taking part in
+the ceremonies of Initiation, we would be powerless to produce the
+grandeur of the surroundings, and the imposing sight of colour and
+magnificent trappings of those who took part. Neither can we produce the
+music that kept the vast number of people in steady marching order.
+Crude it might have been to the cultivated ear of the 20th century. But
+could not the palpitating strain sung by massed voices on the lapse of
+time, whose history launches the profoundest aspirations of the human
+heart, like the trend of a mighty river, because the grand currents of
+Universal Law, imparting the desire to that Shadowy Past, as it steps
+forth from the pages of history, dim with age? Egypt must have been,
+when these Temples were built, a martial nation for
+
+<span id="page_35">p. 35</span>
+
+records of her warlike deeds are perpetuated in deeply engraved tablets
+which even now, excite the admiration of the best Judges of
+archaeological remains. She was also a highly civilized nation, and of a
+nature that could bear the expenditure which always attends the culture
+of the Arts. She surpassed in her astonishing architecture, all other
+nations that have existed upon the earth."
+
+I am fully convinced by these references and quotations that an Egyptian
+Grand Lodge of Ancient Mysteries actually existed some five thousand
+years ago or more, on the banks of the Nile in the city of Thebes, and
+that it was the only Grand Lodge of the Ancient World whose ruins have
+been found in Egypt, and that it was the governing body which
+necessarily controlled the Ancient Mysteries together with the
+philosophical Schools and minor Lodges wherever they happened to have
+been organized.
+
+C. (iv) *The rebuilding of the temple of Delphi*.
+
+The temple of Delphi was burnt down in 548 B.C. and it was King Amasis
+of Egypt, who rebuilt it for the brethren, by donating three times as
+much as was needed, in the sum of one thousand talents, and 50,000 lbs.
+of alum. According to information at hand, the temple had organized its
+members into an amphictyonic league for protection against political and
+other forms of violence; but they were too poor to raise
+[sufficient](errata.htm#0) funds from the membership, and they decided
+upon a public contribution from the citizens of Greece.
+
+Accordingly they wandered throughout the land soliciting aid, but failed
+in their efforts. Having decided to visit the brethren in Egypt, they
+approached King Amasis, who as Grand Master, unhesitatingly offered to
+rebuild the Temple, and donated more than three times as much as was
+needed for the purpose.
+
+N.B. Here it would be well to note that
+
+\(1\) The Greeks regarded the Temple of Delphi as a foreign institution,
+hence
+
+<span id="page_36">p. 36</span>
+
+\(2\) They were unsympathetic towards it and for the same reason
+destroyed it by fire.
+
+\(3\) Clearly, the Temple of Delphi was a branch of the Egyptian Mystery
+System, projected in Greece. Sandford's Mediterranean World p. 135; 139.
+
+John Kendrick's Ancient Egypt Bk. II. P. 363.
+
+#### 3. The abolition of Greek Philosophy together with the Egyptian Mysteries.
+
+From the conquest of Egypt by Alexander the Great, the Greeks, who were
+always attracted by the mysterious worship of the Nile-land, began to
+imitate the Egyptian religion in its entirety; and during the Roman
+occupation, the Egyptian religion spread not only to Italy: but
+throughout the Roman Empire, including [Brittany](errata.htm#1).
+
+This assimilation of the Egyptian religion was confined to the Gods of
+the Osirian cycle and the Graeco-Egyptian Serapis, and aimed at a close
+imitation of the ancient traditions of the Nile-land. Owing to the
+splendour of architecture, the hieroglyphs of the temples, the obelisks
+and sphinxes before the shrines, the linen vestments and the shaven
+heads and faces of the priests, the endless and obscure ritual, filled
+the Greeks with awe, and wonderful mysteries were consequently believed
+to have underlain these incomprehensibles, and the Egyptian religion
+stood in the way of the rising Christianity.
+
+The success of the Egyptian religion was due no doubt, on the one hand
+to its conservatism; while on the other to the shadowy philosophical
+abstractions which constituted Graeco-Roman religion, so that the
+staunch faith of the Egyptians, together with their mysterious forms of
+worship, led to the universal conviction among the Ancients, that Egypt
+was not only the Holy Land but the Holiest of lands or countries, and
+that indeed, the Gods dwelt there.
+
+The Nile became a centre for pilgrimages in the ancient world, and the
+pilgrims who went there and experienced the marvellous revelations and
+spiritual blessings which it afforded
+
+<span id="page_37">p. 37</span>
+
+them, returned home with the conviction that the Nile was the home of
+the most profound religious knowledge.
+
+The Greeks failed to imitate Egyptian conservatism and not only in
+Egyptian cities, with large Greek population, but in Europe, Egyptian
+divinities were corrupted with Greek and Asiatic names and mythologies
+and reduced to vague pantheistic personalities, so that Isis and Osiris
+had retained very little of their Egyptian origin. (Max Muller p.
+241–43; Egyptian Mythology). Consequently, as they failed to advance
+Egyptian Philosophy, so they also failed to advance Egyptian religion.
+
+During the first four centuries of the Christian era, the religion of
+Egypt continued unabated and uninterrupted, but after the Edict of
+Theodosius at the end of the fourth century A.D., ordering the close of
+Egyptian temples, Christianity began to spread more rapidly and both the
+religion of Egypt and that of Greece began to die. In the island of
+Philae, in the first cataract of the Nile, however, the Egyptian
+religion was continued by its inhabitants, the Blemmyans and Nobadians,
+who refused to accept Christianity and the Roman government fearing a
+rebellion, paid tribute to them as an appeasement.
+
+During the sixth century A.D., however, Justinian issued a second edict
+which suppressed this remnant of Egyptian worshippers and propagated
+Christianity among the Nubians. With the death of the last priest, who
+could read and interpret "the writings of the words of the Gods" (the
+hieroglyphics) the Egyptian faith sank into oblivion. It was only in
+popular magic that some practices lingered on as traces of a faith that
+became a universal religion, or the survival of a statue of Isis and
+Horus, which were regarded as the Madonna and Child.
+
+A sentiment of admiration and awe for this strangest of all religions
+still survived, but the information from classical writers concerning
+this faith has been incomplete. Napoleon's invasion of Egypt brought a
+revival of interest from the West to decipher her inscriptions and
+papyri with a view to an understanding and appreciation of this most
+ancient of civilizations.
+
+<span id="page_38">p. 38</span>
+
+<span class="contnote">\[paragraph continues\]</span> (Mythology of
+Egypt by Max Muller C. XIII p. 241–245; The Mediterranean World by
+Sandford, p. 508, 548, 552–558, 568).
+
+We learn the following facts from the above quotations:—(i) The Egyptian
+Mysteries had become the Ancient World Religion, spreading throughout
+the Roman Empire and including Italy, Greece, Asia Minor, and various
+parts of Europe including Brittany. This continued under different
+names, long after Justinian's Edict of toleration granted to the
+Christians. (ii) Egypt was the Holy Land of the ancient world, that
+pilgrimages were made to that land because of the marvellous revelations
+and spiritual blessings which it afforded the ancient peoples, and
+because of the universal conviction among the Ancients that Egypt was
+the land of the Gods. (iii) The Edicts of Theodosius in the fourth
+century A. D,. and that of Justinian in the sixth century A.D. abolished
+alike not only the Mystery system of Egypt, but also its philosophical
+schools, located in Greece and elsewhere, outside Egypt.
+
+\(iv\) The abolition of the Egyptian Mysteries was to create an
+opportunity for the adoption of Christianity. This was the problem: the
+Roman government felt that Egypt was now conquered in arms and reduced
+to her knees, but in order to make the conquest complete, it would be
+necessary to abolish the Mysteries which still controlled the religious
+mind of the ancient world. There must be a New World Religion to take
+the place of the Egyptian religion. This New Religion, which should take
+the place of the Mysteries, must be equally powerful and universal, and
+consequently everything possible must be done in order to promote its
+interests. This explains the rapid growth of Christianity following
+Justinian's Edict of toleration.
+
+\(v\) Since the Edicts of Theodosius and Justinian abolished both the
+Mysteries of Egypt and the schools of Greek philosophy alike, it shows
+that the nature of the Egyptian Mysteries and Greek philosophy was
+identical and that Greek philosophy grew out of the Egyptian Mysteries.
+
+<span id="page_39">p. 39</span>
+
+#### 4. How the African Continent gave its Culture to the Western World.
+
+As mentioned elsewhere, the Egyptian Mysteries and the philosophical
+schools of Greece were closed by the edicts of Theodosius in the 4th
+century A.D. and that of Justinian in the 6th century A.D. (i.e., 529);
+and as a consequence, intellectual darkness spread over Christian Europe
+and the Graeco-Roman world for ten centuries; during which time,
+knowledge had disappeared. As stated elsewhere, the Greeks showed no
+creative powers, and were unable to improve upon the knowledge which
+they had received from the Egyptians (Hist. of Science by Sedgwick and
+Tyler p. 141; 153; Zeller's Hist. of Phil. Introduction p. 31).
+
+During the Persian, Greek and Roman invasions, large numbers of
+Egyptians fled not only to the desert and mountain regions, but also to
+adjacent lands in Africa, Arabia and Asia Minor, where they lived, and
+secretly developed the teachings which belonged to their mystery system.
+In the 8th century A.D. the Moors, i.e., natives of Mauritania in North
+Africa, invaded Spain and took with them, the Egyptian culture which
+they had preserved. Knowledge in the ancient days was centralized i.e.,
+it belonged to a common parent and system, i.e., the Wisdom Teaching or
+Mysteries of Egypt, which the Greeks used to call *Sophia*.
+
+As such, the people of North Africa were the neighbours of the
+Egyptians, and became the custodians of Egyptian culture, which they
+spread through considerable portions of Africa, Asia Minor and Europe.
+During their occupation of Spain, the Moors displayed with considerable
+credit, the grandeur of African culture and civilization. The schools
+and libraries which they established became famous throughout the
+Mediaeval world; Science and learning were cultivated and taught; the
+schools of Cordova, Toledo, Seville and Saragossa attained such
+celebrity, that they, like their parent Egypt, attracted students from
+all parts of the Western world; and from them arose the most famous
+African professors that the
+
+<span id="page_40">p. 40</span>
+
+world has ever known, in medicine, surgery, astronomy and mathematics.
+But these people from North Africa did more than merely distinguish
+themselves in Spain. They were really the recognized custodians of
+African culture, to whom the world looked for enlightenment.
+Consequently, through the medium of the ancient Arabic language,
+philosophy and the various branches of science were disseminated: (a)
+all the so-called works of Aristotle in Metaphysics, moral philosophy
+and natural science (b) translations by Leonardo Pisano in Arabic
+mathematical science (c) translation by Gideo a Monk of Arezzo in
+musical notation. (Sedgwick and Tyler's Hist. of Science C. IX.)
+
+In addition, the Moors kept up constant contact with mother Egypt: for
+they had established Caliphates not only at Baghdad and Cordova, but
+also at Cairo in Egypt. (Europe in the Middle Ages by Ault p. 216–219).
+Just here it would be well to mention that all the great leaders of the
+great religions of antiquity were Initiates of the Egyptian Mystery
+System: from Moses, who was an Egyptian Hierogrammat, down to Christ.
+
+It should also be of interest to know that European scientists like
+Roger Bacon, Johann Kepler, Copernicus and others obtained their science
+through Arab or Berber sources. It is also noteworthy that throughout
+the Middle Ages, European knowledge of medicine came from these same
+sources.
+
+(History of The Arabs, by Hitti pages 370, 629, 665 and 572).
+
+(Philo; Esoteric Christianity by Annie Besant p. 107; 128–129; Ancient
+Mysteries by C. H. Vail p. 59; 61; 74–75; 109).
+
+------------------------------------------------------------------------
+
+[Next: Chapter IV: The Egyptians Educated the Greeks](stle08)

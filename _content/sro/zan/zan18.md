@@ -1,0 +1,118 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[Index](index)  [Previous](zan17)  [Next](zan19) 
+
+------------------------------------------------------------------------
+
+[Buy this Book at
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478779/internetsacredte)
+
+------------------------------------------------------------------------
+
+[![](img/tease.jpg)](index)  
+*Zanoni*, by Edward Bulwer Lytton, \[1842\], at Intangible Textual
+Heritage
+
+------------------------------------------------------------------------
+
+### CHAPTER IV.
+
+     Les Intelligences Celestes se font voir, et see communiquent plus  
+     volontiers, dans le silence et dans la tranquillite de la  
+     solitude. On aura donc une petite chambre ou un cabinet secret,  
+     etc.
+
+     "Les Clavicules de Rabbi Salomon," chapter 3; traduites  
+     exactement du texte Hebreu par M. Pierre Morissoneau, Professeur  
+     des Langues Orientales, et Sectateur de la Philosophie des Sages  
+     Cabalistes. (Manuscript Translation.)
+
+     (The Celestial Intelligences exhibit and explain themselves most  
+     freely in silence and the tranquillity of solitude. One will  
+     have then a little chamber, or a secret cabinet, etc.)
+
+The palace retained by Zanoni was in one of the less frequented quarters
+of the city. It still stands, now ruined and dismantled, a monument of
+the splendour of a chivalry long since vanished from Naples, with the
+lordly races of the Norman and the Spaniard.
+
+As he entered the rooms reserved for his private hours, two Indians, in
+the dress of their country, received him at the threshold with the grave
+salutations of the East. They had accompanied him from the far lands in
+which, according to rumour, he had for many years fixed his home. But
+they could communicate nothing to gratify curiosity or justify
+suspicion. They spoke no language but their own. With the exception of
+these two his princely retinue was composed of the native hirelings of
+the city, whom his lavish but imperious generosity made the implicit
+creatures of his will. In his house, and in his habits, so far as they
+were seen, there was nothing to account for the rumours which were
+circulated abroad. He was not, as we are told of Albertus Magnus or the
+great Leonardo da Vinci, served by airy forms; and no brazen image, the
+invention of magic mechanism, communicated to him the influences of the
+stars. None of the apparatus of the alchemist—the crucible and the
+metals—gave solemnity to his chambers, or accounted for his wealth; nor
+did he even seem to interest himself in those serener studies which
+might be supposed to colour his peculiar conversation with abstract
+notions, and often with recondite learning. No books spoke to him in his
+solitude; and if ever he had drawn from them his knowledge, it seemed
+now that the only page he read was the wide one of Nature, and that a
+capacious and startling memory supplied the rest. Yet was there one
+exception to what in all else seemed customary and commonplace, and
+which, according to the authority we have prefixed to this chapter,
+might indicate the follower of the occult sciences. Whether at Rome or
+Naples, or, in fact, wherever his abode, he selected one room remote
+from the rest of the house, which was fastened by a lock scarcely larger
+than the seal of a ring, yet which sufficed to baffle the most cunning
+instruments of the locksmith: at least, one of his servants, prompted by
+irresistible curiosity, had made the attempt in vain; and though he had
+fancied it was tried in the most favourable time for secrecy,—not a soul
+near, in the dead of night, Zanoni himself absent from home,—yet his
+superstition, or his conscience, told him the reason why the next day
+the Major Domo quietly dismissed him. He compensated himself for this
+misfortune by spreading his own story, with a thousand amusing
+exaggerations. He declared that, as he approached the door, invisible
+hands seemed to pluck him away; and that when he touched the lock, he
+was struck, as by a palsy, to the ground. One surgeon, who heard the
+tale, observed, to the distaste of the wonder-mongers, that possibly
+Zanoni made a dexterous use of electricity. Howbeit, this room, once so
+secured, was never entered save by Zanoni himself.
+
+The solemn voice of Time, from the neighbouring church at last aroused
+the lord of the palace from the deep and motionless reverie, rather
+resembling a trance than thought, in which his mind was absorbed.
+
+"It is one more sand out of the mighty hour-glass," said he,
+murmuringly, "and yet time neither adds to, nor steals from, an atom in
+the Infinite! Soul of mine, the luminous, the Augoeides (Augoeides,—a
+word favoured by the mystical Platonists, sphaira psuches augoeides,
+otan mete ekteinetai epi ti, mete eso suntreche mete sunizane, alla
+photi lampetai, o ten aletheian opa ten panton, kai ten en aute.—Marc.
+Ant., lib. 2.—The sense of which beautiful sentence of the old
+philosophy, which, as Bayle well observes, in his article on Cornelius
+Agrippa, the modern Quietists have (however impotently) sought to
+imitate, is to the effect that 'the sphere of the soul is luminous when
+nothing external has contact with the soul itself; but when lit by its
+own light, it sees the truth of all things and the truth centred in
+itself.'), why descendest thou from thy sphere,—why from the eternal,
+starlike, and passionless Serene, shrinkest thou back to the mists of
+the dark sarcophagus? How long, too austerely taught that companionship
+with the things that die brings with it but sorrow in its sweetness,
+hast thou dwelt contented with thy majestic solitude?"
+
+As he thus murmured, one of the earliest birds that salute the dawn
+broke into sudden song from amidst the orange-trees in the garden below
+his casement; and as suddenly, song answered song; the mate, awakened at
+the note, gave back its happy answer to the bird. He listened; and not
+the soul he had questioned, but the heart replied. He rose, and with
+restless strides paced the narrow floor. "Away from this world!" he
+exclaimed at length, with an impatient tone. "Can no time loosen its
+fatal ties? As the attraction that holds the earth in space, is the
+attraction that fixes the soul to earth. Away from the dark grey planet!
+Break, ye fetters: arise, ye wings!"
+
+He passed through the silent galleries, and up the lofty stairs, and
+entered the secret chamber....
+
+------------------------------------------------------------------------
+
+[Next: Chapter V](zan19)
