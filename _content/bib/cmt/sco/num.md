@@ -1,0 +1,42 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
+[Bible Commentary](../index)  [Index](index)   
+[Leviticus](lev)  [Deuteronomy](deu)
+
+</div>
+
+------------------------------------------------------------------------
+
+[Numbers Introduction](num000)  
+[Numbers Chapter 1](num001)  
+[Numbers Chapter 3](num003)  
+[Numbers Chapter 4](num004)  
+[Numbers Chapter 5](num005)  
+[Numbers Chapter 6](num006)  
+[Numbers Chapter 7](num007)  
+[Numbers Chapter 8](num008)  
+[Numbers Chapter 9](num009)  
+[Numbers Chapter 10](num010)  
+[Numbers Chapter 11](num011)  
+[Numbers Chapter 13](num013)  
+[Numbers Chapter 14](num014)  
+[Numbers Chapter 15](num015)  
+[Numbers Chapter 16](num016)  
+[Numbers Chapter 17](num017)  
+[Numbers Chapter 18](num018)  
+[Numbers Chapter 19](num019)  
+[Numbers Chapter 20](num020)  
+[Numbers Chapter 21](num021)  
+[Numbers Chapter 22](num022)  
+[Numbers Chapter 23](num023)  
+[Numbers Chapter 24](num024)  
+[Numbers Chapter 25](num025)  
+[Numbers Chapter 27](num027)  
+[Numbers Chapter 28](num028)  
+[Numbers Chapter 29](num029)  
+[Numbers Chapter 31](num031)  
+[Numbers Chapter 32](num032)  
+[Numbers Chapter 33](num033)  
+[Numbers Chapter 35](num035)  

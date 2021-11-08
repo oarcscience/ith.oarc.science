@@ -1,0 +1,41 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
+[Bible Commentary](../index)  [Index](index)   
+[Lamentations](lam)  [Daniel](dan)
+
+</div>
+
+------------------------------------------------------------------------
+
+[Ezekiel Introduction](eze000)  
+[Ezekiel Chapter 1](eze001)  
+[Ezekiel Chapter 2](eze002)  
+[Ezekiel Chapter 3](eze003)  
+[Ezekiel Chapter 4](eze004)  
+[Ezekiel Chapter 6](eze006)  
+[Ezekiel Chapter 8](eze008)  
+[Ezekiel Chapter 9](eze009)  
+[Ezekiel Chapter 11](eze011)  
+[Ezekiel Chapter 12](eze012)  
+[Ezekiel Chapter 14](eze014)  
+[Ezekiel Chapter 16](eze016)  
+[Ezekiel Chapter 20](eze020)  
+[Ezekiel Chapter 24](eze024)  
+[Ezekiel Chapter 25](eze025)  
+[Ezekiel Chapter 28](eze028)  
+[Ezekiel Chapter 29](eze029)  
+[Ezekiel Chapter 30](eze030)  
+[Ezekiel Chapter 31](eze031)  
+[Ezekiel Chapter 32](eze032)  
+[Ezekiel Chapter 33](eze033)  
+[Ezekiel Chapter 34](eze034)  
+[Ezekiel Chapter 36](eze036)  
+[Ezekiel Chapter 37](eze037)  
+[Ezekiel Chapter 38](eze038)  
+[Ezekiel Chapter 39](eze039)  
+[Ezekiel Chapter 40](eze040)  
+[Ezekiel Chapter 43](eze043)  
+[Ezekiel Chapter 45](eze045)  
+[Ezekiel Chapter 48](eze048)  

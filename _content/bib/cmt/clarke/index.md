@@ -1,0 +1,104 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
+[Bible Commentary](../index) 
+
+</div>
+
+------------------------------------------------------------------------
+
+<table width="75%">
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td width="50%" data-valign="TOP"><h1 id="commentary-on-the-bible" data-align="CENTER">Commentary on the Bible</h1>
+<h2 id="adam-clarke" data-align="CENTER">Adam Clarke</h2>
+<h4 id="section" data-align="CENTER">[1831]</h4></td>
+</tr>
+</tbody>
+</table>
+
+------------------------------------------------------------------------
+
+[Contents](#contents)    [Start Reading](int)
+
+------------------------------------------------------------------------
+
+Adam Clarke (1760 or 1762-1832) was a British Methodist theologian and
+Biblical scholar. He is primarily remembered for writing this commentary
+on the Bible. It took him 40 years to complete this work. Clarke adhered
+theologically to the Methodist founder John Wesley. Clarke's commentary
+is largely written from an orthodox Methodist perspective.
+
+------------------------------------------------------------------------
+
+<span id="contents"></span> [Introduction](int)  
+[Genesis](gen)  
+[Exodus](exo)  
+[Leviticus](lev)  
+[Numbers](num)  
+[Deuteronomy](deu)  
+[Joshua](jos)  
+[Judges](jdg)  
+[Ruth](rut)  
+[1 Kings (1 Samuel)](sa1)  
+[2 Kings (2 Samuel)](sa2)  
+[3 Kings (1 Kings)](kg1)  
+[4 Kings (2 Kings)](kg2)  
+[1 Chronicles](ch1)  
+[2 Chronicles](ch2)  
+[Ezra](ezr)  
+[Nehemiah](neh)  
+[Esther](est)  
+[Job](job)  
+[Psalms](psa)  
+[Proverbs](pro)  
+[Ecclesiastes](ecc)  
+[Song of Solomon (Canticles)](sol)  
+[Isaiah](isa)  
+[Jeremiah](jer)  
+[Lamentations](lam)  
+[Ezekiel](eze)  
+[Daniel](dan)  
+[Hosea](hos)  
+[Joel](joe)  
+[Amos](amo)  
+[Obadiah](oba)  
+[Jonah](jon)  
+[Micah](mic)  
+[Nahum](nah)  
+[Habakkuk](hab)  
+[Zephaniah](zep)  
+[Haggai](hag)  
+[Zechariah](zac)  
+[Malachi](mal)  
+[Matthew](mat)  
+[Mark](mar)  
+[Luke](luk)  
+[John](joh)  
+[Acts](act)  
+[Romans](rom)  
+[1 Corinthians](co1)  
+[2 Corinthians](co2)  
+[Galatians](gal)  
+[Ephesians](eph)  
+[Philippians](phi)  
+[Colossians](col)  
+[1 Thessalonians](th1)  
+[2 Thessalonians](th2)  
+[1 Timothy](ti1)  
+[2 Timothy](ti2)  
+[Titus](tit)  
+[Philemon](plm)  
+[Hebrews](heb)  
+[James](jam)  
+[1 Peter](pe1)  
+[2 Peter](pe2)  
+[1 John](jo1)  
+[2 John](jo2)  
+[3 John](jo3)  
+[Jude](jde)  
+[Revelation](rev)  

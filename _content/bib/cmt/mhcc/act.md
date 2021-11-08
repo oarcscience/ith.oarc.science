@@ -1,0 +1,40 @@
+<div class="filenav">
+
+[![](../../../cdshop/ithlogo.png)](../../../index)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
+[Bible Commentary](../index)  [Index](index)   
+[John](joh)  [Romans](rom)
+
+</div>
+
+------------------------------------------------------------------------
+
+[Acts Introduction](act000)  
+[Acts Chapter 1](act001)  
+[Acts Chapter 2](act002)  
+[Acts Chapter 3](act003)  
+[Acts Chapter 4](act004)  
+[Acts Chapter 5](act005)  
+[Acts Chapter 6](act006)  
+[Acts Chapter 7](act007)  
+[Acts Chapter 8](act008)  
+[Acts Chapter 9](act009)  
+[Acts Chapter 10](act010)  
+[Acts Chapter 11](act011)  
+[Acts Chapter 12](act012)  
+[Acts Chapter 13](act013)  
+[Acts Chapter 14](act014)  
+[Acts Chapter 15](act015)  
+[Acts Chapter 16](act016)  
+[Acts Chapter 17](act017)  
+[Acts Chapter 18](act018)  
+[Acts Chapter 19](act019)  
+[Acts Chapter 20](act020)  
+[Acts Chapter 21](act021)  
+[Acts Chapter 22](act022)  
+[Acts Chapter 23](act023)  
+[Acts Chapter 24](act024)  
+[Acts Chapter 25](act025)  
+[Acts Chapter 26](act026)  
+[Acts Chapter 27](act027)  
+[Acts Chapter 28](act028)  

@@ -1,0 +1,346 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Women](../index) 
+[Index](index)  [Previous](cws73)  [Next](cws75) 
+
+------------------------------------------------------------------------
+
+<span id="page_175">p. 175</span>
+
+# PART THE THIRD
+
+#### CONCERNING THE DIVINE IMAGE
+
+#### OR
+
+#### THE VISION OF ADONAI
+
+<span id="page_176">p. 176</span>
+
+<span id="page_177">p. 177</span>
+
+#### CONCERNING THE DIVINE IMAGE, OR THE VISION OF ADONAI <span id="fr_226"></span>[1](#fn_226)
+
+\[Owing at once to the sanctity and the unpronounceability of the
+*Tetragrammaton*, or word of four letters which in the Hebrew
+constitutes the name Jehovah, the Hebrews invariably substitute for it
+in speaking the name Adonai, which in the A.V. is rendered "the Lord."
+These names are, however, substantially identical, in that they alike
+imply a duality corresponding to that of the sexes,---a duality which
+arises, necessarily, from the nature of the function fulfilled by their
+bearer, which is that of the expression, word, or manifestor of Deity in
+the dual character of Father-Mother, as expounded in Nos. VII and VIII
+of Part II; from which it follows that this Person of the Trinity is,
+properly, not "Son" merely, but "Son-Daughter." As thus exhibited, the
+Trinity consists of Father, Mother, and Child,--(respectively energy,
+substance, and phenomenon),--and represents a mode of the godhead which,
+logically (not chronologically, time having no relation to the eternal),
+is antecedent to that of the ecclesiastical Trinity, wherein the "Son"
+appears as the second person, and the Holy Spirit as the third. For in
+this aspect, the "Mother" (substance) is merged in the "Father" (energy
+or will), the two together constituting one person,--the first, and the
+Son appears as the second, while the third is the Holy Spirit, or
+divinity in its dynamic or active mode as distinguished from its static
+or passive mode. Proceeding from the Father-Mother through the Soil, and
+identical in nature with them, the Holy Spirit is, like them, dual, and
+consists of both energy and substance. For which reason the names and
+symbols denoting the Holy Spirit are masculine or feminine, according to
+the aspect or function concerned. On its procession through the Son the
+Holy Spirit differentiates into the seven modes or potencies called the
+Seven Spirits of God (as described ill Nos. VI, VIII, and X of Part II)
+dividing, like light on its emergence from the prism, into seven rays.
+These are the Seven Spirits of God, the creative Elohim, which, with the
+three persons of the Trinity, constitute the ten Sephiroth of the
+Kabala. Functions of the Supreme and essential principles in the Divine
+nature, they are styled, on entering into manifestation, Gods and
+Archangels; and inasmuch as they are manifold and various as the spheres
+and kingdoms of nature, ill all of which they are operative, and
+comprise grades and distinctions innumerable, repeating themselves like
+the notes of the musical scale in many keys and tones, their names are
+rather titles of orders than designations of individuals. In no case can
+they be apprehended of the outer senses, but to souls sufficiently
+mature
+
+<span id="page_178">p. 178</span>
+
+and sensitive they manifest themselves under forms personal and
+symbolical of their offices, being both seen and heard of the interior
+selfhood. And just as the Rainbow is one, though rainbows are
+legion,--inasmuch as all these are manifestations of one and the same
+principle inhering in the nature of light,--so is each divinity one,
+however multiplied his personality, inasmuch as every appearance is but
+a fresh manifestation of one and the same principle subsisting in the
+divine nature, and for that reason subsisting also in every soul that is
+able to polarise divinity. Thus is the soul "Mother of God" and also of
+the Gods, and "Man is a universe in himself, having the thrones of all
+the Gods in his temple." And of their co-operation is the edification of
+the world into the kingdom of God, and of man in the Divine image, that
+of Adonai. Attaining to this image, man has and is Christ, Christ being
+the correspondent, equivalent, or counterpart in man, of Adonai in
+substance. And, saving Adonai himself, they are the highest objects of
+the sensible perception of the soul. That Adonai is the highest of all
+such objects is because he is the image beheld in the point of the focus
+formed by the convergence of all the consciousnesses of the system and
+their polarisation to the highest plane. Beyond him is the "Invisible
+Light,"--the "Divine Dark" of the early Christian mystics <span
+id="fr_227"></span>[1](#fn_227)--the boundless sea of infinite wisdom,
+love, and power, informulate and unmanifest, the universally-diffused
+divinity; impersonal in the radical sense of the word, but personal in
+the highest degree in its true sense, that of essential consciousness;
+and in Adonai taking form and personality in both senses.
+
+The Jehovah or Adonai of the Hebrews is thus no mere "tribal" god, as
+supposed by writers more learned and ingenious than experienced or
+percipient, on the strength of the defective presentations of Him in the
+Hebrew Scriptures; nor is He but a partial aspect only of deity, or a
+being unreal and imaginary. He is actually the one and supreme divinity,
+the central, radiant, and pivotal point of the universe--its spiritual
+sun--the God of Gods, from whom all others proceed, and of whom all
+others are modes and aspects. And He is this absolutely and
+indefeasibly, how defective and misleading soever the human conceptions
+and presentations of Him. And being recognised as such, He is fitly
+described as a "jealous" God, in that he reprobates the ascription to
+the low or to a part, of the honour due only to the highest and to the
+whole; and He is this, not for His own sake-He cannot suffer loss--but
+for the sake of those His creatures who, by limiting their ideal of the
+Divine perfection, withhold themselves from the realisation of their own
+perfection, and thereby from being made in the Divine image. For what
+man thinks, that he is.
+
+The vision about to be described of Adonai, was received without any
+previous knowledge on the part of its recipient, either of its
+possibility, or of its having always been claimed as a recognised fact
+of mystical experience, the allusions to it in the Bible, <span
+id="fr_228"></span>[2](#fn_228) although
+
+<span id="page_179">p. 179</span>
+
+by no means rare, having altogether escaped her recognition as having
+any real basis in the consciousness. <span
+id="fr_229"></span>[1](#fn_229) On this occasion she had been forewarned
+of something of unusual solemnity as about to occur, and prompted to
+make certain ceremonial preparations obviously calculated to impress the
+imagination. The access came upon her while standing by the open window,
+gazing at the moon, then close upon the full. <span
+id="fr_230"></span>[2](#fn_230) The first effect of the *affiatus* was
+to cause her to kneel and pray in a rapt attitude, with her arms
+extended towards the sky. It appeared afterwards, that under an access
+of spiritual exaltation, she had yielded to a sudden and uncontrollable
+impulse to pray that she might be taken to the stars, and shown all the
+glory of the universe. Presently she rose, and after gazing upwards in
+ecstasy for a few moments, lowered her eyes, and, clasping her arms
+around her head as if to shut out the view, uttered in tones of wonder,
+mingled with moans and cries of anguish, the following tokens of the
+intolerable splendour of the vision she had unwittingly invited\]:--
+
+"Oh, I see masses, masses of stars! It makes me giddy to look at them. O
+my God, what masses! Millions and millions! Wheels of planets! <span
+id="fr_231"></span>[3](#fn_231) O my God, my God, why didst Thou create?
+It was by Will, all Will, that Thou didst it. Oh! what might, what might
+of Will! Oh, what gulfs! what gulfs! Millions and millions of miles
+broad and deep! Hold me--hold me up! I shall sink--I shall sink into the
+gulfs. I am sick and giddy, as on a billowy sea. I am on a sea, an
+ocean-the ocean of infinite space. Oh, what depths! what depths! I
+sink--I fail! I cannot, cannot bear it!
+
+"I shall never come back. I have left my body for ever. I am dying; I
+believe I am dead. Impossible to return from such a distance! Oh, what
+colossal forms! They are the angels of the planets. Every planet has its
+angel standing erect above it. And what beauty--what marvellous beauty!
+I see Raphael. <span id="fr_232"></span>[1](#fn_229)
+
+<span id="page_180">p. 180</span>
+
+see the angel of the earth. He has six wings. He is a god--the god of
+our planet. I see my genius who called himself A. Z.; but his name is
+Salathiel. <span id="fr_233"></span>[1](#fn_232) Oh, how surpassingly
+beautiful he is! My genius is a male, and his colour is ruby. Yours,
+Caro, <span id="fr_234"></span>[2](#fn_233) is a female, and sapphire.
+They are friends--they are the same--not two, but one; and for that
+reason they have associated us together, and speak of themselves
+sometimes as I, sometimes as We. It is the angel of the earth himself
+that is your genius and mine, Caro. He it was who inspired you, who
+spoke to you. <span id="fr_235"></span>[3](#fn_234) And they call me
+Bitterness. And I see sorrow-oh, what unending sorrow do I behold!
+Sorrow, always sorrow, but never without love. I shall always have love.
+How dim is this sphere! Oh, save me--save me! It is my demon that I am
+approaching. It is Paris--Paris himself, once of Troy, now of the city
+that bears his name. He is floating recumbent. He turns his face towards
+me. How beautiful and dark he is! Oh, he has goat's horns--he has goat's
+horns! Save me, save me from him! Ah, he sees me not. I forgot I am
+invisible. Now I have passed him. <span id="fr_236"></span>[4](#fn_235)
+
+"I am entering a brighter region now. What glorious form of womanhood is
+that, so queenly, so serene, and endowed with all wisdom? It is Pallas
+Athena,--a real personage in the spiritual world! And yonder is one of
+whom I have no need to ask. I am passing through the circle of the
+Olympians. It is Aphrodite, mother of love and beauty. O Aphrodite,
+spirit of the waters, firstborn of God, how could I adore thee! And men
+on earth now deem the gods and goddesses of Greece mere fables! And I
+behold them living and moving in strength and beauty before me! I see
+also the genii of all the nations dwelling serenely in heavenly circles.
+What crowds and crowds of gods from India and Egypt!
+
+<span id="page_181">p. 181</span>
+
+Who are those with the giant muscles? They are Odin and Thor, and their
+fellow-gods of Scandinavia. Not dead and lost; only withdrawn from the
+world whereon they sought in vain to stamp their images for ever.
+
+"Oh, the dazzling, dazzling brightness! Hide me, hide me from it! I
+cannot, cannot bear it! It is agony supreme to look upon. O God! O God!
+Thou art slaying me with Thy light. It is the throne itself, the great
+white throne of God that I behold! Oh, what light! what light! It is
+like an emerald? a sapphire? No; a diamond. In its midst stands Deity
+erect, His right hand raised aloft, and from Him pours the light of
+light. Forth from His right hand streams the universe, projected by the
+omnipotent repulsion of His will. Back to His left, which is depressed
+and set backwards, returns the universe, drawn by the attraction of His
+love. Repulsion and attraction, will and love, right and left, these are
+the forces, centrifugal and centripetal, male and female whereby God
+creates and redeems. Adonai! O Adonai! Lord God of life, made of the
+substance of light, how beautiful art Thou in Thine everlasting youth!
+with Thy glowing golden locks, how adorable! And I had thought of God as
+elderly and venerable! As if the Eternal could grow old! And now not as
+Man only do I behold Thee! For now Thou art to me as Woman. Lo, Thou art
+both. One, and Two also. And thereby dost Thou produce creation. O God,
+O God! why didst Thou create this stupendous existence? Surely, surely,
+it had been better in love to have restrained Thy will. It was by will
+that Thou createdst, by will alone, not by love, was it not?--was it
+not? I cannot see clearly. A cloud has come between.
+
+"I see Thee now as Woman. Maria is next beside Thee. Thou art Maria.
+Maria is God. O Maria! God as Woman! Thee, Thee I adore!
+Maria-Aphrodite! Mother! Mother-God!
+
+"They are returning with me now, I think. But I shall never get back.
+What strange forms! how huge they are! All angels and archangels. Human
+in form, yet some with eagles' heads. All the planets are inhabited! how
+innumerable is the variety of forms! O universe of existence, how
+stupendous is existence! Oh I take me not near the sun; I cannot bear
+its heat. Already do I feel myself burning. Here is Jupiter! It has nine
+moons! Yes, nine. Some are exceedingly small. And, oh, how red it is! It
+has so much iron. And what enormous men and women! There is evil there
+too. For evil is wherever are matter and limitation. But the people of
+Jupiter are far better than we on
+
+<span id="page_182">p. 182</span>
+
+earth. They know much more; they are much wiser. There is less of evil
+in their planet. Ah! and they have another sense. What is it? No, I
+cannot describe it. I cannot tell what it is. It differs from any of the
+others. We have nothing like it. I cannot get back yet. I believe I
+shall never get back. I believe I am dead. It is only my body you are
+holding. It has grown cold for want of me. Yet I must be approaching. It
+is growing shallower. We are passing out of the depths. But I can never
+wholly return--never--never."
+
+\[Her apprehension was not without justification; for her body was
+completely torpid, and several hours passed before consciousness was
+fully restored to it.
+
+It is impossible for anyone who did not witness the intensely dramatic
+action and emphasis with which these ejaculations were uttered, to form
+anything like an adequate conception of the sense of reality they
+conveyed. Able as I was from my own experience, above referred to, to
+follow her in her journey from sphere to sphere to the very highest and
+inmost, I found it impossible to doubt that the seeress was in the
+right, when, recalling her recollections, she declared her conviction
+that what she had beheld was no illusion, but the reality itself of the
+universe. There was for both of us the same sense of journeying through
+vast abysses of space and traversing various spheres of being; and the
+same conviction that the journey was at once to the centre of one's own
+and to that of all consciousness.
+
+She described the attitude and expression of Adonai as those of the
+absolute calmness and repose of the power without effort which is
+predicable only of the Infinite. Though bearing the aspect of humanity,
+it was impossible, she felt, to represent the form in fixed outline, and
+declared that it seemed like a sacrilege to attempt thus to portray it.
+She nevertheless made the attempt, with the result reproduced opposite.
+It represents, however, only the masculine aspect, the impression of the
+feminine having entirely failed to reach her outer consciousness; and
+this had been the case also on the only other occasion on which she had
+beheld it. (See p. 54.) In this respect our experiences differed. She
+was most strongly impressed by the masculine, or will, element in Deity;
+and I by the feminine, or love, element. In another respect, too, there
+was a difference. For her the form was that of one standing erect and,
+though calm, energetic: for me it was that of the "Sitter on the Throne"
+and wholly reposeful, though similarly engaged in the act of projection
+and recall. These differences were doubtless due to difference of
+temperament in the beholders. The soul is a living lens which invests
+with its own "tincture" the objects beheld by it.\]
+
+<span id="page_183">p. 183</span>
+
+<span id="BM18300_jpg"></span><span id="img_18300"></span>
+![](img/18300.jpg)
+
+"Solve et Coagula" (Dissolve and Resume, or Project and Recall).
+
+Ancient Hermetic Formula.
+
+<span id="page_187">p. 187</span>
+
+------------------------------------------------------------------------
+
+### Footnotes
+
+<span id="fn_226"></span>[177:1](cws74.htm#fr_226) Referred to in *Life
+of Anna Kingsford*, vol. i, pp. 184-190. 193.
+
+<span id="fn_227"></span>[178:1](cws74.htm#fr_227) *E.g.* St Dionysius
+"the Areopagite."
+
+<span id="fn_228"></span>[178:2](cws74.htm#fr_228) Ex. xxiv, 9-11; Is.
+vi, i; Ezek. viii, 2; Dan. vii, 9, 10; Apoc. iv; xx, 11.
+
+<span id="fn_229"></span>[179:1](cws74.htm#fr_232) The reception of it
+by myself a few months previously had been similarly independent of
+knowledge or anticipation, and I had been constrained to maintain an
+absolute reserve in regard to it. The account in *The Perfect Way* (IX.
+v.) was written from our joint experiences. Many of our experiences were
+thus duplicated, hers, however, far exceeding mine both in number and in
+fulness of detail. The latter, probably, because I always make a point
+of retaining possession of the external comciousness, in order to
+observe and record at the same time, and not knowing the result of
+letting myself go altogether.    E. M. See *Life of Anna Kingsford*,
+vol. i, pp. 124-127.
+
+<span id="fn_230"></span>[179:2](cws74.htm#fr_230) It was at Paris, July
+23, 1877.
+
+<span id="fn_231"></span>[179:3](cws74.htm#fr_231) It was as if there
+had been suddenly opened to her view a universe of inter-planetary
+systems, invisible to the bodily sight; and while dazzlingly bright to
+the spiritual eyes, of a consistency too tenuous to intercept or refract
+the solar rays. A like effect would also be produced by entering the
+fourth dimension of space, where all things would be beheld unmodified
+by distance or any intervening medium. E. M.
+
+<span id="fn_232"></span>[180:1](cws74.htm#fr_233) "Lent of God." Every
+divinity has a separate name for each office fulfilled by him. Salathiel
+thus denotes the angel of the earth in his capacity as head of the order
+of Genii, in the sense of being the supreme spirit (of the planet) of
+whom each genius is a manifestation, and into whom they return on the
+accomplishment of their mission. As the first and last letters of the
+alphabet, A and Z, correspond to the "Alpha and Omega," in the sense of
+implying comprehension of the genii of all orders or grades, and
+consequently all the rays of the spiritual prism.    E. M.
+
+<span id="fn_233"></span>[180:2](cws74.htm#fr_234) A spiritual or
+"initiation" name that had been given to me, as Mary to her. The latter,
+however, was also one of her own names.    E. M.
+
+<span id="fn_234"></span>[180:3](cws74.htm#fr_235) The reference here is
+to an experience, of my own, the relation of which does not fall within
+the scope of this book.    E. M.
+
+<span id="fn_235"></span>[180:4](cws74.htm#fr_236) 'The reference here
+is to sundry visitations by which she had been harassed previous to my
+joining her in the cause of which she thus recognised for the first
+time, and whom she was wont to call her demon, using the term in its
+conventional sense.    E. M.
+
+------------------------------------------------------------------------
+
+[Next: Appendix](cws75)

@@ -1,0 +1,82 @@
+[![](../../cdshop/ithlogo.png)](../../index)  
+[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[Index](index)   
+[1 Chronicles](ch1)  [Ezra](ezr)
+
+------------------------------------------------------------------------
+
+# Polyglot Bible: 2 Chronicles
+
+------------------------------------------------------------------------
+
+[2 Chronicles 1](ch2001)  
+
+[2 Chronicles 2](ch2002)  
+
+[2 Chronicles 3](ch2003)  
+
+[2 Chronicles 4](ch2004)  
+
+[2 Chronicles 5](ch2005)  
+
+[2 Chronicles 6](ch2006)  
+
+[2 Chronicles 7](ch2007)  
+
+[2 Chronicles 8](ch2008)  
+
+[2 Chronicles 9](ch2009)  
+
+[2 Chronicles 10](ch2010)  
+
+[2 Chronicles 11](ch2011)  
+
+[2 Chronicles 12](ch2012)  
+
+[2 Chronicles 13](ch2013)  
+
+[2 Chronicles 14](ch2014)  
+
+[2 Chronicles 15](ch2015)  
+
+[2 Chronicles 16](ch2016)  
+
+[2 Chronicles 17](ch2017)  
+
+[2 Chronicles 18](ch2018)  
+
+[2 Chronicles 19](ch2019)  
+
+[2 Chronicles 20](ch2020)  
+
+[2 Chronicles 21](ch2021)  
+
+[2 Chronicles 22](ch2022)  
+
+[2 Chronicles 23](ch2023)  
+
+[2 Chronicles 24](ch2024)  
+
+[2 Chronicles 25](ch2025)  
+
+[2 Chronicles 26](ch2026)  
+
+[2 Chronicles 27](ch2027)  
+
+[2 Chronicles 28](ch2028)  
+
+[2 Chronicles 29](ch2029)  
+
+[2 Chronicles 30](ch2030)  
+
+[2 Chronicles 31](ch2031)  
+
+[2 Chronicles 32](ch2032)  
+
+[2 Chronicles 33](ch2033)  
+
+[2 Chronicles 34](ch2034)  
+
+[2 Chronicles 35](ch2035)  
+
+[2 Chronicles 36](ch2036)  
