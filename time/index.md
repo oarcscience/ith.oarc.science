@@ -9,6 +9,7 @@ alttext1: "Cosmic noise"
 titleh1: "Sacred Time"
 ---
 
+
 [gimmick:gist](5641564)
 
 
