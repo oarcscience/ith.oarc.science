@@ -255,3 +255,5 @@
   * [Women](/wmn/index.md)
   * [Wisdom of the East](/woe/index.md)
   * [Zoroastrianism](/zor/index.md)
+
+[gimmick:themechooser](Choose theme)

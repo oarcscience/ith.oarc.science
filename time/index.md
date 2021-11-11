@@ -8,6 +8,10 @@ pathh1: "cosmic.jpg"
 alttext1: "Cosmic noise"
 titleh1: "Sacred Time"
 ---
+
+[gimmick:gist](5641564)
+
+
 This page has links to resources at Intangible Textual Heritage related
 to time: chronology of sacred texts and religion, and information about
 calendrical systems used by major religions.
