@@ -256,4 +256,4 @@
   * [Wisdom of the East](/woe/index.md)
   * [Zoroastrianism](/zor/index.md)
 
-[gimmick:theme](quartz)
+[gimmick:theme](simplex)
