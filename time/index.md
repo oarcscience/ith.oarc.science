@@ -20,7 +20,7 @@ that we have.
 ### Books
 
 <span class="c_e"> <span class="c_t">[The Stories of the Months and
-Days](smd/index)</span>   by <span class="c_a">Reginald C.
+Days](smd/index.md)</span>   by <span class="c_a">Reginald C.
 Couzens</span> \[<span class="c_d">1923</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[Christmas in Ritual and
